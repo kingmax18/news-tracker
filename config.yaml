@@ -1,0 +1,49 @@
+# ==========================================
+# News Tracker Configuration File
+# You can change these settings without touching the code.
+# ==========================================
+
+# How many hours back in time to fetch articles (default: 48)
+lookback_hours: 48
+
+# Number of top trending stories to include in the daily shortlist (default: 10)
+shortlist_size: 10
+
+# Similarity threshold for grouping headlines about the same story (0.0 to 1.0)
+# A higher number means headlines must be more similar to group together.
+similarity_threshold: 0.35
+
+# How many days to keep stories in seen.json before removing them (default: 14)
+seen_retention_days: 14
+
+# Keywords that give stories a small boost in score
+boost_keywords:
+  - "india"
+  - "funding"
+  - "raised"
+  - "startup"
+  - "acquisition"
+  - "acquired"
+  - "launch"
+  - "launched"
+  - "expansion"
+  - "growth"
+  - "ai"
+  - "artificial intelligence"
+  - "campaign"
+  - "brand"
+  - "revenue"
+  - "quarterly"
+
+# Keywords that heavily penalize stories (e.g. violent crime, negative sensationalism)
+penalty_keywords:
+  - "crime"
+  - "murder"
+  - "violence"
+  - "accident"
+  - "rape"
+  - "suicide"
+  - "riot"
+  - "deadly"
+  - "killed"
+

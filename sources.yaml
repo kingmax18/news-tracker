@@ -1,0 +1,43 @@
+# ==============================================================================
+# RSS News Sources
+# Grouped by topic: business, marketing_and_branding, startups, tech
+# Tested and verified working feeds (India-focused + Major Global)
+# ==============================================================================
+
+business:
+  - name: "The Economic Times - Top Stories"
+    url: "https://economictimes.indiatimes.com/rssfeedstopstories.cms"
+  - name: "Livemint - Companies & Markets"
+    url: "https://www.livemint.com/rss/companies"
+  - name: "Business Standard"
+    url: "https://www.business-standard.com/rss/home_page_top_stories.rss"
+  - name: "BBC News - Business"
+    url: "https://feeds.bbci.co.uk/news/business/rss.xml"
+
+marketing_and_branding:
+  - name: "ET Brand Equity - Advertising"
+    url: "https://brandequity.economictimes.indiatimes.com/rss/advertising"
+  - name: "ET Brand Equity - Marketing"
+    url: "https://brandequity.economictimes.indiatimes.com/rss/marketing"
+  - name: "Marketing Dive"
+    url: "https://www.marketingdive.com/feeds/news/"
+  - name: "Adweek"
+    url: "https://www.adweek.com/feed/"
+
+startups:
+  - name: "Inc42"
+    url: "https://inc42.com/feed/"
+  - name: "YourStory"
+    url: "https://yourstory.com/feed"
+  - name: "TechCrunch - Startups"
+    url: "https://techcrunch.com/category/startups/feed/"
+
+tech:
+  - name: "Gadgets 360"
+    url: "https://feeds.feedburner.com/gadgets360-latest"
+  - name: "MediaNama"
+    url: "https://www.medianama.com/feed/"
+  - name: "The Verge"
+    url: "https://www.theverge.com/rss/index.xml"
+  - name: "Ars Technica"
+    url: "https://feeds.arstechnica.com/arstechnica/index"

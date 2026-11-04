@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>News Tracker | Daily Trending Stories</title>
+  <meta name="description" content="Real-time curated shortlist of trending business, marketing, startup, and tech stories.">
+  
+  <!-- Google Fonts: Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Top App Navigation / Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand">
+        <div class="brand-icon">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"></path>
+            <path d="M18 14h-8"></path>
+            <path d="M15 18h-5"></path>
+            <path d="M10 6h8v4h-8V6Z"></path>
+          </svg>
+        </div>
+        <div>
+          <h1 class="brand-title">News Tracker</h1>
+          <p class="last-updated" id="lastUpdated">Checking for latest stories...</p>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <!-- Manual Refresh Button -->
+        <button id="refreshBtn" class="icon-button" title="Refresh stories" aria-label="Refresh stories">
+          <svg class="refresh-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path>
+            <path d="M3 3v5h5"></path>
+            <path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16"></path>
+            <path d="M16 21h5v-5"></path>
+          </svg>
+        </button>
+
+        <!-- Dark / Light Theme Toggle -->
+        <button id="themeToggle" class="icon-button" title="Toggle dark/light mode" aria-label="Toggle dark/light mode">
+          <svg class="sun-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+          <svg class="moon-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="main-container">
+
+    <!-- Search & Sort Controls -->
+    <section class="controls-section">
+      <div class="search-sort-bar">
+        <!-- Search Box -->
+        <div class="search-box">
+          <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input type="text" id="searchInput" placeholder="Search trending headlines..." autocomplete="off">
+          <button id="searchClearBtn" class="search-clear-btn" title="Clear search" aria-label="Clear search">&times;</button>
+        </div>
+
+        <!-- Sort Dropdown -->
+        <div class="sort-box">
+          <label for="sortSelect" class="sr-only">Sort stories</label>
+          <div class="select-wrapper">
+            <svg class="sort-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="m3 16 4 4 4-4"></path>
+              <path d="M7 20V4"></path>
+              <path d="m21 8-4-4-4 4"></path>
+              <path d="M17 4v16"></path>
+            </svg>
+            <select id="sortSelect">
+              <option value="score">Top Score</option>
+              <option value="newest">Newest First</option>
+              <option value="sources">Most Sources</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- Topic Filter Chips -->
+      <div class="topics-bar" id="topicsBar" role="tablist" aria-label="Filter by topic">
+        <!-- Built dynamically via app.js -->
+      </div>
+
+      <!-- Used Stories Toggle Switch -->
+      <div class="secondary-controls">
+        <label class="toggle-switch-label" for="showUsedToggle">
+          <input type="checkbox" id="showUsedToggle" class="toggle-switch-input">
+          <span class="toggle-slider"></span>
+          <span class="toggle-text">Show used stories (<span id="usedCount">0</span>)</span>
+        </label>
+
+        <div class="active-count-badge" id="visibleCountBadge">Showing 0 stories</div>
+      </div>
+    </section>
+
+    <!-- Stories Grid / Feed -->
+    <section class="stories-feed" id="storiesFeed">
+      <!-- Dynamic Story Cards inserted by app.js -->
+    </section>
+
+    <!-- Empty State -->
+    <div class="state-card hidden" id="emptyState">
+      <div class="state-icon">
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          <line x1="8" y1="11" x2="14" y2="11"></line>
+        </svg>
+      </div>
+      <h3>No matching stories</h3>
+      <p id="emptyStateMessage">Try adjusting your search terms or selecting another topic filter.</p>
+      <button class="secondary-btn" id="resetFiltersBtn">Reset Filters</button>
+    </div>
+
+    <!-- Error State -->
+    <div class="state-card error-state hidden" id="errorState">
+      <div class="state-icon error-icon">
+        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="12" y1="8" x2="12" y2="12"></line>
+          <line x1="12" y1="16" x2="12.01" y2="16"></line>
+        </svg>
+      </div>
+      <h3>Failed to load stories</h3>
+      <p id="errorMessage">Unable to fetch the latest trending news shortlist.</p>
+      <button class="primary-btn" id="retryLoadBtn">Retry Loading</button>
+    </div>
+
+  </main>
+
+  <!-- Sticky Bottom Selection Action Bar -->
+  <aside class="selection-bar hidden" id="selectionBar">
+    <div class="selection-container">
+      <div class="selection-info">
+        <div class="selection-counter" id="selectedCountText">0 selected</div>
+        <span class="selection-hint">Ready to copy or mark</span>
+      </div>
+
+      <div class="selection-actions">
+        <button id="copySelectedBtn" class="primary-btn" title="Copy selected stories to clipboard">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect width="14" height="14" x="8" y="8" rx="2" ry="2"></rect>
+            <path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path>
+          </svg>
+          <span>Copy Selected</span>
+        </button>
+
+        <button id="markSelectedUsedBtn" class="secondary-btn" title="Mark selected stories as used">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20 6 9 17 4 12"></polyline>
+          </svg>
+          <span>Mark as Used</span>
+        </button>
+
+        <button id="clearSelectionBtn" class="text-btn" title="Deselect all">
+          Clear
+        </button>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Toast Notification -->
+  <div class="toast-notification hidden" id="toastNotification" role="alert" aria-live="polite">
+    <svg class="toast-check-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M20 6 9 17l-5-5"></path>
+    </svg>
+    <span id="toastMessage">Copied to clipboard!</span>
+  </div>
+
+  <!-- Main JavaScript App -->
+  <script src="app.js"></script>
+</body>
+</html>
+
