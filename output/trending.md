@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 04, 2026 at 14:44 UTC | **Top Stories:** 10
+> **Generated on:** November 04, 2026 at 22:55 UTC | **Top Stories:** 10
 
 ---
 
-### 1. EloElo Group raises $80 mn from Hornbill Capital, NBCUniversal, MIT, others [3 sources]
-- **Topic:** `Business` | **Score:** `45.73` | **Published:** 2026-11-04 05:16 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/eloelo-raises-80-million-series-c-funding-nbcuniversal-hornbill-capital-11793762897079.html) • [Inc42](https://inc42.com/buzz/eloelo-group-bags-80-mn-to-take-its-microdrama-biz-global/) • [YourStory](https://yourstory.com/2026/11/eloelo-group-raises-80-million-series-c-led-by-hornbill-capital-nbcuniversal)
+### 1. Cybersecurity Agency I4C Warns Banks & Fintechs Against AI-Led Cyberattacks [2 sources]
+- **Topic:** `Business` | **Score:** `30.71` | **Published:** 2026-11-04 18:59 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/central-cyber-security-agency-warns-banks-nbfcs-of-ai-attacks-i4c-reveals-how-hackers-are-executing-multi-crore-frauds/articleshow/135546478.cms) • [Inc42](https://inc42.com/buzz/cybersecurity-agency-i4c-warns-banks-fintechs-against-ai-led-cyberattacks/)
 
-### 2. Awfis Q2 profit jumps 93% to Rs 31 Cr, revenue rises to Rs 464 Cr [2 sources]
-- **Topic:** `Startups` | **Score:** `31.09` | **Published:** 2026-11-04 14:27 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/physicswallah-returns-to-the-black-in-q2-posts-a-profit-of-%e2%82%b9143-6-cr/) • [YourStory](https://yourstory.com/2026/11/physicswallah-posts-rs-1242-cr-top-line-in-q2-net-profit-doubles)
+### 2. After Texas' blue wave, what happens to Elon Musk and SpaceX? [2 sources]
+- **Topic:** `Business` | **Score:** `29.38` | **Published:** 2026-11-04 20:36 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/elon-musks-business-empire-braces-for-democratic-wave-as-texas-flips-blue/articleshow/135539079.cms) • [Ars Technica](https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/)
 
-### 3. Google lets schools switch off Gemini, but AI in Search is all or nothing [2 sources]
-- **Topic:** `Tech` | **Score:** `30.88` | **Published:** 2026-11-04 12:27 UTC
-- **Coverage:** [MediaNama](https://www.medianama.com/2026/11/223-google-schools-switch-off-gemini/) • [Ars Technica](https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/)
+### 3. Cabinet Clears ₹2,814 Cr Scheme To Boost Lithium & Nickel Processing [2 sources]
+- **Topic:** `Startups` | **Score:** `29.32` | **Published:** 2026-11-04 20:02 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/cabinet-clears-%e2%82%b92814-cr-scheme-to-boost-lithium-nickel-processing/) • [YourStory](https://yourstory.com/2026/11/cabinet-approves-rs-2814-cr-scheme-to-promote-processing-of-lithium-nickel)
 
-### 4. Students using Google search in classroom accounts will need access to AI tools, the company says [2 sources]
-- **Topic:** `Business` | **Score:** `30.82` | **Published:** 2026-11-04 11:52 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/students-using-google-search-in-classroom-accounts-will-need-access-to-ai-tools-the-company-says-11793740129856.html) • [Gadgets 360](https://www.gadgets360.com/ai/news/google-guided-learning-search-classroom-announced-gemini-ai-student-account-access-restricted-12282456)
+### 4. Blue Ashva Exits iD Fresh Food Via A ₹50 Cr Secondary Transaction [2 sources]
+- **Topic:** `Marketing And Branding` | **Score:** `28.15` | **Published:** 2026-11-03 18:23 UTC
+- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/id-fresh-food-launches-new-television-campaign-id-ka-idea/135493672) • [Inc42](https://inc42.com/buzz/blue-ashva-exits-id-fresh-food-via-a-%e2%82%b950-cr-secondary-transaction/)
 
-### 5. Freshworks Swings To $18 Mn Profit In Q3, Revenue Rises 14% YoY To $245 Mn [2 sources]
-- **Topic:** `Startups` | **Score:** `30.46` | **Published:** 2026-11-04 08:24 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/freshworks-swings-to-18-mn-profit-in-q3-revenue-rises-14-yoy-to-245-mn/) • [YourStory](https://yourstory.com/2026/11/freshworks-posts-183-million-net-profit-q3-2026)
+### 5. Orkla India’s revenue rises 19.4% in Q2, but volume growth remains subdued [1 source]
+- **Topic:** `Business` | **Score:** `18.83` | **Published:** 2026-11-04 16:30 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/orkla-india-s-revenue-rises-19-4-in-q2-but-volume-growth-remains-subdued-11793803944844.html)
 
-### 6. Peppermint Robotics bags Rs 100 Cr in pre-Series B funding round [2 sources]
-- **Topic:** `Startups` | **Score:** `30.32` | **Published:** 2026-11-04 07:00 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/peppermint-robotics-bags-%e2%82%b9100-cr-to-scale-its-industrial-robotics-bet/) • [YourStory](https://yourstory.com/2026/11/peppermint-robotics-bags-rs-100-cr-in-pre-series-b-funding-round)
+### 6. Nothing teases a screen-free AI device ahead of launch next month [1 source]
+- **Topic:** `Tech` | **Score:** `17.53` | **Published:** 2026-11-04 18:26 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)
 
-### 7. US midterms 2026: Democrats win control of Congress in major blow to Trump [2 sources]
-- **Topic:** `Business` | **Score:** `29.47` | **Published:** 2026-11-04 13:18 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/us/democrats-took-capitol-hill-trump-still-has-a-veto-what-happens-next-and-who-can-make-their-case-for-2028/articleshow/135539794.cms) • [Business Standard](https://www.business-standard.com/world-news/us-midterms-2026-democrats-make-gains-in-key-states-as-trump-faces-setback-126110400270_1.html)
+### 7. Vivo Watch GT 2 Tipped to Launch in India Alongside X500 Series [1 source]
+- **Topic:** `Tech` | **Score:** `17.21` | **Published:** 2026-11-04 15:23 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/wearables/news/vivo-watch-gt-2-india-launch-timeline-expected-features-leak-12283521)
 
-### 8. Razorpay gets Sebi nod for Rs 5,000-6,000 Cr IPO; eyes $5B valuation [2 sources]
-- **Topic:** `Startups` | **Score:** `29.43` | **Published:** 2026-11-04 12:51 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/) • [YourStory](https://yourstory.com/2026/11/razorpay-gets-sebi-nod-for-rs-5000-6000-cr-ipo-eyes-5b-valuation)
+### 8. BGMI Air Set to Launch in India on December 10; Closed Beta Testing to Begin Later This Month [1 source]
+- **Topic:** `Tech` | **Score:** `17.21` | **Published:** 2026-11-04 15:22 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/games/news/bgmi-air-india-launch-date-closed-beta-testing-12282914)
 
-### 9. FD rates up to 8.50%: Check revised rates of 4 banks [2 sources]
-- **Topic:** `Business` | **Score:** `29.41` | **Published:** 2026-11-04 12:41 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/wealth/invest/fd-interest-rates-up-to-8-60-in-november-2026-compare-revised-rates-of-kotak-mahindra-bank-axis-bank-suryoday-sfb-and-utkarsh-sfb/articleshow/135529310.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/amul-butter-ghee-prices-hiked-by-up-to-rs-50-from-4-november-check-new-rates-11793795220324.html)
+### 9. Sarva Suvidhaen: Bihar Startup Is Using AI and IoT to Make Indian Railways Smarter [1 source]
+- **Topic:** `Startups` | **Score:** `17.03` | **Published:** 2026-11-04 13:37 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/10/sarva-suvidhaen-startup)
 
-### 10. IndiGo may fly in 100 jets from Brazilian Embraer [2 sources]
-- **Topic:** `Business` | **Score:** `29.34` | **Published:** 2026-11-04 12:02 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/indigo-in-talks-with-brazilian-planemaker-embraer-for-100-jets-sources-say/articleshow/135529809.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/indigo-reportedly-in-talks-to-buy-100-embraer-jets-may-place-order-for-50-more-what-we-know-11793791096544.html)
+### 10. Frammer AI partners with Collective Newsroom to power BBC News video in India [1 source]
+- **Topic:** `Startups` | **Score:** `16.91` | **Published:** 2026-11-04 12:27 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/frammer-ai-partners-collective-newsroom-bbc-video-india)
