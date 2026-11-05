@@ -1,150 +1,146 @@
 {
-  "generated_at": "2026-11-04 22:55:50 UTC",
+  "generated_at": "2026-11-05 03:49:30 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Cybersecurity Agency I4C Warns Banks & Fintechs Against AI-Led Cyberattacks",
-      "score": 30.71,
+      "title": "Google voluntary buyouts: What's the exit package?",
+      "score": 31.08,
       "source_count": 2,
-      "published_at": "2026-11-04 18:59 UTC",
+      "published_at": "2026-11-05 03:22 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/central-cyber-security-agency-warns-banks-nbfcs-of-ai-attacks-i4c-reveals-how-hackers-are-executing-multi-crore-frauds/articleshow/135546478.cms"
+          "url": "https://economictimes.indiatimes.com/news/new-updates/google-voluntary-buyouts-whats-the-exit-package-which-teams-qualify-and-how-many-employees-are-eligible-after-microsofts-similar-offer/articleshow/135556930.cms"
         },
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/cybersecurity-agency-i4c-warns-banks-fintechs-against-ai-led-cyberattacks/"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/google-expands-voluntary-buyouts-to-5-more-countries-after-hiring-spree-is-india-included-11793785376239.html"
         }
       ]
     },
     {
-      "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
-      "score": 29.38,
+      "title": "Nykaa’s Q2 Profit More Than Triples To ₹101 Cr, Revenue Up 28% YoY",
+      "score": 29.59,
       "source_count": 2,
-      "published_at": "2026-11-04 20:36 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/elon-musks-business-empire-braces-for-democratic-wave-as-texas-flips-blue/articleshow/135539079.cms"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
-        }
-      ]
-    },
-    {
-      "title": "Cabinet Clears ₹2,814 Cr Scheme To Boost Lithium & Nickel Processing",
-      "score": 29.32,
-      "source_count": 2,
-      "published_at": "2026-11-04 20:02 UTC",
+      "published_at": "2026-11-04 13:09 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/cabinet-clears-%e2%82%b92814-cr-scheme-to-boost-lithium-nickel-processing/"
+          "url": "https://inc42.com/buzz/nykaas-q2-profit-more-than-triples-to-%e2%82%b9101-cr-revenue-up-28-yoy/"
         },
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/cabinet-approves-rs-2814-cr-scheme-to-promote-processing-of-lithium-nickel"
+          "url": "https://yourstory.com/2026/11/lenskart-profit-doubles-revenue-grows-36-pc-in-q2"
         }
       ]
     },
     {
-      "title": "Blue Ashva Exits iD Fresh Food Via A ₹50 Cr Secondary Transaction",
-      "score": 28.15,
+      "title": "MIAL plans to shift all Mumbai flights on 14 international routes to NMIA",
+      "score": 28.77,
       "source_count": 2,
-      "published_at": "2026-11-03 18:23 UTC",
+      "published_at": "2026-11-04 19:37 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/mial-seeks-to-shift-14-international-flights-to-navi-mumbai-airport-by-nov-3/articleshow/135550608.cms"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/industry/aviation/mial-plans-to-shift-all-mumbai-flights-on-14-international-routes-to-nmia-126110401951_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Royal Stag teams up with Rohit Sharma to launch &#039;Celebrate the Large in Everyone&#039; campaign",
+      "score": 16.34,
+      "source_count": 1,
+      "published_at": "2026-11-04 11:51 UTC",
       "topic": "marketing_and_branding",
       "sources": [
         {
           "name": "ET Brand Equity - Advertising",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/id-fresh-food-launches-new-television-campaign-id-ka-idea/135493672"
-        },
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/blue-ashva-exits-id-fresh-food-via-a-%e2%82%b950-cr-secondary-transaction/"
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/royal-stag-teams-up-with-rohit-sharma-to-launch-celebrate-the-large-in-everyone-campaign/135537695"
         }
       ]
     },
     {
-      "title": "Orkla India’s revenue rises 19.4% in Q2, but volume growth remains subdued",
-      "score": 18.83,
+      "title": "How Bariflo uses AI to help factories treat wastewater",
+      "score": 16.32,
       "source_count": 1,
-      "published_at": "2026-11-04 16:30 UTC",
+      "published_at": "2026-11-05 02:03 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/bariflo-ai-help-factories-treat-wastewater"
+        }
+      ]
+    },
+    {
+      "title": "Top tech and startup stories to start your day with",
+      "score": 16.29,
+      "source_count": 1,
+      "published_at": "2026-11-05 01:48 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/orkla-india-s-revenue-rises-19-4-in-q2-but-volume-growth-remains-subdued-11793803944844.html"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/gpu-bidding-norms-eased-lenskart-ceo-on-profitability/articleshow/135555615.cms"
         }
       ]
     },
     {
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "score": 17.53,
+      "title": "US sanctions India-based couple, companies",
+      "score": 16.28,
       "source_count": 1,
-      "published_at": "2026-11-04 18:26 UTC",
-      "topic": "tech",
+      "published_at": "2026-11-05 01:41 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-sanctions-india-based-couple-companies-over-alleged-support-for-irans-shadow-oil-fleet/articleshow/135555569.cms"
         }
       ]
     },
     {
-      "title": "Vivo Watch GT 2 Tipped to Launch in India Alongside X500 Series",
-      "score": 17.21,
+      "title": "Oppo F35 Pro Gets ColorOS 17 Skin Based on Android 17 in India",
+      "score": 16.28,
       "source_count": 1,
-      "published_at": "2026-11-04 15:23 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/wearables/news/vivo-watch-gt-2-india-launch-timeline-expected-features-leak-12283521"
-        }
-      ]
-    },
-    {
-      "title": "BGMI Air Set to Launch in India on December 10; Closed Beta Testing to Begin Later This Month",
-      "score": 17.21,
-      "source_count": 1,
-      "published_at": "2026-11-04 15:22 UTC",
+      "published_at": "2026-11-04 11:20 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/games/news/bgmi-air-india-launch-date-closed-beta-testing-12282914"
+          "url": "https://www.gadgets360.com/mobiles/news/oppo-f35-pro-coloros-17-skin-android-rollout-specifications-features-12282240"
         }
       ]
     },
     {
-      "title": "Sarva Suvidhaen: Bihar Startup Is Using AI and IoT to Make Indian Railways Smarter",
-      "score": 17.03,
+      "title": "Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing",
+      "score": 16.15,
       "source_count": 1,
-      "published_at": "2026-11-04 13:37 UTC",
+      "published_at": "2026-11-05 00:30 UTC",
       "topic": "startups",
       "sources": [
         {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/10/sarva-suvidhaen-startup"
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/"
         }
       ]
     },
     {
-      "title": "Frammer AI partners with Collective Newsroom to power BBC News video in India",
-      "score": 16.91,
+      "title": "altM raises $10.3M in Series A funding led by Rainmatter, Mela Ventures",
+      "score": 16.15,
       "source_count": 1,
-      "published_at": "2026-11-04 12:27 UTC",
+      "published_at": "2026-11-05 00:30 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/frammer-ai-partners-collective-newsroom-bbc-video-india"
+          "url": "https://yourstory.com/2026/11/altm-raises-103m-series-a-funding-rainmatter-mela-ventures"
         }
       ]
     }

@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 04, 2026 at 22:55 UTC | **Top Stories:** 10
+> **Generated on:** November 05, 2026 at 03:49 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Cybersecurity Agency I4C Warns Banks & Fintechs Against AI-Led Cyberattacks [2 sources]
-- **Topic:** `Business` | **Score:** `30.71` | **Published:** 2026-11-04 18:59 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/central-cyber-security-agency-warns-banks-nbfcs-of-ai-attacks-i4c-reveals-how-hackers-are-executing-multi-crore-frauds/articleshow/135546478.cms) • [Inc42](https://inc42.com/buzz/cybersecurity-agency-i4c-warns-banks-fintechs-against-ai-led-cyberattacks/)
+### 1. Google voluntary buyouts: What's the exit package? [2 sources]
+- **Topic:** `Business` | **Score:** `31.08` | **Published:** 2026-11-05 03:22 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/google-voluntary-buyouts-whats-the-exit-package-which-teams-qualify-and-how-many-employees-are-eligible-after-microsofts-similar-offer/articleshow/135556930.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/google-expands-voluntary-buyouts-to-5-more-countries-after-hiring-spree-is-india-included-11793785376239.html)
 
-### 2. After Texas' blue wave, what happens to Elon Musk and SpaceX? [2 sources]
-- **Topic:** `Business` | **Score:** `29.38` | **Published:** 2026-11-04 20:36 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/elon-musks-business-empire-braces-for-democratic-wave-as-texas-flips-blue/articleshow/135539079.cms) • [Ars Technica](https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/)
+### 2. Nykaa’s Q2 Profit More Than Triples To ₹101 Cr, Revenue Up 28% YoY [2 sources]
+- **Topic:** `Startups` | **Score:** `29.59` | **Published:** 2026-11-04 13:09 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/nykaas-q2-profit-more-than-triples-to-%e2%82%b9101-cr-revenue-up-28-yoy/) • [YourStory](https://yourstory.com/2026/11/lenskart-profit-doubles-revenue-grows-36-pc-in-q2)
 
-### 3. Cabinet Clears ₹2,814 Cr Scheme To Boost Lithium & Nickel Processing [2 sources]
-- **Topic:** `Startups` | **Score:** `29.32` | **Published:** 2026-11-04 20:02 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/cabinet-clears-%e2%82%b92814-cr-scheme-to-boost-lithium-nickel-processing/) • [YourStory](https://yourstory.com/2026/11/cabinet-approves-rs-2814-cr-scheme-to-promote-processing-of-lithium-nickel)
+### 3. MIAL plans to shift all Mumbai flights on 14 international routes to NMIA [2 sources]
+- **Topic:** `Business` | **Score:** `28.77` | **Published:** 2026-11-04 19:37 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/mial-seeks-to-shift-14-international-flights-to-navi-mumbai-airport-by-nov-3/articleshow/135550608.cms) • [Business Standard](https://www.business-standard.com/industry/aviation/mial-plans-to-shift-all-mumbai-flights-on-14-international-routes-to-nmia-126110401951_1.html)
 
-### 4. Blue Ashva Exits iD Fresh Food Via A ₹50 Cr Secondary Transaction [2 sources]
-- **Topic:** `Marketing And Branding` | **Score:** `28.15` | **Published:** 2026-11-03 18:23 UTC
-- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/id-fresh-food-launches-new-television-campaign-id-ka-idea/135493672) • [Inc42](https://inc42.com/buzz/blue-ashva-exits-id-fresh-food-via-a-%e2%82%b950-cr-secondary-transaction/)
+### 4. Royal Stag teams up with Rohit Sharma to launch &#039;Celebrate the Large in Everyone&#039; campaign [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `16.34` | **Published:** 2026-11-04 11:51 UTC
+- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/royal-stag-teams-up-with-rohit-sharma-to-launch-celebrate-the-large-in-everyone-campaign/135537695)
 
-### 5. Orkla India’s revenue rises 19.4% in Q2, but volume growth remains subdued [1 source]
-- **Topic:** `Business` | **Score:** `18.83` | **Published:** 2026-11-04 16:30 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/orkla-india-s-revenue-rises-19-4-in-q2-but-volume-growth-remains-subdued-11793803944844.html)
+### 5. How Bariflo uses AI to help factories treat wastewater [1 source]
+- **Topic:** `Startups` | **Score:** `16.32` | **Published:** 2026-11-05 02:03 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/bariflo-ai-help-factories-treat-wastewater)
 
-### 6. Nothing teases a screen-free AI device ahead of launch next month [1 source]
-- **Topic:** `Tech` | **Score:** `17.53` | **Published:** 2026-11-04 18:26 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei)
+### 6. Top tech and startup stories to start your day with [1 source]
+- **Topic:** `Business` | **Score:** `16.29` | **Published:** 2026-11-05 01:48 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/gpu-bidding-norms-eased-lenskart-ceo-on-profitability/articleshow/135555615.cms)
 
-### 7. Vivo Watch GT 2 Tipped to Launch in India Alongside X500 Series [1 source]
-- **Topic:** `Tech` | **Score:** `17.21` | **Published:** 2026-11-04 15:23 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/wearables/news/vivo-watch-gt-2-india-launch-timeline-expected-features-leak-12283521)
+### 7. US sanctions India-based couple, companies [1 source]
+- **Topic:** `Business` | **Score:** `16.28` | **Published:** 2026-11-05 01:41 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/foreign-trade/us-sanctions-india-based-couple-companies-over-alleged-support-for-irans-shadow-oil-fleet/articleshow/135555569.cms)
 
-### 8. BGMI Air Set to Launch in India on December 10; Closed Beta Testing to Begin Later This Month [1 source]
-- **Topic:** `Tech` | **Score:** `17.21` | **Published:** 2026-11-04 15:22 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/games/news/bgmi-air-india-launch-date-closed-beta-testing-12282914)
+### 8. Oppo F35 Pro Gets ColorOS 17 Skin Based on Android 17 in India [1 source]
+- **Topic:** `Tech` | **Score:** `16.28` | **Published:** 2026-11-04 11:20 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/oppo-f35-pro-coloros-17-skin-android-rollout-specifications-features-12282240)
 
-### 9. Sarva Suvidhaen: Bihar Startup Is Using AI and IoT to Make Indian Railways Smarter [1 source]
-- **Topic:** `Startups` | **Score:** `17.03` | **Published:** 2026-11-04 13:37 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/10/sarva-suvidhaen-startup)
+### 9. Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing [1 source]
+- **Topic:** `Startups` | **Score:** `16.15` | **Published:** 2026-11-05 00:30 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/)
 
-### 10. Frammer AI partners with Collective Newsroom to power BBC News video in India [1 source]
-- **Topic:** `Startups` | **Score:** `16.91` | **Published:** 2026-11-04 12:27 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/frammer-ai-partners-collective-newsroom-bbc-video-india)
+### 10. altM raises $10.3M in Series A funding led by Rainmatter, Mela Ventures [1 source]
+- **Topic:** `Startups` | **Score:** `16.15` | **Published:** 2026-11-05 00:30 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/altm-raises-103m-series-a-funding-rainmatter-mela-ventures)
