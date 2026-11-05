@@ -1,166 +1,166 @@
 {
-  "generated_at": "2026-11-05 13:32:47 UTC",
+  "generated_at": "2026-11-05 21:15:54 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "CERT-In Flags AI-Driven Cyberattacks On Indian BFSI",
-      "score": 31.06,
+      "title": "Aina launches Rs 47,000 ring to bring AI agents to your fingertips",
+      "score": 31.05,
       "source_count": 2,
-      "published_at": "2026-11-05 12:56 UTC",
+      "published_at": "2026-11-05 20:31 UTC",
       "topic": "startups",
       "sources": [
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/cert-in-flags-ai-driven-cyberattacks-on-indian-bfsi/"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/aina-ai-smart-ring-price-features-launch-india"
         },
         {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-cert-in-ai-threat-actor-bfsi-payment-api/"
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
         }
       ]
     },
     {
-      "title": "NPCI Expands Beyond Payments With AI, Blockchain-Focused Subsidiary",
-      "score": 31.02,
+      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+      "score": 30.91,
       "source_count": 2,
-      "published_at": "2026-11-05 12:32 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/npci-expands-beyond-payments-with-ai-blockchain-focused-subsidiary/"
-        },
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-npcis-new-technology-subsidiary/"
-        }
-      ]
-    },
-    {
-      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech",
-      "score": 30.83,
-      "source_count": 2,
-      "published_at": "2026-11-05 10:45 UTC",
+      "published_at": "2026-11-05 19:12 UTC",
       "topic": "tech",
       "sources": [
         {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-z-fold-9-z-fold-9-ultra-camera-specifications-200-megapixel-12281473"
+        },
+        {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
+          "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale"
+        }
+      ]
+    },
+    {
+      "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+      "score": 30.35,
+      "source_count": 2,
+      "published_at": "2026-11-05 13:48 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/motorola-signature-27-price-launch-sale-date-specifications-features-12287488"
         },
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+          "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/"
         }
       ]
     },
     {
-      "title": "Google Expands Voluntary Buyout Programme to Five Countries Amid Heavy Spending on Artificial Intelligence",
-      "score": 30.49,
+      "title": "Shiprocket Turns Profitable In Q2, Revenue Jumps 35% YoY To ₹674 Cr",
+      "score": 30.34,
       "source_count": 2,
-      "published_at": "2026-11-05 07:25 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/google-voluntary-buyout-what-do-employees-get-in-severance-package-which-7-countries-are-included-explained-11793855251347.html"
-        },
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/ai/news/google-expands-layoffs-voluntary-buyout-programme-artificial-intelligence-12285988"
-        }
-      ]
-    },
-    {
-      "title": "Daksham Capital raises Rs 125 Cr in first close of Rs 300 Cr fund",
-      "score": 29.59,
-      "source_count": 2,
-      "published_at": "2026-11-05 13:15 UTC",
+      "published_at": "2026-11-05 13:43 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/daksham-capital-launches-%e2%82%b9300-cr-consumer-fund-marks-first-close-at-%e2%82%b9125-cr/"
+          "url": "https://inc42.com/buzz/moneyview-q2-profit-jumps-5x-yoy-to-%e2%82%b9201-cr-revenue-up-41/"
         },
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/daksham-capital-raises-rs-125-cr-first-close-rs-300-cr-fund"
+          "url": "https://yourstory.com/2026/11/shiprocket-turns-profitable-in-q2-fy27-with-rs-674-cr-revenue"
         }
       ]
     },
     {
-      "title": "End of an era! Ronaldo announces retirement from international football",
-      "score": 29.42,
+      "title": "Spacetech Startup Cosmoserve Nets $6 Mn, Eyes Commercialisation By 2028",
+      "score": 30.32,
       "source_count": 2,
-      "published_at": "2026-11-05 11:34 UTC",
-      "topic": "business",
+      "published_at": "2026-11-05 13:35 UTC",
+      "topic": "startups",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/sports/football/cristiano-ronaldos-portugal-walkout-what-happened-weeks-before-his-international-retirement/articleshow/135570744.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/sports/football-news/end-of-an-era-ronaldo-announces-retirement-from-international-football-126110501283_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Blinkit Ambulance to charge ₹2,500 for non-emergency trips amid misuse",
-      "score": 29.34,
-      "source_count": 2,
-      "published_at": "2026-11-05 10:50 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/blinkit-ambulance-to-charge-2-500-for-non-emergency-trips-amid-misuse-126110501233_1.html"
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/spacetech-startup-cosmoserve-nets-6-mn-eyes-commercialisation-by-2028/"
         },
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/blinkit-ambulance-to-charge-rs-2500-for-non-emergency-cases"
+          "url": "https://yourstory.com/2026/11/spacetech-startup-cosmoserve-raises-6-million-in-seed-round"
         }
       ]
     },
     {
-      "title": "World's highest railway station planned in Ladakh",
-      "score": 28.99,
+      "title": "Adani Ports to acquire Dutch operator Evos in €2.56 billion deal",
+      "score": 29.36,
       "source_count": 2,
-      "published_at": "2026-11-05 07:26 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/transportation/railways/worlds-highest-railway-station-at-17244-feet-in-ladakh-india-planning-a-rs-1-3-lakh-crore-railway-line-that-will-break-chinas-record/articleshow/135562098.cms"
-        },
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "IRB Infra Q2 profit rises 85% to ₹260 crore on toll revenue growth",
-      "score": 17.91,
-      "source_count": 1,
-      "published_at": "2026-11-05 12:40 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/quarterly-results/irb-infra-q2-profit-rises-85-to-260-crore-on-toll-revenue-growth-126110501644_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Airtel's premiumization strategy drives strong Q2 revenue and Ebitda growth",
-      "score": 17.78,
-      "source_count": 1,
-      "published_at": "2026-11-05 11:23 UTC",
+      "published_at": "2026-11-05 18:44 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/company-results/airtels-premiumization-strategy-drives-strong-q2-revenue-and-ebitda-growth-11793861191107.html"
+          "url": "https://www.livemint.com/companies/news/adani-ports-to-enter-europe-with-2-56-billion-buyout-of-evos-11793883536082.html"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/adani-ports-to-acquire-dutch-operator-evos-in-1-18-billion-deal-126110501810_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Mehli Mistry contests removal from Tata Trusts, counters governance claims",
+      "score": 29.29,
+      "source_count": 2,
+      "published_at": "2026-11-05 18:03 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/noel-tata-eligibility-rs-1-42-crore-commission-inside-mehli-mistrys-fresh-tata-trusts-challenge-11793881862251.html"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/mehli-mistry-contests-removal-from-tata-trusts-counters-governance-claims-126110502208_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Reddit Search Results May Soon Show Ads for Products Users Are Looking For",
+      "score": 29.08,
+      "source_count": 2,
+      "published_at": "2026-11-05 16:04 UTC",
+      "topic": "marketing_and_branding",
+      "sources": [
+        {
+          "name": "Marketing Dive",
+          "url": "https://www.marketingdive.com/news/sociable-reddit-tests-ads-in-search-results/873874/"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/apps/news/reddit-begins-testing-targeted-ads-in-search-results-12286578"
+        }
+      ]
+    },
+    {
+      "title": "Bengaluru startup Aina unveils AI ring to predict users' next actions",
+      "score": 17.68,
+      "source_count": 1,
+      "published_at": "2026-11-05 18:13 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/start-ups/bengaluru-startup-aina-unveils-ai-ring-to-predict-users-next-actions-126110502214_1.html"
+        }
+      ]
+    },
+    {
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "score": 17.14,
+      "source_count": 1,
+      "published_at": "2026-11-05 13:00 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
         }
       ]
     }
