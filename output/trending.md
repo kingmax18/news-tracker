@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 06, 2026 at 03:45 UTC | **Top Stories:** 10
+> **Generated on:** November 06, 2026 at 13:18 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Britannia Q2 net profit rises 10.8% to ₹726 crore on volume growth [4 sources]
-- **Topic:** `Business` | **Score:** `69.95` | **Published:** 2026-11-06 02:00 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/company-results/physicswallah-q2-net-profit-more-than-doubles-to-nearly-rs-144-crore-as-revenue-rises-18-11793893174732.html) • [Business Standard](https://www.business-standard.com/companies/quarterly-results/britannia-q2-net-profit-rises-10-8-to-726-crore-on-volume-growth-126110501905_1.html) • [YourStory](https://yourstory.com/2026/11/amagi-q2-net-profit-jumps-rs-75-cr-revenue-rises-27-percent) • [Inc42](https://inc42.com/buzz/saas-company-rategains-q2-profit-rises-47-yoy-to-%e2%82%b975-cr/)
+### 1. MakeMyTrip acquires majority stake in Quick Ride to enter ride pooling [3 sources]
+- **Topic:** `Business` | **Score:** `46.48` | **Published:** 2026-11-06 11:06 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/makemytrip-acquires-majority-stake-in-quick-ride-to-enter-ride-pooling-126110601337_1.html) • [Inc42](https://inc42.com/buzz/makemytrip-acquires-majority-stake-in-quick-ride-to-enter-ride-pooling/) • [YourStory](https://yourstory.com/2026/11/makemytrip-enters-shared-mobility-space-with-majority-stake-quick-ride)
 
-### 2. Why operational excellence will define the next phase of India’s startup growth [1 source]
-- **Topic:** `Startups` | **Score:** `19.37` | **Published:** 2026-11-06 02:30 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth)
+### 2. Airbnb Developing a Dedicated AI Agent for Travel Plans; Will Launch Next Year [2 sources]
+- **Topic:** `Tech` | **Score:** `32.43` | **Published:** 2026-11-06 11:25 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/ai/news/airbnb-ai-travel-agent-in-development-release-schedule-report-12292831) • [The Verge](https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings)
 
-### 3. Apple Reportedly Lowers AI Spending Limits for Engineers Amid Cost-Cutting Push [1 source]
-- **Topic:** `Tech` | **Score:** `16.48` | **Published:** 2026-11-06 03:36 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/ai/news/apple-lowers-ai-spending-limits-for-engineers-cost-cutting-push-report-12290755)
+### 3. Sony revives the original Walkman headphones, adds USB-C [2 sources]
+- **Topic:** `Tech` | **Score:** `30.8` | **Published:** 2026-11-06 10:14 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/audio/news/sony-mdr-3r-headphones-price-launch-sale-features-specifications-12292445) • [Ars Technica](https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/)
 
-### 4. Global tech stocks plunge as US midterms add to AI slowdown fears [1 source]
-- **Topic:** `Business` | **Score:** `16.42` | **Published:** 2026-11-06 02:57 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
+### 4. Tesla is ‘winding down’ production of the Cybertruck next year [2 sources]
+- **Topic:** `Business` | **Score:** `29.45` | **Published:** 2026-11-06 11:36 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/tesla-cybertruck-production-discontinued-elon-musk-faces-fresh-setback-after-spending-446-million-backing-republicans/articleshow/135605717.cms) • [The Verge](https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027)
 
-### 5. Anthropic's 'largest IPO on record' ambition on hold? 'AI backlash could threaten timing, $1.5 trillion valuation [1 source]
-- **Topic:** `Business` | **Score:** `16.39` | **Published:** 2026-11-06 02:44 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/anthropics-largest-ipo-on-record-ambition-on-hold-ai-backlash-could-threaten-timing-1-5-trillion-valuation-11793930460210.html)
+### 5. CBI books Kishore Biyani, Future Retail in alleged ₹904-cr bank fraud [2 sources]
+- **Topic:** `Business` | **Score:** `29.42` | **Published:** 2026-11-06 11:22 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/cbi-books-kishore-biyani-future-retail-in-rs-904-crore-bank-fraud-case/articleshow/135605209.cms) • [Business Standard](https://www.business-standard.com/industry/news/cbi-books-kishore-biyani-future-retail-in-alleged-904-cr-bank-fraud-126110601341_1.html)
 
-### 6. Musk's $470 million political bet: Why Tesla, SpaceX's Texas expansion faces a regulatory test after US midterms [1 source]
-- **Topic:** `Business` | **Score:** `16.38` | **Published:** 2026-11-06 02:35 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/musks-470-million-political-bet-why-tesla-spacexs-texas-expansion-faces-a-regulatory-test-after-us-midterms-11793931940497.html)
+### 6. X Says Delhi Police Takedown Notices Against IFF, SFLC Were Fake [2 sources]
+- **Topic:** `Startups` | **Score:** `29.06` | **Published:** 2026-11-06 07:52 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/x-says-delhi-police-takedown-notices-against-iff-sflc-were-fake/) • [MediaNama](https://www.medianama.com/2026/11/223-x-fake-delhi-police-takedown-notices-iff-sflc/)
 
-### 7. JBL 3 Series MkIII Studio Monitors Launched Alongside 310S MkIII Subwoofer: Specifications [1 source]
-- **Topic:** `Tech` | **Score:** `16.37` | **Published:** 2026-11-06 02:30 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/audio/news/jbl-305p-mkiii-306p-308p-310s-mkiii-subwoofer-launch-specifications-features-12288550)
+### 7. Deepinder Goyal hits back at doctors, defends wearable device Temple [2 sources]
+- **Topic:** `Startups` | **Score:** `29.02` | **Published:** 2026-11-06 07:30 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/this-is-not-about-money-deepinder-goyal-defends-temple-amid-credibility-row/) • [YourStory](https://yourstory.com/2026/11/deepinder-goyal-defends-wearable-device-temple)
 
-### 8. How Satin Group’s Sankalp plans to empower India’s next wave of founders [1 source]
-- **Topic:** `Startups` | **Score:** `16.35` | **Published:** 2026-11-06 02:20 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/how-satin-groups-sankalp-plans-empower-indias-next-wave-founders)
+### 8. Want to Buy Digital Gold This Dhanteras? Here Are 5 Apps to Try [2 sources]
+- **Topic:** `Business` | **Score:** `28.76` | **Published:** 2026-11-06 04:59 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/dhanteras-buying-muhurat-2026-best-time-to-buy-gold-silver-cars-bikes-and-utensils-check-city-wise-timings-for-delhi-mumbai-noida-and-other-cities/articleshow/135594250.cms) • [Gadgets 360](https://www.gadgets360.com/apps/features/want-to-buy-digital-gold-this-dhanteras-here-are-5-apps-to-try-12287953)
 
-### 9. TReDS sees a festive boost; Nykaa’s growth strategy [1 source]
-- **Topic:** `Business` | **Score:** `16.31` | **Published:** 2026-11-06 01:57 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/treds-sees-a-festive-boost-nykaas-growth-strategy/articleshow/135590197.cms)
+### 9. OnePlus 16 India Launch Seems Likely as Firm Reportedly Holds ‘Closed-Door’ Meeting; Pricing Details Tipped [1 source]
+- **Topic:** `Tech` | **Score:** `17.85` | **Published:** 2026-11-06 11:53 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/oneplus-16-india-launch-likely-price-tipped-specifications-features-12292959)
 
-### 10. WhatsApp Reportedly Testing Meta AI-Powered Image Expansion Feature for iPhone [1 source]
-- **Topic:** `Tech` | **Score:** `16.29` | **Published:** 2026-11-05 11:20 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/apps/news/whatsapp-for-ios-meta-ai-image-expansion-feature-iphone-wabetainfo-report-12287490)
+### 10. Samsung Galaxy S27 India Launch Seemingly Confirmed as Phone Appears on Certification Database: Report [1 source]
+- **Topic:** `Tech` | **Score:** `17.25` | **Published:** 2026-11-06 06:06 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-india-launch-imminent-bis-certification-database-specifications-features-12291086)
