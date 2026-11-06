@@ -1,166 +1,146 @@
 {
-  "generated_at": "2026-11-05 21:15:54 UTC",
+  "generated_at": "2026-11-06 03:45:40 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Aina launches Rs 47,000 ring to bring AI agents to your fingertips",
-      "score": 31.05,
-      "source_count": 2,
-      "published_at": "2026-11-05 20:31 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/aina-ai-smart-ring-price-features-launch-india"
-        },
-        {
-          "name": "TechCrunch - Startups",
-          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
-        }
-      ]
-    },
-    {
-      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-      "score": 30.91,
-      "source_count": 2,
-      "published_at": "2026-11-05 19:12 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-z-fold-9-z-fold-9-ultra-camera-specifications-200-megapixel-12281473"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale"
-        }
-      ]
-    },
-    {
-      "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
-      "score": 30.35,
-      "source_count": 2,
-      "published_at": "2026-11-05 13:48 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/motorola-signature-27-price-launch-sale-date-specifications-features-12287488"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/"
-        }
-      ]
-    },
-    {
-      "title": "Shiprocket Turns Profitable In Q2, Revenue Jumps 35% YoY To ₹674 Cr",
-      "score": 30.34,
-      "source_count": 2,
-      "published_at": "2026-11-05 13:43 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/moneyview-q2-profit-jumps-5x-yoy-to-%e2%82%b9201-cr-revenue-up-41/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/shiprocket-turns-profitable-in-q2-fy27-with-rs-674-cr-revenue"
-        }
-      ]
-    },
-    {
-      "title": "Spacetech Startup Cosmoserve Nets $6 Mn, Eyes Commercialisation By 2028",
-      "score": 30.32,
-      "source_count": 2,
-      "published_at": "2026-11-05 13:35 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/spacetech-startup-cosmoserve-nets-6-mn-eyes-commercialisation-by-2028/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/spacetech-startup-cosmoserve-raises-6-million-in-seed-round"
-        }
-      ]
-    },
-    {
-      "title": "Adani Ports to acquire Dutch operator Evos in €2.56 billion deal",
-      "score": 29.36,
-      "source_count": 2,
-      "published_at": "2026-11-05 18:44 UTC",
+      "title": "Britannia Q2 net profit rises 10.8% to ₹726 crore on volume growth",
+      "score": 69.95,
+      "source_count": 4,
+      "published_at": "2026-11-06 02:00 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/adani-ports-to-enter-europe-with-2-56-billion-buyout-of-evos-11793883536082.html"
+          "url": "https://www.livemint.com/companies/company-results/physicswallah-q2-net-profit-more-than-doubles-to-nearly-rs-144-crore-as-revenue-rises-18-11793893174732.html"
         },
         {
           "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/adani-ports-to-acquire-dutch-operator-evos-in-1-18-billion-deal-126110501810_1.html"
+          "url": "https://www.business-standard.com/companies/quarterly-results/britannia-q2-net-profit-rises-10-8-to-726-crore-on-volume-growth-126110501905_1.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/amagi-q2-net-profit-jumps-rs-75-cr-revenue-rises-27-percent"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/saas-company-rategains-q2-profit-rises-47-yoy-to-%e2%82%b975-cr/"
         }
       ]
     },
     {
-      "title": "Mehli Mistry contests removal from Tata Trusts, counters governance claims",
-      "score": 29.29,
-      "source_count": 2,
-      "published_at": "2026-11-05 18:03 UTC",
+      "title": "Why operational excellence will define the next phase of India’s startup growth",
+      "score": 19.37,
+      "source_count": 1,
+      "published_at": "2026-11-06 02:30 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/10/why-operational-excellence-will-define-the-next-phase-indias-startup-growth"
+        }
+      ]
+    },
+    {
+      "title": "Apple Reportedly Lowers AI Spending Limits for Engineers Amid Cost-Cutting Push",
+      "score": 16.48,
+      "source_count": 1,
+      "published_at": "2026-11-06 03:36 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/ai/news/apple-lowers-ai-spending-limits-for-engineers-cost-cutting-push-report-12290755"
+        }
+      ]
+    },
+    {
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "score": 16.42,
+      "source_count": 1,
+      "published_at": "2026-11-06 02:57 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic's 'largest IPO on record' ambition on hold? 'AI backlash could threaten timing, $1.5 trillion valuation",
+      "score": 16.39,
+      "source_count": 1,
+      "published_at": "2026-11-06 02:44 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/noel-tata-eligibility-rs-1-42-crore-commission-inside-mehli-mistrys-fresh-tata-trusts-challenge-11793881862251.html"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/mehli-mistry-contests-removal-from-tata-trusts-counters-governance-claims-126110502208_1.html"
+          "url": "https://www.livemint.com/companies/news/anthropics-largest-ipo-on-record-ambition-on-hold-ai-backlash-could-threaten-timing-1-5-trillion-valuation-11793930460210.html"
         }
       ]
     },
     {
-      "title": "Reddit Search Results May Soon Show Ads for Products Users Are Looking For",
-      "score": 29.08,
-      "source_count": 2,
-      "published_at": "2026-11-05 16:04 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "Marketing Dive",
-          "url": "https://www.marketingdive.com/news/sociable-reddit-tests-ads-in-search-results/873874/"
-        },
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/apps/news/reddit-begins-testing-targeted-ads-in-search-results-12286578"
-        }
-      ]
-    },
-    {
-      "title": "Bengaluru startup Aina unveils AI ring to predict users' next actions",
-      "score": 17.68,
+      "title": "Musk's $470 million political bet: Why Tesla, SpaceX's Texas expansion faces a regulatory test after US midterms",
+      "score": 16.38,
       "source_count": 1,
-      "published_at": "2026-11-05 18:13 UTC",
+      "published_at": "2026-11-06 02:35 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/start-ups/bengaluru-startup-aina-unveils-ai-ring-to-predict-users-next-actions-126110502214_1.html"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/musks-470-million-political-bet-why-tesla-spacexs-texas-expansion-faces-a-regulatory-test-after-us-midterms-11793931940497.html"
         }
       ]
     },
     {
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "score": 17.14,
+      "title": "JBL 3 Series MkIII Studio Monitors Launched Alongside 310S MkIII Subwoofer: Specifications",
+      "score": 16.37,
       "source_count": 1,
-      "published_at": "2026-11-05 13:00 UTC",
+      "published_at": "2026-11-06 02:30 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/audio/news/jbl-305p-mkiii-306p-308p-310s-mkiii-subwoofer-launch-specifications-features-12288550"
+        }
+      ]
+    },
+    {
+      "title": "How Satin Group’s Sankalp plans to empower India’s next wave of founders",
+      "score": 16.35,
+      "source_count": 1,
+      "published_at": "2026-11-06 02:20 UTC",
       "topic": "startups",
       "sources": [
         {
-          "name": "TechCrunch - Startups",
-          "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/how-satin-groups-sankalp-plans-empower-indias-next-wave-founders"
+        }
+      ]
+    },
+    {
+      "title": "TReDS sees a festive boost; Nykaa’s growth strategy",
+      "score": 16.31,
+      "source_count": 1,
+      "published_at": "2026-11-06 01:57 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/treds-sees-a-festive-boost-nykaas-growth-strategy/articleshow/135590197.cms"
+        }
+      ]
+    },
+    {
+      "title": "WhatsApp Reportedly Testing Meta AI-Powered Image Expansion Feature for iPhone",
+      "score": 16.29,
+      "source_count": 1,
+      "published_at": "2026-11-05 11:20 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/apps/news/whatsapp-for-ios-meta-ai-image-expansion-feature-iphone-wabetainfo-report-12287490"
         }
       ]
     }
