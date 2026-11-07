@@ -1,138 +1,150 @@
 {
-  "generated_at": "2026-11-07 00:27:10 UTC",
+  "generated_at": "2026-11-07 09:19:49 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-      "score": 29.14,
+      "title": "Noel Tata to step down as Voltas chairman, appointed Chairman Emeritus",
+      "score": 29.42,
       "source_count": 2,
-      "published_at": "2026-11-06 19:50 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "Adweek",
-          "url": "https://www.adweek.com/convergent-tv/fox-corp-completes-22-billion-deal-for-roku/"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/"
-        }
-      ]
-    },
-    {
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "score": 16.35,
-      "source_count": 1,
-      "published_at": "2026-11-06 23:00 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
-        }
-      ]
-    },
-    {
-      "title": "Federal Reserve rate hike bets strengthen as US jobs growth beats estimates",
-      "score": 15.85,
-      "source_count": 1,
-      "published_at": "2026-11-06 18:09 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-bets-strengthen-as-us-jobs-growth-beats-estimates/articleshow/135617516.cms"
-        }
-      ]
-    },
-    {
-      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-      "score": 15.85,
-      "source_count": 1,
-      "published_at": "2026-11-06 18:10 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
-        }
-      ]
-    },
-    {
-      "title": "Frontier Raas expands retail footprint with new Ahmedabad store; Kangana Ranaut attends launch",
-      "score": 15.83,
-      "source_count": 1,
-      "published_at": "2026-11-06 18:02 UTC",
+      "published_at": "2026-11-07 07:21 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/frontier-raas-expands-retail-footprint-with-new-ahmedabad-store-kangana-ranaut-attends-launch-11793986816273.html"
-        }
-      ]
-    },
-    {
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "score": 15.83,
-      "source_count": 1,
-      "published_at": "2026-11-06 18:00 UTC",
-      "topic": "startups",
-      "sources": [
+          "url": "https://www.livemint.com/companies/people/voltas-gets-a-new-chairman-who-is-sunil-dsouza-his-career-and-education-and-why-is-noel-tata-stepping-down-11794030619663.html"
+        },
         {
-          "name": "TechCrunch - Startups",
-          "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/noel-tata-to-step-down-as-voltas-chairman-appointed-chairman-emeritus-126110602076_1.html"
         }
       ]
     },
     {
-      "title": "Could potential AI clones of GTA VI force a quicker official port?",
-      "score": 15.65,
-      "source_count": 1,
-      "published_at": "2026-11-06 16:19 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/"
-        }
-      ]
-    },
-    {
-      "title": "PhysicsWallah clocks Rs 144 cr profit in Q2FY27, revenue up 18%",
-      "score": 15.53,
-      "source_count": 1,
-      "published_at": "2026-11-06 15:06 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-physicswallah-profit-q2fy27-revenue-up-18/"
-        }
-      ]
-    },
-    {
-      "title": "Workers' rights 'second place' to economic growth",
-      "score": 15.5,
-      "source_count": 1,
-      "published_at": "2026-11-06 14:52 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Air India starts using Iraq airspace to save fuel",
-      "score": 15.45,
-      "source_count": 1,
-      "published_at": "2026-11-06 14:24 UTC",
+      "title": "Jio vs Airtel vs Vi: Voice-Only Prepaid Plans Compared",
+      "score": 29.26,
+      "source_count": 2,
+      "published_at": "2026-11-07 05:51 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/nri/latest-updates/air-india-starts-using-iraq-airspace-for-new-york-newark-direct-flights-likely-to-see-10-fuel-savings/articleshow/135610699.cms"
+          "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-and-silver-rates-today-november-7-2026-check-24k-20k-and-18k-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq-in-delhi-mumbai-hyderabad/articleshow/135627793.cms"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/features/jio-airtel-vi-voice-only-prepaid-cellular-plans-compared-12271972"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "score": 29.17,
+      "source_count": 2,
+      "published_at": "2026-11-07 04:57 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/us-intelligence-believes-nvidia-ceo-jensen-huang-had-relationship-with-chinese-spy-what-we-know-11794025659314.html"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "score": 28.63,
+      "source_count": 2,
+      "published_at": "2026-11-06 23:46 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/international/us/should-anthropic-delay-its-ipo-stock-market-turmoil-raises-questions-over-1-5-trillion-valuation-as-ai-spending-slows/articleshow/135614642.cms"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        }
+      ]
+    },
+    {
+      "title": "VibeCode30 2026: The 30 AI-built products to watch from India",
+      "score": 17.55,
+      "source_count": 1,
+      "published_at": "2026-11-07 05:03 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/vibecode30-2026-30-ai-built-products-india-new-builders"
+        }
+      ]
+    },
+    {
+      "title": "Mukesh Ambani vs Gautam Adani: India's richest wealth race since Diwali 2025 - Who won, who lost? Wealth rise in $ bn",
+      "score": 16.28,
+      "source_count": 1,
+      "published_at": "2026-11-07 07:11 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/mukesh-ambani-vs-gautam-adani-indias-richest-wealth-race-since-diwali-2025-who-won-who-lost-wealth-rise-in-bn-11794034360761.html"
+        }
+      ]
+    },
+    {
+      "title": "Kwality Wall's Q2FY27 result: Revenue rises 44%, net loss at ₹17 crore",
+      "score": 16.24,
+      "source_count": 1,
+      "published_at": "2026-11-07 06:48 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/quarterly-results/kwality-wall-s-q2fy27-result-revenue-rises-44-net-loss-at-17-crore-126110700373_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Best TWS Earbuds Under Rs 10,000 in India: Top Picks From Realme, JBL, Huawei, and More",
+      "score": 16.21,
+      "source_count": 1,
+      "published_at": "2026-11-07 06:30 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/audio/features/best-earbuds-under-rs-10000-in-india-12273109"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI raises $11 billion at $1.25 trillion valuation amid concerns over AI spending and regulation",
+      "score": 15.91,
+      "source_count": 1,
+      "published_at": "2026-11-07 03:41 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/openai-raises-11-billion-at-1-25-trillion-valuation-amid-concerns-over-ai-spending-and-regulation-11794022360992.html"
+        }
+      ]
+    },
+    {
+      "title": "From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week",
+      "score": 15.89,
+      "source_count": 1,
+      "published_at": "2026-11-07 03:30 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/"
         }
       ]
     }
