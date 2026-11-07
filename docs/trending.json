@@ -1,142 +1,134 @@
 {
-  "generated_at": "2026-11-07 17:00:52 UTC",
+  "generated_at": "2026-11-07 21:07:06 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Emergency a mistake, Indira later regretted decision: Sonia Gandhi",
-      "score": 29.3,
-      "source_count": 2,
-      "published_at": "2026-11-07 13:54 UTC",
+      "title": "FSSAI suspends 1,133 licences across India",
+      "score": 16.12,
+      "source_count": 1,
+      "published_at": "2026-11-07 17:26 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/emergency-a-mistake-indira-came-to-feel-the-same-sonia-gandhi/articleshow/135638765.cms"
-        },
+          "url": "https://economictimes.indiatimes.com/news/new-updates/10000-notices-1133-suspended-licences-and-3279-tonnes-of-seized-food-fssais-nationwide-crackdown-exposes-food-safety-violations-across-india/articleshow/135642900.cms"
+        }
+      ]
+    },
+    {
+      "title": "Why Beijing blocked SoftBank’s $5.4 billion ABB Robotics deal? Setback for Masayoshi Son’s physical AI ambitions",
+      "score": 16.1,
+      "source_count": 1,
+      "published_at": "2026-11-07 17:15 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/why-beijing-blocked-softbank-s-5-4-billion-abb-robotics-deal-setback-for-masayoshi-son-s-physical-ai-ambitions-11794061545591.html"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft's $1 billion Amsterdam data centre project faces protests over AI infrastructure costs- details inside",
+      "score": 15.43,
+      "source_count": 1,
+      "published_at": "2026-11-07 10:49 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/microsofts-1-billion-amsterdam-data-centre-project-faces-protests-over-ai-infrastructure-costs-details-inside-11794048139305.html"
+        }
+      ]
+    },
+    {
+      "title": "Vast, varied, vivid: How this art festival celebrates pan-India creativity",
+      "score": 15.42,
+      "source_count": 1,
+      "published_at": "2026-11-07 10:43 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/karnataka-chitrakala-parishath-art-festival-creativity-photography"
+        }
+      ]
+    },
+    {
+      "title": "Coca-Cola's India bottling arm HCCH files DRHP for 997.5 million-share IPO",
+      "score": 15.41,
+      "source_count": 1,
+      "published_at": "2026-11-07 10:38 UTC",
+      "topic": "business",
+      "sources": [
         {
           "name": "Business Standard",
-          "url": "https://www.business-standard.com/india-news/emergency-a-mistake-indira-later-regretted-decision-sonia-gandhi-126110700782_1.html"
+          "url": "https://www.business-standard.com/markets/ipo/coca-cola-india-bottling-arm-hcch-files-drhp-ipo-99-75-crore-shares-126110700766_1.html"
         }
       ]
     },
     {
-      "title": "Kishore Biyani, FRL booked in ₹904 cr SBI fraud case",
-      "score": 27.38,
-      "source_count": 2,
-      "published_at": "2026-11-06 19:27 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/india/cbi-books-kishore-biyani-and-frl-in-904-crore-sbi-fraud-case/articleshow/135619292.cms"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/who-is-kishore-biyani-cbi-books-future-retail-founder-brother-in-904-crore-sbi-loan-fraud-case-11793971071226.html"
-        }
-      ]
-    },
-    {
-      "title": "Smartphones Launched in India (October 2026): Oppo Find X10 Series, Vivo X Fold 6 and More",
-      "score": 17.32,
+      "title": "AJIO launches astronaut-led ‘Ghar Wapsi’ campaign",
+      "score": 15.39,
       "source_count": 1,
       "published_at": "2026-11-07 10:30 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/features/smartphones-launched-in-india-october-2026-oppo-find-x10-pro-max-vivo-x-fold-6-and-more-12277307"
-        }
-      ]
-    },
-    {
-      "title": "Sony raises PlayStation sales forecast ahead of GTA 6 launch, reveals Marvel’s Wolverine sales figure",
-      "score": 16.39,
-      "source_count": 1,
-      "published_at": "2026-11-07 15:57 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/sony-raises-playstation-sales-forecast-ahead-of-gta-6-launch-reveals-marvel-s-wolverine-sales-figure-11794063969955.html"
-        }
-      ]
-    },
-    {
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "score": 16.38,
-      "source_count": 1,
-      "published_at": "2026-11-07 15:50 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"
-        }
-      ]
-    },
-    {
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "score": 16.29,
-      "source_count": 1,
-      "published_at": "2026-11-07 15:00 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
-        }
-      ]
-    },
-    {
-      "title": "Best Student Laptops Under Rs. 1 Lakh in India: Asus Vivobook 16, MacBook Neo, More",
-      "score": 16.03,
-      "source_count": 1,
-      "published_at": "2026-11-07 12:30 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/laptops/features/best-student-laptops-under-rs-1-lakh-in-india-asus-vivobook-16-macbook-neo-lenovo-ideapad-slim-3i-12277654"
-        }
-      ]
-    },
-    {
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "score": 16.03,
-      "source_count": 1,
-      "published_at": "2026-11-07 12:30 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
-        }
-      ]
-    },
-    {
-      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "score": 16.01,
-      "source_count": 1,
-      "published_at": "2026-11-07 12:15 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/"
-        }
-      ]
-    },
-    {
-      "title": "ICICI launches investor awareness campaign this Diwali",
-      "score": 15.87,
-      "source_count": 1,
-      "published_at": "2026-11-07 10:59 UTC",
       "topic": "marketing_and_branding",
       "sources": [
         {
           "name": "ET Brand Equity - Advertising",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/icici-launches-investor-awareness-campaign-this-diwali/135633948"
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/ajio-launches-astronaut-led-ghar-wapsi-campaign/135633516"
+        }
+      ]
+    },
+    {
+      "title": "Spinny launches Diwali campaign celebrating the people behind car restoration",
+      "score": 15.29,
+      "source_count": 1,
+      "published_at": "2026-11-07 09:31 UTC",
+      "topic": "marketing_and_branding",
+      "sources": [
+        {
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/spinny-launches-diwali-campaign-celebrating-the-people-behind-car-restoration/135632117"
+        }
+      ]
+    },
+    {
+      "title": "Meet Dana White: Trump offers him top job",
+      "score": 14.79,
+      "source_count": 1,
+      "published_at": "2026-11-07 19:06 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/who-is-dana-white-from-ufc-boss-to-trumps-proposed-press-secretary-his-ties-with-joe-rogan-and-khabib/articleshow/135645316.cms"
+        }
+      ]
+    },
+    {
+      "title": "NIT Raipur, AKSI Aerospace join hands, set-up Centre Of Excellence: What will the new partnership focus on?",
+      "score": 14.73,
+      "source_count": 1,
+      "published_at": "2026-11-07 18:33 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/nit-raipur-aksi-aerospace-join-hands-set-up-centre-of-excellence-what-will-the-new-partnership-focus-on-11794072162179.html"
+        }
+      ]
+    },
+    {
+      "title": "Mohd Shami: A master of seam and swing",
+      "score": 14.69,
+      "source_count": 1,
+      "published_at": "2026-11-07 18:09 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/sports/cricket/mohammed-shami-a-master-of-seam-and-swing-he-possessed-something-no-coaching-manual-could-teach/articleshow/135644328.cms"
         }
       ]
     }

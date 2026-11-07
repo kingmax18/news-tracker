@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 07, 2026 at 17:00 UTC | **Top Stories:** 10
+> **Generated on:** November 07, 2026 at 21:07 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Emergency a mistake, Indira later regretted decision: Sonia Gandhi [2 sources]
-- **Topic:** `Business` | **Score:** `29.3` | **Published:** 2026-11-07 13:54 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/politics-and-nation/emergency-a-mistake-indira-came-to-feel-the-same-sonia-gandhi/articleshow/135638765.cms) • [Business Standard](https://www.business-standard.com/india-news/emergency-a-mistake-indira-later-regretted-decision-sonia-gandhi-126110700782_1.html)
+### 1. FSSAI suspends 1,133 licences across India [1 source]
+- **Topic:** `Business` | **Score:** `16.12` | **Published:** 2026-11-07 17:26 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/10000-notices-1133-suspended-licences-and-3279-tonnes-of-seized-food-fssais-nationwide-crackdown-exposes-food-safety-violations-across-india/articleshow/135642900.cms)
 
-### 2. Kishore Biyani, FRL booked in ₹904 cr SBI fraud case [2 sources]
-- **Topic:** `Business` | **Score:** `27.38` | **Published:** 2026-11-06 19:27 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/cbi-books-kishore-biyani-and-frl-in-904-crore-sbi-fraud-case/articleshow/135619292.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-kishore-biyani-cbi-books-future-retail-founder-brother-in-904-crore-sbi-loan-fraud-case-11793971071226.html)
+### 2. Why Beijing blocked SoftBank’s $5.4 billion ABB Robotics deal? Setback for Masayoshi Son’s physical AI ambitions [1 source]
+- **Topic:** `Business` | **Score:** `16.1` | **Published:** 2026-11-07 17:15 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/why-beijing-blocked-softbank-s-5-4-billion-abb-robotics-deal-setback-for-masayoshi-son-s-physical-ai-ambitions-11794061545591.html)
 
-### 3. Smartphones Launched in India (October 2026): Oppo Find X10 Series, Vivo X Fold 6 and More [1 source]
-- **Topic:** `Tech` | **Score:** `17.32` | **Published:** 2026-11-07 10:30 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/features/smartphones-launched-in-india-october-2026-oppo-find-x10-pro-max-vivo-x-fold-6-and-more-12277307)
+### 3. Microsoft's $1 billion Amsterdam data centre project faces protests over AI infrastructure costs- details inside [1 source]
+- **Topic:** `Business` | **Score:** `15.43` | **Published:** 2026-11-07 10:49 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/microsofts-1-billion-amsterdam-data-centre-project-faces-protests-over-ai-infrastructure-costs-details-inside-11794048139305.html)
 
-### 4. Sony raises PlayStation sales forecast ahead of GTA 6 launch, reveals Marvel’s Wolverine sales figure [1 source]
-- **Topic:** `Business` | **Score:** `16.39` | **Published:** 2026-11-07 15:57 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/sony-raises-playstation-sales-forecast-ahead-of-gta-6-launch-reveals-marvel-s-wolverine-sales-figure-11794063969955.html)
+### 4. Vast, varied, vivid: How this art festival celebrates pan-India creativity [1 source]
+- **Topic:** `Startups` | **Score:** `15.42` | **Published:** 2026-11-07 10:43 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/karnataka-chitrakala-parishath-art-festival-creativity-photography)
 
-### 5. NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake [1 source]
-- **Topic:** `Tech` | **Score:** `16.38` | **Published:** 2026-11-07 15:50 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review)
+### 5. Coca-Cola's India bottling arm HCCH files DRHP for 997.5 million-share IPO [1 source]
+- **Topic:** `Business` | **Score:** `15.41` | **Published:** 2026-11-07 10:38 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/markets/ipo/coca-cola-india-bottling-arm-hcch-files-drhp-ipo-99-75-crore-shares-126110700766_1.html)
 
-### 6. AI broke the cybersecurity world. What’s next? [1 source]
-- **Topic:** `Tech` | **Score:** `16.29` | **Published:** 2026-11-07 15:00 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos)
+### 6. AJIO launches astronaut-led ‘Ghar Wapsi’ campaign [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `15.39` | **Published:** 2026-11-07 10:30 UTC
+- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/ajio-launches-astronaut-led-ghar-wapsi-campaign/135633516)
 
-### 7. Best Student Laptops Under Rs. 1 Lakh in India: Asus Vivobook 16, MacBook Neo, More [1 source]
-- **Topic:** `Tech` | **Score:** `16.03` | **Published:** 2026-11-07 12:30 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/laptops/features/best-student-laptops-under-rs-1-lakh-in-india-asus-vivobook-16-macbook-neo-lenovo-ideapad-slim-3i-12277654)
+### 7. Spinny launches Diwali campaign celebrating the people behind car restoration [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `15.29` | **Published:** 2026-11-07 09:31 UTC
+- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/spinny-launches-diwali-campaign-celebrating-the-people-behind-car-restoration/135632117)
 
-### 8. Why a new report on Anthropic automating AI development is alarming researchers [1 source]
-- **Topic:** `Tech` | **Score:** `16.03` | **Published:** 2026-11-07 12:30 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)
+### 8. Meet Dana White: Trump offers him top job [1 source]
+- **Topic:** `Business` | **Score:** `14.79` | **Published:** 2026-11-07 19:06 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/who-is-dana-white-from-ufc-boss-to-trumps-proposed-press-secretary-his-ties-with-joe-rogan-and-khabib/articleshow/135645316.cms)
 
-### 9. The Bantu expansion changed Africa. Scientists are still tracing how. [1 source]
-- **Topic:** `Tech` | **Score:** `16.01` | **Published:** 2026-11-07 12:15 UTC
-- **Coverage:** [Ars Technica](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/)
+### 9. NIT Raipur, AKSI Aerospace join hands, set-up Centre Of Excellence: What will the new partnership focus on? [1 source]
+- **Topic:** `Business` | **Score:** `14.73` | **Published:** 2026-11-07 18:33 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/nit-raipur-aksi-aerospace-join-hands-set-up-centre-of-excellence-what-will-the-new-partnership-focus-on-11794072162179.html)
 
-### 10. ICICI launches investor awareness campaign this Diwali [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `15.87` | **Published:** 2026-11-07 10:59 UTC
-- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/icici-launches-investor-awareness-campaign-this-diwali/135633948)
+### 10. Mohd Shami: A master of seam and swing [1 source]
+- **Topic:** `Business` | **Score:** `14.69` | **Published:** 2026-11-07 18:09 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/sports/cricket/mohammed-shami-a-master-of-seam-and-swing-he-possessed-something-no-coaching-manual-could-teach/articleshow/135644328.cms)
