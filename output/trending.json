@@ -1,134 +1,134 @@
 {
-  "generated_at": "2026-11-08 17:16:30 UTC",
+  "generated_at": "2026-11-08 21:23:48 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Pakistan beat India by 3 wickets in U-19 Asia Cup",
-      "score": 16.13,
+      "title": "Epic Games Launcher is coming to SteamOS",
+      "score": 14.94,
       "source_count": 1,
-      "published_at": "2026-11-08 13:41 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/sports/cricket/pakistan-beat-india-by-three-wickets-in-u-19-asia-cup/articleshow/135660028.cms"
-        }
-      ]
-    },
-    {
-      "title": "Best Earbuds Under Rs 2,000 in India: Top Picks From boAt, Realme, Vivo and More",
-      "score": 16.11,
-      "source_count": 1,
-      "published_at": "2026-11-08 13:30 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/audio/features/best-earbuds-under-rs-2000-in-india-from-boat-realme-vivo-oneplus-goboult-12284200"
-        }
-      ]
-    },
-    {
-      "title": "Angel One becomes India's second-largest broker by active clients",
-      "score": 16.07,
-      "source_count": 1,
-      "published_at": "2026-11-08 13:06 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/angel-one-becomes-indias-second-largest-broker-by-active-clients"
-        }
-      ]
-    },
-    {
-      "title": "Best Air Purifiers in India: Dyson Purifier Cool PC2 De-Nox, Praan Hive, More",
-      "score": 15.9,
-      "source_count": 1,
-      "published_at": "2026-11-08 11:30 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/smart-home/features/best-air-purifiers-dyson-purifier-cool-pc2-de-nox-mijia-smart-6-praan-hive-philips-ac1711-12283330"
-        }
-      ]
-    },
-    {
-      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-      "score": 14.87,
-      "source_count": 1,
-      "published_at": "2026-11-08 16:00 UTC",
+      "published_at": "2026-11-08 20:52 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale"
+          "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos"
         }
       ]
     },
     {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "score": 14.83,
+      "title": "Nvidia Board to Probe Spying Case After CEO Admits Infidelity",
+      "score": 14.89,
       "source_count": 1,
-      "published_at": "2026-11-08 15:37 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "score": 14.76,
-      "source_count": 1,
-      "published_at": "2026-11-08 15:00 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview"
-        }
-      ]
-    },
-    {
-      "title": "There’s no slowing down media’s pivot-to-video 2.0",
-      "score": 14.55,
-      "source_count": 1,
-      "published_at": "2026-11-08 13:00 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot"
-        }
-      ]
-    },
-    {
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
-      "score": 14.48,
-      "source_count": 1,
-      "published_at": "2026-11-08 12:15 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
-        }
-      ]
-    },
-    {
-      "title": "Israeli carrier Israir in talks to purchase local rival Arkia",
-      "score": 14.4,
-      "source_count": 1,
-      "published_at": "2026-11-08 11:30 UTC",
+      "published_at": "2026-11-08 20:22 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/israeli-carrier-israir-in-talks-to-purchase-local-rival-arkia-11794137409790.html"
+          "url": "https://www.livemint.com/companies/nvidia-board-to-probe-spying-case-after-ceo-admits-infidelity-11794169375335.html"
+        }
+      ]
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "score": 14.78,
+      "source_count": 1,
+      "published_at": "2026-11-08 19:18 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+        }
+      ]
+    },
+    {
+      "title": "Canva’s layoff package wins praise on LinkedIn: 6 months’ salary, 12 months’ healthcare, free MacBook and career support",
+      "score": 14.63,
+      "source_count": 1,
+      "published_at": "2026-11-08 17:50 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/canvas-layoff-package-wins-praise-on-linkedin-6-months-salary-12-months-healthcare-free-macbook-and-career-support-11794144404558.html"
+        }
+      ]
+    },
+    {
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "score": 14.58,
+      "source_count": 1,
+      "published_at": "2026-11-08 17:23 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+        }
+      ]
+    },
+    {
+      "title": "TaMo keeps M&M in its rearview as EV sales drive lead in PV market race",
+      "score": 14.57,
+      "source_count": 1,
+      "published_at": "2026-11-08 17:18 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/industry/auto/tamo-keeps-m-m-in-its-rearview-as-ev-sales-drive-lead-in-pv-market-race-126110800512_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Amazon Pay's next customers are in small towns, and they want credit",
+      "score": 14.48,
+      "source_count": 1,
+      "published_at": "2026-11-08 16:24 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/amazon-pay-s-next-customers-are-in-small-towns-and-they-want-credit-126110800351_1.html"
+        }
+      ]
+    },
+    {
+      "title": "After a $2 Billion Exit, Poppi’s Founders Take Aim at Hydration Drinks",
+      "score": 14.33,
+      "source_count": 1,
+      "published_at": "2026-11-08 15:00 UTC",
+      "topic": "marketing_and_branding",
+      "sources": [
+        {
+          "name": "Adweek",
+          "url": "https://www.adweek.com/brand-marketing/after-a-2-billion-exit-poppis-founders-take-aim-at-hydration-drinks/"
+        }
+      ]
+    },
+    {
+      "title": "Egypt deepens gas cuts to fertilizer makers as energy squeeze tightens",
+      "score": 13.83,
+      "source_count": 1,
+      "published_at": "2026-11-08 10:08 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/world-news/egypt-deepens-gas-cuts-to-fertilizer-makers-as-energy-squeeze-tightens-126110800344_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Hindalco flags coal shortage, expects 5% rise in aluminium production costs",
+      "score": 13.83,
+      "source_count": 1,
+      "published_at": "2026-11-08 10:07 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/hindalco-flags-coal-shortage-expects-5-rise-in-aluminium-production-costs-126110800282_1.html"
         }
       ]
     }
