@@ -1,134 +1,138 @@
 {
-  "generated_at": "2026-11-08 02:48:39 UTC",
+  "generated_at": "2026-11-08 09:36:36 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Workflow, AI, health: test your business creativity with Edition 257 of our weekly quiz!",
-      "score": 16.44,
-      "source_count": 1,
-      "published_at": "2026-11-08 02:15 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/workflow-ai-health-business-creativity-quiz-entrepreneur-education"
-        }
-      ]
-    },
-    {
-      "title": "Costa Rica shell entity and unauthorised foreign transactions - what ED raids at CoinDCX and Delta Exchange found",
-      "score": 14.95,
-      "source_count": 1,
-      "published_at": "2026-11-08 02:19 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/costa-rica-shell-entity-and-unauthorised-foreign-transactions-what-ed-raids-at-coindcx-and-delta-exchange-found-11794103231236.html"
-        }
-      ]
-    },
-    {
-      "title": "Artist Bhagya Ajaikumar explains how good curation balances individual expression and collective vision",
-      "score": 14.93,
-      "source_count": 1,
-      "published_at": "2026-11-08 02:10 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/bhagya-ajaikumar-art-curation-creativity-exhibition-photography"
-        }
-      ]
-    },
-    {
-      "title": "Not so sweet! FSSAI seizes ₹82 crore food haul",
-      "score": 14.91,
-      "source_count": 1,
-      "published_at": "2026-11-08 01:55 UTC",
+      "title": "Adani Enterprises plans ₹35,000-₹40,000 cr annual capex in next two years",
+      "score": 29.18,
+      "source_count": 2,
+      "published_at": "2026-11-08 05:22 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/cons-products/food/sweet-trouble-this-diwali-rs-82-crore-worth-of-food-1185-licences-come-under-fssai-scanner/articleshow/135649427.cms"
-        }
-      ]
-    },
-    {
-      "title": "Berkshire surprised with record buybacks, but pace slowed as the stock rose",
-      "score": 14.91,
-      "source_count": 1,
-      "published_at": "2026-11-08 01:55 UTC",
-      "topic": "business",
-      "sources": [
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/adani-enterprises-plans-rs-35000-40000-crore-annual-capex-in-next-two-years/articleshow/135651827.cms"
+        },
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/berkshire-surprised-with-record-buybacks-but-pace-slowed-as-the-stock-rose-11794102777738.html"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/adani-enterprises-plans-35-000-40-000-cr-annual-capex-in-next-two-years-126110800133_1.html"
         }
       ]
     },
     {
-      "title": "Last shift for Cybertruck before Tesla moves on",
-      "score": 14.89,
+      "title": "EY flags AI track that won't fix customer service",
+      "score": 16.23,
       "source_count": 1,
-      "published_at": "2026-11-08 01:42 UTC",
+      "published_at": "2026-11-08 07:00 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/business/tesla-to-add-cybertruck-shift-to-clear-orders-before-dismantling-line-next-year/articleshow/135649473.cms"
+          "url": "https://economictimes.indiatimes.com/ai/ai-insights/companies-want-ai-powered-customer-service-ey-says-they-need-a-bigger-reset/articleshow/135653462.cms"
         }
       ]
     },
     {
-      "title": "Muhurat trading: D-St to open for special session on Diwali; check timings",
-      "score": 14.89,
+      "title": "Rinku Singh named India A vice-captain",
+      "score": 16.21,
+      "source_count": 1,
+      "published_at": "2026-11-08 06:49 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/sports/cricket/rinku-singh-named-india-a-vice-captain-for-rising-stars-asia-cup-after-patidar-withdraws/articleshow/135653380.cms"
+        }
+      ]
+    },
+    {
+      "title": "India, China stocks catch a second wind",
+      "score": 15.68,
       "source_count": 1,
       "published_at": "2026-11-08 01:44 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/muhurat-trading-stock-markets-to-open-for-special-session-on-diwali-check-timings-126110600907_1.html"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indian-stock-market-winers-ai-trade-rout-artificial-intelligence-stock-slump-revives-asias-forgotten-trades-from-china-to-india/articleshow/135649421.cms"
         }
       ]
     },
     {
-      "title": "Will bulls stay in control during Muhurat trading? Experts decode outlook",
-      "score": 14.89,
+      "title": "India's pharma heirs bet fortunes on next costly wave",
+      "score": 14.9,
       "source_count": 1,
-      "published_at": "2026-11-08 01:43 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/will-bulls-stay-in-control-during-muhurat-trading-experts-decode-outlook-126110600925_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Death toll from Poland mass-shooting at 6",
-      "score": 14.85,
-      "source_count": 1,
-      "published_at": "2026-11-08 01:23 UTC",
+      "published_at": "2026-11-07 18:14 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/poland-shooting-3-bodies-found-at-home-of-krakow-gunman-6-killed-15-injured-in-attack/articleshow/135649381.cms"
+          "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/more-than-family-business-drugmakers-make-costly-long-term-strategic-shifts-as-next-generation-steps-into-bigger-roles/articleshow/135644313.cms"
         }
       ]
     },
     {
-      "title": "Tata Steel Q2 net profit up 18.2 per cent Y-o-Y, led by India operations",
-      "score": 14.82,
+      "title": "Bengaluru Metro: InMobi secures naming rights for Ibbaluru station for 30 years in  ₹65 crore agreement with BMRCL",
+      "score": 14.89,
       "source_count": 1,
-      "published_at": "2026-11-07 10:40 UTC",
+      "published_at": "2026-11-08 08:33 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/bengaluru-metro-inmobi-secures-naming-rights-for-ibbaluru-station-for-30-years-in-rs-65-crore-agreement-with-bmrcl-11794124949512.html"
+        }
+      ]
+    },
+    {
+      "title": "Muhurat Trading LIVE: Sensex, Nifty to kick-start trading for Samvat 2083 today at 2:20 PM",
+      "score": 14.87,
+      "source_count": 1,
+      "published_at": "2026-11-08 08:19 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html"
+          "url": "https://www.business-standard.com/markets/news/stock-market-live-november-8-muhurat-trading-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-today-samvat-2083-tata-steel-share-price-126110800267_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Sonia Gandhi revisits Diwali memories",
+      "score": 14.84,
+      "source_count": 1,
+      "published_at": "2026-11-08 08:03 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/sonia-gandhi-reflects-on-diwali-memories-with-priyanka-and-miraya-family-traditions-and-celebrations/articleshow/135654413.cms"
+        }
+      ]
+    },
+    {
+      "title": "Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile",
+      "score": 14.81,
+      "source_count": 1,
+      "published_at": "2026-11-08 07:49 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-samvat-2083-outlook-indian-equities-oil-prices-fpi-flows-volatility-126110800259_1.html"
+        }
+      ]
+    },
+    {
+      "title": "How to Use the Jeevan Pramaan App to Submit a Life Certificate Online",
+      "score": 14.78,
+      "source_count": 1,
+      "published_at": "2026-11-08 07:30 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/how-to/features/how-to-use-the-jeevan-pramaan-app-to-submit-a-life-certificate-online-12282810"
         }
       ]
     }
