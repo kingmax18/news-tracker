@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 07, 2026 at 21:07 UTC | **Top Stories:** 10
+> **Generated on:** November 08, 2026 at 02:48 UTC | **Top Stories:** 10
 
 ---
 
-### 1. FSSAI suspends 1,133 licences across India [1 source]
-- **Topic:** `Business` | **Score:** `16.12` | **Published:** 2026-11-07 17:26 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/10000-notices-1133-suspended-licences-and-3279-tonnes-of-seized-food-fssais-nationwide-crackdown-exposes-food-safety-violations-across-india/articleshow/135642900.cms)
+### 1. Workflow, AI, health: test your business creativity with Edition 257 of our weekly quiz! [1 source]
+- **Topic:** `Startups` | **Score:** `16.44` | **Published:** 2026-11-08 02:15 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/workflow-ai-health-business-creativity-quiz-entrepreneur-education)
 
-### 2. Why Beijing blocked SoftBank’s $5.4 billion ABB Robotics deal? Setback for Masayoshi Son’s physical AI ambitions [1 source]
-- **Topic:** `Business` | **Score:** `16.1` | **Published:** 2026-11-07 17:15 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/why-beijing-blocked-softbank-s-5-4-billion-abb-robotics-deal-setback-for-masayoshi-son-s-physical-ai-ambitions-11794061545591.html)
+### 2. Costa Rica shell entity and unauthorised foreign transactions - what ED raids at CoinDCX and Delta Exchange found [1 source]
+- **Topic:** `Business` | **Score:** `14.95` | **Published:** 2026-11-08 02:19 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/costa-rica-shell-entity-and-unauthorised-foreign-transactions-what-ed-raids-at-coindcx-and-delta-exchange-found-11794103231236.html)
 
-### 3. Microsoft's $1 billion Amsterdam data centre project faces protests over AI infrastructure costs- details inside [1 source]
-- **Topic:** `Business` | **Score:** `15.43` | **Published:** 2026-11-07 10:49 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/microsofts-1-billion-amsterdam-data-centre-project-faces-protests-over-ai-infrastructure-costs-details-inside-11794048139305.html)
+### 3. Artist Bhagya Ajaikumar explains how good curation balances individual expression and collective vision [1 source]
+- **Topic:** `Startups` | **Score:** `14.93` | **Published:** 2026-11-08 02:10 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/bhagya-ajaikumar-art-curation-creativity-exhibition-photography)
 
-### 4. Vast, varied, vivid: How this art festival celebrates pan-India creativity [1 source]
-- **Topic:** `Startups` | **Score:** `15.42` | **Published:** 2026-11-07 10:43 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/karnataka-chitrakala-parishath-art-festival-creativity-photography)
+### 4. Not so sweet! FSSAI seizes ₹82 crore food haul [1 source]
+- **Topic:** `Business` | **Score:** `14.91` | **Published:** 2026-11-08 01:55 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/cons-products/food/sweet-trouble-this-diwali-rs-82-crore-worth-of-food-1185-licences-come-under-fssai-scanner/articleshow/135649427.cms)
 
-### 5. Coca-Cola's India bottling arm HCCH files DRHP for 997.5 million-share IPO [1 source]
-- **Topic:** `Business` | **Score:** `15.41` | **Published:** 2026-11-07 10:38 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/markets/ipo/coca-cola-india-bottling-arm-hcch-files-drhp-ipo-99-75-crore-shares-126110700766_1.html)
+### 5. Berkshire surprised with record buybacks, but pace slowed as the stock rose [1 source]
+- **Topic:** `Business` | **Score:** `14.91` | **Published:** 2026-11-08 01:55 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/berkshire-surprised-with-record-buybacks-but-pace-slowed-as-the-stock-rose-11794102777738.html)
 
-### 6. AJIO launches astronaut-led ‘Ghar Wapsi’ campaign [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `15.39` | **Published:** 2026-11-07 10:30 UTC
-- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/ajio-launches-astronaut-led-ghar-wapsi-campaign/135633516)
+### 6. Last shift for Cybertruck before Tesla moves on [1 source]
+- **Topic:** `Business` | **Score:** `14.89` | **Published:** 2026-11-08 01:42 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/business/tesla-to-add-cybertruck-shift-to-clear-orders-before-dismantling-line-next-year/articleshow/135649473.cms)
 
-### 7. Spinny launches Diwali campaign celebrating the people behind car restoration [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `15.29` | **Published:** 2026-11-07 09:31 UTC
-- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/spinny-launches-diwali-campaign-celebrating-the-people-behind-car-restoration/135632117)
+### 7. Muhurat trading: D-St to open for special session on Diwali; check timings [1 source]
+- **Topic:** `Business` | **Score:** `14.89` | **Published:** 2026-11-08 01:44 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/markets/news/muhurat-trading-stock-markets-to-open-for-special-session-on-diwali-check-timings-126110600907_1.html)
 
-### 8. Meet Dana White: Trump offers him top job [1 source]
-- **Topic:** `Business` | **Score:** `14.79` | **Published:** 2026-11-07 19:06 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/who-is-dana-white-from-ufc-boss-to-trumps-proposed-press-secretary-his-ties-with-joe-rogan-and-khabib/articleshow/135645316.cms)
+### 8. Will bulls stay in control during Muhurat trading? Experts decode outlook [1 source]
+- **Topic:** `Business` | **Score:** `14.89` | **Published:** 2026-11-08 01:43 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/markets/news/will-bulls-stay-in-control-during-muhurat-trading-experts-decode-outlook-126110600925_1.html)
 
-### 9. NIT Raipur, AKSI Aerospace join hands, set-up Centre Of Excellence: What will the new partnership focus on? [1 source]
-- **Topic:** `Business` | **Score:** `14.73` | **Published:** 2026-11-07 18:33 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/nit-raipur-aksi-aerospace-join-hands-set-up-centre-of-excellence-what-will-the-new-partnership-focus-on-11794072162179.html)
+### 9. Death toll from Poland mass-shooting at 6 [1 source]
+- **Topic:** `Business` | **Score:** `14.85` | **Published:** 2026-11-08 01:23 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/poland-shooting-3-bodies-found-at-home-of-krakow-gunman-6-killed-15-injured-in-attack/articleshow/135649381.cms)
 
-### 10. Mohd Shami: A master of seam and swing [1 source]
-- **Topic:** `Business` | **Score:** `14.69` | **Published:** 2026-11-07 18:09 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/sports/cricket/mohammed-shami-a-master-of-seam-and-swing-he-possessed-something-no-coaching-manual-could-teach/articleshow/135644328.cms)
+### 10. Tata Steel Q2 net profit up 18.2 per cent Y-o-Y, led by India operations [1 source]
+- **Topic:** `Business` | **Score:** `14.82` | **Published:** 2026-11-07 10:40 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/companies/quarterly-results/tata-steel-q2-fy27-results-net-profit-india-operations-uk-netherlands-126110700767_1.html)
