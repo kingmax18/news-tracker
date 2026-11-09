@@ -1,134 +1,138 @@
 {
-  "generated_at": "2026-11-08 21:23:48 UTC",
+  "generated_at": "2026-11-09 03:06:37 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "score": 14.94,
-      "source_count": 1,
-      "published_at": "2026-11-08 20:52 UTC",
-      "topic": "tech",
+      "title": "Jio vs Airtel vs Vi: 84 Days Prepaid Plans Compared",
+      "score": 27.45,
+      "source_count": 2,
+      "published_at": "2026-11-08 06:17 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-and-silver-rates-today-november-8-2026-check-24k-20k-and-18k-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq-in-delhi-mumbai-hyderabad/articleshow/135653016.cms"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/telecom/features/jio-versus-airtel-versus-vi-84-days-data-and-voice-only-plans-compared-12277268"
         }
       ]
     },
     {
-      "title": "Nvidia Board to Probe Spying Case After CEO Admits Infidelity",
-      "score": 14.89,
+      "title": "Startup ecosystem sees sharp rise VC inflow;\nBuilding a hemp ecosystem in Uttarakhand",
+      "score": 16.38,
       "source_count": 1,
-      "published_at": "2026-11-08 20:22 UTC",
+      "published_at": "2026-11-09 02:00 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/angel-one-claims-silver-spot-in-indias-broking-race"
+        }
+      ]
+    },
+    {
+      "title": "From iPhones to GPUs: Redington, Ingram Micro ride the AI boom",
+      "score": 16.23,
+      "source_count": 1,
+      "published_at": "2026-11-09 00:31 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/nvidia-board-to-probe-spying-case-after-ceo-admits-infidelity-11794169375335.html"
+          "url": "https://www.livemint.com/companies/apple-iphones-redington-ingram-micro-ai-servers-data-centre-11794049703460.html"
         }
       ]
     },
     {
-      "title": "Apple is racing to make Siri more agentic",
-      "score": 14.78,
+      "title": "Dana White turns down Donald Trump's WH job offer",
+      "score": 14.96,
       "source_count": 1,
-      "published_at": "2026-11-08 19:18 UTC",
+      "published_at": "2026-11-09 02:41 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-only-kidding-about-naming-ufc-ceo-as-white-house-press-secretary/articleshow/135668743.cms"
+        }
+      ]
+    },
+    {
+      "title": "Delhi AQI crosses 440 after Diwali eve",
+      "score": 14.96,
+      "source_count": 1,
+      "published_at": "2026-11-09 02:41 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/india/delhi-wakes-up-to-post-diwali-smog-as-aqi-crosses-440-several-areas-record-severe-pollution-levels-burari-worst-hit/articleshow/135668725.cms"
+        }
+      ]
+    },
+    {
+      "title": "Taxpayers fret over loose ends in amnesty scheme",
+      "score": 14.93,
+      "source_count": 1,
+      "published_at": "2026-11-09 02:26 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/taxpayers-fret-over-loose-ends-in-amnesty-scheme-seek-cbdt-clarity-on-foreign-asset-disclosure-rules-as-deadline-nears/articleshow/135667947.cms"
+        }
+      ]
+    },
+    {
+      "title": "MediaNama Redesign: Advanced Search, Issues, Companies, Regulators",
+      "score": 14.93,
+      "source_count": 1,
+      "published_at": "2026-11-09 02:26 UTC",
       "topic": "tech",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-medianama-redesign-advanced-search-issues-companies-regulators/"
         }
       ]
     },
     {
-      "title": "Canva’s layoff package wins praise on LinkedIn: 6 months’ salary, 12 months’ healthcare, free MacBook and career support",
-      "score": 14.63,
+      "title": "Stock Market LIVE: GIFT Nifty indicates positive open; most Asian markets rebound; Brent below $98",
+      "score": 14.92,
       "source_count": 1,
-      "published_at": "2026-11-08 17:50 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/canvas-layoff-package-wins-praise-on-linkedin-6-months-salary-12-months-healthcare-free-macbook-and-career-support-11794144404558.html"
-        }
-      ]
-    },
-    {
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "score": 14.58,
-      "source_count": 1,
-      "published_at": "2026-11-08 17:23 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
-        }
-      ]
-    },
-    {
-      "title": "TaMo keeps M&M in its rearview as EV sales drive lead in PV market race",
-      "score": 14.57,
-      "source_count": 1,
-      "published_at": "2026-11-08 17:18 UTC",
+      "published_at": "2026-11-09 02:23 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Business Standard",
-          "url": "https://www.business-standard.com/industry/auto/tamo-keeps-m-m-in-its-rearview-as-ev-sales-drive-lead-in-pv-market-race-126110800512_1.html"
+          "url": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
         }
       ]
     },
     {
-      "title": "Amazon Pay's next customers are in small towns, and they want credit",
-      "score": 14.48,
+      "title": "How a bank's collapse toppled Paraguay's president",
+      "score": 14.9,
       "source_count": 1,
-      "published_at": "2026-11-08 16:24 UTC",
+      "published_at": "2026-11-09 02:10 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/amazon-pay-s-next-customers-are-in-small-towns-and-they-want-credit-126110800351_1.html"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/how-a-digital-banks-collapse-toppled-paraguays-president/articleshow/135668230.cms"
         }
       ]
     },
     {
-      "title": "After a $2 Billion Exit, Poppi’s Founders Take Aim at Hydration Drinks",
-      "score": 14.33,
+      "title": "Eisenkot gets mandate to form govt in Israel",
+      "score": 14.87,
       "source_count": 1,
-      "published_at": "2026-11-08 15:00 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "Adweek",
-          "url": "https://www.adweek.com/brand-marketing/after-a-2-billion-exit-poppis-founders-take-aim-at-hydration-drinks/"
-        }
-      ]
-    },
-    {
-      "title": "Egypt deepens gas cuts to fertilizer makers as energy squeeze tightens",
-      "score": 13.83,
-      "source_count": 1,
-      "published_at": "2026-11-08 10:08 UTC",
+      "published_at": "2026-11-09 01:53 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/egypt-deepens-gas-cuts-to-fertilizer-makers-as-energy-squeeze-tightens-126110800344_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Hindalco flags coal shortage, expects 5% rise in aluminium production costs",
-      "score": 13.83,
-      "source_count": 1,
-      "published_at": "2026-11-08 10:07 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/hindalco-flags-coal-shortage-expects-5-rise-in-aluminium-production-costs-126110800282_1.html"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/gadi-eisenkot-gets-mandate-to-form-govt-in-israel-after-tight-vote/articleshow/135667906.cms"
         }
       ]
     }
