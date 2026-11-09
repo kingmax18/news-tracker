@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 09, 2026 at 14:26 UTC | **Top Stories:** 10
+> **Generated on:** November 09, 2026 at 23:37 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Nvidia Probes Whether CEO Jensen Huang Was Target of Foreign Spying [6 sources]
-- **Topic:** `Business` | **Score:** `107.57` | **Published:** 2026-11-09 13:10 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/nvidia-opens-probe-into-ceo-jensen-huang-over-alleged-affair-with-woman-suspected-of-spying-for-china/articleshow/135667191.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/i-take-full-responsibility-full-text-of-jensen-huang-s-letter-to-nvidia-employees-admitting-affair-with-chinese-spy-11794189475047.html) • [BBC News - Business](https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss) • [YourStory](https://yourstory.com/2026/11/nvidia-ceo-jensen-huang-admits-affair-chinese-spying-allegations-board-probe) • [Gadgets 360](https://www.gadgets360.com/internet/news/nvidia-probe-ceo-jensen-huang-chinese-spy-12302613) • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy)
+### 1. SiriusXM Taps Tubi’s Anjali Sud as CEO to Replace Jennifer Witz [2 sources]
+- **Topic:** `Business` | **Score:** `28.91` | **Published:** 2026-11-09 16:47 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/siriusxm-names-tubi-chief-anjali-sud-as-ceo-effective-january-1-2027-126110901540_1.html) • [Adweek](https://www.adweek.com/convergent-tv/siriusxm-taps-tubis-anjali-sud-as-ceo-to-replace-jennifer-witz/)
 
-### 2. Sarvam appoints ex-Google Cloud India MD Sashikumar Sreedharan as president [2 sources]
-- **Topic:** `Business` | **Score:** `30.78` | **Published:** 2026-11-09 11:07 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/sarvam-names-google-cloud-india-head-sashikumar-sreedharan-as-president-chief-business-officer-126110900600_1.html) • [YourStory](https://yourstory.com/2026/11/sarvam-google-cloud-india-head-sashikumar-sreedharan-president-cbo)
+### 2. AI hardware startup Nominal triples valuation to $3B in 8 months [1 source]
+- **Topic:** `Startups` | **Score:** `17.56` | **Published:** 2026-11-09 19:21 UTC
+- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/)
 
-### 3. Meta launches tool on Muse to create custom interactive experiences [2 sources]
-- **Topic:** `Tech` | **Score:** `30.72` | **Published:** 2026-11-09 10:34 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/ai/news/meta-launches-spaces-feature-custom-muse-ai-app-experiences-12302566) • [MediaNama](https://www.medianama.com/2026/11/223-meta-muse-custom-interactive-experiences/)
+### 3. As wars & AI loom, India resets its power strategy [1 source]
+- **Topic:** `Business` | **Score:** `16.45` | **Published:** 2026-11-09 08:41 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/renewables/india-renewable-energy-oil-and-gas-geopolitical-conflict-energy-security-when-wars-and-ai-cast-a-shadow-india-has-pressed-a-power-reset/articleshow/135675996.cms)
 
-### 4. Jensen Huang's affair: The China espionage mystery [2 sources]
-- **Topic:** `Business` | **Score:** `29.61` | **Published:** 2026-11-09 14:21 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/nvidia-billionaire-jensen-huangs-secret-affair-with-alice-huang-and-the-suspected-china-spy-operation-drawing-us-scrutiny/articleshow/135670133.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/what-is-megaspeed-the-nvidia-partner-at-the-centre-of-jensen-huang-s-china-espionage-controversy-11794230028279.html)
+### 4. The global pledge to use AI for climate good is a cruel joke [1 source]
+- **Topic:** `Tech` | **Score:** `16.25` | **Published:** 2026-11-09 21:13 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31)
 
-### 5. How Ogilvy uses AI to unlock scale, protect rights for brand talent shoots [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `17.95` | **Published:** 2026-11-09 14:00 UTC
-- **Coverage:** [Marketing Dive](https://www.marketingdive.com/news/how-ogilvy-uses-ai-to-unlock-scale-protect-rights-for-brand-talent-shoots/874014/)
+### 5. Gentle Monster Teases AI Smart Glasses With Gemini Integration Ahead of December Launch [1 source]
+- **Topic:** `Tech` | **Score:** `16.21` | **Published:** 2026-11-09 06:28 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/ai/news/gentle-monster-intelligent-eyewear-teaser-hints-at-ai-translation-feature-12302160)
 
-### 6. Who is Harris Ahmed? Meet the Pakistani AI startup founder whose RLabs won an award in Silicon Valley [1 source]
-- **Topic:** `Business` | **Score:** `17.81` | **Published:** 2026-11-09 12:38 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/who-is-harris-ahmed-meet-the-pakistani-ai-startup-founder-whose-rlabs-won-an-award-in-silicon-valley-11794226248117.html)
+### 6. Apple’s $50 Intelligence Usage Packs extend access to some AI features [1 source]
+- **Topic:** `Tech` | **Score:** `16.04` | **Published:** 2026-11-09 19:09 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro)
 
-### 7. Samsung Galaxy AI Premium Subscription to Launch With Higher Usage Limits and New AI Tools: Report [1 source]
-- **Topic:** `Tech` | **Score:** `17.68` | **Published:** 2026-11-09 11:24 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/samsung-galaxy-ai-premium-subscription-price-higher-usage-limits-new-features-benefits-12303480)
+### 7. India’s emissions to rise 4.4% despite global dip [1 source]
+- **Topic:** `Business` | **Score:** `15.99` | **Published:** 2026-11-09 18:42 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/indicators/indias-emissions-to-rise-4-4-despite-global-dip-study/articleshow/135691538.cms)
 
-### 8. Xiaomi 18 Reportedly Spotted on 3C Certification Website With 100W Fast Charging Support [1 source]
-- **Topic:** `Tech` | **Score:** `17.68` | **Published:** 2026-11-09 11:23 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/tablets/news/oppo-pad-6f-bis-certification-india-launch-imminent-leak-12303247)
+### 8. Instagram’s Effect Builder makes new filters from AI prompts [1 source]
+- **Topic:** `Tech` | **Score:** `15.93` | **Published:** 2026-11-09 18:07 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters)
 
-### 9. Vivo X500 Ultra Launch Timeline, Camera Specifications Tipped Again [1 source]
-- **Topic:** `Tech` | **Score:** `17.68` | **Published:** 2026-11-09 11:22 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/vivo-x500-x500-pro-x500-pro-max-master-set-prices-in-india-12303242)
+### 9. The future of AI hinges on… Jensen Huang’s sex life? [1 source]
+- **Topic:** `Tech` | **Score:** `15.87` | **Published:** 2026-11-09 17:36 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me)
 
-### 10. Xiaomi 18 Pro India Launch Timeline, Xiaomi 18T Key Specifications and Features Surface Online [1 source]
-- **Topic:** `Tech` | **Score:** `17.34` | **Published:** 2026-11-09 08:07 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/xiaomi-18-pro-india-launch-timeline-tipped-18t-specifications-features-report-12302655)
+### 10. Piyush Goyal meets Skoda Volkswagen India CEO [1 source]
+- **Topic:** `Business` | **Score:** `15.62` | **Published:** 2026-11-09 15:08 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/auto/auto-news/piyush-goyal-meets-skoda-auto-volkswagen-india-ceo-talks-focus-on-ev-push-exports/articleshow/135685828.cms)
