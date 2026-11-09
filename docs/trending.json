@@ -1,138 +1,166 @@
 {
-  "generated_at": "2026-11-09 03:06:37 UTC",
+  "generated_at": "2026-11-09 14:26:38 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Jio vs Airtel vs Vi: 84 Days Prepaid Plans Compared",
-      "score": 27.45,
-      "source_count": 2,
-      "published_at": "2026-11-08 06:17 UTC",
+      "title": "Nvidia Probes Whether CEO Jensen Huang Was Target of Foreign Spying",
+      "score": 107.57,
+      "source_count": 6,
+      "published_at": "2026-11-09 13:10 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-and-silver-rates-today-november-8-2026-check-24k-20k-and-18k-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq-in-delhi-mumbai-hyderabad/articleshow/135653016.cms"
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-opens-probe-into-ceo-jensen-huang-over-alleged-affair-with-woman-suspected-of-spying-for-china/articleshow/135667191.cms"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/i-take-full-responsibility-full-text-of-jensen-huang-s-letter-to-nvidia-employees-admitting-affair-with-chinese-spy-11794189475047.html"
+        },
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/nvidia-ceo-jensen-huang-admits-affair-chinese-spying-allegations-board-probe"
         },
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/telecom/features/jio-versus-airtel-versus-vi-84-days-data-and-voice-only-plans-compared-12277268"
-        }
-      ]
-    },
-    {
-      "title": "Startup ecosystem sees sharp rise VC inflow;\nBuilding a hemp ecosystem in Uttarakhand",
-      "score": 16.38,
-      "source_count": 1,
-      "published_at": "2026-11-09 02:00 UTC",
-      "topic": "startups",
-      "sources": [
+          "url": "https://www.gadgets360.com/internet/news/nvidia-probe-ceo-jensen-huang-chinese-spy-12302613"
+        },
         {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/angel-one-claims-silver-spot-in-indias-broking-race"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
         }
       ]
     },
     {
-      "title": "From iPhones to GPUs: Redington, Ingram Micro ride the AI boom",
-      "score": 16.23,
-      "source_count": 1,
-      "published_at": "2026-11-09 00:31 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/apple-iphones-redington-ingram-micro-ai-servers-data-centre-11794049703460.html"
-        }
-      ]
-    },
-    {
-      "title": "Dana White turns down Donald Trump's WH job offer",
-      "score": 14.96,
-      "source_count": 1,
-      "published_at": "2026-11-09 02:41 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-only-kidding-about-naming-ufc-ceo-as-white-house-press-secretary/articleshow/135668743.cms"
-        }
-      ]
-    },
-    {
-      "title": "Delhi AQI crosses 440 after Diwali eve",
-      "score": 14.96,
-      "source_count": 1,
-      "published_at": "2026-11-09 02:41 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/india/delhi-wakes-up-to-post-diwali-smog-as-aqi-crosses-440-several-areas-record-severe-pollution-levels-burari-worst-hit/articleshow/135668725.cms"
-        }
-      ]
-    },
-    {
-      "title": "Taxpayers fret over loose ends in amnesty scheme",
-      "score": 14.93,
-      "source_count": 1,
-      "published_at": "2026-11-09 02:26 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/taxpayers-fret-over-loose-ends-in-amnesty-scheme-seek-cbdt-clarity-on-foreign-asset-disclosure-rules-as-deadline-nears/articleshow/135667947.cms"
-        }
-      ]
-    },
-    {
-      "title": "MediaNama Redesign: Advanced Search, Issues, Companies, Regulators",
-      "score": 14.93,
-      "source_count": 1,
-      "published_at": "2026-11-09 02:26 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-medianama-redesign-advanced-search-issues-companies-regulators/"
-        }
-      ]
-    },
-    {
-      "title": "Stock Market LIVE: GIFT Nifty indicates positive open; most Asian markets rebound; Brent below $98",
-      "score": 14.92,
-      "source_count": 1,
-      "published_at": "2026-11-09 02:23 UTC",
+      "title": "Sarvam appoints ex-Google Cloud India MD Sashikumar Sreedharan as president",
+      "score": 30.78,
+      "source_count": 2,
+      "published_at": "2026-11-09 11:07 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html"
+          "url": "https://www.business-standard.com/companies/news/sarvam-names-google-cloud-india-head-sashikumar-sreedharan-as-president-chief-business-officer-126110900600_1.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/sarvam-google-cloud-india-head-sashikumar-sreedharan-president-cbo"
         }
       ]
     },
     {
-      "title": "How a bank's collapse toppled Paraguay's president",
-      "score": 14.9,
-      "source_count": 1,
-      "published_at": "2026-11-09 02:10 UTC",
-      "topic": "business",
+      "title": "Meta launches tool on Muse to create custom interactive experiences",
+      "score": 30.72,
+      "source_count": 2,
+      "published_at": "2026-11-09 10:34 UTC",
+      "topic": "tech",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/how-a-digital-banks-collapse-toppled-paraguays-president/articleshow/135668230.cms"
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/ai/news/meta-launches-spaces-feature-custom-muse-ai-app-experiences-12302566"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-meta-muse-custom-interactive-experiences/"
         }
       ]
     },
     {
-      "title": "Eisenkot gets mandate to form govt in Israel",
-      "score": 14.87,
-      "source_count": 1,
-      "published_at": "2026-11-09 01:53 UTC",
+      "title": "Jensen Huang's affair: The China espionage mystery",
+      "score": 29.61,
+      "source_count": 2,
+      "published_at": "2026-11-09 14:21 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/gadi-eisenkot-gets-mandate-to-form-govt-in-israel-after-tight-vote/articleshow/135667906.cms"
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/nvidia-billionaire-jensen-huangs-secret-affair-with-alice-huang-and-the-suspected-china-spy-operation-drawing-us-scrutiny/articleshow/135670133.cms"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/what-is-megaspeed-the-nvidia-partner-at-the-centre-of-jensen-huang-s-china-espionage-controversy-11794230028279.html"
+        }
+      ]
+    },
+    {
+      "title": "How Ogilvy uses AI to unlock scale, protect rights for brand talent shoots",
+      "score": 17.95,
+      "source_count": 1,
+      "published_at": "2026-11-09 14:00 UTC",
+      "topic": "marketing_and_branding",
+      "sources": [
+        {
+          "name": "Marketing Dive",
+          "url": "https://www.marketingdive.com/news/how-ogilvy-uses-ai-to-unlock-scale-protect-rights-for-brand-talent-shoots/874014/"
+        }
+      ]
+    },
+    {
+      "title": "Who is Harris Ahmed? Meet the Pakistani AI startup founder whose RLabs won an award in Silicon Valley",
+      "score": 17.81,
+      "source_count": 1,
+      "published_at": "2026-11-09 12:38 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/who-is-harris-ahmed-meet-the-pakistani-ai-startup-founder-whose-rlabs-won-an-award-in-silicon-valley-11794226248117.html"
+        }
+      ]
+    },
+    {
+      "title": "Samsung Galaxy AI Premium Subscription to Launch With Higher Usage Limits and New AI Tools: Report",
+      "score": 17.68,
+      "source_count": 1,
+      "published_at": "2026-11-09 11:24 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-ai-premium-subscription-price-higher-usage-limits-new-features-benefits-12303480"
+        }
+      ]
+    },
+    {
+      "title": "Xiaomi 18 Reportedly Spotted on 3C Certification Website With 100W Fast Charging Support",
+      "score": 17.68,
+      "source_count": 1,
+      "published_at": "2026-11-09 11:23 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/tablets/news/oppo-pad-6f-bis-certification-india-launch-imminent-leak-12303247"
+        }
+      ]
+    },
+    {
+      "title": "Vivo X500 Ultra Launch Timeline, Camera Specifications Tipped Again",
+      "score": 17.68,
+      "source_count": 1,
+      "published_at": "2026-11-09 11:22 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/vivo-x500-x500-pro-x500-pro-max-master-set-prices-in-india-12303242"
+        }
+      ]
+    },
+    {
+      "title": "Xiaomi 18 Pro India Launch Timeline, Xiaomi 18T Key Specifications and Features Surface Online",
+      "score": 17.34,
+      "source_count": 1,
+      "published_at": "2026-11-09 08:07 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/xiaomi-18-pro-india-launch-timeline-tipped-18t-specifications-features-report-12302655"
         }
       ]
     }
