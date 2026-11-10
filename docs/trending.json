@@ -1,138 +1,142 @@
 {
-  "generated_at": "2026-11-09 23:37:02 UTC",
+  "generated_at": "2026-11-10 04:50:26 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "SiriusXM Taps Tubi’s Anjali Sud as CEO to Replace Jennifer Witz",
-      "score": 28.91,
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "score": 30.87,
       "source_count": 2,
-      "published_at": "2026-11-09 16:47 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/siriusxm-names-tubi-chief-anjali-sud-as-ceo-effective-january-1-2027-126110901540_1.html"
-        },
-        {
-          "name": "Adweek",
-          "url": "https://www.adweek.com/convergent-tv/siriusxm-taps-tubis-anjali-sud-as-ceo-to-replace-jennifer-witz/"
-        }
-      ]
-    },
-    {
-      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "score": 17.56,
-      "source_count": 1,
-      "published_at": "2026-11-09 19:21 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "TechCrunch - Startups",
-          "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"
-        }
-      ]
-    },
-    {
-      "title": "As wars & AI loom, India resets its power strategy",
-      "score": 16.45,
-      "source_count": 1,
-      "published_at": "2026-11-09 08:41 UTC",
+      "published_at": "2026-11-10 02:23 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/renewables/india-renewable-energy-oil-and-gas-geopolitical-conflict-energy-security-when-wars-and-ai-cast-a-shadow-india-has-pressed-a-power-reset/articleshow/135675996.cms"
+          "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/australias-qantas-airways-to-cut-850-jobs-as-ai-takes-off-back-office-work-shifts-to-india/articleshow/135696879.cms"
+        },
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "The global pledge to use AI for climate good is a cruel joke",
-      "score": 16.25,
-      "source_count": 1,
-      "published_at": "2026-11-09 21:13 UTC",
-      "topic": "tech",
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "score": 29.53,
+      "source_count": 2,
+      "published_at": "2026-11-10 03:54 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/who-are-james-gunn-and-peter-safran-of-dc-studios-why-are-they-stepping-down-who-from-marvel-is-replacing-them-11794278446119.html"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
         }
       ]
     },
     {
-      "title": "Gentle Monster Teases AI Smart Glasses With Gemini Integration Ahead of December Launch",
-      "score": 16.21,
+      "title": "Dyson Hot+Cool HF1 Fan, Dyson Cool Tower Fan Launched in India With Air Multiplier Technology: Price, Features",
+      "score": 17.86,
       "source_count": 1,
-      "published_at": "2026-11-09 06:28 UTC",
+      "published_at": "2026-11-10 03:32 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/ai/news/gentle-monster-intelligent-eyewear-teaser-hints-at-ai-translation-feature-12302160"
+          "url": "https://www.gadgets360.com/home-appliances/news/dyson-hot-cool-hf1-fan-heater-cool-tower-price-in-india-launch-sale-date-specifications-features-12306084"
         }
       ]
     },
     {
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "score": 16.04,
+      "title": "Temple is made for the world’: Deepinder Goyal says doesn’t expect more than 1% sale in India amid debate over pricing",
+      "score": 16.48,
       "source_count": 1,
-      "published_at": "2026-11-09 19:09 UTC",
-      "topic": "tech",
+      "published_at": "2026-11-10 04:37 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/temple-is-made-for-the-world-deepinder-goyal-says-doesn-t-expect-more-than-1-sale-in-india-amid-debate-over-pricing-11794284802672.html"
         }
       ]
     },
     {
-      "title": "India’s emissions to rise 4.4% despite global dip",
-      "score": 15.99,
+      "title": "Philanthropists back AI for public good",
+      "score": 16.41,
       "source_count": 1,
-      "published_at": "2026-11-09 18:42 UTC",
+      "published_at": "2026-11-10 03:59 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-emissions-to-rise-4-4-despite-global-dip-study/articleshow/135691538.cms"
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ode-to-a-compassionate-algorithm-philanthropists-are-backing-ai-for-public-good/articleshow/135698465.cms"
         }
       ]
     },
     {
-      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "score": 15.93,
+      "title": "Why BIAL is making crisis response part of its larger brand strategy",
+      "score": 16.38,
       "source_count": 1,
-      "published_at": "2026-11-09 18:07 UTC",
-      "topic": "tech",
+      "published_at": "2026-11-10 03:41 UTC",
+      "topic": "marketing_and_branding",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters"
+          "name": "ET Brand Equity - Marketing",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/why-bial-is-making-crisis-response-part-of-its-larger-brand-strategy/135697946"
         }
       ]
     },
     {
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "score": 15.87,
+      "title": "Foreign investors keep faith in 83 stocks despite prolonged India selloff",
+      "score": 16.09,
       "source_count": 1,
-      "published_at": "2026-11-09 17:36 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me"
-        }
-      ]
-    },
-    {
-      "title": "Piyush Goyal meets Skoda Volkswagen India CEO",
-      "score": 15.62,
-      "source_count": 1,
-      "published_at": "2026-11-09 15:08 UTC",
+      "published_at": "2026-11-10 00:51 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/piyush-goyal-meets-skoda-auto-volkswagen-india-ceo-talks-focus-on-ev-push-exports/articleshow/135685828.cms"
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-keep-faith-in-83-stocks-despite-28-billion-selloff/articleshow/135696068.cms"
+        }
+      ]
+    },
+    {
+      "title": "Microdrama startups rewrite their growth pitch",
+      "score": 16.05,
+      "source_count": 1,
+      "published_at": "2026-11-10 00:30 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/tech/startups/from-content-to-code-microdrama-platforms-are-rescripting-their-growth/articleshow/135688745.cms"
+        }
+      ]
+    },
+    {
+      "title": "Linguistic barriers slow India’s VoiceAI shift",
+      "score": 16.05,
+      "source_count": 1,
+      "published_at": "2026-11-10 00:30 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/linguistic-barriers-legacy-tech-slow-indias-voiceai-shift/articleshow/135689702.cms"
+        }
+      ]
+    },
+    {
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history",
+      "score": 16.05,
+      "source_count": 1,
+      "published_at": "2026-11-10 00:28 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
         }
       ]
     }

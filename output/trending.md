@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 09, 2026 at 23:37 UTC | **Top Stories:** 10
+> **Generated on:** November 10, 2026 at 04:50 UTC | **Top Stories:** 10
 
 ---
 
-### 1. SiriusXM Taps Tubi’s Anjali Sud as CEO to Replace Jennifer Witz [2 sources]
-- **Topic:** `Business` | **Score:** `28.91` | **Published:** 2026-11-09 16:47 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/siriusxm-names-tubi-chief-anjali-sud-as-ceo-effective-january-1-2027-126110901540_1.html) • [Adweek](https://www.adweek.com/convergent-tv/siriusxm-taps-tubis-anjali-sud-as-ceo-to-replace-jennifer-witz/)
+### 1. Qantas to outsource 850 local jobs with most roles moving to India [2 sources]
+- **Topic:** `Business` | **Score:** `30.87` | **Published:** 2026-11-10 02:23 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/australias-qantas-airways-to-cut-850-jobs-as-ai-takes-off-back-office-work-shifts-to-india/articleshow/135696879.cms) • [BBC News - Business](https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss)
 
-### 2. AI hardware startup Nominal triples valuation to $3B in 8 months [1 source]
-- **Topic:** `Startups` | **Score:** `17.56` | **Published:** 2026-11-09 19:21 UTC
-- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/)
+### 2. DCU shake-up: James Gunn and Peter Safran out post-merger [2 sources]
+- **Topic:** `Business` | **Score:** `29.53` | **Published:** 2026-11-10 03:54 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-are-james-gunn-and-peter-safran-of-dc-studios-why-are-they-stepping-down-who-from-marvel-is-replacing-them-11794278446119.html) • [Ars Technica](https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/)
 
-### 3. As wars & AI loom, India resets its power strategy [1 source]
-- **Topic:** `Business` | **Score:** `16.45` | **Published:** 2026-11-09 08:41 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/renewables/india-renewable-energy-oil-and-gas-geopolitical-conflict-energy-security-when-wars-and-ai-cast-a-shadow-india-has-pressed-a-power-reset/articleshow/135675996.cms)
+### 3. Dyson Hot+Cool HF1 Fan, Dyson Cool Tower Fan Launched in India With Air Multiplier Technology: Price, Features [1 source]
+- **Topic:** `Tech` | **Score:** `17.86` | **Published:** 2026-11-10 03:32 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/home-appliances/news/dyson-hot-cool-hf1-fan-heater-cool-tower-price-in-india-launch-sale-date-specifications-features-12306084)
 
-### 4. The global pledge to use AI for climate good is a cruel joke [1 source]
-- **Topic:** `Tech` | **Score:** `16.25` | **Published:** 2026-11-09 21:13 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31)
+### 4. Temple is made for the world’: Deepinder Goyal says doesn’t expect more than 1% sale in India amid debate over pricing [1 source]
+- **Topic:** `Business` | **Score:** `16.48` | **Published:** 2026-11-10 04:37 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/temple-is-made-for-the-world-deepinder-goyal-says-doesn-t-expect-more-than-1-sale-in-india-amid-debate-over-pricing-11794284802672.html)
 
-### 5. Gentle Monster Teases AI Smart Glasses With Gemini Integration Ahead of December Launch [1 source]
-- **Topic:** `Tech` | **Score:** `16.21` | **Published:** 2026-11-09 06:28 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/ai/news/gentle-monster-intelligent-eyewear-teaser-hints-at-ai-translation-feature-12302160)
+### 5. Philanthropists back AI for public good [1 source]
+- **Topic:** `Business` | **Score:** `16.41` | **Published:** 2026-11-10 03:59 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/artificial-intelligence/ode-to-a-compassionate-algorithm-philanthropists-are-backing-ai-for-public-good/articleshow/135698465.cms)
 
-### 6. Apple’s $50 Intelligence Usage Packs extend access to some AI features [1 source]
-- **Topic:** `Tech` | **Score:** `16.04` | **Published:** 2026-11-09 19:09 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro)
+### 6. Why BIAL is making crisis response part of its larger brand strategy [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `16.38` | **Published:** 2026-11-10 03:41 UTC
+- **Coverage:** [ET Brand Equity - Marketing](https://brandequity.economictimes.indiatimes.com/news/marketing/why-bial-is-making-crisis-response-part-of-its-larger-brand-strategy/135697946)
 
-### 7. India’s emissions to rise 4.4% despite global dip [1 source]
-- **Topic:** `Business` | **Score:** `15.99` | **Published:** 2026-11-09 18:42 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/indicators/indias-emissions-to-rise-4-4-despite-global-dip-study/articleshow/135691538.cms)
+### 7. Foreign investors keep faith in 83 stocks despite prolonged India selloff [1 source]
+- **Topic:** `Business` | **Score:** `16.09` | **Published:** 2026-11-10 00:51 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/stocks/news/fpis-keep-faith-in-83-stocks-despite-28-billion-selloff/articleshow/135696068.cms)
 
-### 8. Instagram’s Effect Builder makes new filters from AI prompts [1 source]
-- **Topic:** `Tech` | **Score:** `15.93` | **Published:** 2026-11-09 18:07 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters)
+### 8. Microdrama startups rewrite their growth pitch [1 source]
+- **Topic:** `Business` | **Score:** `16.05` | **Published:** 2026-11-10 00:30 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/startups/from-content-to-code-microdrama-platforms-are-rescripting-their-growth/articleshow/135688745.cms)
 
-### 9. The future of AI hinges on… Jensen Huang’s sex life? [1 source]
-- **Topic:** `Tech` | **Score:** `15.87` | **Published:** 2026-11-09 17:36 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me)
+### 9. Linguistic barriers slow India’s VoiceAI shift [1 source]
+- **Topic:** `Business` | **Score:** `16.05` | **Published:** 2026-11-10 00:30 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/artificial-intelligence/linguistic-barriers-legacy-tech-slow-indias-voiceai-shift/articleshow/135689702.cms)
 
-### 10. Piyush Goyal meets Skoda Volkswagen India CEO [1 source]
-- **Topic:** `Business` | **Score:** `15.62` | **Published:** 2026-11-09 15:08 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/auto/auto-news/piyush-goyal-meets-skoda-auto-volkswagen-india-ceo-talks-focus-on-ev-push-exports/articleshow/135685828.cms)
+### 10. David Ellison says AI could be the ‘biggest creative unlock in modern history [1 source]
+- **Topic:** `Tech` | **Score:** `16.05` | **Published:** 2026-11-10 00:28 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai)
