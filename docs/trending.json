@@ -1,142 +1,162 @@
 {
-  "generated_at": "2026-11-10 04:50:26 UTC",
+  "generated_at": "2026-11-10 13:49:39 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "score": 30.87,
-      "source_count": 2,
-      "published_at": "2026-11-10 02:23 UTC",
+      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+      "score": 65.37,
+      "source_count": 4,
+      "published_at": "2026-11-10 11:20 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/australias-qantas-airways-to-cut-850-jobs-as-ai-takes-off-back-office-work-shifts-to-india/articleshow/135696879.cms"
+          "url": "https://economictimes.indiatimes.com/news/international/business/nvidia-and-ceo-jensen-huang-face-class-action-lawsuit-over-chinese-spy-affair-alice-huang/articleshow/135708391.cms"
         },
         {
           "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/donald-trump-says-fbi-is-investigating-jensen-huang-s-affair-with-alleged-chinese-spy-as-trouble-mounts-for-nvidia-ceo-11794273697767.html"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
         }
       ]
     },
     {
-      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-      "score": 29.53,
-      "source_count": 2,
-      "published_at": "2026-11-10 03:54 UTC",
+      "title": "Blackstone to invest  ₹5,000 crore in IIFL Finance for 16% stake",
+      "score": 46.7,
+      "source_count": 3,
+      "published_at": "2026-11-10 13:42 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/who-are-james-gunn-and-peter-safran-of-dc-studios-why-are-they-stepping-down-who-from-marvel-is-replacing-them-11794278446119.html"
+          "url": "https://www.livemint.com/companies/blackstone-iifl-finance-16-stake-buy-nbfc-pe-deal-11794312414497.html"
         },
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/iifl-finance-to-raise-6-414-crore-from-blackstone-promoters-others-126111000601_1.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion"
         }
       ]
     },
     {
-      "title": "Dyson Hot+Cool HF1 Fan, Dyson Cool Tower Fan Launched in India With Air Multiplier Technology: Price, Features",
-      "score": 17.86,
+      "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
+      "score": 30.32,
+      "source_count": 2,
+      "published_at": "2026-11-10 06:07 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/sebi-clears-makemytrips-india-ipo/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/makemytrip-india-arm-gets-sebi-nod-to-float-ipo"
+        }
+      ]
+    },
+    {
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "score": 29.27,
+      "source_count": 2,
+      "published_at": "2026-11-10 10:26 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/jensen-huang-said-nvidia-could-be-of-great-service-to-china-before-spy-allegations-surfaced-11794305918288.html"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
+        }
+      ]
+    },
+    {
+      "title": "Urban Arc Go 2 Fitness Band, Q9i AI ANC TWS Earbuds Launched in India: Price, Specifications",
+      "score": 19.31,
       "source_count": 1,
-      "published_at": "2026-11-10 03:32 UTC",
+      "published_at": "2026-11-10 12:01 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/home-appliances/news/dyson-hot-cool-hf1-fan-heater-cool-tower-price-in-india-launch-sale-date-specifications-features-12306084"
+          "url": "https://www.gadgets360.com/wearables/news/urban-arc-go-2-fitness-band-q9i-ai-anc-tws-earbuds-price-in-india-launch-sale-features-specifications-12308058"
         }
       ]
     },
     {
-      "title": "Temple is made for the world’: Deepinder Goyal says doesn’t expect more than 1% sale in India amid debate over pricing",
-      "score": 16.48,
+      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+      "score": 17.78,
       "source_count": 1,
-      "published_at": "2026-11-10 04:37 UTC",
+      "published_at": "2026-11-10 11:43 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/temple-is-made-for-the-world-deepinder-goyal-says-doesn-t-expect-more-than-1-sale-in-india-amid-debate-over-pricing-11794284802672.html"
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Philanthropists back AI for public good",
-      "score": 16.41,
+      "title": "India beats UK, Japan in the AI race: Anand Mahindra",
+      "score": 17.61,
       "source_count": 1,
-      "published_at": "2026-11-10 03:59 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ode-to-a-compassionate-algorithm-philanthropists-are-backing-ai-for-public-good/articleshow/135698465.cms"
-        }
-      ]
-    },
-    {
-      "title": "Why BIAL is making crisis response part of its larger brand strategy",
-      "score": 16.38,
-      "source_count": 1,
-      "published_at": "2026-11-10 03:41 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "ET Brand Equity - Marketing",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/why-bial-is-making-crisis-response-part-of-its-larger-brand-strategy/135697946"
-        }
-      ]
-    },
-    {
-      "title": "Foreign investors keep faith in 83 stocks despite prolonged India selloff",
-      "score": 16.09,
-      "source_count": 1,
-      "published_at": "2026-11-10 00:51 UTC",
+      "published_at": "2026-11-10 10:04 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-keep-faith-in-83-stocks-despite-28-billion-selloff/articleshow/135696068.cms"
+          "url": "https://economictimes.indiatimes.com/news/new-updates/its-the-ecosystem-stupid-anand-mahindra-celebrates-indias-rise-to-the-top-3-in-the-ai-race-beating-the-uk-japan-and-south-korea/articleshow/135704748.cms"
         }
       ]
     },
     {
-      "title": "Microdrama startups rewrite their growth pitch",
-      "score": 16.05,
+      "title": "Meta’s Muse Personal AI Agent Pricing for India Revealed Ahead of Debut: Report",
+      "score": 17.04,
       "source_count": 1,
-      "published_at": "2026-11-10 00:30 UTC",
-      "topic": "business",
+      "published_at": "2026-11-10 04:36 UTC",
+      "topic": "tech",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/tech/startups/from-content-to-code-microdrama-platforms-are-rescripting-their-growth/articleshow/135688745.cms"
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/ai/news/meta-muse-ai-price-in-india-revealed-launch-report-12306267"
         }
       ]
     },
     {
-      "title": "Linguistic barriers slow India’s VoiceAI shift",
-      "score": 16.05,
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "score": 16.47,
       "source_count": 1,
-      "published_at": "2026-11-10 00:30 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/linguistic-barriers-legacy-tech-slow-indias-voiceai-shift/articleshow/135689702.cms"
-        }
-      ]
-    },
-    {
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history",
-      "score": 16.05,
-      "source_count": 1,
-      "published_at": "2026-11-10 00:28 UTC",
+      "published_at": "2026-11-10 13:30 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
+          "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+        }
+      ]
+    },
+    {
+      "title": "Matrimony Q2 Profit Soars 2.7X YoY To ₹20.7 Cr, Revenue up 17.6%",
+      "score": 16.43,
+      "source_count": 1,
+      "published_at": "2026-11-10 13:10 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/matrimony-q2-profit-soars-2-7x-yoy-to-%e2%82%b920-7-cr-revenue-up-17-6/"
         }
       ]
     }

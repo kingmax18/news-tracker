@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 10, 2026 at 04:50 UTC | **Top Stories:** 10
+> **Generated on:** November 10, 2026 at 13:49 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Qantas to outsource 850 local jobs with most roles moving to India [2 sources]
-- **Topic:** `Business` | **Score:** `30.87` | **Published:** 2026-11-10 02:23 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/australias-qantas-airways-to-cut-850-jobs-as-ai-takes-off-back-office-work-shifts-to-india/articleshow/135696879.cms) • [BBC News - Business](https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss)
+### 1. What do we know about Nvidia CEO’s affair with a suspected Chinese spy? [4 sources]
+- **Topic:** `Business` | **Score:** `65.37` | **Published:** 2026-11-10 11:20 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/business/nvidia-and-ceo-jensen-huang-face-class-action-lawsuit-over-chinese-spy-affair-alice-huang/articleshow/135708391.cms) • [BBC News - Business](https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/donald-trump-says-fbi-is-investigating-jensen-huang-s-affair-with-alleged-chinese-spy-as-trouble-mounts-for-nvidia-ceo-11794273697767.html) • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang)
 
-### 2. DCU shake-up: James Gunn and Peter Safran out post-merger [2 sources]
-- **Topic:** `Business` | **Score:** `29.53` | **Published:** 2026-11-10 03:54 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-are-james-gunn-and-peter-safran-of-dc-studios-why-are-they-stepping-down-who-from-marvel-is-replacing-them-11794278446119.html) • [Ars Technica](https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/)
+### 2. Blackstone to invest  ₹5,000 crore in IIFL Finance for 16% stake [3 sources]
+- **Topic:** `Business` | **Score:** `46.7` | **Published:** 2026-11-10 13:42 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/blackstone-iifl-finance-16-stake-buy-nbfc-pe-deal-11794312414497.html) • [Business Standard](https://www.business-standard.com/companies/news/iifl-finance-to-raise-6-414-crore-from-blackstone-promoters-others-126111000601_1.html) • [YourStory](https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion)
 
-### 3. Dyson Hot+Cool HF1 Fan, Dyson Cool Tower Fan Launched in India With Air Multiplier Technology: Price, Features [1 source]
-- **Topic:** `Tech` | **Score:** `17.86` | **Published:** 2026-11-10 03:32 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/home-appliances/news/dyson-hot-cool-hf1-fan-heater-cool-tower-price-in-india-launch-sale-date-specifications-features-12306084)
+### 3. MakeMyTrip's India arm gets Sebi nod to float IPO [2 sources]
+- **Topic:** `Startups` | **Score:** `30.32` | **Published:** 2026-11-10 06:07 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/sebi-clears-makemytrips-india-ipo/) • [YourStory](https://yourstory.com/2026/11/makemytrip-india-arm-gets-sebi-nod-to-float-ipo)
 
-### 4. Temple is made for the world’: Deepinder Goyal says doesn’t expect more than 1% sale in India amid debate over pricing [1 source]
-- **Topic:** `Business` | **Score:** `16.48` | **Published:** 2026-11-10 04:37 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/temple-is-made-for-the-world-deepinder-goyal-says-doesn-t-expect-more-than-1-sale-in-india-amid-debate-over-pricing-11794284802672.html)
+### 4. Here’s what Trump said he knew about Jensen Huang [2 sources]
+- **Topic:** `Business` | **Score:** `29.27` | **Published:** 2026-11-10 10:26 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/jensen-huang-said-nvidia-could-be-of-great-service-to-china-before-spy-allegations-surfaced-11794305918288.html) • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang)
 
-### 5. Philanthropists back AI for public good [1 source]
-- **Topic:** `Business` | **Score:** `16.41` | **Published:** 2026-11-10 03:59 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/artificial-intelligence/ode-to-a-compassionate-algorithm-philanthropists-are-backing-ai-for-public-good/articleshow/135698465.cms)
+### 5. Urban Arc Go 2 Fitness Band, Q9i AI ANC TWS Earbuds Launched in India: Price, Specifications [1 source]
+- **Topic:** `Tech` | **Score:** `19.31` | **Published:** 2026-11-10 12:01 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/wearables/news/urban-arc-go-2-fitness-band-q9i-ai-anc-tws-earbuds-price-in-india-launch-sale-features-specifications-12308058)
 
-### 6. Why BIAL is making crisis response part of its larger brand strategy [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `16.38` | **Published:** 2026-11-10 03:41 UTC
-- **Coverage:** [ET Brand Equity - Marketing](https://brandequity.economictimes.indiatimes.com/news/marketing/why-bial-is-making-crisis-response-part-of-its-larger-brand-strategy/135697946)
+### 6. Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch [1 source]
+- **Topic:** `Business` | **Score:** `17.78` | **Published:** 2026-11-10 11:43 UTC
+- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss)
 
-### 7. Foreign investors keep faith in 83 stocks despite prolonged India selloff [1 source]
-- **Topic:** `Business` | **Score:** `16.09` | **Published:** 2026-11-10 00:51 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/stocks/news/fpis-keep-faith-in-83-stocks-despite-28-billion-selloff/articleshow/135696068.cms)
+### 7. India beats UK, Japan in the AI race: Anand Mahindra [1 source]
+- **Topic:** `Business` | **Score:** `17.61` | **Published:** 2026-11-10 10:04 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/its-the-ecosystem-stupid-anand-mahindra-celebrates-indias-rise-to-the-top-3-in-the-ai-race-beating-the-uk-japan-and-south-korea/articleshow/135704748.cms)
 
-### 8. Microdrama startups rewrite their growth pitch [1 source]
-- **Topic:** `Business` | **Score:** `16.05` | **Published:** 2026-11-10 00:30 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/startups/from-content-to-code-microdrama-platforms-are-rescripting-their-growth/articleshow/135688745.cms)
+### 8. Meta’s Muse Personal AI Agent Pricing for India Revealed Ahead of Debut: Report [1 source]
+- **Topic:** `Tech` | **Score:** `17.04` | **Published:** 2026-11-10 04:36 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/ai/news/meta-muse-ai-price-in-india-revealed-launch-report-12306267)
 
-### 9. Linguistic barriers slow India’s VoiceAI shift [1 source]
-- **Topic:** `Business` | **Score:** `16.05` | **Published:** 2026-11-10 00:30 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/artificial-intelligence/linguistic-barriers-legacy-tech-slow-indias-voiceai-shift/articleshow/135689702.cms)
+### 9. Hands-on with Ring’s new AI drone camera for your home [1 source]
+- **Topic:** `Tech` | **Score:** `16.47` | **Published:** 2026-11-10 13:30 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot)
 
-### 10. David Ellison says AI could be the ‘biggest creative unlock in modern history [1 source]
-- **Topic:** `Tech` | **Score:** `16.05` | **Published:** 2026-11-10 00:28 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai)
+### 10. Matrimony Q2 Profit Soars 2.7X YoY To ₹20.7 Cr, Revenue up 17.6% [1 source]
+- **Topic:** `Startups` | **Score:** `16.43` | **Published:** 2026-11-10 13:10 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/matrimony-q2-profit-soars-2-7x-yoy-to-%e2%82%b920-7-cr-revenue-up-17-6/)
