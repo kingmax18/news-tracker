@@ -1,162 +1,146 @@
 {
-  "generated_at": "2026-11-10 13:49:39 UTC",
+  "generated_at": "2026-11-10 21:03:57 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-      "score": 65.37,
-      "source_count": 4,
-      "published_at": "2026-11-10 11:20 UTC",
+      "title": "Google Fi adds support for a second 5G network, won't say which one",
+      "score": 29.47,
+      "source_count": 2,
+      "published_at": "2026-11-10 19:35 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/"
+        }
+      ]
+    },
+    {
+      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+      "score": 29.38,
+      "source_count": 2,
+      "published_at": "2026-11-10 18:46 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/business/nvidia-and-ceo-jensen-huang-face-class-action-lawsuit-over-chinese-spy-affair-alice-huang/articleshow/135708391.cms"
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/glp-1-drugs-weight-loss-ozempic-wegovy-linked-to-vision-loss-what-is-naion-who-is-at-risk-and-what-symptoms-should-users-watch-for/articleshow/135718578.cms"
         },
         {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/donald-trump-says-fbi-is-investigating-jensen-huang-s-affair-with-alleged-chinese-spy-as-trouble-mounts-for-nvidia-ceo-11794273697767.html"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/"
         }
       ]
     },
     {
-      "title": "Blackstone to invest  ₹5,000 crore in IIFL Finance for 16% stake",
-      "score": 46.7,
-      "source_count": 3,
-      "published_at": "2026-11-10 13:42 UTC",
+      "title": "Three workers die at Tata iPhone factory in Tamil Nadu's Hosur",
+      "score": 29.05,
+      "source_count": 2,
+      "published_at": "2026-11-10 15:31 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/blackstone-iifl-finance-16-stake-buy-nbfc-pe-deal-11794312414497.html"
+          "url": "https://www.livemint.com/companies/news/three-workers-die-at-tata-iphone-factory-in-tamil-nadus-hosur-11794287606590.html"
         },
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/iifl-finance-to-raise-6-414-crore-from-blackstone-promoters-others-126111000601_1.html"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion"
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/three-workers-die-after-inhaling-toxic-gases-at-tatas-tn-iphone-factory/"
         }
       ]
     },
     {
-      "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
-      "score": 30.32,
-      "source_count": 2,
-      "published_at": "2026-11-10 06:07 UTC",
+      "title": "Who What Wear Sells AI Visibility to Brands, Helping Fuel Double-Digit Revenue Growth",
+      "score": 18.37,
+      "source_count": 1,
+      "published_at": "2026-11-10 10:14 UTC",
+      "topic": "marketing_and_branding",
+      "sources": [
+        {
+          "name": "Adweek",
+          "url": "https://www.adweek.com/media/who-what-wear-20th-anniversary-revenue-growth/"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA Scandal & AI Selloff In the US: India’s Neocloud Boom Faces Twin Tests",
+      "score": 17.54,
+      "source_count": 1,
+      "published_at": "2026-11-10 16:37 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/sebi-clears-makemytrips-india-ipo/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/makemytrip-india-arm-gets-sebi-nod-to-float-ipo"
+          "url": "https://inc42.com/features/nvidia-scandal-ai-selloff-in-the-us-indias-neocloud-boom-faces-twin-tests/"
         }
       ]
     },
     {
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "score": 29.27,
-      "source_count": 2,
-      "published_at": "2026-11-10 10:26 UTC",
-      "topic": "business",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "score": 16.29,
+      "source_count": 1,
+      "published_at": "2026-11-10 19:03 UTC",
+      "topic": "startups",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/jensen-huang-said-nvidia-could-be-of-great-service-to-china-before-spy-allegations-surfaced-11794305918288.html"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang"
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
         }
       ]
     },
     {
-      "title": "Urban Arc Go 2 Fitness Band, Q9i AI ANC TWS Earbuds Launched in India: Price, Specifications",
-      "score": 19.31,
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "score": 16.29,
       "source_count": 1,
-      "published_at": "2026-11-10 12:01 UTC",
+      "published_at": "2026-11-10 19:04 UTC",
       "topic": "tech",
       "sources": [
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/wearables/news/urban-arc-go-2-fitness-band-q9i-ai-anc-tws-earbuds-price-in-india-launch-sale-features-specifications-12308058"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
         }
       ]
     },
     {
-      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-      "score": 17.78,
+      "title": "India offers 3-part plan to de-escalate Ukraine war",
+      "score": 16.27,
       "source_count": 1,
-      "published_at": "2026-11-10 11:43 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "India beats UK, Japan in the AI race: Anand Mahindra",
-      "score": 17.61,
-      "source_count": 1,
-      "published_at": "2026-11-10 10:04 UTC",
+      "published_at": "2026-11-10 18:51 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/its-the-ecosystem-stupid-anand-mahindra-celebrates-indias-rise-to-the-top-3-in-the-ai-race-beating-the-uk-japan-and-south-korea/articleshow/135704748.cms"
+          "url": "https://economictimes.indiatimes.com/news/defence/india-offers-3-part-plan-to-de-escalate-ukraine-war/articleshow/135718689.cms"
         }
       ]
     },
     {
-      "title": "Meta’s Muse Personal AI Agent Pricing for India Revealed Ahead of Debut: Report",
-      "score": 17.04,
+      "title": "ChatGPT is getting verified AI ‘Business Agents",
+      "score": 16.18,
       "source_count": 1,
-      "published_at": "2026-11-10 04:36 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/ai/news/meta-muse-ai-price-in-india-revealed-launch-report-12306267"
-        }
-      ]
-    },
-    {
-      "title": "Hands-on with Ring’s new AI drone camera for your home",
-      "score": 16.47,
-      "source_count": 1,
-      "published_at": "2026-11-10 13:30 UTC",
+      "published_at": "2026-11-10 18:00 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
         }
       ]
     },
     {
-      "title": "Matrimony Q2 Profit Soars 2.7X YoY To ₹20.7 Cr, Revenue up 17.6%",
-      "score": 16.43,
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "score": 16.17,
       "source_count": 1,
-      "published_at": "2026-11-10 13:10 UTC",
-      "topic": "startups",
+      "published_at": "2026-11-10 17:56 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/matrimony-q2-profit-soars-2-7x-yoy-to-%e2%82%b920-7-cr-revenue-up-17-6/"
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
