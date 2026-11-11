@@ -1,166 +1,166 @@
 {
-  "generated_at": "2026-11-11 13:00:10 UTC",
+  "generated_at": "2026-11-11 21:37:30 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Nvidia has no clear successor to Jensen Huang. Who could take over?",
-      "score": 85.48,
-      "source_count": 5,
-      "published_at": "2026-11-11 07:44 UTC",
+      "title": "After A Decade-Long Stint, Gaurav Munjal To Step Down As Unacademy CEO",
+      "score": 64.96,
+      "source_count": 4,
+      "published_at": "2026-11-11 15:10 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/troubles-mount-for-jensen-huang-nvidia-ceo-summoned-by-us-lawmakers-over-affair-with-chinese-spy-alice-huang-11794317474830.html"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/tech/startups/gaurav-munjal-steps-down-as-unacademy-ceo-akhilendra-kumar-takes-over/articleshow/135740390.cms"
         },
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/nvidia-has-no-clear-successor-to-jensen-huang-who-could-take-over-126111100336_1.html"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/nvidia-stares-succession-planning-jensen-huang-under-spotlight"
-        }
-      ]
-    },
-    {
-      "title": "Kunal Shah outlines WhatsApp’s next phase with AI, payments, richer conversations",
-      "score": 49.08,
-      "source_count": 3,
-      "published_at": "2026-11-11 06:57 UTC",
-      "topic": "business",
-      "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/whatsapp-india-head-kunal-shahs-lists-three-priorities-to-make-connections-richer-conversations-more-expressive-11794379505502.html"
+          "url": "https://www.livemint.com/companies/people/who-is-akhilendra-kumar-meet-new-ceo-of-unacademy-as-gaurav-munjal-to-become-executive-chairman-profile-of-leaders-11794405044620.html"
         },
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/ai-financial-services-better-connections-kunal-shah-outlines-three-priorities-for-whatsapp/"
+          "url": "https://inc42.com/buzz/after-a-decade-long-stint-gaurav-munjal-to-step-down-as-unacademy-ceo/"
         },
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/kunal-shah-outlines-whatsapps-next-phase-with-ai-payments-richer-conversations"
+          "url": "https://yourstory.com/2026/11/gaurav-munjal-steps-down-as-unacademy-ceo-akhilendra-kumar-to-take-charge"
         }
       ]
     },
     {
-      "title": "Qualcomm layoffs: What severance package offers",
-      "score": 30.87,
+      "title": "Net direct tax collections rise 11.8% to ₹14.42 trillion as of November 10",
+      "score": 30.52,
       "source_count": 2,
-      "published_at": "2026-11-11 10:34 UTC",
+      "published_at": "2026-11-11 15:47 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/qualcomm-layoffs-severance-package-3-months-salary-extra-payout-based-on-years-of-service-one-more-months-pay-for-signing-exit-papers-within-3-days-what-employees-are-being-offered/articleshow/135733726.cms"
+          "url": "https://economictimes.indiatimes.com/news/economy/finance/indias-net-direct-tax-collections-rise-11-8-from-april-1-to-nov-10/articleshow/135741242.cms"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/economy/news/net-direct-tax-collections-rise-11-8-to-14-42-trillion-as-of-november-10-126111101503_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Noel Tata retires as Tata Investment chairman; Bahram Vakil to take over",
+      "score": 29.25,
+      "source_count": 2,
+      "published_at": "2026-11-11 18:01 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/who-is-bahram-vakil-tata-investment-corporation-appoints-new-chairman-as-noel-tata-retires-from-position-11794407738833.html"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/people/noel-tata-retires-as-tata-investment-chairman-bahram-vakil-to-take-over-126111101630_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Amul hikes milk prices by Rs 2-4 per litre from Nov 12",
+      "score": 28.78,
+      "source_count": 2,
+      "published_at": "2026-11-11 13:32 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/food/amul-hikes-milk-prices-by-rs-2-4-per-litre-from-november-12/articleshow/135739242.cms"
         },
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/qualcomm-begins-layoffs-india-bengaluru-how-many-jobs-at-risk-what-severance-package-benefits-offered-to-employees-11794366514287.html"
+          "url": "https://www.livemint.com/companies/news/mother-dairy-hikes-milk-prices-by-rs-2-4-per-litre-in-delhi-ncr-from-november-12-check-new-rates-11794378098512.html"
         }
       ]
     },
     {
-      "title": "Sony Reportedly Cancels Live Service Shooter Fairgames After 'Mixed' Playtest",
-      "score": 29.28,
+      "title": "Indian Govt bans export of lithium-ion battery black mass",
+      "score": 28.72,
       "source_count": 2,
-      "published_at": "2026-11-11 09:45 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/games/news/sony-cancels-live-service-shooter-fairgames-haven-studios-report-12312151"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled"
-        }
-      ]
-    },
-    {
-      "title": "Moody's raises India's FY27 growth forecast to 7% on broad-based momentum",
-      "score": 17.43,
-      "source_count": 1,
-      "published_at": "2026-11-11 07:32 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/economy/news/moody-s-raises-india-s-fy27-growth-forecast-to-7-on-broad-based-momentum-126111100564_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Vivo X500 in Red Colourway Revealed Ahead of India Launch",
-      "score": 17.42,
-      "source_count": 1,
-      "published_at": "2026-11-11 07:25 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/vivo-x500-leaked-in-exclusive-red-colour-specifications-price-launch-12311402"
-        }
-      ]
-    },
-    {
-      "title": "Bigger cheques, fewer winners in India’s AI boom",
-      "score": 17.41,
-      "source_count": 1,
-      "published_at": "2026-11-11 07:21 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/ai/ai-insights/bigger-cheques-fewer-winners-in-indias-ai-boom/articleshow/135728981.cms"
-        }
-      ]
-    },
-    {
-      "title": "Seed funding’s new reality check in the age of AI",
-      "score": 17.32,
-      "source_count": 1,
-      "published_at": "2026-11-11 06:29 UTC",
+      "published_at": "2026-11-11 12:57 UTC",
       "topic": "startups",
       "sources": [
         {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/centre-bans-export-of-lithium-ion-batterys-black-mass/"
+        },
+        {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai"
+          "url": "https://yourstory.com/2026/11/indian-govt-bans-export-battery-waste-including-lithium-ion-battery-black-mass"
         }
       ]
     },
     {
-      "title": "Samsung Galaxy S27+ India Launch Seems Imminent as Handset Visit BIS Website, Tipster Claims",
-      "score": 17.29,
-      "source_count": 1,
-      "published_at": "2026-11-11 06:10 UTC",
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "score": 28.68,
+      "source_count": 2,
+      "published_at": "2026-11-11 12:32 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-plus-india-launch-bis-certification-specifications-features-12311298"
+          "url": "https://www.gadgets360.com/mobiles/news/google-november-2026-pixel-drop-features-gemini-intelligence-12312949"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/"
         }
       ]
     },
     {
-      "title": "Lifestyle brand Nicobar eyes  ₹1,000 crore revenue in 5-6 years",
-      "score": 17.21,
+      "title": "Adobe’s CMO on Why It’s Made Its Biggest Brand Campaign in 5 Years",
+      "score": 17.35,
       "source_count": 1,
-      "published_at": "2026-11-11 05:22 UTC",
+      "published_at": "2026-11-11 15:22 UTC",
+      "topic": "marketing_and_branding",
+      "sources": [
+        {
+          "name": "Adweek",
+          "url": "https://www.adweek.com/media/adobes-cmo-on-why-its-made-its-biggest-brand-campaign-in-5-years/"
+        }
+      ]
+    },
+    {
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "score": 16.29,
+      "source_count": 1,
+      "published_at": "2026-11-11 19:34 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+        }
+      ]
+    },
+    {
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "score": 16.08,
+      "source_count": 1,
+      "published_at": "2026-11-11 17:37 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/"
+        }
+      ]
+    },
+    {
+      "title": "CoreWeave shares surge over 26%, spark rally in battered AI cloud stocks",
+      "score": 16.05,
+      "source_count": 1,
+      "published_at": "2026-11-11 17:17 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/nicobar-targets-rs-1000-crore-revenue-expansion-store-growth-11794329907305.html"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/coreweave-shares-surge-over-20-spark-rally-in-battered-ai-cloud-stocks/articleshow/135744808.cms"
         }
       ]
     }

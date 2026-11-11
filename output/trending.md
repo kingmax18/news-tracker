@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 11, 2026 at 13:00 UTC | **Top Stories:** 10
+> **Generated on:** November 11, 2026 at 21:37 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Nvidia has no clear successor to Jensen Huang. Who could take over? [5 sources]
-- **Topic:** `Business` | **Score:** `85.48` | **Published:** 2026-11-11 07:44 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/troubles-mount-for-jensen-huang-nvidia-ceo-summoned-by-us-lawmakers-over-affair-with-chinese-spy-alice-huang-11794317474830.html) • [BBC News - Business](https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss) • [Business Standard](https://www.business-standard.com/world-news/nvidia-has-no-clear-successor-to-jensen-huang-who-could-take-over-126111100336_1.html) • [Ars Technica](https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/) • [YourStory](https://yourstory.com/2026/11/nvidia-stares-succession-planning-jensen-huang-under-spotlight)
+### 1. After A Decade-Long Stint, Gaurav Munjal To Step Down As Unacademy CEO [4 sources]
+- **Topic:** `Business` | **Score:** `64.96` | **Published:** 2026-11-11 15:10 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/startups/gaurav-munjal-steps-down-as-unacademy-ceo-akhilendra-kumar-takes-over/articleshow/135740390.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-akhilendra-kumar-meet-new-ceo-of-unacademy-as-gaurav-munjal-to-become-executive-chairman-profile-of-leaders-11794405044620.html) • [Inc42](https://inc42.com/buzz/after-a-decade-long-stint-gaurav-munjal-to-step-down-as-unacademy-ceo/) • [YourStory](https://yourstory.com/2026/11/gaurav-munjal-steps-down-as-unacademy-ceo-akhilendra-kumar-to-take-charge)
 
-### 2. Kunal Shah outlines WhatsApp’s next phase with AI, payments, richer conversations [3 sources]
-- **Topic:** `Business` | **Score:** `49.08` | **Published:** 2026-11-11 06:57 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/whatsapp-india-head-kunal-shahs-lists-three-priorities-to-make-connections-richer-conversations-more-expressive-11794379505502.html) • [Inc42](https://inc42.com/buzz/ai-financial-services-better-connections-kunal-shah-outlines-three-priorities-for-whatsapp/) • [YourStory](https://yourstory.com/2026/11/kunal-shah-outlines-whatsapps-next-phase-with-ai-payments-richer-conversations)
+### 2. Net direct tax collections rise 11.8% to ₹14.42 trillion as of November 10 [2 sources]
+- **Topic:** `Business` | **Score:** `30.52` | **Published:** 2026-11-11 15:47 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/finance/indias-net-direct-tax-collections-rise-11-8-from-april-1-to-nov-10/articleshow/135741242.cms) • [Business Standard](https://www.business-standard.com/economy/news/net-direct-tax-collections-rise-11-8-to-14-42-trillion-as-of-november-10-126111101503_1.html)
 
-### 3. Qualcomm layoffs: What severance package offers [2 sources]
-- **Topic:** `Business` | **Score:** `30.87` | **Published:** 2026-11-11 10:34 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/qualcomm-layoffs-severance-package-3-months-salary-extra-payout-based-on-years-of-service-one-more-months-pay-for-signing-exit-papers-within-3-days-what-employees-are-being-offered/articleshow/135733726.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/qualcomm-begins-layoffs-india-bengaluru-how-many-jobs-at-risk-what-severance-package-benefits-offered-to-employees-11794366514287.html)
+### 3. Noel Tata retires as Tata Investment chairman; Bahram Vakil to take over [2 sources]
+- **Topic:** `Business` | **Score:** `29.25` | **Published:** 2026-11-11 18:01 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-bahram-vakil-tata-investment-corporation-appoints-new-chairman-as-noel-tata-retires-from-position-11794407738833.html) • [Business Standard](https://www.business-standard.com/companies/people/noel-tata-retires-as-tata-investment-chairman-bahram-vakil-to-take-over-126111101630_1.html)
 
-### 4. Sony Reportedly Cancels Live Service Shooter Fairgames After 'Mixed' Playtest [2 sources]
-- **Topic:** `Tech` | **Score:** `29.28` | **Published:** 2026-11-11 09:45 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/games/news/sony-cancels-live-service-shooter-fairgames-haven-studios-report-12312151) • [The Verge](https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled)
+### 4. Amul hikes milk prices by Rs 2-4 per litre from Nov 12 [2 sources]
+- **Topic:** `Business` | **Score:** `28.78` | **Published:** 2026-11-11 13:32 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/cons-products/food/amul-hikes-milk-prices-by-rs-2-4-per-litre-from-november-12/articleshow/135739242.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/mother-dairy-hikes-milk-prices-by-rs-2-4-per-litre-in-delhi-ncr-from-november-12-check-new-rates-11794378098512.html)
 
-### 5. Moody's raises India's FY27 growth forecast to 7% on broad-based momentum [1 source]
-- **Topic:** `Business` | **Score:** `17.43` | **Published:** 2026-11-11 07:32 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/economy/news/moody-s-raises-india-s-fy27-growth-forecast-to-7-on-broad-based-momentum-126111100564_1.html)
+### 5. Indian Govt bans export of lithium-ion battery black mass [2 sources]
+- **Topic:** `Startups` | **Score:** `28.72` | **Published:** 2026-11-11 12:57 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/centre-bans-export-of-lithium-ion-batterys-black-mass/) • [YourStory](https://yourstory.com/2026/11/indian-govt-bans-export-battery-waste-including-lithium-ion-battery-black-mass)
 
-### 6. Vivo X500 in Red Colourway Revealed Ahead of India Launch [1 source]
-- **Topic:** `Tech` | **Score:** `17.42` | **Published:** 2026-11-11 07:25 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/vivo-x500-leaked-in-exclusive-red-colour-specifications-price-launch-12311402)
+### 6. Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop [2 sources]
+- **Topic:** `Tech` | **Score:** `28.68` | **Published:** 2026-11-11 12:32 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/google-november-2026-pixel-drop-features-gemini-intelligence-12312949) • [Ars Technica](https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/)
 
-### 7. Bigger cheques, fewer winners in India’s AI boom [1 source]
-- **Topic:** `Business` | **Score:** `17.41` | **Published:** 2026-11-11 07:21 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/ai/ai-insights/bigger-cheques-fewer-winners-in-indias-ai-boom/articleshow/135728981.cms)
+### 7. Adobe’s CMO on Why It’s Made Its Biggest Brand Campaign in 5 Years [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `17.35` | **Published:** 2026-11-11 15:22 UTC
+- **Coverage:** [Adweek](https://www.adweek.com/media/adobes-cmo-on-why-its-made-its-biggest-brand-campaign-in-5-years/)
 
-### 8. Seed funding’s new reality check in the age of AI [1 source]
-- **Topic:** `Startups` | **Score:** `17.32` | **Published:** 2026-11-11 06:29 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai)
+### 8. With $720M round, Britain’s Fractile gets a leg up in the race for AI chips [1 source]
+- **Topic:** `Startups` | **Score:** `16.29` | **Published:** 2026-11-11 19:34 UTC
+- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)
 
-### 9. Samsung Galaxy S27+ India Launch Seems Imminent as Handset Visit BIS Website, Tipster Claims [1 source]
-- **Topic:** `Tech` | **Score:** `17.29` | **Published:** 2026-11-11 06:10 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-plus-india-launch-bis-certification-specifications-features-12311298)
+### 9. Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning. [1 source]
+- **Topic:** `Tech` | **Score:** `16.08` | **Published:** 2026-11-11 17:37 UTC
+- **Coverage:** [Ars Technica](https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/)
 
-### 10. Lifestyle brand Nicobar eyes  ₹1,000 crore revenue in 5-6 years [1 source]
-- **Topic:** `Business` | **Score:** `17.21` | **Published:** 2026-11-11 05:22 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/nicobar-targets-rs-1000-crore-revenue-expansion-store-growth-11794329907305.html)
+### 10. CoreWeave shares surge over 26%, spark rally in battered AI cloud stocks [1 source]
+- **Topic:** `Business` | **Score:** `16.05` | **Published:** 2026-11-11 17:17 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/coreweave-shares-surge-over-20-spark-rally-in-battered-ai-cloud-stocks/articleshow/135744808.cms)
