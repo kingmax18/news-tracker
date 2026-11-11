@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 10, 2026 at 21:03 UTC | **Top Stories:** 10
+> **Generated on:** November 11, 2026 at 03:14 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Google Fi adds support for a second 5G network, won't say which one [2 sources]
-- **Topic:** `Tech` | **Score:** `29.47` | **Published:** 2026-11-10 19:35 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel) • [Ars Technica](https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/)
+### 1. Anthropic targets $90 billion IPO at $1.4 trillion valuation [3 sources]
+- **Topic:** `Business` | **Score:** `47.92` | **Published:** 2026-11-11 00:27 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/anthropic-targets-1-trillion-ipo-valuation-in-test-of-wall-streets-ai-fervor-11794311074716.html) • [YourStory](https://yourstory.com/2026/11/anthropic-sets-70-to-78-price-range-for-its-ipo)
 
-### 2. FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss [2 sources]
-- **Topic:** `Business` | **Score:** `29.38` | **Published:** 2026-11-10 18:46 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/glp-1-drugs-weight-loss-ozempic-wegovy-linked-to-vision-loss-what-is-naion-who-is-at-risk-and-what-symptoms-should-users-watch-for/articleshow/135718578.cms) • [Ars Technica](https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/)
+### 2. Wall Street's AI pain becomes India's rupee gain [1 source]
+- **Topic:** `Business` | **Score:** `17.93` | **Published:** 2026-11-11 02:35 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/indicators/indian-rupee-vs-us-dollar-crude-oil-price-fall-foreign-portfolio-investors-fpi-inflows-wall-street-ai-selloff-gtri-forecast/articleshow/135723013.cms)
 
-### 3. Three workers die at Tata iPhone factory in Tamil Nadu's Hosur [2 sources]
-- **Topic:** `Business` | **Score:** `29.05` | **Published:** 2026-11-10 15:31 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/three-workers-die-at-tata-iphone-factory-in-tamil-nadus-hosur-11794287606590.html) • [Inc42](https://inc42.com/buzz/three-workers-die-after-inhaling-toxic-gases-at-tatas-tn-iphone-factory/)
+### 3. Oura is acquiring medical AI chatbot startup Counsel Health [1 source]
+- **Topic:** `Tech` | **Score:** `17.42` | **Published:** 2026-11-10 21:40 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition)
 
-### 4. Who What Wear Sells AI Visibility to Brands, Helping Fuel Double-Digit Revenue Growth [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `18.37` | **Published:** 2026-11-10 10:14 UTC
-- **Coverage:** [Adweek](https://www.adweek.com/media/who-what-wear-20th-anniversary-revenue-growth/)
+### 4. Cognizant to tie job titles to AI adoption in major workforce revamp [1 source]
+- **Topic:** `Business` | **Score:** `16.22` | **Published:** 2026-11-11 00:30 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/cognizant-to-tie-job-titles-to-ai-adoption-in-major-workforce-revamp-11794319497907.html)
 
-### 5. NVIDIA Scandal & AI Selloff In the US: India’s Neocloud Boom Faces Twin Tests [1 source]
-- **Topic:** `Startups` | **Score:** `17.54` | **Published:** 2026-11-10 16:37 UTC
-- **Coverage:** [Inc42](https://inc42.com/features/nvidia-scandal-ai-selloff-in-the-us-indias-neocloud-boom-faces-twin-tests/)
+### 5. Tighter risk filters guide Prosus’ India fintech push [1 source]
+- **Topic:** `Business` | **Score:** `16.21` | **Published:** 2026-11-11 00:30 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/startups/tighter-risk-filters-guide-prosus-new-india-fintech-push/articleshow/135718371.cms)
 
-### 6. PSI is trying to make a business out of AI-driven scientific discovery [1 source]
-- **Topic:** `Startups` | **Score:** `16.29` | **Published:** 2026-11-10 19:03 UTC
-- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/)
+### 6. Titan bets on studded jewellery, premium watches and eyewear to drive growth [1 source]
+- **Topic:** `Business` | **Score:** `16.18` | **Published:** 2026-11-11 00:12 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/stocks/earnings/titan-bets-on-studded-jewellery-premium-watches-and-eyewear-to-drive-growth/articleshow/135721823.cms)
 
-### 7. The US is winning the AI race. Jensen Huang could have blown it [1 source]
-- **Topic:** `Tech` | **Score:** `16.29` | **Published:** 2026-11-10 19:04 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy)
+### 7. The US military seems to be getting nervous about the launch supply crunch [1 source]
+- **Topic:** `Tech` | **Score:** `16.06` | **Published:** 2026-11-10 23:02 UTC
+- **Coverage:** [Ars Technica](https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/)
 
-### 8. India offers 3-part plan to de-escalate Ukraine war [1 source]
-- **Topic:** `Business` | **Score:** `16.27` | **Published:** 2026-11-10 18:51 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/defence/india-offers-3-part-plan-to-de-escalate-ukraine-war/articleshow/135718689.cms)
+### 8. Ring cameras go mobile as Amazon debuts AI-powered security drone and robot [1 source]
+- **Topic:** `Tech` | **Score:** `16.01` | **Published:** 2026-11-10 22:35 UTC
+- **Coverage:** [Ars Technica](https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/)
 
-### 9. ChatGPT is getting verified AI ‘Business Agents [1 source]
-- **Topic:** `Tech` | **Score:** `16.18` | **Published:** 2026-11-10 18:00 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub)
+### 9. OpenAI acquires Odessia, travel startup created by Sonder founder [1 source]
+- **Topic:** `Startups` | **Score:** `15.86` | **Published:** 2026-11-10 21:08 UTC
+- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/)
 
-### 10. Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning [1 source]
-- **Topic:** `Business` | **Score:** `16.17` | **Published:** 2026-11-10 17:56 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss)
+### 10. What happens to mathematics when AI becomes an oracle? [1 source]
+- **Topic:** `Tech` | **Score:** `15.8` | **Published:** 2026-11-10 20:30 UTC
+- **Coverage:** [Ars Technica](https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/)

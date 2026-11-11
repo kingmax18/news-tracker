@@ -1,146 +1,142 @@
 {
-  "generated_at": "2026-11-10 21:03:57 UTC",
+  "generated_at": "2026-11-11 03:14:40 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Google Fi adds support for a second 5G network, won't say which one",
-      "score": 29.47,
-      "source_count": 2,
-      "published_at": "2026-11-10 19:35 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/"
-        }
-      ]
-    },
-    {
-      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
-      "score": 29.38,
-      "source_count": 2,
-      "published_at": "2026-11-10 18:46 UTC",
+      "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
+      "score": 47.92,
+      "source_count": 3,
+      "published_at": "2026-11-11 00:27 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/glp-1-drugs-weight-loss-ozempic-wegovy-linked-to-vision-loss-what-is-naion-who-is-at-risk-and-what-symptoms-should-users-watch-for/articleshow/135718578.cms"
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms"
         },
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/anthropic-targets-1-trillion-ipo-valuation-in-test-of-wall-streets-ai-fervor-11794311074716.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/anthropic-sets-70-to-78-price-range-for-its-ipo"
         }
       ]
     },
     {
-      "title": "Three workers die at Tata iPhone factory in Tamil Nadu's Hosur",
-      "score": 29.05,
-      "source_count": 2,
-      "published_at": "2026-11-10 15:31 UTC",
+      "title": "Wall Street's AI pain becomes India's rupee gain",
+      "score": 17.93,
+      "source_count": 1,
+      "published_at": "2026-11-11 02:35 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/indian-rupee-vs-us-dollar-crude-oil-price-fall-foreign-portfolio-investors-fpi-inflows-wall-street-ai-selloff-gtri-forecast/articleshow/135723013.cms"
+        }
+      ]
+    },
+    {
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "score": 17.42,
+      "source_count": 1,
+      "published_at": "2026-11-10 21:40 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition"
+        }
+      ]
+    },
+    {
+      "title": "Cognizant to tie job titles to AI adoption in major workforce revamp",
+      "score": 16.22,
+      "source_count": 1,
+      "published_at": "2026-11-11 00:30 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/three-workers-die-at-tata-iphone-factory-in-tamil-nadus-hosur-11794287606590.html"
-        },
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/three-workers-die-after-inhaling-toxic-gases-at-tatas-tn-iphone-factory/"
+          "url": "https://www.livemint.com/companies/cognizant-to-tie-job-titles-to-ai-adoption-in-major-workforce-revamp-11794319497907.html"
         }
       ]
     },
     {
-      "title": "Who What Wear Sells AI Visibility to Brands, Helping Fuel Double-Digit Revenue Growth",
-      "score": 18.37,
+      "title": "Tighter risk filters guide Prosus’ India fintech push",
+      "score": 16.21,
       "source_count": 1,
-      "published_at": "2026-11-10 10:14 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "Adweek",
-          "url": "https://www.adweek.com/media/who-what-wear-20th-anniversary-revenue-growth/"
-        }
-      ]
-    },
-    {
-      "title": "NVIDIA Scandal & AI Selloff In the US: India’s Neocloud Boom Faces Twin Tests",
-      "score": 17.54,
-      "source_count": 1,
-      "published_at": "2026-11-10 16:37 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/features/nvidia-scandal-ai-selloff-in-the-us-indias-neocloud-boom-faces-twin-tests/"
-        }
-      ]
-    },
-    {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "score": 16.29,
-      "source_count": 1,
-      "published_at": "2026-11-10 19:03 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "TechCrunch - Startups",
-          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
-        }
-      ]
-    },
-    {
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "score": 16.29,
-      "source_count": 1,
-      "published_at": "2026-11-10 19:04 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
-        }
-      ]
-    },
-    {
-      "title": "India offers 3-part plan to de-escalate Ukraine war",
-      "score": 16.27,
-      "source_count": 1,
-      "published_at": "2026-11-10 18:51 UTC",
+      "published_at": "2026-11-11 00:30 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/defence/india-offers-3-part-plan-to-de-escalate-ukraine-war/articleshow/135718689.cms"
+          "url": "https://economictimes.indiatimes.com/tech/startups/tighter-risk-filters-guide-prosus-new-india-fintech-push/articleshow/135718371.cms"
         }
       ]
     },
     {
-      "title": "ChatGPT is getting verified AI ‘Business Agents",
+      "title": "Titan bets on studded jewellery, premium watches and eyewear to drive growth",
       "score": 16.18,
       "source_count": 1,
-      "published_at": "2026-11-10 18:00 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
-        }
-      ]
-    },
-    {
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "score": 16.17,
-      "source_count": 1,
-      "published_at": "2026-11-10 17:56 UTC",
+      "published_at": "2026-11-11 00:12 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/titan-bets-on-studded-jewellery-premium-watches-and-eyewear-to-drive-growth/articleshow/135721823.cms"
+        }
+      ]
+    },
+    {
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "score": 16.06,
+      "source_count": 1,
+      "published_at": "2026-11-10 23:02 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/"
+        }
+      ]
+    },
+    {
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "score": 16.01,
+      "source_count": 1,
+      "published_at": "2026-11-10 22:35 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "score": 15.86,
+      "source_count": 1,
+      "published_at": "2026-11-10 21:08 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+        }
+      ]
+    },
+    {
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "score": 15.8,
+      "source_count": 1,
+      "published_at": "2026-11-10 20:30 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/"
         }
       ]
     }
