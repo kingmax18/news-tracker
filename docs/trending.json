@@ -1,142 +1,166 @@
 {
-  "generated_at": "2026-11-11 03:14:40 UTC",
+  "generated_at": "2026-11-11 13:00:10 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
-      "score": 47.92,
-      "source_count": 3,
-      "published_at": "2026-11-11 00:27 UTC",
+      "title": "Nvidia has no clear successor to Jensen Huang. Who could take over?",
+      "score": 85.48,
+      "source_count": 5,
+      "published_at": "2026-11-11 07:44 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/troubles-mount-for-jensen-huang-nvidia-ceo-summoned-by-us-lawmakers-over-affair-with-chinese-spy-alice-huang-11794317474830.html"
         },
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/anthropic-targets-1-trillion-ipo-valuation-in-test-of-wall-streets-ai-fervor-11794311074716.html"
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/world-news/nvidia-has-no-clear-successor-to-jensen-huang-who-could-take-over-126111100336_1.html"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/"
         },
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/anthropic-sets-70-to-78-price-range-for-its-ipo"
+          "url": "https://yourstory.com/2026/11/nvidia-stares-succession-planning-jensen-huang-under-spotlight"
         }
       ]
     },
     {
-      "title": "Wall Street's AI pain becomes India's rupee gain",
-      "score": 17.93,
-      "source_count": 1,
-      "published_at": "2026-11-11 02:35 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/indian-rupee-vs-us-dollar-crude-oil-price-fall-foreign-portfolio-investors-fpi-inflows-wall-street-ai-selloff-gtri-forecast/articleshow/135723013.cms"
-        }
-      ]
-    },
-    {
-      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-      "score": 17.42,
-      "source_count": 1,
-      "published_at": "2026-11-10 21:40 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition"
-        }
-      ]
-    },
-    {
-      "title": "Cognizant to tie job titles to AI adoption in major workforce revamp",
-      "score": 16.22,
-      "source_count": 1,
-      "published_at": "2026-11-11 00:30 UTC",
+      "title": "Kunal Shah outlines WhatsApp’s next phase with AI, payments, richer conversations",
+      "score": 49.08,
+      "source_count": 3,
+      "published_at": "2026-11-11 06:57 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/cognizant-to-tie-job-titles-to-ai-adoption-in-major-workforce-revamp-11794319497907.html"
+          "url": "https://www.livemint.com/companies/news/whatsapp-india-head-kunal-shahs-lists-three-priorities-to-make-connections-richer-conversations-more-expressive-11794379505502.html"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/ai-financial-services-better-connections-kunal-shah-outlines-three-priorities-for-whatsapp/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/kunal-shah-outlines-whatsapps-next-phase-with-ai-payments-richer-conversations"
         }
       ]
     },
     {
-      "title": "Tighter risk filters guide Prosus’ India fintech push",
-      "score": 16.21,
-      "source_count": 1,
-      "published_at": "2026-11-11 00:30 UTC",
+      "title": "Qualcomm layoffs: What severance package offers",
+      "score": 30.87,
+      "source_count": 2,
+      "published_at": "2026-11-11 10:34 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/tech/startups/tighter-risk-filters-guide-prosus-new-india-fintech-push/articleshow/135718371.cms"
+          "url": "https://economictimes.indiatimes.com/news/new-updates/qualcomm-layoffs-severance-package-3-months-salary-extra-payout-based-on-years-of-service-one-more-months-pay-for-signing-exit-papers-within-3-days-what-employees-are-being-offered/articleshow/135733726.cms"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/qualcomm-begins-layoffs-india-bengaluru-how-many-jobs-at-risk-what-severance-package-benefits-offered-to-employees-11794366514287.html"
         }
       ]
     },
     {
-      "title": "Titan bets on studded jewellery, premium watches and eyewear to drive growth",
-      "score": 16.18,
+      "title": "Sony Reportedly Cancels Live Service Shooter Fairgames After 'Mixed' Playtest",
+      "score": 29.28,
+      "source_count": 2,
+      "published_at": "2026-11-11 09:45 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/games/news/sony-cancels-live-service-shooter-fairgames-haven-studios-report-12312151"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled"
+        }
+      ]
+    },
+    {
+      "title": "Moody's raises India's FY27 growth forecast to 7% on broad-based momentum",
+      "score": 17.43,
       "source_count": 1,
-      "published_at": "2026-11-11 00:12 UTC",
+      "published_at": "2026-11-11 07:32 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/economy/news/moody-s-raises-india-s-fy27-growth-forecast-to-7-on-broad-based-momentum-126111100564_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Vivo X500 in Red Colourway Revealed Ahead of India Launch",
+      "score": 17.42,
+      "source_count": 1,
+      "published_at": "2026-11-11 07:25 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/vivo-x500-leaked-in-exclusive-red-colour-specifications-price-launch-12311402"
+        }
+      ]
+    },
+    {
+      "title": "Bigger cheques, fewer winners in India’s AI boom",
+      "score": 17.41,
+      "source_count": 1,
+      "published_at": "2026-11-11 07:21 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/titan-bets-on-studded-jewellery-premium-watches-and-eyewear-to-drive-growth/articleshow/135721823.cms"
+          "url": "https://economictimes.indiatimes.com/ai/ai-insights/bigger-cheques-fewer-winners-in-indias-ai-boom/articleshow/135728981.cms"
         }
       ]
     },
     {
-      "title": "The US military seems to be getting nervous about the launch supply crunch",
-      "score": 16.06,
+      "title": "Seed funding’s new reality check in the age of AI",
+      "score": 17.32,
       "source_count": 1,
-      "published_at": "2026-11-10 23:02 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/"
-        }
-      ]
-    },
-    {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "score": 16.01,
-      "source_count": 1,
-      "published_at": "2026-11-10 22:35 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "score": 15.86,
-      "source_count": 1,
-      "published_at": "2026-11-10 21:08 UTC",
+      "published_at": "2026-11-11 06:29 UTC",
       "topic": "startups",
       "sources": [
         {
-          "name": "TechCrunch - Startups",
-          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/seed-fundings-new-reality-check-in-the-age-of-ai"
         }
       ]
     },
     {
-      "title": "What happens to mathematics when AI becomes an oracle?",
-      "score": 15.8,
+      "title": "Samsung Galaxy S27+ India Launch Seems Imminent as Handset Visit BIS Website, Tipster Claims",
+      "score": 17.29,
       "source_count": 1,
-      "published_at": "2026-11-10 20:30 UTC",
+      "published_at": "2026-11-11 06:10 UTC",
       "topic": "tech",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/"
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-plus-india-launch-bis-certification-specifications-features-12311298"
+        }
+      ]
+    },
+    {
+      "title": "Lifestyle brand Nicobar eyes  ₹1,000 crore revenue in 5-6 years",
+      "score": 17.21,
+      "source_count": 1,
+      "published_at": "2026-11-11 05:22 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/nicobar-targets-rs-1000-crore-revenue-expansion-store-growth-11794329907305.html"
         }
       ]
     }
