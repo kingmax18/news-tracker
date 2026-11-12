@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 12, 2026 at 04:26 UTC | **Top Stories:** 10
+> **Generated on:** November 12, 2026 at 14:02 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Nvidia on lookout for new CEO as more Jensen Huang affairs surface [4 sources]
-- **Topic:** `Business` | **Score:** `65.56` | **Published:** 2026-11-12 03:46 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/where-is-alice-huang-alleged-chinese-spy-in-jensen-huang-extramarital-affair-scandal-reportedly-living-in-beijing-11794454574543.html) • [The Verge](https://www.theverge.com/tech/1031652/jensen-huang-rumor) • [Business Standard](https://www.business-standard.com/world-news/nvidia-preparing-to-oust-jensen-huang-after-multiple-extramarital-affairs-126111200059_1.html) • [Ars Technica](https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/)
+### 1. Norwest closes $4B fund to back AI, healthcare and financial infra [2 sources]
+- **Topic:** `Business` | **Score:** `32.51` | **Published:** 2026-11-12 12:54 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/norwest-doubles-down-on-india-with-largest-ever-fund-sees-opportunity-in-manufacturing-and-deeptech-11794475433282.html) • [YourStory](https://yourstory.com/2026/11/norwest-closes-4b-fund-to-back-ai-healthcare-and-financial-infra)
 
-### 2. Nvidia board to meet to decide CEO Jensen Huang's future at the company: Reports [2 sources]
-- **Topic:** `Business` | **Score:** `29.6` | **Published:** 2026-11-12 04:15 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/business/nvidia-board-meets-to-decide-ceo-jensen-huangs-future-source-says/articleshow/135751716.cms) • [YourStory](https://yourstory.com/2026/11/nvidia-board-to-meet-to-decide-ceo-jensen-huangs-future-at-the-company-reports)
+### 2. Zee Entertainment announces  ₹600 crore buyback at 24% premium [2 sources]
+- **Topic:** `Business` | **Score:** `29.5` | **Published:** 2026-11-12 12:51 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/zee-entertainment-announces-600-crore-buyback-at-24-premium-investment-11794486221572.html) • [Business Standard](https://www.business-standard.com/companies/news/zee-entertainment-board-approves-600-crore-share-buyback-at-91-apiece-126111201247_1.html)
 
-### 3. Tata Power approves  ₹11,871 crore pumped storage project in Maharashtra [2 sources]
-- **Topic:** `Business` | **Score:** `28.38` | **Published:** 2026-11-11 16:27 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/tata-power-approves-11-871-crore-pumped-storage-project-in-maharashtra-11794405107082.html) • [Business Standard](https://www.business-standard.com/companies/quarterly-results/tata-power-q2-profit-rises-33-to-1-652-cr-11-871-cr-project-approved-126111101450_1.html)
+### 3. CCPA Fines Ola ₹10 Lakh For Advance Tipping Prompts [2 sources]
+- **Topic:** `Startups` | **Score:** `29.4` | **Published:** 2026-11-12 11:55 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/ccpa-fines-ola-%e2%82%b910-lakh-for-advance-tipping-prompts/) • [MediaNama](https://www.medianama.com/2026/11/223-ccpa-fines-ola-pre-service-toll/)
 
-### 4. Jensen Huang scandal: Nvidia India staff lose $600 million on paper [1 source]
-- **Topic:** `Business` | **Score:** `16.4` | **Published:** 2026-11-12 03:31 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/nvidia-india-employee-stock-options-restricted-stock-units-rsus-jensen-huang-11794408485394.html)
+### 4. Elon Musk offers to hire Nvidia CEO Jensen Huang [2 sources]
+- **Topic:** `Business` | **Score:** `28.62` | **Published:** 2026-11-12 04:27 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/musk-wants-to-hire-jensen-huang-elon-musk-says-he-would-be-honoured-to-recruit-nvidia-ceo-if-board-decides-to-replace-him/articleshow/135753303.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/elon-musk-ready-hire-nvidia-ceo-jensen-huang-even-after-wsj-nyt-reports-second-affairs-board-ouster-check-latest-updates-11794455804044.html)
 
-### 5. Oppo A7 Ultra Will Launch Next Month With 12,000mAh Battery, Tipster Claims [1 source]
-- **Topic:** `Tech` | **Score:** `16.4` | **Published:** 2026-11-12 03:31 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/oppo-a7-ultra-launch-timeline-battery-capacity-tipped-specifications-features-12315243)
+### 5. Foxconn forecasts ‘double-digit’ 2027 revenue growth; Chairman Young Liu says ‘AI will be most important growth driver [1 source]
+- **Topic:** `Business` | **Score:** `19.25` | **Published:** 2026-11-12 11:38 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/foxconn-forecasts-double-digit-2027-revenue-growth-chairman-young-liu-says-ai-will-be-most-important-growth-driver-11794479750810.html)
 
-### 6. Anthropic IPO draws multiple times the available orders: Why Wall Street sees it as a test of the AI boom [1 source]
-- **Topic:** `Business` | **Score:** `16.34` | **Published:** 2026-11-12 02:51 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/anthropic-ipo-draws-multiple-times-the-available-orders-why-wall-street-sees-it-as-a-test-of-the-ai-boom-11794451339447.html)
+### 6. Kutlerri.ai raises $4M to help US restaurants grow revenue and cut costs using AI agents [1 source]
+- **Topic:** `Startups` | **Score:** `17.93` | **Published:** 2026-11-12 13:21 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents)
 
-### 7. Hindalco's value-add focus to drive growth and a stock re-rating [1 source]
-- **Topic:** `Business` | **Score:** `16.15` | **Published:** 2026-11-12 01:03 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/stocks/earnings/hindalcos-value-add-focus-to-drive-growth-and-a-stock-re-rating/articleshow/135751760.cms)
+### 7. OpenAI Brings API Inference Residency To India To Deepen Enterprise AI Adoption [1 source]
+- **Topic:** `Startups` | **Score:** `17.84` | **Published:** 2026-11-12 12:28 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/openai-brings-api-inference-residency-to-india-to-deepen-enterprise-ai-adoption/)
 
-### 8. Indian companies ramp up overseas dealmaking amid growth push: JPMorgan [1 source]
-- **Topic:** `Business` | **Score:** `16.09` | **Published:** 2026-11-12 00:30 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/indian-companies-ramp-up-overseas-dealmaking-amid-growth-push-jpmorgan-investment-deals-acquisitions-11794388870843.html)
+### 8. Vu Masterpiece AEye TV Series Launched in India With RGB MiniLED Displays, Dolby Atmos Support: Price, Specifications [1 source]
+- **Topic:** `Tech` | **Score:** `17.53` | **Published:** 2026-11-12 09:28 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/tv/news/vu-masterpiece-aeye-tv-price-in-india-launch-sale-features-specifications-12316408)
 
-### 9. United won’t let your AI agent book your flight [1 source]
-- **Topic:** `Tech` | **Score:** `15.82` | **Published:** 2026-11-11 21:54 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents)
+### 9. Vivo X500 Series, Zeiss Extender Gen 2 and Watch GT2 India Launch Timeline Leaked [1 source]
+- **Topic:** `Tech` | **Score:** `17.32` | **Published:** 2026-11-12 07:29 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-series-india-launch-date-announced-watch-gt-2-specifications-features-12316169)
 
-### 10. Google’s Tabletop AI experiment lets you build custom collaboration apps [1 source]
-- **Topic:** `Tech` | **Score:** `15.2` | **Published:** 2026-11-11 16:00 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
+### 10. iQOO 16R India Launch Seemingly Confirmed as Phone Receives Key Regulatory Certification [1 source]
+- **Topic:** `Tech` | **Score:** `17.29` | **Published:** 2026-11-12 07:15 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/iqoo-16r-india-launch-confirmed-bis-certification-specifications-features-12315901)
