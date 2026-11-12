@@ -1,150 +1,154 @@
 {
-  "generated_at": "2026-11-12 14:02:03 UTC",
+  "generated_at": "2026-11-12 21:37:42 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Norwest closes $4B fund to back AI, healthcare and financial infra",
-      "score": 32.51,
+      "title": "Microsoft Outlook down today?",
+      "score": 29.53,
       "source_count": 2,
-      "published_at": "2026-11-12 12:54 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/norwest-doubles-down-on-india-with-largest-ever-fund-sees-opportunity-in-manufacturing-and-deeptech-11794475433282.html"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/norwest-closes-4b-fund-to-back-ai-healthcare-and-financial-infra"
-        }
-      ]
-    },
-    {
-      "title": "Zee Entertainment announces  ₹600 crore buyback at 24% premium",
-      "score": 29.5,
-      "source_count": 2,
-      "published_at": "2026-11-12 12:51 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/zee-entertainment-announces-600-crore-buyback-at-24-premium-investment-11794486221572.html"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/zee-entertainment-board-approves-600-crore-share-buyback-at-91-apiece-126111201247_1.html"
-        }
-      ]
-    },
-    {
-      "title": "CCPA Fines Ola ₹10 Lakh For Advance Tipping Prompts",
-      "score": 29.4,
-      "source_count": 2,
-      "published_at": "2026-11-12 11:55 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/ccpa-fines-ola-%e2%82%b910-lakh-for-advance-tipping-prompts/"
-        },
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-ccpa-fines-ola-pre-service-toll/"
-        }
-      ]
-    },
-    {
-      "title": "Elon Musk offers to hire Nvidia CEO Jensen Huang",
-      "score": 28.62,
-      "source_count": 2,
-      "published_at": "2026-11-12 04:27 UTC",
+      "published_at": "2026-11-12 20:43 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/musk-wants-to-hire-jensen-huang-elon-musk-says-he-would-be-honoured-to-recruit-nvidia-ceo-if-board-decides-to-replace-him/articleshow/135753303.cms"
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms"
         },
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/elon-musk-ready-hire-nvidia-ceo-jensen-huang-even-after-wsj-nyt-reports-second-affairs-board-ouster-check-latest-updates-11794455804044.html"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
         }
       ]
     },
     {
-      "title": "Foxconn forecasts ‘double-digit’ 2027 revenue growth; Chairman Young Liu says ‘AI will be most important growth driver",
-      "score": 19.25,
-      "source_count": 1,
-      "published_at": "2026-11-12 11:38 UTC",
+      "title": "Meet Jay Puri, who could become next Nvidia CEO",
+      "score": 29.25,
+      "source_count": 2,
+      "published_at": "2026-11-12 18:01 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/who-is-jay-puri-the-indian-origin-executive-who-may-become-jensen-huangs-successor-at-nvidia/articleshow/135767682.cms"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/nvidia-next-ceo-who-s-jay-puri-harvard-alumnus-indian-origin-techie-grad-to-succeed-jensen-huang-strongest-candidate-11794504108122.html"
+        }
+      ]
+    },
+    {
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "score": 29.22,
+      "source_count": 2,
+      "published_at": "2026-11-12 17:44 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
+        }
+      ]
+    },
+    {
+      "title": "Adyar Ananda Bhavan sells majority stake to Bodhi Tree for $180 million",
+      "score": 29.07,
+      "source_count": 2,
+      "published_at": "2026-11-12 16:21 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/foxconn-forecasts-double-digit-2027-revenue-growth-chairman-young-liu-says-ai-will-be-most-important-growth-driver-11794479750810.html"
-        }
-      ]
-    },
-    {
-      "title": "Kutlerri.ai raises $4M to help US restaurants grow revenue and cut costs using AI agents",
-      "score": 17.93,
-      "source_count": 1,
-      "published_at": "2026-11-12 13:21 UTC",
-      "topic": "startups",
-      "sources": [
+          "url": "https://www.livemint.com/companies/bodhi-tree-systems-invests-180-mn-for-majority-stake-in-chennai-s-adyar-ananda-bhavan-11794483654486.html"
+        },
         {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million-126111201795_1.html"
         }
       ]
     },
     {
-      "title": "OpenAI Brings API Inference Residency To India To Deepen Enterprise AI Adoption",
-      "score": 17.84,
-      "source_count": 1,
-      "published_at": "2026-11-12 12:28 UTC",
+      "title": "Retail Smartphone Sales Tanked 20% In 2026 Diwali Season: AIMRA",
+      "score": 28.13,
+      "source_count": 2,
+      "published_at": "2026-11-12 07:15 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/openai-brings-api-inference-residency-to-india-to-deepen-enterprise-ai-adoption/"
+          "url": "https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/diwali-smartphone-sales-decline-rising-prices-low-consumer-demand-report-12315895"
         }
       ]
     },
     {
-      "title": "Vu Masterpiece AEye TV Series Launched in India With RGB MiniLED Displays, Dolby Atmos Support: Price, Specifications",
-      "score": 17.53,
+      "title": "Jensen Huang’s Nvidia exit raises fears over the future of AI financing",
+      "score": 16.41,
       "source_count": 1,
-      "published_at": "2026-11-12 09:28 UTC",
-      "topic": "tech",
+      "published_at": "2026-11-12 20:43 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/tv/news/vu-masterpiece-aeye-tv-price-in-india-launch-sale-features-specifications-12316408"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jensen-huangs-nvidia-exit-raises-fears-over-the-future-of-ai-financing/articleshow/135782110.cms"
         }
       ]
     },
     {
-      "title": "Vivo X500 Series, Zeiss Extender Gen 2 and Watch GT2 India Launch Timeline Leaked",
-      "score": 17.32,
+      "title": "Vivo Watch GT 2 India Variant Key Specifications, Colour Options Leaked Ahead of Launch",
+      "score": 16.35,
       "source_count": 1,
-      "published_at": "2026-11-12 07:29 UTC",
+      "published_at": "2026-11-12 05:50 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-series-india-launch-date-announced-watch-gt-2-specifications-features-12316169"
+          "url": "https://www.gadgets360.com/wearables/news/vivo-watch-gt-2-india-variant-expected-features-leak-colour-options-12315709"
         }
       ]
     },
     {
-      "title": "iQOO 16R India Launch Seemingly Confirmed as Phone Receives Key Regulatory Certification",
-      "score": 17.29,
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "score": 16.3,
       "source_count": 1,
-      "published_at": "2026-11-12 07:15 UTC",
+      "published_at": "2026-11-12 19:42 UTC",
       "topic": "tech",
       "sources": [
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/iqoo-16r-india-launch-confirmed-bis-certification-specifications-features-12315901"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
+        }
+      ]
+    },
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "score": 16.25,
+      "source_count": 1,
+      "published_at": "2026-11-12 19:11 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+        }
+      ]
+    },
+    {
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "score": 16.22,
+      "source_count": 1,
+      "published_at": "2026-11-12 18:57 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/"
         }
       ]
     }

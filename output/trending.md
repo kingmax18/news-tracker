@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 12, 2026 at 14:02 UTC | **Top Stories:** 10
+> **Generated on:** November 12, 2026 at 21:37 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Norwest closes $4B fund to back AI, healthcare and financial infra [2 sources]
-- **Topic:** `Business` | **Score:** `32.51` | **Published:** 2026-11-12 12:54 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/norwest-doubles-down-on-india-with-largest-ever-fund-sees-opportunity-in-manufacturing-and-deeptech-11794475433282.html) • [YourStory](https://yourstory.com/2026/11/norwest-closes-4b-fund-to-back-ai-healthcare-and-financial-infra)
+### 1. Microsoft Outlook down today? [2 sources]
+- **Topic:** `Business` | **Score:** `29.53` | **Published:** 2026-11-12 20:43 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms) • [The Verge](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
 
-### 2. Zee Entertainment announces  ₹600 crore buyback at 24% premium [2 sources]
-- **Topic:** `Business` | **Score:** `29.5` | **Published:** 2026-11-12 12:51 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/zee-entertainment-announces-600-crore-buyback-at-24-premium-investment-11794486221572.html) • [Business Standard](https://www.business-standard.com/companies/news/zee-entertainment-board-approves-600-crore-share-buyback-at-91-apiece-126111201247_1.html)
+### 2. Meet Jay Puri, who could become next Nvidia CEO [2 sources]
+- **Topic:** `Business` | **Score:** `29.25` | **Published:** 2026-11-12 18:01 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/who-is-jay-puri-the-indian-origin-executive-who-may-become-jensen-huangs-successor-at-nvidia/articleshow/135767682.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/nvidia-next-ceo-who-s-jay-puri-harvard-alumnus-indian-origin-techie-grad-to-succeed-jensen-huang-strongest-candidate-11794504108122.html)
 
-### 3. CCPA Fines Ola ₹10 Lakh For Advance Tipping Prompts [2 sources]
-- **Topic:** `Startups` | **Score:** `29.4` | **Published:** 2026-11-12 11:55 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/ccpa-fines-ola-%e2%82%b910-lakh-for-advance-tipping-prompts/) • [MediaNama](https://www.medianama.com/2026/11/223-ccpa-fines-ola-pre-service-toll/)
+### 3. The rise and fall of Jensen Huang - how the tech superstar became mired in scandal [2 sources]
+- **Topic:** `Business` | **Score:** `29.22` | **Published:** 2026-11-12 17:44 UTC
+- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss) • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling)
 
-### 4. Elon Musk offers to hire Nvidia CEO Jensen Huang [2 sources]
-- **Topic:** `Business` | **Score:** `28.62` | **Published:** 2026-11-12 04:27 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/musk-wants-to-hire-jensen-huang-elon-musk-says-he-would-be-honoured-to-recruit-nvidia-ceo-if-board-decides-to-replace-him/articleshow/135753303.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/elon-musk-ready-hire-nvidia-ceo-jensen-huang-even-after-wsj-nyt-reports-second-affairs-board-ouster-check-latest-updates-11794455804044.html)
+### 4. Adyar Ananda Bhavan sells majority stake to Bodhi Tree for $180 million [2 sources]
+- **Topic:** `Business` | **Score:** `29.07` | **Published:** 2026-11-12 16:21 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/bodhi-tree-systems-invests-180-mn-for-majority-stake-in-chennai-s-adyar-ananda-bhavan-11794483654486.html) • [Business Standard](https://www.business-standard.com/companies/news/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million-126111201795_1.html)
 
-### 5. Foxconn forecasts ‘double-digit’ 2027 revenue growth; Chairman Young Liu says ‘AI will be most important growth driver [1 source]
-- **Topic:** `Business` | **Score:** `19.25` | **Published:** 2026-11-12 11:38 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/foxconn-forecasts-double-digit-2027-revenue-growth-chairman-young-liu-says-ai-will-be-most-important-growth-driver-11794479750810.html)
+### 5. Retail Smartphone Sales Tanked 20% In 2026 Diwali Season: AIMRA [2 sources]
+- **Topic:** `Startups` | **Score:** `28.13` | **Published:** 2026-11-12 07:15 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/) • [Gadgets 360](https://www.gadgets360.com/mobiles/news/diwali-smartphone-sales-decline-rising-prices-low-consumer-demand-report-12315895)
 
-### 6. Kutlerri.ai raises $4M to help US restaurants grow revenue and cut costs using AI agents [1 source]
-- **Topic:** `Startups` | **Score:** `17.93` | **Published:** 2026-11-12 13:21 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/kutlerriai-raises-4m-to-help-us-restaurants-grow-revenue-and-cut-costs-using-ai-agents)
+### 6. Jensen Huang’s Nvidia exit raises fears over the future of AI financing [1 source]
+- **Topic:** `Business` | **Score:** `16.41` | **Published:** 2026-11-12 20:43 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jensen-huangs-nvidia-exit-raises-fears-over-the-future-of-ai-financing/articleshow/135782110.cms)
 
-### 7. OpenAI Brings API Inference Residency To India To Deepen Enterprise AI Adoption [1 source]
-- **Topic:** `Startups` | **Score:** `17.84` | **Published:** 2026-11-12 12:28 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/openai-brings-api-inference-residency-to-india-to-deepen-enterprise-ai-adoption/)
+### 7. Vivo Watch GT 2 India Variant Key Specifications, Colour Options Leaked Ahead of Launch [1 source]
+- **Topic:** `Tech` | **Score:** `16.35` | **Published:** 2026-11-12 05:50 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/wearables/news/vivo-watch-gt-2-india-variant-expected-features-leak-colour-options-12315709)
 
-### 8. Vu Masterpiece AEye TV Series Launched in India With RGB MiniLED Displays, Dolby Atmos Support: Price, Specifications [1 source]
-- **Topic:** `Tech` | **Score:** `17.53` | **Published:** 2026-11-12 09:28 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/tv/news/vu-masterpiece-aeye-tv-price-in-india-launch-sale-features-specifications-12316408)
+### 8. No, AI agents did not discover a previously unknown Maya site [1 source]
+- **Topic:** `Tech` | **Score:** `16.3` | **Published:** 2026-11-12 19:42 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery)
 
-### 9. Vivo X500 Series, Zeiss Extender Gen 2 and Watch GT2 India Launch Timeline Leaked [1 source]
-- **Topic:** `Tech` | **Score:** `17.32` | **Published:** 2026-11-12 07:29 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-series-india-launch-date-announced-watch-gt-2-specifications-features-12316169)
+### 9. Nectar launches an AI agent to automate creator discovery and outreach for brands [1 source]
+- **Topic:** `Startups` | **Score:** `16.25` | **Published:** 2026-11-12 19:11 UTC
+- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/)
 
-### 10. iQOO 16R India Launch Seemingly Confirmed as Phone Receives Key Regulatory Certification [1 source]
-- **Topic:** `Tech` | **Score:** `17.29` | **Published:** 2026-11-12 07:15 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/iqoo-16r-india-launch-confirmed-bis-certification-specifications-features-12315901)
+### 10. Google faces calls for AI moratoriums in schools after Gemini pilot backlash [1 source]
+- **Topic:** `Tech` | **Score:** `16.22` | **Published:** 2026-11-12 18:57 UTC
+- **Coverage:** [Ars Technica](https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/)
