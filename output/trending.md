@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 11, 2026 at 21:37 UTC | **Top Stories:** 10
+> **Generated on:** November 12, 2026 at 04:26 UTC | **Top Stories:** 10
 
 ---
 
-### 1. After A Decade-Long Stint, Gaurav Munjal To Step Down As Unacademy CEO [4 sources]
-- **Topic:** `Business` | **Score:** `64.96` | **Published:** 2026-11-11 15:10 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/startups/gaurav-munjal-steps-down-as-unacademy-ceo-akhilendra-kumar-takes-over/articleshow/135740390.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-akhilendra-kumar-meet-new-ceo-of-unacademy-as-gaurav-munjal-to-become-executive-chairman-profile-of-leaders-11794405044620.html) • [Inc42](https://inc42.com/buzz/after-a-decade-long-stint-gaurav-munjal-to-step-down-as-unacademy-ceo/) • [YourStory](https://yourstory.com/2026/11/gaurav-munjal-steps-down-as-unacademy-ceo-akhilendra-kumar-to-take-charge)
+### 1. Nvidia on lookout for new CEO as more Jensen Huang affairs surface [4 sources]
+- **Topic:** `Business` | **Score:** `65.56` | **Published:** 2026-11-12 03:46 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/where-is-alice-huang-alleged-chinese-spy-in-jensen-huang-extramarital-affair-scandal-reportedly-living-in-beijing-11794454574543.html) • [The Verge](https://www.theverge.com/tech/1031652/jensen-huang-rumor) • [Business Standard](https://www.business-standard.com/world-news/nvidia-preparing-to-oust-jensen-huang-after-multiple-extramarital-affairs-126111200059_1.html) • [Ars Technica](https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/)
 
-### 2. Net direct tax collections rise 11.8% to ₹14.42 trillion as of November 10 [2 sources]
-- **Topic:** `Business` | **Score:** `30.52` | **Published:** 2026-11-11 15:47 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/finance/indias-net-direct-tax-collections-rise-11-8-from-april-1-to-nov-10/articleshow/135741242.cms) • [Business Standard](https://www.business-standard.com/economy/news/net-direct-tax-collections-rise-11-8-to-14-42-trillion-as-of-november-10-126111101503_1.html)
+### 2. Nvidia board to meet to decide CEO Jensen Huang's future at the company: Reports [2 sources]
+- **Topic:** `Business` | **Score:** `29.6` | **Published:** 2026-11-12 04:15 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/business/nvidia-board-meets-to-decide-ceo-jensen-huangs-future-source-says/articleshow/135751716.cms) • [YourStory](https://yourstory.com/2026/11/nvidia-board-to-meet-to-decide-ceo-jensen-huangs-future-at-the-company-reports)
 
-### 3. Noel Tata retires as Tata Investment chairman; Bahram Vakil to take over [2 sources]
-- **Topic:** `Business` | **Score:** `29.25` | **Published:** 2026-11-11 18:01 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-bahram-vakil-tata-investment-corporation-appoints-new-chairman-as-noel-tata-retires-from-position-11794407738833.html) • [Business Standard](https://www.business-standard.com/companies/people/noel-tata-retires-as-tata-investment-chairman-bahram-vakil-to-take-over-126111101630_1.html)
+### 3. Tata Power approves  ₹11,871 crore pumped storage project in Maharashtra [2 sources]
+- **Topic:** `Business` | **Score:** `28.38` | **Published:** 2026-11-11 16:27 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/tata-power-approves-11-871-crore-pumped-storage-project-in-maharashtra-11794405107082.html) • [Business Standard](https://www.business-standard.com/companies/quarterly-results/tata-power-q2-profit-rises-33-to-1-652-cr-11-871-cr-project-approved-126111101450_1.html)
 
-### 4. Amul hikes milk prices by Rs 2-4 per litre from Nov 12 [2 sources]
-- **Topic:** `Business` | **Score:** `28.78` | **Published:** 2026-11-11 13:32 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/cons-products/food/amul-hikes-milk-prices-by-rs-2-4-per-litre-from-november-12/articleshow/135739242.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/mother-dairy-hikes-milk-prices-by-rs-2-4-per-litre-in-delhi-ncr-from-november-12-check-new-rates-11794378098512.html)
+### 4. Jensen Huang scandal: Nvidia India staff lose $600 million on paper [1 source]
+- **Topic:** `Business` | **Score:** `16.4` | **Published:** 2026-11-12 03:31 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/nvidia-india-employee-stock-options-restricted-stock-units-rsus-jensen-huang-11794408485394.html)
 
-### 5. Indian Govt bans export of lithium-ion battery black mass [2 sources]
-- **Topic:** `Startups` | **Score:** `28.72` | **Published:** 2026-11-11 12:57 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/centre-bans-export-of-lithium-ion-batterys-black-mass/) • [YourStory](https://yourstory.com/2026/11/indian-govt-bans-export-battery-waste-including-lithium-ion-battery-black-mass)
+### 5. Oppo A7 Ultra Will Launch Next Month With 12,000mAh Battery, Tipster Claims [1 source]
+- **Topic:** `Tech` | **Score:** `16.4` | **Published:** 2026-11-12 03:31 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/oppo-a7-ultra-launch-timeline-battery-capacity-tipped-specifications-features-12315243)
 
-### 6. Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop [2 sources]
-- **Topic:** `Tech` | **Score:** `28.68` | **Published:** 2026-11-11 12:32 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/google-november-2026-pixel-drop-features-gemini-intelligence-12312949) • [Ars Technica](https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/)
+### 6. Anthropic IPO draws multiple times the available orders: Why Wall Street sees it as a test of the AI boom [1 source]
+- **Topic:** `Business` | **Score:** `16.34` | **Published:** 2026-11-12 02:51 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/anthropic-ipo-draws-multiple-times-the-available-orders-why-wall-street-sees-it-as-a-test-of-the-ai-boom-11794451339447.html)
 
-### 7. Adobe’s CMO on Why It’s Made Its Biggest Brand Campaign in 5 Years [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `17.35` | **Published:** 2026-11-11 15:22 UTC
-- **Coverage:** [Adweek](https://www.adweek.com/media/adobes-cmo-on-why-its-made-its-biggest-brand-campaign-in-5-years/)
+### 7. Hindalco's value-add focus to drive growth and a stock re-rating [1 source]
+- **Topic:** `Business` | **Score:** `16.15` | **Published:** 2026-11-12 01:03 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/stocks/earnings/hindalcos-value-add-focus-to-drive-growth-and-a-stock-re-rating/articleshow/135751760.cms)
 
-### 8. With $720M round, Britain’s Fractile gets a leg up in the race for AI chips [1 source]
-- **Topic:** `Startups` | **Score:** `16.29` | **Published:** 2026-11-11 19:34 UTC
-- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/)
+### 8. Indian companies ramp up overseas dealmaking amid growth push: JPMorgan [1 source]
+- **Topic:** `Business` | **Score:** `16.09` | **Published:** 2026-11-12 00:30 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/indian-companies-ramp-up-overseas-dealmaking-amid-growth-push-jpmorgan-investment-deals-acquisitions-11794388870843.html)
 
-### 9. Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning. [1 source]
-- **Topic:** `Tech` | **Score:** `16.08` | **Published:** 2026-11-11 17:37 UTC
-- **Coverage:** [Ars Technica](https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/)
+### 9. United won’t let your AI agent book your flight [1 source]
+- **Topic:** `Tech` | **Score:** `15.82` | **Published:** 2026-11-11 21:54 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents)
 
-### 10. CoreWeave shares surge over 26%, spark rally in battered AI cloud stocks [1 source]
-- **Topic:** `Business` | **Score:** `16.05` | **Published:** 2026-11-11 17:17 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/coreweave-shares-surge-over-20-spark-rally-in-battered-ai-cloud-stocks/articleshow/135744808.cms)
+### 10. Google’s Tabletop AI experiment lets you build custom collaboration apps [1 source]
+- **Topic:** `Tech` | **Score:** `15.2` | **Published:** 2026-11-11 16:00 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
