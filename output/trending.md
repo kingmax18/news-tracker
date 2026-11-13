@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 12, 2026 at 21:37 UTC | **Top Stories:** 10
+> **Generated on:** November 13, 2026 at 03:41 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Microsoft Outlook down today? [2 sources]
-- **Topic:** `Business` | **Score:** `29.53` | **Published:** 2026-11-12 20:43 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/microsoft-outlook-down-today-downdetector-reports-surge-as-north-and-south-american-users-face-email-access-problems/articleshow/135781142.cms) • [The Verge](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down)
+### 1. Grand Theft Auto 6 Can Be Streamed via Xbox Cloud Gaming on Xbox Series S/X and Xbox One at Launch [2 sources]
+- **Topic:** `Tech` | **Score:** `30.76` | **Published:** 2026-11-13 00:11 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/games/news/gta-6-cloud-gaming-support-xbox-series-one-consoles-micosoft-rockstar-12311741) • [The Verge](https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3)
 
-### 2. Meet Jay Puri, who could become next Nvidia CEO [2 sources]
-- **Topic:** `Business` | **Score:** `29.25` | **Published:** 2026-11-12 18:01 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/who-is-jay-puri-the-indian-origin-executive-who-may-become-jensen-huangs-successor-at-nvidia/articleshow/135767682.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/nvidia-next-ceo-who-s-jay-puri-harvard-alumnus-indian-origin-techie-grad-to-succeed-jensen-huang-strongest-candidate-11794504108122.html)
+### 2. Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil [1 source]
+- **Topic:** `Business` | **Score:** `16.39` | **Published:** 2026-11-13 02:39 UTC
+- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
 
-### 3. The rise and fall of Jensen Huang - how the tech superstar became mired in scandal [2 sources]
-- **Topic:** `Business` | **Score:** `29.22` | **Published:** 2026-11-12 17:44 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss) • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling)
+### 3. Nvidia turns to CFO Colette Kress to steady ship after Jensen Huang exit [1 source]
+- **Topic:** `Business` | **Score:** `16.37` | **Published:** 2026-11-13 02:26 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/nvidias-leadership-vacuum-can-colette-kress-protect-its-ai-dominance-after-jensen-huang-s-exit-expert-decodes-11794535794289.html)
 
-### 4. Adyar Ananda Bhavan sells majority stake to Bodhi Tree for $180 million [2 sources]
-- **Topic:** `Business` | **Score:** `29.07` | **Published:** 2026-11-12 16:21 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/bodhi-tree-systems-invests-180-mn-for-majority-stake-in-chennai-s-adyar-ananda-bhavan-11794483654486.html) • [Business Standard](https://www.business-standard.com/companies/news/adyar-ananda-bhavan-sells-majority-stake-to-bodhi-tree-for-180-million-126111201795_1.html)
+### 4. NHC Foods expands portfolio with Sachmaas acquisition; Q2 net up 16 times [1 source]
+- **Topic:** `Business` | **Score:** `16.26` | **Published:** 2026-11-13 01:24 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/nhc-foods-expands-portfolio-with-sachmaas-acquisition-q2-net-up-16-times-126111201291_1.html)
 
-### 5. Retail Smartphone Sales Tanked 20% In 2026 Diwali Season: AIMRA [2 sources]
-- **Topic:** `Startups` | **Score:** `28.13` | **Published:** 2026-11-12 07:15 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/retail-smartphone-sales-tanked-20-in-2026-diwali-season-aimra/) • [Gadgets 360](https://www.gadgets360.com/mobiles/news/diwali-smartphone-sales-decline-rising-prices-low-consumer-demand-report-12315895)
+### 5. The rise of 'housefishing' - when does using AI go from enhancing to misleading? [1 source]
+- **Topic:** `Business` | **Score:** `16.14` | **Published:** 2026-11-13 00:13 UTC
+- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss)
 
-### 6. Jensen Huang’s Nvidia exit raises fears over the future of AI financing [1 source]
-- **Topic:** `Business` | **Score:** `16.41` | **Published:** 2026-11-12 20:43 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jensen-huangs-nvidia-exit-raises-fears-over-the-future-of-ai-financing/articleshow/135782110.cms)
+### 6. Whoop launched a social network where every user has a ‘verified heartbeat [1 source]
+- **Topic:** `Tech` | **Score:** `16.09` | **Published:** 2026-11-12 23:43 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/gadgets/1032630/whoop-humans-social-network)
 
-### 7. Vivo Watch GT 2 India Variant Key Specifications, Colour Options Leaked Ahead of Launch [1 source]
-- **Topic:** `Tech` | **Score:** `16.35` | **Published:** 2026-11-12 05:50 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/wearables/news/vivo-watch-gt-2-india-variant-expected-features-leak-colour-options-12315709)
+### 7. Rentomojo Q2 Revenue Jumps 53% YoY To ₹142 Cr, Net Profit Slumps 63% [1 source]
+- **Topic:** `Startups` | **Score:** `16.0` | **Published:** 2026-11-12 22:54 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/wakefit-q2-profit-remains-flat-yoy-at-%e2%82%b916-cr-revenue-crosses-%e2%82%b9450-cr/)
 
-### 8. No, AI agents did not discover a previously unknown Maya site [1 source]
-- **Topic:** `Tech` | **Score:** `16.3` | **Published:** 2026-11-12 19:42 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery)
+### 8. FAA expands AI advice to manage air traffic congestion across entire US airspace [1 source]
+- **Topic:** `Tech` | **Score:** `15.96` | **Published:** 2026-11-12 22:28 UTC
+- **Coverage:** [Ars Technica](https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/)
 
-### 9. Nectar launches an AI agent to automate creator discovery and outreach for brands [1 source]
-- **Topic:** `Startups` | **Score:** `16.25` | **Published:** 2026-11-12 19:11 UTC
-- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/)
+### 9. NHRC Member Flags Meta-UNICEF Funding Ties Amid CSAM Scrutiny [1 source]
+- **Topic:** `Startups` | **Score:** `15.91` | **Published:** 2026-11-12 22:01 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/nhrc-member-flags-meta-unicef-funding-ties-amid-csam-scrutiny/)
 
-### 10. Google faces calls for AI moratoriums in schools after Gemini pilot backlash [1 source]
-- **Topic:** `Tech` | **Score:** `16.22` | **Published:** 2026-11-12 18:57 UTC
-- **Coverage:** [Ars Technica](https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/)
+### 10. Sociable: Meta’s AI ads included unapproved discounts [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `15.43` | **Published:** 2026-11-12 17:24 UTC
+- **Coverage:** [Marketing Dive](https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/)
