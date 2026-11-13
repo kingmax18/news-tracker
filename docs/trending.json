@@ -1,138 +1,162 @@
 {
-  "generated_at": "2026-11-13 03:41:37 UTC",
+  "generated_at": "2026-11-13 13:28:31 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Grand Theft Auto 6 Can Be Streamed via Xbox Cloud Gaming on Xbox Series S/X and Xbox One at Launch",
-      "score": 30.76,
+      "title": "Paytm Set To Revive Wallet Business With RBI In-Principle Nod",
+      "score": 65.45,
+      "source_count": 4,
+      "published_at": "2026-11-13 11:46 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/tech/technology/paytm-gets-rbis-in-principle-nod-to-revive-wallet-business/articleshow/135797771.cms"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/paytm-gets-rbi-nod-for-digital-wallet-business-when-can-users-add-money-and-make-payments-through-paytm-wallet-again-11794564726627.html"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/paytm-set-to-revive-wallet-business-with-rbi-in-principle-nod/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/paytm-gets-rbis-in-principle-nod-to-revive-wallet-business-through-new-subsidiary"
+        }
+      ]
+    },
+    {
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "score": 30.7,
       "source_count": 2,
-      "published_at": "2026-11-13 00:11 UTC",
+      "published_at": "2026-11-13 09:24 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/games/news/gta-6-cloud-gaming-support-xbox-series-one-consoles-micosoft-rockstar-12311741"
+          "url": "https://www.gadgets360.com/ai/news/google-gemini-4-hydrogen-features-uses-availability-12321396"
         },
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
         }
       ]
     },
     {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "score": 16.39,
-      "source_count": 1,
-      "published_at": "2026-11-13 02:39 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Nvidia turns to CFO Colette Kress to steady ship after Jensen Huang exit",
-      "score": 16.37,
-      "source_count": 1,
-      "published_at": "2026-11-13 02:26 UTC",
+      "title": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs",
+      "score": 29.58,
+      "source_count": 2,
+      "published_at": "2026-11-13 13:04 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/nvidias-leadership-vacuum-can-colette-kress-protect-its-ai-dominance-after-jensen-huang-s-exit-expert-decodes-11794535794289.html"
+          "url": "https://www.livemint.com/companies/sembcorp-green-infra-ipo-temasek-backed-renewable-energy-company-gets-sebi-nod-for-3-750-crore-public-issue-11794574597354.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/razorpay-sembcorp-green-infra-get-sebi-nod-float-ipos"
         }
       ]
     },
     {
-      "title": "NHC Foods expands portfolio with Sachmaas acquisition; Q2 net up 16 times",
-      "score": 16.26,
-      "source_count": 1,
-      "published_at": "2026-11-13 01:24 UTC",
+      "title": "RBI approves Pratap Singh as Fino Payments Bank MD and CEO for 3 years",
+      "score": 29.47,
+      "source_count": 2,
+      "published_at": "2026-11-13 11:58 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/nhc-foods-expands-portfolio-with-sachmaas-acquisition-q2-net-up-16-times-126111201291_1.html"
-        }
-      ]
-    },
-    {
-      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-      "score": 16.14,
-      "source_count": 1,
-      "published_at": "2026-11-13 00:13 UTC",
-      "topic": "business",
-      "sources": [
+          "url": "https://www.business-standard.com/companies/news/rbi-approves-pratap-singh-as-fino-payments-bank-md-and-ceo-for-3-years-126111301237_1.html"
+        },
         {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/fino-payments-bank-gets-new-md-ceo/"
         }
       ]
     },
     {
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat",
-      "score": 16.09,
-      "source_count": 1,
-      "published_at": "2026-11-12 23:43 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network"
-        }
-      ]
-    },
-    {
-      "title": "Rentomojo Q2 Revenue Jumps 53% YoY To ₹142 Cr, Net Profit Slumps 63%",
-      "score": 16.0,
-      "source_count": 1,
-      "published_at": "2026-11-12 22:54 UTC",
+      "title": "NPCI Unveils New MDR-Funded Scheme To Promote UPI Among Small Merchants",
+      "score": 29.36,
+      "source_count": 2,
+      "published_at": "2026-11-13 10:55 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/wakefit-q2-profit-remains-flat-yoy-at-%e2%82%b916-cr-revenue-crosses-%e2%82%b9450-cr/"
+          "url": "https://inc42.com/buzz/npci-unveils-new-mdr-funded-scheme-to-promote-upi-among-small-merchants/"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/apps/news/npci-upi-vyapaar-saksham-scheme-introduce-india-promote-acceptance-small-merchants-12322102"
         }
       ]
     },
     {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "score": 15.96,
+      "title": "AI opens up new revenue streams for Info Edge’s Naukri",
+      "score": 17.97,
       "source_count": 1,
-      "published_at": "2026-11-12 22:28 UTC",
+      "published_at": "2026-11-13 13:09 UTC",
       "topic": "tech",
       "sources": [
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-info-edge-q2-fy27-ai-revenue-naukri/"
         }
       ]
     },
     {
-      "title": "NHRC Member Flags Meta-UNICEF Funding Ties Amid CSAM Scrutiny",
-      "score": 15.91,
+      "title": "Vivo Watch GT 2 Features Officially Revealed Ahead of India Launch",
+      "score": 17.9,
       "source_count": 1,
-      "published_at": "2026-11-12 22:01 UTC",
-      "topic": "startups",
+      "published_at": "2026-11-13 12:31 UTC",
+      "topic": "tech",
       "sources": [
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/nhrc-member-flags-meta-unicef-funding-ties-amid-csam-scrutiny/"
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-camera-configuration-colour-options-revealed-specifications-features-12322647"
         }
       ]
     },
     {
-      "title": "Sociable: Meta’s AI ads included unapproved discounts",
-      "score": 15.43,
+      "title": "Amazon Rolls Out Alexa for Shopping in India With Personalised AI Assistance, Deal Alerts",
+      "score": 17.37,
       "source_count": 1,
-      "published_at": "2026-11-12 17:24 UTC",
+      "published_at": "2026-11-13 07:22 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/apps/news/alexa-for-shopping-india-rollout-features-availability-amazon-12321154"
+        }
+      ]
+    },
+    {
+      "title": "Oziva partners with Sania Mirza to launch plant-based nutrition brand",
+      "score": 17.36,
+      "source_count": 1,
+      "published_at": "2026-11-13 07:20 UTC",
       "topic": "marketing_and_branding",
       "sources": [
         {
-          "name": "Marketing Dive",
-          "url": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/"
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/oziva-partners-with-sania-mirza-to-launch-plant-based-nutrition-brand/135793754"
+        }
+      ]
+    },
+    {
+      "title": "AI could disrupt India's outsourcing model. It could also create millions of new exporters",
+      "score": 17.22,
+      "source_count": 1,
+      "published_at": "2026-11-13 05:59 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/ai-could-disrupt-indias-outsourcing-model-could-also-create-millions-new-exporters"
         }
       ]
     }

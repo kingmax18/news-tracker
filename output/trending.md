@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 13, 2026 at 03:41 UTC | **Top Stories:** 10
+> **Generated on:** November 13, 2026 at 13:28 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Grand Theft Auto 6 Can Be Streamed via Xbox Cloud Gaming on Xbox Series S/X and Xbox One at Launch [2 sources]
-- **Topic:** `Tech` | **Score:** `30.76` | **Published:** 2026-11-13 00:11 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/games/news/gta-6-cloud-gaming-support-xbox-series-one-consoles-micosoft-rockstar-12311741) • [The Verge](https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3)
+### 1. Paytm Set To Revive Wallet Business With RBI In-Principle Nod [4 sources]
+- **Topic:** `Business` | **Score:** `65.45` | **Published:** 2026-11-13 11:46 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/technology/paytm-gets-rbis-in-principle-nod-to-revive-wallet-business/articleshow/135797771.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/paytm-gets-rbi-nod-for-digital-wallet-business-when-can-users-add-money-and-make-payments-through-paytm-wallet-again-11794564726627.html) • [Inc42](https://inc42.com/buzz/paytm-set-to-revive-wallet-business-with-rbi-in-principle-nod/) • [YourStory](https://yourstory.com/2026/11/paytm-gets-rbis-in-principle-nod-to-revive-wallet-business-through-new-subsidiary)
 
-### 2. Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil [1 source]
-- **Topic:** `Business` | **Score:** `16.39` | **Published:** 2026-11-13 02:39 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
+### 2. Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash [2 sources]
+- **Topic:** `Tech` | **Score:** `30.7` | **Published:** 2026-11-13 09:24 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/ai/news/google-gemini-4-hydrogen-features-uses-availability-12321396) • [Ars Technica](https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/)
 
-### 3. Nvidia turns to CFO Colette Kress to steady ship after Jensen Huang exit [1 source]
-- **Topic:** `Business` | **Score:** `16.37` | **Published:** 2026-11-13 02:26 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/nvidias-leadership-vacuum-can-colette-kress-protect-its-ai-dominance-after-jensen-huang-s-exit-expert-decodes-11794535794289.html)
+### 3. Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs [2 sources]
+- **Topic:** `Business` | **Score:** `29.58` | **Published:** 2026-11-13 13:04 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/sembcorp-green-infra-ipo-temasek-backed-renewable-energy-company-gets-sebi-nod-for-3-750-crore-public-issue-11794574597354.html) • [YourStory](https://yourstory.com/2026/11/razorpay-sembcorp-green-infra-get-sebi-nod-float-ipos)
 
-### 4. NHC Foods expands portfolio with Sachmaas acquisition; Q2 net up 16 times [1 source]
-- **Topic:** `Business` | **Score:** `16.26` | **Published:** 2026-11-13 01:24 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/nhc-foods-expands-portfolio-with-sachmaas-acquisition-q2-net-up-16-times-126111201291_1.html)
+### 4. RBI approves Pratap Singh as Fino Payments Bank MD and CEO for 3 years [2 sources]
+- **Topic:** `Business` | **Score:** `29.47` | **Published:** 2026-11-13 11:58 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/rbi-approves-pratap-singh-as-fino-payments-bank-md-and-ceo-for-3-years-126111301237_1.html) • [Inc42](https://inc42.com/buzz/fino-payments-bank-gets-new-md-ceo/)
 
-### 5. The rise of 'housefishing' - when does using AI go from enhancing to misleading? [1 source]
-- **Topic:** `Business` | **Score:** `16.14` | **Published:** 2026-11-13 00:13 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss)
+### 5. NPCI Unveils New MDR-Funded Scheme To Promote UPI Among Small Merchants [2 sources]
+- **Topic:** `Startups` | **Score:** `29.36` | **Published:** 2026-11-13 10:55 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/npci-unveils-new-mdr-funded-scheme-to-promote-upi-among-small-merchants/) • [Gadgets 360](https://www.gadgets360.com/apps/news/npci-upi-vyapaar-saksham-scheme-introduce-india-promote-acceptance-small-merchants-12322102)
 
-### 6. Whoop launched a social network where every user has a ‘verified heartbeat [1 source]
-- **Topic:** `Tech` | **Score:** `16.09` | **Published:** 2026-11-12 23:43 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/gadgets/1032630/whoop-humans-social-network)
+### 6. AI opens up new revenue streams for Info Edge’s Naukri [1 source]
+- **Topic:** `Tech` | **Score:** `17.97` | **Published:** 2026-11-13 13:09 UTC
+- **Coverage:** [MediaNama](https://www.medianama.com/2026/11/223-info-edge-q2-fy27-ai-revenue-naukri/)
 
-### 7. Rentomojo Q2 Revenue Jumps 53% YoY To ₹142 Cr, Net Profit Slumps 63% [1 source]
-- **Topic:** `Startups` | **Score:** `16.0` | **Published:** 2026-11-12 22:54 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/wakefit-q2-profit-remains-flat-yoy-at-%e2%82%b916-cr-revenue-crosses-%e2%82%b9450-cr/)
+### 7. Vivo Watch GT 2 Features Officially Revealed Ahead of India Launch [1 source]
+- **Topic:** `Tech` | **Score:** `17.9` | **Published:** 2026-11-13 12:31 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-camera-configuration-colour-options-revealed-specifications-features-12322647)
 
-### 8. FAA expands AI advice to manage air traffic congestion across entire US airspace [1 source]
-- **Topic:** `Tech` | **Score:** `15.96` | **Published:** 2026-11-12 22:28 UTC
-- **Coverage:** [Ars Technica](https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/)
+### 8. Amazon Rolls Out Alexa for Shopping in India With Personalised AI Assistance, Deal Alerts [1 source]
+- **Topic:** `Tech` | **Score:** `17.37` | **Published:** 2026-11-13 07:22 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/apps/news/alexa-for-shopping-india-rollout-features-availability-amazon-12321154)
 
-### 9. NHRC Member Flags Meta-UNICEF Funding Ties Amid CSAM Scrutiny [1 source]
-- **Topic:** `Startups` | **Score:** `15.91` | **Published:** 2026-11-12 22:01 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/nhrc-member-flags-meta-unicef-funding-ties-amid-csam-scrutiny/)
+### 9. Oziva partners with Sania Mirza to launch plant-based nutrition brand [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `17.36` | **Published:** 2026-11-13 07:20 UTC
+- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/oziva-partners-with-sania-mirza-to-launch-plant-based-nutrition-brand/135793754)
 
-### 10. Sociable: Meta’s AI ads included unapproved discounts [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `15.43` | **Published:** 2026-11-12 17:24 UTC
-- **Coverage:** [Marketing Dive](https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/)
+### 10. AI could disrupt India's outsourcing model. It could also create millions of new exporters [1 source]
+- **Topic:** `Startups` | **Score:** `17.22` | **Published:** 2026-11-13 05:59 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/ai-could-disrupt-indias-outsourcing-model-could-also-create-millions-new-exporters)
