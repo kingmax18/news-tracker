@@ -1,150 +1,158 @@
 {
-  "generated_at": "2026-11-14 03:40:20 UTC",
+  "generated_at": "2026-11-14 12:33:53 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "score": 65.6,
-      "source_count": 4,
-      "published_at": "2026-11-14 03:23 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/faa-flight-ground-stop-disrupts-nba-nhl-and-college-football-travel-this-weekend/articleshow/135821070.cms"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/us-authorities-lift-nationwide-flight-ground-stop-after-4-hour-disruption-126111400091_1.html"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/news/1033489/faa-ground-stop"
-        }
-      ]
-    },
-    {
-      "title": "SpaceX launches 15th Starship, aims round-trip",
-      "score": 29.35,
+      "title": "MediaNama This Week: Top 10 Stories (7 November – 13 November 2026)",
+      "score": 30.18,
       "source_count": 2,
-      "published_at": "2026-11-14 01:02 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/articleshow/135819806.cms"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/spacex-aims-for-first-double-catch-of-starship-in-its-most-ambitious-test-flight-yet-11794598250576.html"
-        }
-      ]
-    },
-    {
-      "title": "Mars bets on India as a top-five growth market, targets $1.2 billion-plus revenue by 2030",
-      "score": 19.28,
-      "source_count": 1,
-      "published_at": "2026-11-14 01:30 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/mars-bets-on-india-as-top-five-growth-market-targets-1-2-billion-plus-revenue-dog-cat-food-vet-services-snacks-11794548363309.html"
-        }
-      ]
-    },
-    {
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "score": 18.98,
-      "source_count": 1,
-      "published_at": "2026-11-13 22:43 UTC",
+      "published_at": "2026-11-14 03:30 UTC",
       "topic": "startups",
       "sources": [
         {
-          "name": "TechCrunch - Startups",
-          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-13-2026"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-medianama-this-week-top-10-stories-7-november-13-november-2026/"
         }
       ]
     },
     {
-      "title": "India’s clean energy moonshot runs into headwinds",
-      "score": 16.39,
-      "source_count": 1,
-      "published_at": "2026-11-14 02:39 UTC",
+      "title": "Yes Bank files review petition in SC over ₹8,415 crore AT-1 bonds",
+      "score": 29.48,
+      "source_count": 2,
+      "published_at": "2026-11-14 11:10 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/renewables/india-seeks-to-triple-clean-energy-capacity-to-900-gigawatts-by-2035-but-major-hurdles-remain/articleshow/135820683.cms"
-        }
-      ]
-    },
-    {
-      "title": "Can Indian IT stocks regain momentum as AI-led disruption reshapes the sector?",
-      "score": 16.35,
-      "source_count": 1,
-      "published_at": "2026-11-14 02:13 UTC",
-      "topic": "business",
-      "sources": [
+          "url": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms"
+        },
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-relief-fails-to-lift-legacy-it-stocks-as-earnings-worries-weigh/articleshow/135820139.cms"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/yes-bank-seeks-sc-review-of-ruling-on-8-415-crore-at-1-bond-write-down-126111301764_1.html"
         }
       ]
     },
     {
-      "title": "China's BYD clears import hurdle, looks to accelerate India push",
-      "score": 16.28,
-      "source_count": 1,
-      "published_at": "2026-11-14 01:30 UTC",
+      "title": "Who will succeed Jensen Huang? The race to find Nvidia's next chief begins",
+      "score": 29.46,
+      "source_count": 2,
+      "published_at": "2026-11-14 11:00 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/chinas-byd-clears-import-hurdle-looks-to-accelerate-india-push-11794562283540.html"
+          "url": "https://www.livemint.com/companies/news/nvidia-ceo-race-could-jensen-huangs-children-succeed-him-full-list-of-potential-contenders-11794652643571.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/who-will-succeed-jensen-huang-race-to-find-permanent-chief-begins"
         }
       ]
     },
     {
-      "title": "Sachin Tendulkar Backs Waste Management Startup Recykal",
-      "score": 15.85,
+      "title": "Jio vs Airtel vs Vi: Best Prepaid Plans with OTT Benefits Compared",
+      "score": 29.41,
+      "source_count": 2,
+      "published_at": "2026-11-14 10:30 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/gold-and-silver-rates-today-november-14-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq/articleshow/135823965.cms"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/telecom/features/jio-versus-airtel-versus-vi-best-prepaid-plans-with-ott-benefits-comparison-12308385"
+        }
+      ]
+    },
+    {
+      "title": "CBI searches 33 locations in Mahadev betting app case",
+      "score": 29.12,
+      "source_count": 2,
+      "published_at": "2026-11-14 07:42 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/india/cbi-raids-33-locations-in-six-states-in-major-mahadev-betting-app-crackdown/articleshow/135823445.cms"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/mahadev-betting-app-cbi-searches-multiple-locations-ed-arrests-saurabh-chandrakar/"
+        }
+      ]
+    },
+    {
+      "title": "Meet Colette Kress: The CFO Replacing Nvidia's Jensen Huang",
+      "score": 26.16,
+      "source_count": 2,
+      "published_at": "2026-11-13 03:19 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/ai/news/jensen-huang-nvidia-resigns-management-overhaul-colette-kress-ceo-interim-12320324"
+        }
+      ]
+    },
+    {
+      "title": "US must respect India's right to self-defence, oppose terrorism: Blinken",
+      "score": 16.49,
       "source_count": 1,
-      "published_at": "2026-11-13 21:26 UTC",
+      "published_at": "2026-11-14 12:27 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/world-news/us-must-respect-india-s-right-to-self-defence-oppose-terrorism-blinken-126111401039_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Who is Y Suresh Kumar? Indian Army veteran joins CoSarathi.ai as co-founder; what will his role be?",
+      "score": 16.45,
+      "source_count": 1,
+      "published_at": "2026-11-14 12:06 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/who-is-y-suresh-kumar-indian-army-veteran-joins-cosarathi-ai-as-co-founder-what-will-his-role-be-11794656342662.html"
+        }
+      ]
+    },
+    {
+      "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+      "score": 16.36,
+      "source_count": 1,
+      "published_at": "2026-11-14 11:10 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/sachin-tendulkar-backs-waste-management-startup-recykal/"
+          "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/"
         }
       ]
     },
     {
-      "title": "Huang's affair may fix Lutnick, India's tariff hawk",
-      "score": 15.47,
+      "title": "FirstCry Q2 Net Loss Narrows 75% YoY To ₹12.6 Cr, Revenue Up 14%",
+      "score": 16.35,
       "source_count": 1,
-      "published_at": "2026-11-13 17:49 UTC",
-      "topic": "business",
+      "published_at": "2026-11-14 11:10 UTC",
+      "topic": "startups",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/huangs-china-affair-may-fix-howard-lutnick-the-man-who-wanted-to-fix-india/articleshow/135812706.cms"
-        }
-      ]
-    },
-    {
-      "title": "Black Box Q2 profit rises 30.6% to ₹72.6 crore; revenue up 22.2%",
-      "score": 15.37,
-      "source_count": 1,
-      "published_at": "2026-11-13 16:50 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/quarterly-results/black-box-q2-profit-rises-30-6-to-72-6-crore-revenue-up-22-2-126111300752_1.html"
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/firstcry-q2-net-loss-narrows-75-yoy-to-%e2%82%b912-6-cr-revenue-up-14/"
         }
       ]
     }
