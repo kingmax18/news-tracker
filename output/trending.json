@@ -1,158 +1,150 @@
 {
-  "generated_at": "2026-11-14 12:33:53 UTC",
+  "generated_at": "2026-11-14 19:32:10 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "MediaNama This Week: Top 10 Stories (7 November – 13 November 2026)",
-      "score": 30.18,
+      "title": "Adyar Ananda Bhavan sells majority stake to Bodhi Tree Systems for $180M",
+      "score": 29.22,
       "source_count": 2,
-      "published_at": "2026-11-14 03:30 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-13-2026"
-        },
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-medianama-this-week-top-10-stories-7-november-13-november-2026/"
-        }
-      ]
-    },
-    {
-      "title": "Yes Bank files review petition in SC over ₹8,415 crore AT-1 bonds",
-      "score": 29.48,
-      "source_count": 2,
-      "published_at": "2026-11-14 11:10 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/yes-bank-seeks-sc-review-of-ruling-on-8-415-crore-at-1-bond-write-down-126111301764_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Who will succeed Jensen Huang? The race to find Nvidia's next chief begins",
-      "score": 29.46,
-      "source_count": 2,
-      "published_at": "2026-11-14 11:00 UTC",
+      "published_at": "2026-11-14 15:39 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/nvidia-ceo-race-could-jensen-huangs-children-succeed-him-full-list-of-potential-contenders-11794652643571.html"
+          "url": "https://www.livemint.com/companies/news/bodhi-tree-systems-to-invest-180-million-for-majority-stake-in-south-indian-food-chain-adyar-ananda-bhavan-11794665523532.html"
         },
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/who-will-succeed-jensen-huang-race-to-find-permanent-chief-begins"
+          "url": "https://yourstory.com/2026/11/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan"
         }
       ]
     },
     {
-      "title": "Jio vs Airtel vs Vi: Best Prepaid Plans with OTT Benefits Compared",
-      "score": 29.41,
+      "title": "Delhivery partners with Tata Motors, Euler Motors, Montra Electric to deploy up to 2,000 electric commercial vehicles",
+      "score": 29.16,
       "source_count": 2,
-      "published_at": "2026-11-14 10:30 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/wealth/invest/gold-and-silver-rates-today-november-14-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq/articleshow/135823965.cms"
-        },
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/telecom/features/jio-versus-airtel-versus-vi-best-prepaid-plans-with-ott-benefits-comparison-12308385"
-        }
-      ]
-    },
-    {
-      "title": "CBI searches 33 locations in Mahadev betting app case",
-      "score": 29.12,
-      "source_count": 2,
-      "published_at": "2026-11-14 07:42 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/india/cbi-raids-33-locations-in-six-states-in-major-mahadev-betting-app-crackdown/articleshow/135823445.cms"
-        },
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/mahadev-betting-app-cbi-searches-multiple-locations-ed-arrests-saurabh-chandrakar/"
-        }
-      ]
-    },
-    {
-      "title": "Meet Colette Kress: The CFO Replacing Nvidia's Jensen Huang",
-      "score": 26.16,
-      "source_count": 2,
-      "published_at": "2026-11-13 03:19 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/ai/news/jensen-huang-nvidia-resigns-management-overhaul-colette-kress-ceo-interim-12320324"
-        }
-      ]
-    },
-    {
-      "title": "US must respect India's right to self-defence, oppose terrorism: Blinken",
-      "score": 16.49,
-      "source_count": 1,
-      "published_at": "2026-11-14 12:27 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/us-must-respect-india-s-right-to-self-defence-oppose-terrorism-blinken-126111401039_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Who is Y Suresh Kumar? Indian Army veteran joins CoSarathi.ai as co-founder; what will his role be?",
-      "score": 16.45,
-      "source_count": 1,
-      "published_at": "2026-11-14 12:06 UTC",
+      "published_at": "2026-11-14 15:08 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/who-is-y-suresh-kumar-indian-army-veteran-joins-cosarathi-ai-as-co-founder-what-will-his-role-be-11794656342662.html"
+          "url": "https://www.livemint.com/companies/news/delhivery-to-deploy-2-000-electric-vehicles-in-18-months-aims-to-make-50-of-its-intra-city-fleet-electric-in-2-3-years-11794667360022.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/delhivery-partners-with-tata-motors-euler-motors-montra-electric-deploy-2000-ecvs"
         }
       ]
     },
     {
-      "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
-      "score": 16.36,
-      "source_count": 1,
-      "published_at": "2026-11-14 11:10 UTC",
-      "topic": "startups",
+      "title": "Anup Gupta To Exit Nexus Venture Partners After 16 Years",
+      "score": 29.13,
+      "source_count": 2,
+      "published_at": "2026-11-14 14:45 UTC",
+      "topic": "business",
       "sources": [
         {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/excited-about-new-horizons-nexus-venture-partners-anup-gupta-announces-june-2027-exit-after-nearly-17-years/articleshow/135833338.cms"
+        },
+        {
           "name": "Inc42",
-          "url": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/"
+          "url": "https://inc42.com/buzz/anup-gupta-to-exit-nexus-venture-partners-after-16-years/"
         }
       ]
     },
     {
-      "title": "FirstCry Q2 Net Loss Narrows 75% YoY To ₹12.6 Cr, Revenue Up 14%",
-      "score": 16.35,
+      "title": "Tesla gives Cybercab for personal use at $29,990",
+      "score": 29.08,
+      "source_count": 2,
+      "published_at": "2026-11-14 14:18 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/international/business/tesla-invites-select-customers-to-buy-cybercab-for-personal-use-at-29990/articleshow/135827086.cms"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print"
+        }
+      ]
+    },
+    {
+      "title": "Jensen Huang’s Exit: How Deep Does NVIDIA’s AI Ecosystem Run In India?",
+      "score": 17.52,
       "source_count": 1,
-      "published_at": "2026-11-14 11:10 UTC",
+      "published_at": "2026-11-14 14:57 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/firstcry-q2-net-loss-narrows-75-yoy-to-%e2%82%b912-6-cr-revenue-up-14/"
+          "url": "https://inc42.com/features/jensen-huangs-exit-how-deep-does-nvidias-ai-ecosystem-run-in-india/"
+        }
+      ]
+    },
+    {
+      "title": "World goes electric, India holds back",
+      "score": 16.39,
+      "source_count": 1,
+      "published_at": "2026-11-14 18:28 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/energy/power/world-switches-on-to-electrification-india-holds-back/articleshow/135840680.cms"
+        }
+      ]
+    },
+    {
+      "title": "Why Elon Musk wants affair marred Jensen Huang back at Nvidia? Is AI industry not ready for a post-Huang era",
+      "score": 16.18,
+      "source_count": 1,
+      "published_at": "2026-11-14 16:30 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/why-elon-musk-wants-affair-marred-jensen-huang-back-at-nvidia-is-ai-industry-not-ready-for-a-post-huang-era-11794671970534.html"
+        }
+      ]
+    },
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "score": 16.03,
+      "source_count": 1,
+      "published_at": "2026-11-14 15:00 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+        }
+      ]
+    },
+    {
+      "title": "Who is John Langford? Meet the mind behind AI Frontiers who quit after Microsoft's restructuring",
+      "score": 15.96,
+      "source_count": 1,
+      "published_at": "2026-11-14 14:22 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/who-is-john-langford-meet-the-mind-behind-ai-frontiers-who-quit-after-microsofts-restructuring-11794664543595.html"
+        }
+      ]
+    },
+    {
+      "title": "Ajinkya Rahane Picks Up Stake In D2C Cookware Brand Ember",
+      "score": 15.94,
+      "source_count": 1,
+      "published_at": "2026-11-14 14:09 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/ajinkya-rahane-picks-up-stake-in-d2c-cookware-brand-ember/"
         }
       ]
     }
