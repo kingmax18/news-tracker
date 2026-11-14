@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 13, 2026 at 21:02 UTC | **Top Stories:** 10
+> **Generated on:** November 14, 2026 at 03:40 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Microsoft 365 applications hit by global outage for over 10 hours [9 sources]
-- **Topic:** `Business` | **Score:** `178.96` | **Published:** 2026-11-13 20:49 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/company/corporate-trends/microsoft-outage-disruption-the-microsoft-trap-one-outage-can-bring-the-business-world-tumbling-down-outlook-teams-microsoft-365-cloud-computing-ai-satya-nadella-teams-copilot-not-working-impact-on-business/articleshow/135792149.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/microsoft-outage-explained-what-happened-how-businesses-were-affected-and-when-services-will-return-11794560994159.html) • [BBC News - Business](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss) • [Inc42](https://inc42.com/features/microsofts-outlook-outage-drags-on-indian-enterprises-are-feeling-the-heat/) • [YourStory](https://yourstory.com/2026/11/one-outage-millions-affected-what-went-wrong-at-microsoft) • [MediaNama](https://www.medianama.com/2026/11/223-microsoft-365-applications-global-outage/) • [The Verge](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage) • [Ars Technica](https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/) • [Gadgets 360](https://www.gadgets360.com/internet/features/microsoft-outlook-outage-what-caused-it-affected-services-why-is-it-taking-so-long-to-fix-explainer-12322431)
+### 1. FAA lifts nationwide ground stop that blocked takeoffs for hours [4 sources]
+- **Topic:** `Business` | **Score:** `65.6` | **Published:** 2026-11-14 03:23 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/faa-flight-ground-stop-disrupts-nba-nhl-and-college-football-travel-this-weekend/articleshow/135821070.cms) • [Ars Technica](https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/) • [Business Standard](https://www.business-standard.com/world-news/us-authorities-lift-nationwide-flight-ground-stop-after-4-hour-disruption-126111400091_1.html) • [The Verge](https://www.theverge.com/news/1033489/faa-ground-stop)
 
-### 2. Jensen Huang has resigned, what's next for Nvidia? [3 sources]
-- **Topic:** `Business` | **Score:** `46.3` | **Published:** 2026-11-13 02:43 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss) • [Inc42](https://inc42.com/buzz/jensen-huang-resigns-as-ceo-of-chipmaker-nvidia/) • [YourStory](https://yourstory.com/2026/11/jensen-huang-resigns-after-33-years-at-nvidia)
+### 2. SpaceX launches 15th Starship, aims round-trip [2 sources]
+- **Topic:** `Business` | **Score:** `29.35` | **Published:** 2026-11-14 01:02 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/articleshow/135819806.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/spacex-aims-for-first-double-catch-of-starship-in-its-most-ambitious-test-flight-yet-11794598250576.html)
 
-### 3. I’m a piece of sh--’: Inside Jensen Huang’s final hours as Nvidia CEO [2 sources]
-- **Topic:** `Business` | **Score:** `28.05` | **Published:** 2026-11-13 05:53 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/artificial-intelligence/im-a-piece-of-sh-jensen-huangs-last-hours-as-nvidia-ceo/articleshow/135786445.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/im-a-piece-of-sh-inside-jensen-huang-s-final-hours-as-nvidia-ceo-11794545307416.html)
+### 3. Mars bets on India as a top-five growth market, targets $1.2 billion-plus revenue by 2030 [1 source]
+- **Topic:** `Business` | **Score:** `19.28` | **Published:** 2026-11-14 01:30 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/mars-bets-on-india-as-top-five-growth-market-targets-1-2-billion-plus-revenue-dog-cat-food-vet-services-snacks-11794548363309.html)
 
-### 4. AI agent startup LangChain hits $3B valuation [1 source]
-- **Topic:** `Startups` | **Score:** `17.85` | **Published:** 2026-11-13 19:37 UTC
-- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)
+### 4. Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say [1 source]
+- **Topic:** `Startups` | **Score:** `18.98` | **Published:** 2026-11-13 22:43 UTC
+- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
 
-### 5. Air India, AI Express extends flight cancellations to Saudi Arabia [1 source]
-- **Topic:** `Business` | **Score:** `17.68` | **Published:** 2026-11-13 18:00 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/industry/aviation/air-india-ai-express-extends-flight-cancellations-to-saudi-arabia-126111301503_1.html)
+### 5. India’s clean energy moonshot runs into headwinds [1 source]
+- **Topic:** `Business` | **Score:** `16.39` | **Published:** 2026-11-14 02:39 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/renewables/india-seeks-to-triple-clean-energy-capacity-to-900-gigawatts-by-2035-but-major-hurdles-remain/articleshow/135820683.cms)
 
-### 6. Xiaomi 18 Pro, Redmi Note 17 Aura India Launch Tipped for January 2027; Xiaomi 18T Could Arrive Later [1 source]
-- **Topic:** `Tech` | **Score:** `17.26` | **Published:** 2026-11-13 13:58 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/xiaomi-18-pro-18t-redmi-note-17-aura-india-launch-price-timeline-leak-12322917)
+### 6. Can Indian IT stocks regain momentum as AI-led disruption reshapes the sector? [1 source]
+- **Topic:** `Business` | **Score:** `16.35` | **Published:** 2026-11-14 02:13 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/stocks/news/ai-relief-fails-to-lift-legacy-it-stocks-as-earnings-worries-weigh/articleshow/135820139.cms)
 
-### 7. Here’s how you can save on your GTA VI preorder ahead of launch [1 source]
-- **Topic:** `Tech` | **Score:** `16.31` | **Published:** 2026-11-13 19:14 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale)
+### 7. China's BYD clears import hurdle, looks to accelerate India push [1 source]
+- **Topic:** `Business` | **Score:** `16.28` | **Published:** 2026-11-14 01:30 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/chinas-byd-clears-import-hurdle-looks-to-accelerate-india-push-11794562283540.html)
 
-### 8. Jensen Huang controversy puts Southeast Asia’s AI chip trade under scrutiny [1 source]
-- **Topic:** `Business` | **Score:** `16.26` | **Published:** 2026-11-13 18:46 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jensen-huang-controversy-puts-southeast-asias-ai-chip-trade-under-scrutiny/articleshow/135814366.cms)
+### 8. Sachin Tendulkar Backs Waste Management Startup Recykal [1 source]
+- **Topic:** `Startups` | **Score:** `15.85` | **Published:** 2026-11-13 21:26 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/sachin-tendulkar-backs-waste-management-startup-recykal/)
 
-### 9. Norwest bets on India's value-added manufacturing with $4-billion fund [1 source]
-- **Topic:** `Business` | **Score:** `16.22` | **Published:** 2026-11-13 18:18 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/norwest-bets-on-india-s-value-added-manufacturing-with-4-billion-fund-126111301650_1.html)
+### 9. Huang's affair may fix Lutnick, India's tariff hawk [1 source]
+- **Topic:** `Business` | **Score:** `15.47` | **Published:** 2026-11-13 17:49 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/huangs-china-affair-may-fix-howard-lutnick-the-man-who-wanted-to-fix-india/articleshow/135812706.cms)
 
-### 10. OpenAI board member worries an AI "takeover" of society could be months away [1 source]
-- **Topic:** `Tech` | **Score:** `16.12` | **Published:** 2026-11-13 17:25 UTC
-- **Coverage:** [Ars Technica](https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/)
+### 10. Black Box Q2 profit rises 30.6% to ₹72.6 crore; revenue up 22.2% [1 source]
+- **Topic:** `Business` | **Score:** `15.37` | **Published:** 2026-11-13 16:50 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/companies/quarterly-results/black-box-q2-profit-rises-30-6-to-72-6-crore-revenue-up-22-2-126111300752_1.html)
