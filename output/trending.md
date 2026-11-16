@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 15, 2026 at 18:01 UTC | **Top Stories:** 10
+> **Generated on:** November 16, 2026 at 00:26 UTC | **Top Stories:** 10
 
 ---
 
-### 1. India, US agree on preferential market access for Indian goods: Goyal [2 sources]
-- **Topic:** `Business` | **Score:** `30.41` | **Published:** 2026-11-15 11:11 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/external-affairs-defence-security/news/india-us-agree-on-preferential-market-access-for-indian-goods-goyal-126111500278_1.html) • [YourStory](https://yourstory.com/2026/11/india-us-agree-on-preferential-market-access-for-indian-goods-in-america-goyal)
+### 1. ULA Vulcan Rocket Launches With Its First Amazon Leo Payload [2 sources]
+- **Topic:** `Business` | **Score:** `29.27` | **Published:** 2026-11-15 21:05 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/ula-vulcan-rocket-launches-with-its-first-amazon-leo-payload-11794767538933.html) • [The Verge](https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites)
 
-### 2. Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says [2 sources]
-- **Topic:** `Business` | **Score:** `29.3` | **Published:** 2026-11-15 14:56 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout-11794749081461.html) • [BBC News - Business](https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss)
+### 2. ET Poll: India growth seen at 7.7% in Q2 [1 source]
+- **Topic:** `Business` | **Score:** `17.9` | **Published:** 2026-11-15 23:30 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/indicators/et-poll-india-growth-seen-at-7-7-in-q2-on-track-for-7-3-in-fy2/articleshow/135864178.cms)
 
-### 3. India, Egypt to work on terms of reference for potential trade agreement [1 source]
-- **Topic:** `Business` | **Score:** `16.22` | **Published:** 2026-11-15 15:21 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/world-news/india-egypt-to-work-on-terms-of-reference-for-potential-trade-agreement-126111500658_1.html)
+### 3. Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market [1 source]
+- **Topic:** `Startups` | **Score:** `17.9` | **Published:** 2026-11-15 23:30 UTC
+- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)
 
-### 4. (Weekly funding roundup Nov 7-14) VC inflow drops to its lowest level in 2026 [1 source]
-- **Topic:** `Startups` | **Score:** `16.13` | **Published:** 2026-11-15 14:28 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/weekly-funding-roundup-nov-7-14-vc-inflow-drops-to-lowest-level-2026)
+### 4. Jio explores Indian launch partners for satellite constellation; rocket capacity a hurdle [1 source]
+- **Topic:** `Business` | **Score:** `16.49` | **Published:** 2026-11-16 00:18 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/jio-satellites-skyroot-spacex-tariffs-satcom-cosmos-11794737248227.html)
 
-### 5. AI makes 2 Indian-origin founders world’s youngest self-made billionaires worth  ₹40,000 crore each, beats Zuckerberg [1 source]
-- **Topic:** `Business` | **Score:** `16.08` | **Published:** 2026-11-15 13:58 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/ai-makes-2-indian-origin-founders-world-s-youngest-self-made-billionaires-worth-40-000-crore-each-beats-zuckerberg-11794748301344.html)
+### 5. Vulcan rocket fails during launch, dealing major blow to SpaceX competitors [1 source]
+- **Topic:** `Tech` | **Score:** `16.37` | **Published:** 2026-11-15 23:11 UTC
+- **Coverage:** [Ars Technica](https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/)
 
-### 6. US lawmakers seek tighter AI chip export curbs [1 source]
-- **Topic:** `Business` | **Score:** `16.05` | **Published:** 2026-11-15 13:45 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/technology/us-lawmakers-push-for-tighter-ai-chip-export-rules-after-nvidia-controversy-report/articleshow/135857081.cms)
+### 6. Congress wants to tighten export rules on AI chips after Nvidia spy scandal [1 source]
+- **Topic:** `Tech` | **Score:** `15.96` | **Published:** 2026-11-15 19:15 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)
 
-### 7. Jensen Huang controversy triggers fresh US push to block advanced AI chip exports to China — Report [1 source]
-- **Topic:** `Business` | **Score:** `15.97` | **Published:** 2026-11-15 12:58 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/jensen-huang-controversy-triggers-fresh-us-push-to-block-advanced-ai-chip-exports-to-china-report-11794745222099.html)
+### 7. Big 4 turn India's boom phase into biz opportunity [1 source]
+- **Topic:** `Business` | **Score:** `15.91` | **Published:** 2026-11-15 18:49 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/red-hot-indian-deals-market-drives-big-4-to-beef-up-local-advisory-teams/articleshow/135861899.cms)
 
-### 8. Best Air Purifiers Under Rs. 15,000 for Bedrooms in India [1 source]
-- **Topic:** `Tech` | **Score:** `15.82` | **Published:** 2026-11-15 11:30 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/smart-home/news/best-air-purifiers-under-rs-15000-bedrooms-india-xiaomi-honeywell-philips-12318442)
+### 8. Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending [1 source]
+- **Topic:** `Startups` | **Score:** `15.88` | **Published:** 2026-11-15 18:29 UTC
+- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/)
 
-### 9. India beat Kiwis in fifth ODI to clinch series [1 source]
-- **Topic:** `Business` | **Score:** `15.69` | **Published:** 2026-11-15 10:14 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/sports/cricket/indias-pace-attack-defends-209-to-seal-22-run-win-third-odi-series-triumph-in-new-zealand/articleshow/135852929.cms)
+### 9. Consumer spending on ITC-acquired to double [1 source]
+- **Topic:** `Business` | **Score:** `14.83` | **Published:** 2026-11-15 08:23 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/cons-products/fmcg/consumer-spending-on-itc-acquired-brands-savlon-nimyle-to-double-in-medium-term/articleshow/135851165.cms)
 
-### 10. India's aviation safety faces a five-day US test [1 source]
-- **Topic:** `Business` | **Score:** `15.64` | **Published:** 2026-11-15 09:43 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/faa-to-conduct-audit-of-indias-aviation-safety-oversight-standards-from-nov-16-20/articleshow/135852378.cms)
+### 10. Cut national insurance for under-25s to create jobs, Milburn report to say [1 source]
+- **Topic:** `Business` | **Score:** `14.8` | **Published:** 2026-11-15 22:30 UTC
+- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss)

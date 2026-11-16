@@ -1,142 +1,138 @@
 {
-  "generated_at": "2026-11-15 18:01:59 UTC",
+  "generated_at": "2026-11-16 00:26:47 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "India, US agree on preferential market access for Indian goods: Goyal",
-      "score": 30.41,
+      "title": "ULA Vulcan Rocket Launches With Its First Amazon Leo Payload",
+      "score": 29.27,
       "source_count": 2,
-      "published_at": "2026-11-15 11:11 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/external-affairs-defence-security/news/india-us-agree-on-preferential-market-access-for-indian-goods-goyal-126111500278_1.html"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/india-us-agree-on-preferential-market-access-for-indian-goods-in-america-goyal"
-        }
-      ]
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "score": 29.3,
-      "source_count": 2,
-      "published_at": "2026-11-15 14:56 UTC",
+      "published_at": "2026-11-15 21:05 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout-11794749081461.html"
+          "url": "https://www.livemint.com/companies/ula-vulcan-rocket-launches-with-its-first-amazon-leo-payload-11794767538933.html"
         },
         {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
         }
       ]
     },
     {
-      "title": "India, Egypt to work on terms of reference for potential trade agreement",
-      "score": 16.22,
+      "title": "ET Poll: India growth seen at 7.7% in Q2",
+      "score": 17.9,
       "source_count": 1,
-      "published_at": "2026-11-15 15:21 UTC",
+      "published_at": "2026-11-15 23:30 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/india-egypt-to-work-on-terms-of-reference-for-potential-trade-agreement-126111500658_1.html"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/et-poll-india-growth-seen-at-7-7-in-q2-on-track-for-7-3-in-fy2/articleshow/135864178.cms"
         }
       ]
     },
     {
-      "title": "(Weekly funding roundup Nov 7-14) VC inflow drops to its lowest level in 2026",
-      "score": 16.13,
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "score": 17.9,
       "source_count": 1,
-      "published_at": "2026-11-15 14:28 UTC",
+      "published_at": "2026-11-15 23:30 UTC",
       "topic": "startups",
       "sources": [
         {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/weekly-funding-roundup-nov-7-14-vc-inflow-drops-to-lowest-level-2026"
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
         }
       ]
     },
     {
-      "title": "AI makes 2 Indian-origin founders world’s youngest self-made billionaires worth  ₹40,000 crore each, beats Zuckerberg",
-      "score": 16.08,
+      "title": "Jio explores Indian launch partners for satellite constellation; rocket capacity a hurdle",
+      "score": 16.49,
       "source_count": 1,
-      "published_at": "2026-11-15 13:58 UTC",
+      "published_at": "2026-11-16 00:18 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/ai-makes-2-indian-origin-founders-world-s-youngest-self-made-billionaires-worth-40-000-crore-each-beats-zuckerberg-11794748301344.html"
+          "url": "https://www.livemint.com/companies/news/jio-satellites-skyroot-spacex-tariffs-satcom-cosmos-11794737248227.html"
         }
       ]
     },
     {
-      "title": "US lawmakers seek tighter AI chip export curbs",
-      "score": 16.05,
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "score": 16.37,
       "source_count": 1,
-      "published_at": "2026-11-15 13:45 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/tech/technology/us-lawmakers-push-for-tighter-ai-chip-export-rules-after-nvidia-controversy-report/articleshow/135857081.cms"
-        }
-      ]
-    },
-    {
-      "title": "Jensen Huang controversy triggers fresh US push to block advanced AI chip exports to China — Report",
-      "score": 15.97,
-      "source_count": 1,
-      "published_at": "2026-11-15 12:58 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/jensen-huang-controversy-triggers-fresh-us-push-to-block-advanced-ai-chip-exports-to-china-report-11794745222099.html"
-        }
-      ]
-    },
-    {
-      "title": "Best Air Purifiers Under Rs. 15,000 for Bedrooms in India",
-      "score": 15.82,
-      "source_count": 1,
-      "published_at": "2026-11-15 11:30 UTC",
+      "published_at": "2026-11-15 23:11 UTC",
       "topic": "tech",
       "sources": [
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/smart-home/news/best-air-purifiers-under-rs-15000-bedrooms-india-xiaomi-honeywell-philips-12318442"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/"
         }
       ]
     },
     {
-      "title": "India beat Kiwis in fifth ODI to clinch series",
-      "score": 15.69,
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "score": 15.96,
       "source_count": 1,
-      "published_at": "2026-11-15 10:14 UTC",
-      "topic": "business",
+      "published_at": "2026-11-15 19:15 UTC",
+      "topic": "tech",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/sports/cricket/indias-pace-attack-defends-209-to-seal-22-run-win-third-odi-series-triumph-in-new-zealand/articleshow/135852929.cms"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
         }
       ]
     },
     {
-      "title": "India's aviation safety faces a five-day US test",
-      "score": 15.64,
+      "title": "Big 4 turn India's boom phase into biz opportunity",
+      "score": 15.91,
       "source_count": 1,
-      "published_at": "2026-11-15 09:43 UTC",
+      "published_at": "2026-11-15 18:49 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/faa-to-conduct-audit-of-indias-aviation-safety-oversight-standards-from-nov-16-20/articleshow/135852378.cms"
+          "url": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/red-hot-indian-deals-market-drives-big-4-to-beef-up-local-advisory-teams/articleshow/135861899.cms"
+        }
+      ]
+    },
+    {
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "score": 15.88,
+      "source_count": 1,
+      "published_at": "2026-11-15 18:29 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/"
+        }
+      ]
+    },
+    {
+      "title": "Consumer spending on ITC-acquired to double",
+      "score": 14.83,
+      "source_count": 1,
+      "published_at": "2026-11-15 08:23 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/consumer-spending-on-itc-acquired-brands-savlon-nimyle-to-double-in-medium-term/articleshow/135851165.cms"
+        }
+      ]
+    },
+    {
+      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "score": 14.8,
+      "source_count": 1,
+      "published_at": "2026-11-15 22:30 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
