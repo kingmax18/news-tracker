@@ -1,170 +1,158 @@
 {
-  "generated_at": "2026-11-16 21:17:29 UTC",
+  "generated_at": "2026-11-17 05:18:59 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Dreamteam emerges from stealth with $53 million to build AI-native CRM",
-      "score": 30.87,
-      "source_count": 2,
-      "published_at": "2026-11-16 18:50 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/start-ups/dreamteam-emerges-from-stealth-with-53-million-to-build-ai-native-crm-126111601767_1.html"
-        },
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/"
-        }
-      ]
-    },
-    {
-      "title": "Xiaomi Reportedly Raises Redmi Smartphone Prices in India by Up to Rs 4,000",
-      "score": 30.15,
-      "source_count": 2,
-      "published_at": "2026-11-16 11:55 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/samsung-xiaomi-models-get-costlier-by-up-to-%e2%82%b94000-in-india/"
-        },
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/xiaomi-raises-redmi-smartphone-prices-in-india-by-up-to-rs-4000-12333871"
-        }
-      ]
-    },
-    {
-      "title": "US data centers now burn more electricity than a midsized country",
-      "score": 29.58,
-      "source_count": 2,
-      "published_at": "2026-11-16 20:52 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
-        }
-      ]
-    },
-    {
-      "title": "EaseMyTrip Q2: Loss Narrows 98% YoY To ₹57 Lakh, Revenue Up 34%",
-      "score": 29.57,
-      "source_count": 2,
-      "published_at": "2026-11-16 06:24 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/easemytrip-q2-loss-narrows-98-yoy-to-%e2%82%b957-lakh-revenue-up-34/"
-        },
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-easemytrip-loss-narrows-revenue-surges/"
-        }
-      ]
-    },
-    {
-      "title": "Meet the new James Bond: Robert Pattinson",
-      "score": 29.45,
-      "source_count": 2,
-      "published_at": "2026-11-16 19:36 UTC",
+      "title": "Three small failures combined to take down Microsoft 365",
+      "score": 46.23,
+      "source_count": 3,
+      "published_at": "2026-11-17 00:42 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/robert-pattinson-becomes-seventh-james-bond-from-twilight-heartthrob-to-007-how-he-landed-iconic-role/articleshow/135894440.cms"
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/jpmorgan-chase-bank-of-america-zelle-hit-by-outages-in-us-bank-rules-out-cyberattack/articleshow/135906504.cms"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/internet/news/microsoft-outlook-365-outage-explained-12333367"
         },
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/"
+          "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
         }
       ]
     },
     {
-      "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
-      "score": 29.36,
+      "title": "US consumer goods major Church & Dwight plans India entry in early 2027",
+      "score": 32.53,
       "source_count": 2,
-      "published_at": "2026-11-16 18:44 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/apple-iphone-duo-2-face-id-action-button-improvements-upgrades-mark-gurman-power-on-12331964"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta"
-        }
-      ]
-    },
-    {
-      "title": "RBI moves review plea in Supreme Court against Yes Bank AT-1 bond ruling",
-      "score": 29.24,
-      "source_count": 2,
-      "published_at": "2026-11-16 17:36 UTC",
+      "published_at": "2026-11-17 04:25 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/rbi-moves-review-plea-in-supreme-court-against-yes-bank-at-1-bond-ruling-11794833245144.html"
+          "url": "https://www.livemint.com/companies/news/church-dwight-india-launch-premium-products-online-customers-11794828579954.html"
         },
         {
           "name": "Business Standard",
-          "url": "https://www.business-standard.com/industry/banking/rbi-files-review-petition-in-sc-over-yes-bank-s-8-415-cr-at-1-bond-case-126111601511_1.html"
+          "url": "https://www.business-standard.com/companies/news/us-consumer-goods-major-church-dwight-plans-india-entry-in-early-2027-126111700149_1.html"
         }
       ]
     },
     {
-      "title": "TVS family feud takes legal turn as Lakshmi stakes her claim",
-      "score": 29.23,
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "score": 30.49,
       "source_count": 2,
-      "published_at": "2026-11-16 17:33 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/tvs-dispute-takes-legal-turn-lakshmi-venu-sends-partition-notice-to-father-venu-srinivasan-11794821921142.html"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/new-twist-in-tvs-family-feud-lakshmi-venu-seeks-partition-of-family-assets-126111601574_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Amazon puts Arnold Schwarzenegger in Santa suit to extend holiday push",
-      "score": 28.96,
-      "source_count": 2,
-      "published_at": "2026-11-16 14:56 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "Marketing Dive",
-          "url": "https://www.marketingdive.com/news/amazon-puts-arnold-schwarzenegger-in-santa-suit-to-extend-holiday-push/874675/"
-        },
-        {
-          "name": "Adweek",
-          "url": "https://www.adweek.com/commerce/arnold-schwarzenegger-finally-lands-the-role-of-santa-in-amazons-holiday-ad/"
-        }
-      ]
-    },
-    {
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "score": 17.79,
-      "source_count": 1,
-      "published_at": "2026-11-16 19:16 UTC",
+      "published_at": "2026-11-16 23:12 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+        }
+      ]
+    },
+    {
+      "title": "PB Balaji drove Tata Motors out of debt. JLR is dragging it back in",
+      "score": 29.12,
+      "source_count": 2,
+      "published_at": "2026-11-17 00:30 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-animal-insticts-jlr-jaguar-land-rover-financial-performance-recovery-challenges/articleshow/135878683.cms"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/pb-balaji-drove-tata-motors-out-of-debt-jlr-is-dragging-it-back-in-11794823794702.html"
+        }
+      ]
+    },
+    {
+      "title": "RBI reiterates listing mandate for Tata Sons, seeks compliance with norms",
+      "score": 28.41,
+      "source_count": 2,
+      "published_at": "2026-11-16 17:41 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/rbi-tells-tata-sons-to-comply-with-listing-requirement-says-no-exemption-from-upper-layer-nbfc-norms/articleshow/135894889.cms"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/finance/news/rbi-reiterates-listing-mandate-for-tata-sons-seeks-compliance-with-norms-126111601897_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "score": 17.4,
+      "source_count": 1,
+      "published_at": "2026-11-16 23:32 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+        }
+      ]
+    },
+    {
+      "title": "India & Nine Other Nations Sign Joint Declaration To Safeguard AI Supply Chains",
+      "score": 17.21,
+      "source_count": 1,
+      "published_at": "2026-11-16 21:44 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/india-nine-other-nations-sign-declaration-to-secure-ai-supply-chains/"
+        }
+      ]
+    },
+    {
+      "title": "Former Freshworks executives-founded AI startup Dreamteam raises $53M",
+      "score": 16.59,
+      "source_count": 1,
+      "published_at": "2026-11-16 15:45 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding"
+        }
+      ]
+    },
+    {
+      "title": "India’s deeptech funding record faces a test of scale: Speciale Invest report",
+      "score": 16.49,
+      "source_count": 1,
+      "published_at": "2026-11-16 14:48 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report"
+        }
+      ]
+    },
+    {
+      "title": "Google Introduces New Youth Digital Wellbeing Playlist in India, Expands Teen Mental Health Shelves",
+      "score": 16.45,
+      "source_count": 1,
+      "published_at": "2026-11-17 04:52 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/google-india-youth-digital-wellbeing-playlist-teen-mental-health-shelves-youtube-search-android-rollout-12336754"
         }
       ]
     }

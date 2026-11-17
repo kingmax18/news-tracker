@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 16, 2026 at 21:17 UTC | **Top Stories:** 10
+> **Generated on:** November 17, 2026 at 05:18 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Dreamteam emerges from stealth with $53 million to build AI-native CRM [2 sources]
-- **Topic:** `Business` | **Score:** `30.87` | **Published:** 2026-11-16 18:50 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/companies/start-ups/dreamteam-emerges-from-stealth-with-53-million-to-build-ai-native-crm-126111601767_1.html) • [Inc42](https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/)
+### 1. Three small failures combined to take down Microsoft 365 [3 sources]
+- **Topic:** `Business` | **Score:** `46.23` | **Published:** 2026-11-17 00:42 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/jpmorgan-chase-bank-of-america-zelle-hit-by-outages-in-us-bank-rules-out-cyberattack/articleshow/135906504.cms) • [Gadgets 360](https://www.gadgets360.com/internet/news/microsoft-outlook-365-outage-explained-12333367) • [Ars Technica](https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/)
 
-### 2. Xiaomi Reportedly Raises Redmi Smartphone Prices in India by Up to Rs 4,000 [2 sources]
-- **Topic:** `Startups` | **Score:** `30.15` | **Published:** 2026-11-16 11:55 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/samsung-xiaomi-models-get-costlier-by-up-to-%e2%82%b94000-in-india/) • [Gadgets 360](https://www.gadgets360.com/mobiles/news/xiaomi-raises-redmi-smartphone-prices-in-india-by-up-to-rs-4000-12333871)
+### 2. US consumer goods major Church & Dwight plans India entry in early 2027 [2 sources]
+- **Topic:** `Business` | **Score:** `32.53` | **Published:** 2026-11-17 04:25 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/church-dwight-india-launch-premium-products-online-customers-11794828579954.html) • [Business Standard](https://www.business-standard.com/companies/news/us-consumer-goods-major-church-dwight-plans-india-entry-in-early-2027-126111700149_1.html)
 
-### 3. US data centers now burn more electricity than a midsized country [2 sources]
-- **Topic:** `Tech` | **Score:** `29.58` | **Published:** 2026-11-16 20:52 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard) • [Ars Technica](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/)
+### 3. California sues OpenAI over rogue AI hacking incidents [2 sources]
+- **Topic:** `Business` | **Score:** `30.49` | **Published:** 2026-11-16 23:12 UTC
+- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss) • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit)
 
-### 4. EaseMyTrip Q2: Loss Narrows 98% YoY To ₹57 Lakh, Revenue Up 34% [2 sources]
-- **Topic:** `Startups` | **Score:** `29.57` | **Published:** 2026-11-16 06:24 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/easemytrip-q2-loss-narrows-98-yoy-to-%e2%82%b957-lakh-revenue-up-34/) • [MediaNama](https://www.medianama.com/2026/11/223-easemytrip-loss-narrows-revenue-surges/)
+### 4. PB Balaji drove Tata Motors out of debt. JLR is dragging it back in [2 sources]
+- **Topic:** `Business` | **Score:** `29.12` | **Published:** 2026-11-17 00:30 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-animal-insticts-jlr-jaguar-land-rover-financial-performance-recovery-challenges/articleshow/135878683.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/pb-balaji-drove-tata-motors-out-of-debt-jlr-is-dragging-it-back-in-11794823794702.html)
 
-### 5. Meet the new James Bond: Robert Pattinson [2 sources]
-- **Topic:** `Business` | **Score:** `29.45` | **Published:** 2026-11-16 19:36 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/robert-pattinson-becomes-seventh-james-bond-from-twilight-heartthrob-to-007-how-he-landed-iconic-role/articleshow/135894440.cms) • [Ars Technica](https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/)
+### 5. RBI reiterates listing mandate for Tata Sons, seeks compliance with norms [2 sources]
+- **Topic:** `Business` | **Score:** `28.41` | **Published:** 2026-11-16 17:41 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/company/corporate-trends/rbi-tells-tata-sons-to-comply-with-listing-requirement-says-no-exemption-from-upper-layer-nbfc-norms/articleshow/135894889.cms) • [Business Standard](https://www.business-standard.com/finance/news/rbi-reiterates-listing-mandate-for-tata-sons-seeks-compliance-with-norms-126111601897_1.html)
 
-### 6. Apple is adding face unlock to the iPhone Duo — without new hardware [2 sources]
-- **Topic:** `Tech` | **Score:** `29.36` | **Published:** 2026-11-16 18:44 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/apple-iphone-duo-2-face-id-action-button-improvements-upgrades-mark-gurman-power-on-12331964) • [The Verge](https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta)
+### 6. Cybersecurity AI startup Corma reaches $1B valuation in about 3 months [1 source]
+- **Topic:** `Startups` | **Score:** `17.4` | **Published:** 2026-11-16 23:32 UTC
+- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/)
 
-### 7. RBI moves review plea in Supreme Court against Yes Bank AT-1 bond ruling [2 sources]
-- **Topic:** `Business` | **Score:** `29.24` | **Published:** 2026-11-16 17:36 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/rbi-moves-review-plea-in-supreme-court-against-yes-bank-at-1-bond-ruling-11794833245144.html) • [Business Standard](https://www.business-standard.com/industry/banking/rbi-files-review-petition-in-sc-over-yes-bank-s-8-415-cr-at-1-bond-case-126111601511_1.html)
+### 7. India & Nine Other Nations Sign Joint Declaration To Safeguard AI Supply Chains [1 source]
+- **Topic:** `Startups` | **Score:** `17.21` | **Published:** 2026-11-16 21:44 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/india-nine-other-nations-sign-declaration-to-secure-ai-supply-chains/)
 
-### 8. TVS family feud takes legal turn as Lakshmi stakes her claim [2 sources]
-- **Topic:** `Business` | **Score:** `29.23` | **Published:** 2026-11-16 17:33 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/tvs-dispute-takes-legal-turn-lakshmi-venu-sends-partition-notice-to-father-venu-srinivasan-11794821921142.html) • [Business Standard](https://www.business-standard.com/companies/news/new-twist-in-tvs-family-feud-lakshmi-venu-seeks-partition-of-family-assets-126111601574_1.html)
+### 8. Former Freshworks executives-founded AI startup Dreamteam raises $53M [1 source]
+- **Topic:** `Startups` | **Score:** `16.59` | **Published:** 2026-11-16 15:45 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding)
 
-### 9. Amazon puts Arnold Schwarzenegger in Santa suit to extend holiday push [2 sources]
-- **Topic:** `Marketing And Branding` | **Score:** `28.96` | **Published:** 2026-11-16 14:56 UTC
-- **Coverage:** [Marketing Dive](https://www.marketingdive.com/news/amazon-puts-arnold-schwarzenegger-in-santa-suit-to-extend-holiday-push/874675/) • [Adweek](https://www.adweek.com/commerce/arnold-schwarzenegger-finally-lands-the-role-of-santa-in-amazons-holiday-ad/)
+### 9. India’s deeptech funding record faces a test of scale: Speciale Invest report [1 source]
+- **Topic:** `Startups` | **Score:** `16.49` | **Published:** 2026-11-16 14:48 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report)
 
-### 10. Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched [1 source]
-- **Topic:** `Business` | **Score:** `17.79` | **Published:** 2026-11-16 19:16 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)
+### 10. Google Introduces New Youth Digital Wellbeing Playlist in India, Expands Teen Mental Health Shelves [1 source]
+- **Topic:** `Tech` | **Score:** `16.45` | **Published:** 2026-11-17 04:52 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/google-india-youth-digital-wellbeing-playlist-teen-mental-health-shelves-youtube-search-android-rollout-12336754)
