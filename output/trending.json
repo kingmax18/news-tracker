@@ -1,158 +1,166 @@
 {
-  "generated_at": "2026-11-17 05:18:59 UTC",
+  "generated_at": "2026-11-17 14:57:11 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Three small failures combined to take down Microsoft 365",
-      "score": 46.23,
+      "title": "Amazon plans $7 billion renewable energy investment in India by 2030",
+      "score": 48.04,
       "source_count": 3,
-      "published_at": "2026-11-17 00:42 UTC",
+      "published_at": "2026-11-17 13:19 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/jpmorgan-chase-bank-of-america-zelle-hit-by-outages-in-us-bank-rules-out-cyberattack/articleshow/135906504.cms"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/amazons-7-billion-green-energy-india-investment-4-projects-3-states-934-mw-capacity-and-power-for-3-5-million-homes-11794909333504.html"
         },
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/internet/news/microsoft-outlook-365-outage-explained-12333367"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/amazon-to-invest-7-billion-in-india-s-renewable-energy-sector-by-2030-126111700847_1.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/amazon-plans-usd-7-billion-renewable-energy-investment-india-by-2030"
+        }
+      ]
+    },
+    {
+      "title": "Ranveer Singh, Aman Gupta Launch Men’s Personal Care Brand H.I.M",
+      "score": 34.04,
+      "source_count": 2,
+      "published_at": "2026-11-17 14:06 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/who-is-aman-gupta-shark-tank-india-judge-joins-ranveer-singh-to-launch-men-s-grooming-brand-him-11794919086129.html"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/ranveer-singh-aman-gupta-team-up-to-launch-mens-grooming-brand-h-i-m/"
+        }
+      ]
+    },
+    {
+      "title": "Fairfax to exit IIFL Finance via ₹3,454-crore block deal at ₹611 a share",
+      "score": 31.04,
+      "source_count": 2,
+      "published_at": "2026-11-17 14:06 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/fairfax-puts-entire-370-mn-iifl-finance-stake-on-the-block-after-idbi-acquisition-11794920000664.html"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/industry/news/fairfax-to-exit-iifl-finance-via-3-454-crore-block-deal-at-611-a-share-126111701181_1.html"
+        }
+      ]
+    },
+    {
+      "title": "US moves to cut China’s remote access to AI chips",
+      "score": 30.75,
+      "source_count": 2,
+      "published_at": "2026-11-17 11:21 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/nvidia-warns-customers-over-us-bill-targeting-chinas-access-to-ai-chips-via-overseas-data-centres-report-11794913175903.html"
         },
         {
           "name": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/"
+          "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
         }
       ]
     },
     {
-      "title": "US consumer goods major Church & Dwight plans India entry in early 2027",
-      "score": 32.53,
+      "title": "Instagram Tightens Recommendations For Sexually Suggestive, Violent Content In India",
+      "score": 30.36,
       "source_count": 2,
-      "published_at": "2026-11-17 04:25 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/church-dwight-india-launch-premium-products-online-customers-11794828579954.html"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/us-consumer-goods-major-church-dwight-plans-india-entry-in-early-2027-126111700149_1.html"
-        }
-      ]
-    },
-    {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "score": 30.49,
-      "source_count": 2,
-      "published_at": "2026-11-16 23:12 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
-        }
-      ]
-    },
-    {
-      "title": "PB Balaji drove Tata Motors out of debt. JLR is dragging it back in",
-      "score": 29.12,
-      "source_count": 2,
-      "published_at": "2026-11-17 00:30 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-animal-insticts-jlr-jaguar-land-rover-financial-performance-recovery-challenges/articleshow/135878683.cms"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/pb-balaji-drove-tata-motors-out-of-debt-jlr-is-dragging-it-back-in-11794823794702.html"
-        }
-      ]
-    },
-    {
-      "title": "RBI reiterates listing mandate for Tata Sons, seeks compliance with norms",
-      "score": 28.41,
-      "source_count": 2,
-      "published_at": "2026-11-16 17:41 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/rbi-tells-tata-sons-to-comply-with-listing-requirement-says-no-exemption-from-upper-layer-nbfc-norms/articleshow/135894889.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/finance/news/rbi-reiterates-listing-mandate-for-tata-sons-seeks-compliance-with-norms-126111601897_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "score": 17.4,
-      "source_count": 1,
-      "published_at": "2026-11-16 23:32 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "TechCrunch - Startups",
-          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
-        }
-      ]
-    },
-    {
-      "title": "India & Nine Other Nations Sign Joint Declaration To Safeguard AI Supply Chains",
-      "score": 17.21,
-      "source_count": 1,
-      "published_at": "2026-11-16 21:44 UTC",
+      "published_at": "2026-11-17 07:40 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/india-nine-other-nations-sign-declaration-to-secure-ai-supply-chains/"
+          "url": "https://inc42.com/buzz/instagram-tightens-recommendations-for-sexually-suggestive-violent-content-in-india/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/instagram-fine-tunes-recommendation-systems-india-curb-sexually-suggestive-violent-content"
         }
       ]
     },
     {
-      "title": "Former Freshworks executives-founded AI startup Dreamteam raises $53M",
-      "score": 16.59,
-      "source_count": 1,
-      "published_at": "2026-11-16 15:45 UTC",
+      "title": "Lakshmi Venu seeks formal partition of TVS Venu Srinivasan family assets",
+      "score": 28.97,
+      "source_count": 2,
+      "published_at": "2026-11-17 08:38 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/who-is-lakshmi-venu-and-why-is-she-seeking-formal-partition-of-tvs-venu-srinivasan-family-assets-11794904419372.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/lakshmi-venu-formal-partition-tvs-venu-srinivasan-family-assets"
+        }
+      ]
+    },
+    {
+      "title": "CERT-In Flags Fresh Vulnerabilities In eMudhra’s emBridge Tool",
+      "score": 28.78,
+      "source_count": 2,
+      "published_at": "2026-11-17 06:54 UTC",
       "topic": "startups",
       "sources": [
         {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding"
-        }
-      ]
-    },
-    {
-      "title": "India’s deeptech funding record faces a test of scale: Speciale Invest report",
-      "score": 16.49,
-      "source_count": 1,
-      "published_at": "2026-11-16 14:48 UTC",
-      "topic": "startups",
-      "sources": [
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/cert-in-flags-fresh-vulnerabilities-in-emudhras-embridge-tool/"
+        },
         {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report"
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-cert-in-flags-new-emudhra-security-flaw/"
         }
       ]
     },
     {
-      "title": "Google Introduces New Youth Digital Wellbeing Playlist in India, Expands Teen Mental Health Shelves",
-      "score": 16.45,
+      "title": "EvoFox Play V Wireless Gamepad Launched in India With Magnetic Hall 3D Joysticks for Sony’s PS5, PC and Smartphones",
+      "score": 17.63,
       "source_count": 1,
-      "published_at": "2026-11-17 04:52 UTC",
+      "published_at": "2026-11-17 11:26 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/google-india-youth-digital-wellbeing-playlist-teen-mental-health-shelves-youtube-search-android-rollout-12336754"
+          "url": "https://www.gadgets360.com/games/news/evofox-play-v-wireless-gamepad-price-in-india-launch-specifications-features-12338522"
+        }
+      ]
+    },
+    {
+      "title": "How AI could reshape jobs, investing, and wealth creation in India",
+      "score": 17.62,
+      "source_count": 1,
+      "published_at": "2026-11-17 11:20 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/how-ai-could-reshape-jobs-investing-and-wealth-creation-in-india"
+        }
+      ]
+    },
+    {
+      "title": "Blaupunkt Atomik Knightz 25K Boombox Launched in India With 120W Output, Wireless Karaoke: Price, Specifications",
+      "score": 17.51,
+      "source_count": 1,
+      "published_at": "2026-11-17 10:16 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/audio/news/blaupunkt-atomik-knightz-25k-boombox-price-in-india-launch-sale-features-specifications-12338182"
         }
       ]
     }

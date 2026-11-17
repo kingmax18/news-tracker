@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 17, 2026 at 05:18 UTC | **Top Stories:** 10
+> **Generated on:** November 17, 2026 at 14:57 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Three small failures combined to take down Microsoft 365 [3 sources]
-- **Topic:** `Business` | **Score:** `46.23` | **Published:** 2026-11-17 00:42 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/jpmorgan-chase-bank-of-america-zelle-hit-by-outages-in-us-bank-rules-out-cyberattack/articleshow/135906504.cms) • [Gadgets 360](https://www.gadgets360.com/internet/news/microsoft-outlook-365-outage-explained-12333367) • [Ars Technica](https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/)
+### 1. Amazon plans $7 billion renewable energy investment in India by 2030 [3 sources]
+- **Topic:** `Business` | **Score:** `48.04` | **Published:** 2026-11-17 13:19 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/amazons-7-billion-green-energy-india-investment-4-projects-3-states-934-mw-capacity-and-power-for-3-5-million-homes-11794909333504.html) • [Business Standard](https://www.business-standard.com/companies/news/amazon-to-invest-7-billion-in-india-s-renewable-energy-sector-by-2030-126111700847_1.html) • [YourStory](https://yourstory.com/2026/11/amazon-plans-usd-7-billion-renewable-energy-investment-india-by-2030)
 
-### 2. US consumer goods major Church & Dwight plans India entry in early 2027 [2 sources]
-- **Topic:** `Business` | **Score:** `32.53` | **Published:** 2026-11-17 04:25 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/church-dwight-india-launch-premium-products-online-customers-11794828579954.html) • [Business Standard](https://www.business-standard.com/companies/news/us-consumer-goods-major-church-dwight-plans-india-entry-in-early-2027-126111700149_1.html)
+### 2. Ranveer Singh, Aman Gupta Launch Men’s Personal Care Brand H.I.M [2 sources]
+- **Topic:** `Business` | **Score:** `34.04` | **Published:** 2026-11-17 14:06 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-aman-gupta-shark-tank-india-judge-joins-ranveer-singh-to-launch-men-s-grooming-brand-him-11794919086129.html) • [Inc42](https://inc42.com/buzz/ranveer-singh-aman-gupta-team-up-to-launch-mens-grooming-brand-h-i-m/)
 
-### 3. California sues OpenAI over rogue AI hacking incidents [2 sources]
-- **Topic:** `Business` | **Score:** `30.49` | **Published:** 2026-11-16 23:12 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss) • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit)
+### 3. Fairfax to exit IIFL Finance via ₹3,454-crore block deal at ₹611 a share [2 sources]
+- **Topic:** `Business` | **Score:** `31.04` | **Published:** 2026-11-17 14:06 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/fairfax-puts-entire-370-mn-iifl-finance-stake-on-the-block-after-idbi-acquisition-11794920000664.html) • [Business Standard](https://www.business-standard.com/industry/news/fairfax-to-exit-iifl-finance-via-3-454-crore-block-deal-at-611-a-share-126111701181_1.html)
 
-### 4. PB Balaji drove Tata Motors out of debt. JLR is dragging it back in [2 sources]
-- **Topic:** `Business` | **Score:** `29.12` | **Published:** 2026-11-17 00:30 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/auto/auto-news/tata-motors-animal-insticts-jlr-jaguar-land-rover-financial-performance-recovery-challenges/articleshow/135878683.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/pb-balaji-drove-tata-motors-out-of-debt-jlr-is-dragging-it-back-in-11794823794702.html)
+### 4. US moves to cut China’s remote access to AI chips [2 sources]
+- **Topic:** `Business` | **Score:** `30.75` | **Published:** 2026-11-17 11:21 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/nvidia-warns-customers-over-us-bill-targeting-chinas-access-to-ai-chips-via-overseas-data-centres-report-11794913175903.html) • [Ars Technica](https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/)
 
-### 5. RBI reiterates listing mandate for Tata Sons, seeks compliance with norms [2 sources]
-- **Topic:** `Business` | **Score:** `28.41` | **Published:** 2026-11-16 17:41 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/company/corporate-trends/rbi-tells-tata-sons-to-comply-with-listing-requirement-says-no-exemption-from-upper-layer-nbfc-norms/articleshow/135894889.cms) • [Business Standard](https://www.business-standard.com/finance/news/rbi-reiterates-listing-mandate-for-tata-sons-seeks-compliance-with-norms-126111601897_1.html)
+### 5. Instagram Tightens Recommendations For Sexually Suggestive, Violent Content In India [2 sources]
+- **Topic:** `Startups` | **Score:** `30.36` | **Published:** 2026-11-17 07:40 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/instagram-tightens-recommendations-for-sexually-suggestive-violent-content-in-india/) • [YourStory](https://yourstory.com/2026/11/instagram-fine-tunes-recommendation-systems-india-curb-sexually-suggestive-violent-content)
 
-### 6. Cybersecurity AI startup Corma reaches $1B valuation in about 3 months [1 source]
-- **Topic:** `Startups` | **Score:** `17.4` | **Published:** 2026-11-16 23:32 UTC
-- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/)
+### 6. Lakshmi Venu seeks formal partition of TVS Venu Srinivasan family assets [2 sources]
+- **Topic:** `Business` | **Score:** `28.97` | **Published:** 2026-11-17 08:38 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-lakshmi-venu-and-why-is-she-seeking-formal-partition-of-tvs-venu-srinivasan-family-assets-11794904419372.html) • [YourStory](https://yourstory.com/2026/11/lakshmi-venu-formal-partition-tvs-venu-srinivasan-family-assets)
 
-### 7. India & Nine Other Nations Sign Joint Declaration To Safeguard AI Supply Chains [1 source]
-- **Topic:** `Startups` | **Score:** `17.21` | **Published:** 2026-11-16 21:44 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/india-nine-other-nations-sign-declaration-to-secure-ai-supply-chains/)
+### 7. CERT-In Flags Fresh Vulnerabilities In eMudhra’s emBridge Tool [2 sources]
+- **Topic:** `Startups` | **Score:** `28.78` | **Published:** 2026-11-17 06:54 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/cert-in-flags-fresh-vulnerabilities-in-emudhras-embridge-tool/) • [MediaNama](https://www.medianama.com/2026/11/223-cert-in-flags-new-emudhra-security-flaw/)
 
-### 8. Former Freshworks executives-founded AI startup Dreamteam raises $53M [1 source]
-- **Topic:** `Startups` | **Score:** `16.59` | **Published:** 2026-11-16 15:45 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding)
+### 8. EvoFox Play V Wireless Gamepad Launched in India With Magnetic Hall 3D Joysticks for Sony’s PS5, PC and Smartphones [1 source]
+- **Topic:** `Tech` | **Score:** `17.63` | **Published:** 2026-11-17 11:26 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/games/news/evofox-play-v-wireless-gamepad-price-in-india-launch-specifications-features-12338522)
 
-### 9. India’s deeptech funding record faces a test of scale: Speciale Invest report [1 source]
-- **Topic:** `Startups` | **Score:** `16.49` | **Published:** 2026-11-16 14:48 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report)
+### 9. How AI could reshape jobs, investing, and wealth creation in India [1 source]
+- **Topic:** `Startups` | **Score:** `17.62` | **Published:** 2026-11-17 11:20 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/how-ai-could-reshape-jobs-investing-and-wealth-creation-in-india)
 
-### 10. Google Introduces New Youth Digital Wellbeing Playlist in India, Expands Teen Mental Health Shelves [1 source]
-- **Topic:** `Tech` | **Score:** `16.45` | **Published:** 2026-11-17 04:52 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/google-india-youth-digital-wellbeing-playlist-teen-mental-health-shelves-youtube-search-android-rollout-12336754)
+### 10. Blaupunkt Atomik Knightz 25K Boombox Launched in India With 120W Output, Wireless Karaoke: Price, Specifications [1 source]
+- **Topic:** `Tech` | **Score:** `17.51` | **Published:** 2026-11-17 10:16 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/audio/news/blaupunkt-atomik-knightz-25k-boombox-price-in-india-launch-sale-features-specifications-12338182)
