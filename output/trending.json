@@ -1,158 +1,150 @@
 {
-  "generated_at": "2026-11-17 22:44:51 UTC",
+  "generated_at": "2026-11-18 04:47:01 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Nvidia scandal: Jensen Huang signals willingness to return as CEO",
-      "score": 65.61,
-      "source_count": 4,
-      "published_at": "2026-11-17 22:32 UTC",
+      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+      "score": 46.63,
+      "source_count": 3,
+      "published_at": "2026-11-18 04:00 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/jensen-huang-breaks-silence-after-nvidia-exit-says-he-is-ready-to-return-as-ceo-if-board-wants-him-back-11794934190301.html"
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "ET Brand Equity - Marketing",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/from-gotham-to-007-brands-welcome-robert-pattinson-as-the-new-james-bond/135935413"
         },
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang"
-        },
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/nvidia-scandal-jensen-huang-signals-willingness-to-return-as-ceo-126111701444_1.html"
+          "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon"
         }
       ]
     },
     {
-      "title": "Nvidia hires Heidrick & Struggles to find next CEO after Jensen Huang's exit",
-      "score": 48.1,
-      "source_count": 3,
-      "published_at": "2026-11-17 21:40 UTC",
+      "title": "India facing economic disaster, unemployment crisis: Rahul Gandhi in US",
+      "score": 31.09,
+      "source_count": 2,
+      "published_at": "2026-11-18 04:30 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/world/us/when-are-nvidia-earnings-today-nvda-q3-2027-results-date-and-release-schedule-what-investors-should-watch-in-first-earnings-report-after-jensen-huangs-exit/articleshow/135923991.cms"
+          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/india-sitting-on-economic-disaster-says-rahul-gandhi-at-columbia-university/articleshow/135945725.cms"
         },
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/nvidia-hires-heidrick-struggles-to-find-next-ceo-after-jensen-huangs-exit-11794938861014.html"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/india-news/india-facing-economic-disaster-unemployment-crisis-rahul-gandhi-in-us-126111800222_1.html"
         }
       ]
     },
     {
-      "title": "Nike’s new air sole technology can mix soft and firm cushioning",
-      "score": 29.51,
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "score": 29.62,
       "source_count": 2,
-      "published_at": "2026-11-17 21:38 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/wearables/news/nike-previews-new-vaporfly-5-tuned-air-technology-and-other-performance-innovations-12336985"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning"
-        }
-      ]
-    },
-    {
-      "title": "₹300 crore investment: T-Series and Hungama launch FastTV to bring micro-drama in India - Deal details",
-      "score": 17.52,
-      "source_count": 1,
-      "published_at": "2026-11-17 18:06 UTC",
+      "published_at": "2026-11-18 04:47 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/rs-300-crore-investment-t-series-and-hungama-launch-fasttv-to-bring-micro-drama-in-india-deal-details-11794936271229.html"
+          "url": "https://www.livemint.com/companies/news/waymo-pauses-robotaxi-rides-on-us-freeways-after-california-bans-autonomous-vehicles-for-posing-an-imminent-hazard-11794967322655.html"
+        },
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "MobiKwik eyes Rs 100 cr revenue boost from UPI MDR; gets RBI nod to launch NBFC operations",
-      "score": 16.56,
+      "title": "AI startups join the race for India's tech talent",
+      "score": 17.55,
       "source_count": 1,
-      "published_at": "2026-11-17 08:55 UTC",
-      "topic": "tech",
+      "published_at": "2026-11-18 00:30 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-mobikwik-100-crore-upi-mdr-revenue/"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/tech/startups/silicon-valleys-ai-startups-join-the-race-for-indias-top-tech-talent/articleshow/135935457.cms"
         }
       ]
     },
     {
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "score": 16.32,
+      "title": "Google Begins Rolling Out Personal AI Assistant, Tasks, In India",
+      "score": 17.45,
       "source_count": 1,
-      "published_at": "2026-11-17 21:00 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
-        }
-      ]
-    },
-    {
-      "title": "Coinbase India Partially Resumes INR Withdrawals After A Week Of Disruption",
-      "score": 16.31,
-      "source_count": 1,
-      "published_at": "2026-11-17 20:54 UTC",
+      "published_at": "2026-11-17 23:31 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/coinbase-india-partially-resumes-inr-withdrawals-after-a-week-of-disruption/"
+          "url": "https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/"
         }
       ]
     },
     {
-      "title": "India, Japan to deepen defence ties at 2+2 talks",
-      "score": 16.11,
+      "title": "CoreEL Technologies in early talks to raise $40-50 million in fresh funding",
+      "score": 16.5,
       "source_count": 1,
-      "published_at": "2026-11-17 19:02 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/defence/india-japan-to-deepen-defence-ties-at-22-talks/articleshow/135938534.cms"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI Unveils New Astra AI Model After Scrapping Prior Release",
-      "score": 16.07,
-      "source_count": 1,
-      "published_at": "2026-11-17 18:34 UTC",
+      "published_at": "2026-11-18 04:47 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/openai-unveils-new-astra-ai-model-after-scrapping-prior-release-11794940474665.html"
+          "url": "https://www.livemint.com/companies/start-ups/coreel-technologies-early-talks-40-50-million-fresh-funding-startup-defence-aerospace-11794914929648.html"
         }
       ]
     },
     {
-      "title": "AI, data safety, intellectual property issues on US trade team agenda",
-      "score": 16.04,
+      "title": "Nvidia Q3 results FY27: Revenue more than doubles to $115.8 billion; board begins CEO search, rules out Huang's return",
+      "score": 16.5,
       "source_count": 1,
-      "published_at": "2026-11-17 18:22 UTC",
+      "published_at": "2026-11-18 04:47 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/economy/news/ai-data-safety-intellectual-property-issues-on-us-trade-team-agenda-126111701558_1.html"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/company-results/nvidia-q3-results-fy27-revenue-more-than-doubles-to-115-8-billion-board-begins-ceo-search-rules-out-huangs-return-11794961338156.html"
+        }
+      ]
+    },
+    {
+      "title": "Bosch mulls sale of India tech arm, TCS among suitors",
+      "score": 16.5,
+      "source_count": 1,
+      "published_at": "2026-11-18 04:47 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/bosch-india-stake-sale-tata-consultancy-services-tcs-11794817675799.html"
+        }
+      ]
+    },
+    {
+      "title": "US Polo Assn banks on India to hit $4 billion global sales in 5-8 years",
+      "score": 16.5,
+      "source_count": 1,
+      "published_at": "2026-11-18 04:47 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/us-polo-assn-branded-apparels-younger-consumers-business-stores-menswear-11794904282970.html"
+        }
+      ]
+    },
+    {
+      "title": "Know Nvidia: How ‘next version’ became Jensen Huang’s AI giant and what green colour of chipmaker’s logo signifies",
+      "score": 16.5,
+      "source_count": 1,
+      "published_at": "2026-11-18 04:47 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/know-nvidia-how-next-version-became-jensen-huang-s-ai-giant-and-what-does-green-colour-of-chipmaker-s-logo-signify-11794902356944.html"
         }
       ]
     }
