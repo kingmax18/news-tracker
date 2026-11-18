@@ -1,194 +1,154 @@
 {
-  "generated_at": "2026-11-18 14:38:25 UTC",
+  "generated_at": "2026-11-18 22:24:10 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-      "score": 65.07,
-      "source_count": 4,
-      "published_at": "2026-11-18 09:18 UTC",
+      "title": "Physicswallah targets ₹10,000 cr revenue, 20% operating margin by FY30",
+      "score": 31.87,
+      "source_count": 2,
+      "published_at": "2026-11-18 15:09 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/nvidia-hires-heidrick-struggles-as-it-intensifies-search-for-next-ceo-after-jensen-huang-stepped-down-all-you-ne-11794990457747.html"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/physicswallah-targets-nearly-threefold-revenue-growth-to-10-000-cr-by-fy30-126111801354_1.html"
         },
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/nvidia-chair-says-no-plan-to-reinstate-jensen-huang-as-ceo"
-        },
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/ai/news/jensen-huang-nvidia-ceo-exit-first-public-statement-issued-12343193"
-        },
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://yourstory.com/2026/11/physicswallah-targets-over-rs-9000-cr-revenue-by-fy30"
         }
       ]
     },
     {
-      "title": "AI startup Humyn Labs raises $47 million in Series A funding round",
-      "score": 52.58,
-      "source_count": 3,
-      "published_at": "2026-11-18 13:22 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/ai-startup-humyn-labs-raises-47-million-in-series-a-funding-round-126111800765_1.html"
-        },
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/"
-        },
-        {
-          "name": "TechCrunch - Startups",
-          "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
-        }
-      ]
-    },
-    {
-      "title": "Air India Express names CFO Deepak Rajawat CEO, effective December 1",
-      "score": 50.98,
-      "source_count": 3,
-      "published_at": "2026-11-18 12:25 UTC",
+      "title": "Goldman Sachs sees RBI repo rate rising by 75 bps to 6.25% by mid-2027",
+      "score": 29.07,
+      "source_count": 2,
+      "published_at": "2026-11-18 17:04 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-express-names-cfo-deepak-rajawat-as-ceo-effective-december-1/articleshow/135955653.cms"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/air-india-express-bets-on-rajawat-to-turn-growth-into-profits-11795000954047.html"
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-may-hike-interest-rates-by-75-basis-points-by-q2-of-next-year-goldman-sachs/articleshow/135959983.cms"
         },
         {
           "name": "Business Standard",
-          "url": "https://www.business-standard.com/industry/aviation/air-india-express-appoints-deepak-rajawat-ceo-december-1-126111800613_1.html"
+          "url": "https://www.business-standard.com/economy/news/goldman-sachs-sees-rbi-repo-rate-rising-by-75-bps-to-6-25-by-mid-2027-126111801292_1.html"
         }
       ]
     },
     {
-      "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
-      "score": 47.99,
-      "source_count": 3,
-      "published_at": "2026-11-18 12:33 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/games/news/gta-6-review-roundup-highest-rated-game-of-all-time-metacritic-ocarina-of-time-rockstar-games-12344575"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news"
-        }
-      ]
-    },
-    {
-      "title": "Blinkit Brings GTA 6 To 11 Cities Ahead Of Launch",
-      "score": 30.95,
+      "title": "Circular economy company Recove Ventures raises Rs 56.25 Cr",
+      "score": 28.38,
       "source_count": 2,
-      "published_at": "2026-11-18 12:58 UTC",
+      "published_at": "2026-11-18 10:27 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/blinkit-brings-gta-6-to-11-cities-ahead-of-launch/"
+          "url": "https://inc42.com/buzz/recove-ventures-nets-%e2%82%b956-cr-to-expand-recycling-business/"
         },
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/games/news/gta-6-on-blinkit-price-availability-12343117"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/circular-economy-company-recove-ventures-raises-rs-56-crore"
         }
       ]
     },
     {
-      "title": "Govt imposes 162.5% duty on bulk scotch imports despite UK trade pact",
-      "score": 29.4,
+      "title": "Kotak MF, BlackRock among investors buying Rs 1,905-Cr stake in Groww",
+      "score": 28.2,
       "source_count": 2,
-      "published_at": "2026-11-18 12:30 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/govt-to-charge-bulk-scotch-imports-162-5-duty-and-tax-amid-uk-pact-standoff-pernord-ricard/articleshow/135960324.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/economy/news/govt-imposes-162-5-duty-on-bulk-scotch-imports-despite-uk-trade-pact-126111801046_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Chinese steel imports remain a threat to Indian industry: Tata Steel CEO",
-      "score": 29.38,
-      "source_count": 2,
-      "published_at": "2026-11-18 12:16 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-us-firm-to-produce-hydrogen-from-steel-plant-gases-in-odisha/articleshow/135957440.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/tata-steel-plans-hydrogen-facility-at-kalinganagar-to-cut-carbon-emissions-126111800997_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
-      "score": 29.38,
-      "source_count": 2,
-      "published_at": "2026-11-18 12:15 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/"
-        }
-      ]
-    },
-    {
-      "title": "Court relief for Chanda Kochhar in 'loan fraud' case",
-      "score": 29.32,
-      "source_count": 2,
-      "published_at": "2026-11-18 11:43 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/relief-for-chanda-kochhar-as-hc-quashes-icici-banks-nod-to-prosecute-ex-ceo-in-loan-fraud-case/articleshow/135956301.cms"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/bombay-hc-quashes-icici-bank-s-sanction-to-prosecute-ex-ceo-chanda-kochhar-in-videocon-loan-case-what-the-court-said-11794999967762.html"
-        }
-      ]
-    },
-    {
-      "title": "Urban Company earmarks Rs 600 cr from QIP issue to scale InstaHelp",
-      "score": 29.26,
-      "source_count": 2,
-      "published_at": "2026-11-18 11:09 UTC",
+      "published_at": "2026-11-18 08:45 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/urban-company-to-use-%e2%82%b9600-cr-from-qip-to-expand-instahelp-in-%e2%82%b912000-cr-market/"
+          "url": "https://inc42.com/buzz/ribbit-capital-sells-1-4-stake-in-groww-for-%e2%82%b91905-cr-via-block-deals/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/kotak-mf-blackrock-among-investors-buying-rs-1905-cr-stake-in-groww"
+        }
+      ]
+    },
+    {
+      "title": "Rediff.com files updated draft papers with SEBI for Rs 600 cr IPO",
+      "score": 28.19,
+      "source_count": 2,
+      "published_at": "2026-11-18 08:39 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/rediff-files-updated-ipo-papers-for-%e2%82%b9600-cr-fresh-issue-only-ipo/"
         },
         {
           "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-urban-company-600-cr-qip-instahelp/"
+          "url": "https://www.medianama.com/2026/11/223-rediff-com-sebi-ipo/"
+        }
+      ]
+    },
+    {
+      "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
+      "score": 19.96,
+      "source_count": 1,
+      "published_at": "2026-11-18 12:24 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026"
+        }
+      ]
+    },
+    {
+      "title": "BSNL Voice-Only Prepaid Plans With Unlimited Calls Launched in India: Price, Offers, Benefits",
+      "score": 17.31,
+      "source_count": 1,
+      "published_at": "2026-11-18 15:45 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/telecom/news/bsnl-voice-only-prepaid-plans-with-unlimited-calls-launched-in-india-price-offers-benefits-12344739"
+        }
+      ]
+    },
+    {
+      "title": "Paid media now plays largest role in brand-funded creator growth: report",
+      "score": 17.25,
+      "source_count": 1,
+      "published_at": "2026-11-18 15:09 UTC",
+      "topic": "marketing_and_branding",
+      "sources": [
+        {
+          "name": "Marketing Dive",
+          "url": "https://www.marketingdive.com/news/paid-media-now-plays-largest-role-in-brand-funded-creator-growth-report/875032/"
+        }
+      ]
+    },
+    {
+      "title": "Philips TAB4304/94 Soundbar and Three Bluetooth Speakers Launched in India: Price, Features",
+      "score": 16.92,
+      "source_count": 1,
+      "published_at": "2026-11-18 12:00 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/audio/news/philips-tab430494-tax250494-tax7404bk94-tax230494-price-in-india-launch-specifications-features-12344340"
+        }
+      ]
+    },
+    {
+      "title": "KFC India features South Korean singer Aoora in new Korean Dunked campaign",
+      "score": 16.87,
+      "source_count": 1,
+      "published_at": "2026-11-18 11:31 UTC",
+      "topic": "marketing_and_branding",
+      "sources": [
+        {
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/kfc-india-features-south-korean-singer-aoora-in-new-korean-dunked-campaign/135961352"
         }
       ]
     }
