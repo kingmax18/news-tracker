@@ -1,150 +1,194 @@
 {
-  "generated_at": "2026-11-18 04:47:01 UTC",
+  "generated_at": "2026-11-18 14:38:25 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
-      "score": 46.63,
-      "source_count": 3,
-      "published_at": "2026-11-18 04:00 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "ET Brand Equity - Marketing",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/from-gotham-to-007-brands-welcome-robert-pattinson-as-the-new-james-bond/135935413"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon"
-        }
-      ]
-    },
-    {
-      "title": "India facing economic disaster, unemployment crisis: Rahul Gandhi in US",
-      "score": 31.09,
-      "source_count": 2,
-      "published_at": "2026-11-18 04:30 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/india-sitting-on-economic-disaster-says-rahul-gandhi-at-columbia-university/articleshow/135945725.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/india-news/india-facing-economic-disaster-unemployment-crisis-rahul-gandhi-in-us-126111800222_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Waymo pulls driverless taxis from all US freeways",
-      "score": 29.62,
-      "source_count": 2,
-      "published_at": "2026-11-18 04:47 UTC",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "score": 65.07,
+      "source_count": 4,
+      "published_at": "2026-11-18 09:18 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/waymo-pauses-robotaxi-rides-on-us-freeways-after-california-bans-autonomous-vehicles-for-posing-an-imminent-hazard-11794967322655.html"
+          "url": "https://www.livemint.com/companies/news/nvidia-hires-heidrick-struggles-as-it-intensifies-search-for-next-ceo-after-jensen-huang-stepped-down-all-you-ne-11794990457747.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/nvidia-chair-says-no-plan-to-reinstate-jensen-huang-as-ceo"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/ai/news/jensen-huang-nvidia-ceo-exit-first-public-statement-issued-12343193"
         },
         {
           "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "AI startups join the race for India's tech talent",
-      "score": 17.55,
-      "source_count": 1,
-      "published_at": "2026-11-18 00:30 UTC",
+      "title": "AI startup Humyn Labs raises $47 million in Series A funding round",
+      "score": 52.58,
+      "source_count": 3,
+      "published_at": "2026-11-18 13:22 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/ai-startup-humyn-labs-raises-47-million-in-series-a-funding-round-126111800765_1.html"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/"
+        },
+        {
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+        }
+      ]
+    },
+    {
+      "title": "Air India Express names CFO Deepak Rajawat CEO, effective December 1",
+      "score": 50.98,
+      "source_count": 3,
+      "published_at": "2026-11-18 12:25 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/tech/startups/silicon-valleys-ai-startups-join-the-race-for-indias-top-tech-talent/articleshow/135935457.cms"
+          "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-express-names-cfo-deepak-rajawat-as-ceo-effective-december-1/articleshow/135955653.cms"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/air-india-express-bets-on-rajawat-to-turn-growth-into-profits-11795000954047.html"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/industry/aviation/air-india-express-appoints-deepak-rajawat-ceo-december-1-126111800613_1.html"
         }
       ]
     },
     {
-      "title": "Google Begins Rolling Out Personal AI Assistant, Tasks, In India",
-      "score": 17.45,
-      "source_count": 1,
-      "published_at": "2026-11-17 23:31 UTC",
+      "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+      "score": 47.99,
+      "source_count": 3,
+      "published_at": "2026-11-18 12:33 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/games/news/gta-6-review-roundup-highest-rated-game-of-all-time-metacritic-ocarina-of-time-rockstar-games-12344575"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news"
+        }
+      ]
+    },
+    {
+      "title": "Blinkit Brings GTA 6 To 11 Cities Ahead Of Launch",
+      "score": 30.95,
+      "source_count": 2,
+      "published_at": "2026-11-18 12:58 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/"
+          "url": "https://inc42.com/buzz/blinkit-brings-gta-6-to-11-cities-ahead-of-launch/"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/games/news/gta-6-on-blinkit-price-availability-12343117"
         }
       ]
     },
     {
-      "title": "CoreEL Technologies in early talks to raise $40-50 million in fresh funding",
-      "score": 16.5,
-      "source_count": 1,
-      "published_at": "2026-11-18 04:47 UTC",
+      "title": "Govt imposes 162.5% duty on bulk scotch imports despite UK trade pact",
+      "score": 29.4,
+      "source_count": 2,
+      "published_at": "2026-11-18 12:30 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/start-ups/coreel-technologies-early-talks-40-50-million-fresh-funding-startup-defence-aerospace-11794914929648.html"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/govt-to-charge-bulk-scotch-imports-162-5-duty-and-tax-amid-uk-pact-standoff-pernord-ricard/articleshow/135960324.cms"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/economy/news/govt-imposes-162-5-duty-on-bulk-scotch-imports-despite-uk-trade-pact-126111801046_1.html"
         }
       ]
     },
     {
-      "title": "Nvidia Q3 results FY27: Revenue more than doubles to $115.8 billion; board begins CEO search, rules out Huang's return",
-      "score": 16.5,
-      "source_count": 1,
-      "published_at": "2026-11-18 04:47 UTC",
+      "title": "Chinese steel imports remain a threat to Indian industry: Tata Steel CEO",
+      "score": 29.38,
+      "source_count": 2,
+      "published_at": "2026-11-18 12:16 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/company-results/nvidia-q3-results-fy27-revenue-more-than-doubles-to-115-8-billion-board-begins-ceo-search-rules-out-huangs-return-11794961338156.html"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-us-firm-to-produce-hydrogen-from-steel-plant-gases-in-odisha/articleshow/135957440.cms"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/tata-steel-plans-hydrogen-facility-at-kalinganagar-to-cut-carbon-emissions-126111800997_1.html"
         }
       ]
     },
     {
-      "title": "Bosch mulls sale of India tech arm, TCS among suitors",
-      "score": 16.5,
-      "source_count": 1,
-      "published_at": "2026-11-18 04:47 UTC",
-      "topic": "business",
+      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+      "score": 29.38,
+      "source_count": 2,
+      "published_at": "2026-11-18 12:15 UTC",
+      "topic": "tech",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/bosch-india-stake-sale-tata-consultancy-services-tcs-11794817675799.html"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/"
         }
       ]
     },
     {
-      "title": "US Polo Assn banks on India to hit $4 billion global sales in 5-8 years",
-      "score": 16.5,
-      "source_count": 1,
-      "published_at": "2026-11-18 04:47 UTC",
+      "title": "Court relief for Chanda Kochhar in 'loan fraud' case",
+      "score": 29.32,
+      "source_count": 2,
+      "published_at": "2026-11-18 11:43 UTC",
       "topic": "business",
       "sources": [
         {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/relief-for-chanda-kochhar-as-hc-quashes-icici-banks-nod-to-prosecute-ex-ceo-in-loan-fraud-case/articleshow/135956301.cms"
+        },
+        {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/us-polo-assn-branded-apparels-younger-consumers-business-stores-menswear-11794904282970.html"
+          "url": "https://www.livemint.com/companies/news/bombay-hc-quashes-icici-bank-s-sanction-to-prosecute-ex-ceo-chanda-kochhar-in-videocon-loan-case-what-the-court-said-11794999967762.html"
         }
       ]
     },
     {
-      "title": "Know Nvidia: How ‘next version’ became Jensen Huang’s AI giant and what green colour of chipmaker’s logo signifies",
-      "score": 16.5,
-      "source_count": 1,
-      "published_at": "2026-11-18 04:47 UTC",
-      "topic": "business",
+      "title": "Urban Company earmarks Rs 600 cr from QIP issue to scale InstaHelp",
+      "score": 29.26,
+      "source_count": 2,
+      "published_at": "2026-11-18 11:09 UTC",
+      "topic": "startups",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/know-nvidia-how-next-version-became-jensen-huang-s-ai-giant-and-what-does-green-colour-of-chipmaker-s-logo-signify-11794902356944.html"
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/urban-company-to-use-%e2%82%b9600-cr-from-qip-to-expand-instahelp-in-%e2%82%b912000-cr-market/"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-urban-company-600-cr-qip-instahelp/"
         }
       ]
     }
