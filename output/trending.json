@@ -1,150 +1,166 @@
 {
-  "generated_at": "2026-11-19 04:37:16 UTC",
+  "generated_at": "2026-11-19 14:45:12 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Elon Musk says record spending on US midterms was 'pretty foolish",
-      "score": 48.1,
+      "title": "Style Union raises Rs 485 Cr to expand beyond southern India",
+      "score": 48.77,
       "source_count": 3,
-      "published_at": "2026-11-19 03:33 UTC",
+      "published_at": "2026-11-19 05:40 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/i-would-have-spent-less-money-elon-musk-calls-400-million-republican-campaign-spending-pretty-foolish-11795058578307.html"
+          "url": "https://www.livemint.com/companies/news/style-union-parent-nexon-raises-485-crore-from-venturi-elev8-venture-11795013657417.html"
         },
         {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/style-union-raises-rs-485-cr-to-expand-beyond-southern-india"
         },
         {
-          "name": "Adweek",
-          "url": "https://www.adweek.com/media/elon-musk-i-feel-pretty-foolish-spending-record-445-million-on-midterm-elections/"
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/omnichannel-fashion-brand-style-union-bags-%e2%82%b9485-cr-to-expand-store-network/"
         }
       ]
     },
     {
-      "title": "Rupee strength, not weakness, may pose challenge in FY28: CEA Nageswaran",
-      "score": 29.98,
-      "source_count": 2,
-      "published_at": "2026-11-18 17:40 UTC",
+      "title": "Gowardhan Ghee ropes in Saif Ali Khan as brand ambassador",
+      "score": 47.74,
+      "source_count": 3,
+      "published_at": "2026-11-19 10:15 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/india/india-may-have-to-manage-rupee-strength-not-weakness-in-fy28-cea-v-anantha-nageswaran/articleshow/135966922.cms"
+          "url": "https://economictimes.indiatimes.com/news/india/saif-ali-khan-receives-death-threat-from-accused-in-baba-siddique-murder-case/articleshow/135986201.cms"
         },
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/economy/news/lower-crude-oil-prices-could-bring-huge-windfall-for-india-in-fy28-cea-126111801445_1.html"
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/gowardhan-ghee-ropes-in-saif-ali-khan-as-brand-ambassador/135960211"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/amitabh-bachchan-s-kbc-question-saif-ali-khan-s-reaction-how-gowardhan-ghee-found-its-new-face-11795068022115.html"
         }
       ]
     },
     {
-      "title": "ACME Group's $3.6 bn green ammonia project in Odisha enters execution phase",
-      "score": 28.41,
+      "title": "Sarvam’s token factory stirs debate on India’s sovereign AI push",
+      "score": 32.48,
       "source_count": 2,
-      "published_at": "2026-11-18 16:58 UTC",
+      "published_at": "2026-11-19 13:23 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/features/ais-social-layer-sarvams-token-factory/"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-sarvam-token-factory-india-sovereign-ai/"
+        }
+      ]
+    },
+    {
+      "title": "August AI Raises $12 Mn To Expand AI Healthcare Assistant In The US",
+      "score": 31.84,
+      "source_count": 2,
+      "published_at": "2026-11-19 07:13 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant"
+        }
+      ]
+    },
+    {
+      "title": "KKR picks up minority stake in Gentari’s India renewables business",
+      "score": 30.68,
+      "source_count": 2,
+      "published_at": "2026-11-19 10:30 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/acme-completes-final-investment-decision-for-its-3-6-bn-green-ammonia-project-11795009268502.html"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/renewables/kkr-buys-minority-stake-in-petronas-unit-gentaris-india-renewables-arm/articleshow/135986641.cms"
         },
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/acme-group-s-3-6-bn-green-ammonia-project-in-odisha-enters-execution-phase-126111801501_1.html"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/kkr-acquires-minority-stake-in-gentari-renewables-india-11795068988820.html"
         }
       ]
     },
     {
-      "title": "Masayoshi Son’s Anthropic regret: ‘I wish I’d invested back then’ as AI startup heads for IPO",
+      "title": "InPrime Finserv raises Rs 101 Cr in Series B round led by FMO",
+      "score": 29.26,
+      "source_count": 2,
+      "published_at": "2026-11-19 11:17 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/inprime-finserv-raises-%e2%82%b9101-cr-to-expand-lending-enter-micro-mortgages/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/inprime-finserv-raises-rs-101-cr-in-series-b-round-led-by-fmo"
+        }
+      ]
+    },
+    {
+      "title": "23-year-old sells AI startup for $4.5 billion",
+      "score": 17.92,
+      "source_count": 1,
+      "published_at": "2026-11-19 13:56 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/world/business/ai-goldrush-he-left-stanford-joined-openai-and-at-23-sold-his-18-month-old-ai-startup-for-4-5-billion-about-250-million-for-every-month-it-existed/articleshow/135994206.cms"
+        }
+      ]
+    },
+    {
+      "title": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+      "score": 17.91,
+      "source_count": 1,
+      "published_at": "2026-11-19 13:53 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029"
+        }
+      ]
+    },
+    {
+      "title": "Kay Beauty bags top honour at PETA India 2026 Awards: All you need to know about Katrina Kaif's  ₹350 cr beauty brand",
       "score": 17.83,
       "source_count": 1,
-      "published_at": "2026-11-19 03:01 UTC",
+      "published_at": "2026-11-19 13:09 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/masayoshi-son-s-anthropic-regret-i-wish-i-d-invested-back-then-as-ai-startup-heads-for-ipo-11795055869562.html"
+          "url": "https://www.livemint.com/companies/news/kay-beauty-bags-top-honour-at-peta-india-2026-awards-all-you-need-to-know-about-katrina-kaifs-rs-350-cr-beauty-brand-11795090127202.html"
         }
       ]
     },
     {
-      "title": "In growth push, Howden eyes insurance broker buyouts in India",
-      "score": 17.57,
+      "title": "Vivo X500 Series, Watch GT 2 India Prices and Storage Variants Leak Ahead of Launch",
+      "score": 17.4,
       "source_count": 1,
-      "published_at": "2026-11-19 00:30 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/howden-insurance-broker-acquisition-irdai-11795001168771.html"
-        }
-      ]
-    },
-    {
-      "title": "What lurks beneath India's strong quarterly earnings",
-      "score": 17.52,
-      "source_count": 1,
-      "published_at": "2026-11-19 00:00 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/company-results/india-inc-q2-corporate-earnings-profit-revenue-11794995889259.html"
-        }
-      ]
-    },
-    {
-      "title": "Nike eyes threefold growth in India over five years, bets on cricket",
-      "score": 16.65,
-      "source_count": 1,
-      "published_at": "2026-11-18 15:37 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/nike-eyes-threefold-growth-in-india-over-five-years-bets-on-cricket-126111801247_1.html"
-        }
-      ]
-    },
-    {
-      "title": "iPhone 18, iPhone Air 2 Launch Timeline Tipped; Display Production Plans Surface",
-      "score": 16.41,
-      "source_count": 1,
-      "published_at": "2026-11-19 03:47 UTC",
+      "published_at": "2026-11-19 08:57 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/iphone-18-air-2-launch-timeline-production-samsung-lg-panel-report-12347042"
-        }
-      ]
-    },
-    {
-      "title": "Almost completely good, but…’:Trump flags AI risks",
-      "score": 16.34,
-      "source_count": 1,
-      "published_at": "2026-11-19 03:03 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/ai/ai-insights/trump-calls-ai-almost-completely-good-warns-of-its-bad-elements-at-apec/articleshow/135975999.cms"
-        }
-      ]
-    },
-    {
-      "title": "GTA 6 releases in India after 13 yrs wait: Price",
-      "score": 16.33,
-      "source_count": 1,
-      "published_at": "2026-11-19 02:59 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/gta-6-launches-in-india-after-13-year-wait-check-price-launch-day-benefits-download-size-playstation-or-xbox-pc-version-and-gta-6-multiplayer-online-release-dates/articleshow/135975791.cms"
+          "url": "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-series-price-in-india-watch-gt-2-tipped-specifications-features-12348471"
         }
       ]
     }
