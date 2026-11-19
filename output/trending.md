@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 18, 2026 at 22:24 UTC | **Top Stories:** 10
+> **Generated on:** November 19, 2026 at 04:37 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Physicswallah targets ₹10,000 cr revenue, 20% operating margin by FY30 [2 sources]
-- **Topic:** `Business` | **Score:** `31.87` | **Published:** 2026-11-18 15:09 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/physicswallah-targets-nearly-threefold-revenue-growth-to-10-000-cr-by-fy30-126111801354_1.html) • [YourStory](https://yourstory.com/2026/11/physicswallah-targets-over-rs-9000-cr-revenue-by-fy30)
+### 1. Elon Musk says record spending on US midterms was 'pretty foolish [3 sources]
+- **Topic:** `Business` | **Score:** `48.1` | **Published:** 2026-11-19 03:33 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/i-would-have-spent-less-money-elon-musk-calls-400-million-republican-campaign-spending-pretty-foolish-11795058578307.html) • [BBC News - Business](https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss) • [Adweek](https://www.adweek.com/media/elon-musk-i-feel-pretty-foolish-spending-record-445-million-on-midterm-elections/)
 
-### 2. Goldman Sachs sees RBI repo rate rising by 75 bps to 6.25% by mid-2027 [2 sources]
-- **Topic:** `Business` | **Score:** `29.07` | **Published:** 2026-11-18 17:04 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/policy/rbi-may-hike-interest-rates-by-75-basis-points-by-q2-of-next-year-goldman-sachs/articleshow/135959983.cms) • [Business Standard](https://www.business-standard.com/economy/news/goldman-sachs-sees-rbi-repo-rate-rising-by-75-bps-to-6-25-by-mid-2027-126111801292_1.html)
+### 2. Rupee strength, not weakness, may pose challenge in FY28: CEA Nageswaran [2 sources]
+- **Topic:** `Business` | **Score:** `29.98` | **Published:** 2026-11-18 17:40 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/india-may-have-to-manage-rupee-strength-not-weakness-in-fy28-cea-v-anantha-nageswaran/articleshow/135966922.cms) • [Business Standard](https://www.business-standard.com/economy/news/lower-crude-oil-prices-could-bring-huge-windfall-for-india-in-fy28-cea-126111801445_1.html)
 
-### 3. Circular economy company Recove Ventures raises Rs 56.25 Cr [2 sources]
-- **Topic:** `Startups` | **Score:** `28.38` | **Published:** 2026-11-18 10:27 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/recove-ventures-nets-%e2%82%b956-cr-to-expand-recycling-business/) • [YourStory](https://yourstory.com/2026/11/circular-economy-company-recove-ventures-raises-rs-56-crore)
+### 3. ACME Group's $3.6 bn green ammonia project in Odisha enters execution phase [2 sources]
+- **Topic:** `Business` | **Score:** `28.41` | **Published:** 2026-11-18 16:58 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/acme-completes-final-investment-decision-for-its-3-6-bn-green-ammonia-project-11795009268502.html) • [Business Standard](https://www.business-standard.com/companies/news/acme-group-s-3-6-bn-green-ammonia-project-in-odisha-enters-execution-phase-126111801501_1.html)
 
-### 4. Kotak MF, BlackRock among investors buying Rs 1,905-Cr stake in Groww [2 sources]
-- **Topic:** `Startups` | **Score:** `28.2` | **Published:** 2026-11-18 08:45 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/ribbit-capital-sells-1-4-stake-in-groww-for-%e2%82%b91905-cr-via-block-deals/) • [YourStory](https://yourstory.com/2026/11/kotak-mf-blackrock-among-investors-buying-rs-1905-cr-stake-in-groww)
+### 4. Masayoshi Son’s Anthropic regret: ‘I wish I’d invested back then’ as AI startup heads for IPO [1 source]
+- **Topic:** `Business` | **Score:** `17.83` | **Published:** 2026-11-19 03:01 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/masayoshi-son-s-anthropic-regret-i-wish-i-d-invested-back-then-as-ai-startup-heads-for-ipo-11795055869562.html)
 
-### 5. Rediff.com files updated draft papers with SEBI for Rs 600 cr IPO [2 sources]
-- **Topic:** `Startups` | **Score:** `28.19` | **Published:** 2026-11-18 08:39 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/rediff-files-updated-ipo-papers-for-%e2%82%b9600-cr-fresh-issue-only-ipo/) • [MediaNama](https://www.medianama.com/2026/11/223-rediff-com-sebi-ipo/)
+### 5. In growth push, Howden eyes insurance broker buyouts in India [1 source]
+- **Topic:** `Business` | **Score:** `17.57` | **Published:** 2026-11-19 00:30 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/howden-insurance-broker-acquisition-irdai-11795001168771.html)
 
-### 6. Bengaluru leads India in AI startup funding: Innovation Report 2026 [1 source]
-- **Topic:** `Startups` | **Score:** `19.96` | **Published:** 2026-11-18 12:24 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026)
+### 6. What lurks beneath India's strong quarterly earnings [1 source]
+- **Topic:** `Business` | **Score:** `17.52` | **Published:** 2026-11-19 00:00 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/company-results/india-inc-q2-corporate-earnings-profit-revenue-11794995889259.html)
 
-### 7. BSNL Voice-Only Prepaid Plans With Unlimited Calls Launched in India: Price, Offers, Benefits [1 source]
-- **Topic:** `Tech` | **Score:** `17.31` | **Published:** 2026-11-18 15:45 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/telecom/news/bsnl-voice-only-prepaid-plans-with-unlimited-calls-launched-in-india-price-offers-benefits-12344739)
+### 7. Nike eyes threefold growth in India over five years, bets on cricket [1 source]
+- **Topic:** `Business` | **Score:** `16.65` | **Published:** 2026-11-18 15:37 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/nike-eyes-threefold-growth-in-india-over-five-years-bets-on-cricket-126111801247_1.html)
 
-### 8. Paid media now plays largest role in brand-funded creator growth: report [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `17.25` | **Published:** 2026-11-18 15:09 UTC
-- **Coverage:** [Marketing Dive](https://www.marketingdive.com/news/paid-media-now-plays-largest-role-in-brand-funded-creator-growth-report/875032/)
+### 8. iPhone 18, iPhone Air 2 Launch Timeline Tipped; Display Production Plans Surface [1 source]
+- **Topic:** `Tech` | **Score:** `16.41` | **Published:** 2026-11-19 03:47 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/iphone-18-air-2-launch-timeline-production-samsung-lg-panel-report-12347042)
 
-### 9. Philips TAB4304/94 Soundbar and Three Bluetooth Speakers Launched in India: Price, Features [1 source]
-- **Topic:** `Tech` | **Score:** `16.92` | **Published:** 2026-11-18 12:00 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/audio/news/philips-tab430494-tax250494-tax7404bk94-tax230494-price-in-india-launch-specifications-features-12344340)
+### 9. Almost completely good, but…’:Trump flags AI risks [1 source]
+- **Topic:** `Business` | **Score:** `16.34` | **Published:** 2026-11-19 03:03 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/ai/ai-insights/trump-calls-ai-almost-completely-good-warns-of-its-bad-elements-at-apec/articleshow/135975999.cms)
 
-### 10. KFC India features South Korean singer Aoora in new Korean Dunked campaign [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `16.87` | **Published:** 2026-11-18 11:31 UTC
-- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/kfc-india-features-south-korean-singer-aoora-in-new-korean-dunked-campaign/135961352)
+### 10. GTA 6 releases in India after 13 yrs wait: Price [1 source]
+- **Topic:** `Business` | **Score:** `16.33` | **Published:** 2026-11-19 02:59 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/gta-6-launches-in-india-after-13-year-wait-check-price-launch-day-benefits-download-size-playstation-or-xbox-pc-version-and-gta-6-multiplayer-online-release-dates/articleshow/135975791.cms)
