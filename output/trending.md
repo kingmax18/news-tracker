@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 19, 2026 at 14:45 UTC | **Top Stories:** 10
+> **Generated on:** November 19, 2026 at 22:29 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Style Union raises Rs 485 Cr to expand beyond southern India [3 sources]
-- **Topic:** `Business` | **Score:** `48.77` | **Published:** 2026-11-19 05:40 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/style-union-parent-nexon-raises-485-crore-from-venturi-elev8-venture-11795013657417.html) • [YourStory](https://yourstory.com/2026/11/style-union-raises-rs-485-cr-to-expand-beyond-southern-india) • [Inc42](https://inc42.com/buzz/omnichannel-fashion-brand-style-union-bags-%e2%82%b9485-cr-to-expand-store-network/)
+### 1. AI Startup Disseqt AI Raises $8 Mn To Scale International Operations [2 sources]
+- **Topic:** `Startups` | **Score:** `31.87` | **Published:** 2026-11-19 15:16 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/) • [YourStory](https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards)
 
-### 2. Gowardhan Ghee ropes in Saif Ali Khan as brand ambassador [3 sources]
-- **Topic:** `Business` | **Score:** `47.74` | **Published:** 2026-11-19 10:15 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/saif-ali-khan-receives-death-threat-from-accused-in-baba-siddique-murder-case/articleshow/135986201.cms) • [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/gowardhan-ghee-ropes-in-saif-ali-khan-as-brand-ambassador/135960211) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/amitabh-bachchan-s-kbc-question-saif-ali-khan-s-reaction-how-gowardhan-ghee-found-its-new-face-11795068022115.html)
+### 2. Tata Trusts board meet on November 20; Tata Sons listing not on agenda [2 sources]
+- **Topic:** `Business` | **Score:** `30.69` | **Published:** 2026-11-19 18:21 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/tata-sons-reviews-air-india-performance-amidst-financial-struggles-ahead-of-key-board-meeting/articleshow/135992406.cms) • [Business Standard](https://www.business-standard.com/companies/news/tata-trusts-board-meet-on-november-20-tata-sons-listing-not-on-agenda-126111901507_1.html)
 
-### 3. Sarvam’s token factory stirs debate on India’s sovereign AI push [2 sources]
-- **Topic:** `Startups` | **Score:** `32.48` | **Published:** 2026-11-19 13:23 UTC
-- **Coverage:** [Inc42](https://inc42.com/features/ais-social-layer-sarvams-token-factory/) • [MediaNama](https://www.medianama.com/2026/11/223-sarvam-token-factory-india-sovereign-ai/)
+### 3. PB Fintech Cofounder Alok Bansal To Step Down From Executive Role [2 sources]
+- **Topic:** `Business` | **Score:** `28.83` | **Published:** 2026-11-19 14:55 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/alok-bansal-to-step-down-from-pb-fintech-who-is-the-policybazaar-co-founder-and-what-next-11795095116358.html) • [Inc42](https://inc42.com/buzz/pb-fintech-cofounder-alok-bansal-to-step-down-from-executive-role/)
 
-### 4. August AI Raises $12 Mn To Expand AI Healthcare Assistant In The US [2 sources]
-- **Topic:** `Startups` | **Score:** `31.84` | **Published:** 2026-11-19 07:13 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/) • [YourStory](https://yourstory.com/2026/11/bajaj-finserv-backs-soket-ai-with-4-million-investment-alongside-pennant)
+### 4. How important are Nvidia and Jensen Huang to the US economy? [2 sources]
+- **Topic:** `Business` | **Score:** `27.99` | **Published:** 2026-11-19 06:47 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/not-a-smart-decision-elon-musk-calls-former-nvidia-ceo-jensen-huang-irreplaceable-11795070130332.html) • [BBC News - Business](https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss)
 
-### 5. KKR picks up minority stake in Gentari’s India renewables business [2 sources]
-- **Topic:** `Business` | **Score:** `30.68` | **Published:** 2026-11-19 10:30 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/renewables/kkr-buys-minority-stake-in-petronas-unit-gentaris-india-renewables-arm/articleshow/135986641.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/kkr-acquires-minority-stake-in-gentari-renewables-india-11795068988820.html)
+### 5. Coca-Cola pivots from divisive AI-generated ads for holiday campaign [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `17.57` | **Published:** 2026-11-19 18:23 UTC
+- **Coverage:** [Marketing Dive](https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/)
 
-### 6. InPrime Finserv raises Rs 101 Cr in Series B round led by FMO [2 sources]
-- **Topic:** `Startups` | **Score:** `29.26` | **Published:** 2026-11-19 11:17 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/inprime-finserv-raises-%e2%82%b9101-cr-to-expand-lending-enter-micro-mortgages/) • [YourStory](https://yourstory.com/2026/11/inprime-finserv-raises-rs-101-cr-in-series-b-round-led-by-fmo)
+### 6. Airtel overtakes HDFC Bank to become India's most valuable brand: Report [1 source]
+- **Topic:** `Business` | **Score:** `17.56` | **Published:** 2026-11-19 18:18 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/airtel-overtakes-hdfc-bank-to-become-india-s-most-valuable-brand-kantar-126111901500_1.html)
 
-### 7. 23-year-old sells AI startup for $4.5 billion [1 source]
-- **Topic:** `Business` | **Score:** `17.92` | **Published:** 2026-11-19 13:56 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/world/business/ai-goldrush-he-left-stanford-joined-openai-and-at-23-sold-his-18-month-old-ai-startup-for-4-5-billion-about-250-million-for-every-month-it-existed/articleshow/135994206.cms)
+### 7. Anthropic IPO Rekindles Debate Over India’s AI Ambitions [1 source]
+- **Topic:** `Startups` | **Score:** `17.17` | **Published:** 2026-11-19 14:33 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/anthropic-ipo-rekindles-debate-over-indias-ai-ambitions/)
 
-### 8. Blue Origin will launch Google&#8217;s AI server satellites in 2029 [1 source]
-- **Topic:** `Tech` | **Score:** `17.91` | **Published:** 2026-11-19 13:53 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029)
+### 8. Logic Neo X1 Pro Tablet Launched in India With Android 17, 8,000mAh Battery [1 source]
+- **Topic:** `Tech` | **Score:** `17.0` | **Published:** 2026-11-19 12:55 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/tablets/news/logic-neo-x1-pro-tablet-india-launch-availability-specifications-features-12349669)
 
-### 9. Kay Beauty bags top honour at PETA India 2026 Awards: All you need to know about Katrina Kaif's  ₹350 cr beauty brand [1 source]
-- **Topic:** `Business` | **Score:** `17.83` | **Published:** 2026-11-19 13:09 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/kay-beauty-bags-top-honour-at-peta-india-2026-awards-all-you-need-to-know-about-katrina-kaifs-rs-350-cr-beauty-brand-11795090127202.html)
+### 9. Sony WH-CH730N, WH-CH530 Wireless Headphones Launched in India: Price, Specifications [1 source]
+- **Topic:** `Tech` | **Score:** `16.52` | **Published:** 2026-11-19 08:16 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/audio/news/sony-wh-ch730n-wh-ch530-price-in-india-launch-specifications-features-12348202)
 
-### 10. Vivo X500 Series, Watch GT 2 India Prices and Storage Variants Leak Ahead of Launch [1 source]
-- **Topic:** `Tech` | **Score:** `17.4` | **Published:** 2026-11-19 08:57 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-series-price-in-india-watch-gt-2-tipped-specifications-features-12348471)
+### 10. Google Gemini takes a swipe at rival AI apps with new campaign [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `16.4` | **Published:** 2026-11-19 07:08 UTC
+- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/google-gemini-takes-a-swipe-at-rival-ai-apps-with-new-campaign/135979532)
