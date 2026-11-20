@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 19, 2026 at 22:29 UTC | **Top Stories:** 10
+> **Generated on:** November 20, 2026 at 04:28 UTC | **Top Stories:** 10
 
 ---
 
-### 1. AI Startup Disseqt AI Raises $8 Mn To Scale International Operations [2 sources]
-- **Topic:** `Startups` | **Score:** `31.87` | **Published:** 2026-11-19 15:16 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/) • [YourStory](https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards)
+### 1. Bajaj bets big on healthcare, plans 500-bed hospital [2 sources]
+- **Topic:** `Business` | **Score:** `28.05` | **Published:** 2026-11-19 13:20 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/bajaj-group-launches-ambitious-healthcare-venture-with-rs-2500-crore-investment-in-pune-hospital/articleshow/135992570.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/a-lot-of-healthcare-doesnt-need-a-hospital-how-nirav-bajaj-plans-to-reshape-medical-care-with-nivara-11795082021624.html)
 
-### 2. Tata Trusts board meet on November 20; Tata Sons listing not on agenda [2 sources]
-- **Topic:** `Business` | **Score:** `30.69` | **Published:** 2026-11-19 18:21 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/tata-sons-reviews-air-india-performance-amidst-financial-struggles-ahead-of-key-board-meeting/articleshow/135992406.cms) • [Business Standard](https://www.business-standard.com/companies/news/tata-trusts-board-meet-on-november-20-tata-sons-listing-not-on-agenda-126111901507_1.html)
+### 2. Nvidia faces talent exodus risk after Huang's exit: Can the chipmaker retain the engineers behind its AI dominance? [1 source]
+- **Topic:** `Business` | **Score:** `16.43` | **Published:** 2026-11-20 03:47 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/nvidia-faces-talent-exodus-risk-after-huangs-exit-can-the-chipmaker-retain-the-engineers-behind-its-ai-dominance-11795145847336.html)
 
-### 3. PB Fintech Cofounder Alok Bansal To Step Down From Executive Role [2 sources]
-- **Topic:** `Business` | **Score:** `28.83` | **Published:** 2026-11-19 14:55 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/alok-bansal-to-step-down-from-pb-fintech-who-is-the-policybazaar-co-founder-and-what-next-11795095116358.html) • [Inc42](https://inc42.com/buzz/pb-fintech-cofounder-alok-bansal-to-step-down-from-executive-role/)
+### 3. Chris Wood hikes exposure to Indian equities as AI trade falters [1 source]
+- **Topic:** `Business` | **Score:** `16.43` | **Published:** 2026-11-20 03:48 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/markets/news/chris-wood-hikes-exposure-to-indian-equities-as-ai-trade-falters-126112000145_1.html)
 
-### 4. How important are Nvidia and Jensen Huang to the US economy? [2 sources]
-- **Topic:** `Business` | **Score:** `27.99` | **Published:** 2026-11-19 06:47 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/not-a-smart-decision-elon-musk-calls-former-nvidia-ceo-jensen-huang-irreplaceable-11795070130332.html) • [BBC News - Business](https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss)
+### 4. EU confirms first AI-assisted cyberattack [1 source]
+- **Topic:** `Business` | **Score:** `16.34` | **Published:** 2026-11-20 02:57 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/business/eu-confirms-first-ai-assisted-cyberattack-on-key-institution/articleshow/136010890.cms)
 
-### 5. Coca-Cola pivots from divisive AI-generated ads for holiday campaign [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `17.57` | **Published:** 2026-11-19 18:23 UTC
-- **Coverage:** [Marketing Dive](https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/)
+### 5. India’s Anthropic Question, ShareChat’s Turnaround & More [1 source]
+- **Topic:** `Startups` | **Score:** `16.3` | **Published:** 2026-11-20 02:30 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/indias-anthropic-question-sharechats-turnaround-more/)
 
-### 6. Airtel overtakes HDFC Bank to become India's most valuable brand: Report [1 source]
-- **Topic:** `Business` | **Score:** `17.56` | **Published:** 2026-11-19 18:18 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/airtel-overtakes-hdfc-bank-to-become-india-s-most-valuable-brand-kantar-126111901500_1.html)
+### 6. Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering [1 source]
+- **Topic:** `Startups` | **Score:** `16.24` | **Published:** 2026-11-20 02:00 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/meet-the-8-women-powering-indias-deeptech-future-anthropic-ipo)
 
-### 7. Anthropic IPO Rekindles Debate Over India’s AI Ambitions [1 source]
-- **Topic:** `Startups` | **Score:** `17.17` | **Published:** 2026-11-19 14:33 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/anthropic-ipo-rekindles-debate-over-indias-ai-ambitions/)
+### 7. My dream is to make WeWork India the default choice for workspaces [1 source]
+- **Topic:** `Startups` | **Score:** `16.22` | **Published:** 2026-11-20 01:45 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces)
 
-### 8. Logic Neo X1 Pro Tablet Launched in India With Android 17, 8,000mAh Battery [1 source]
-- **Topic:** `Tech` | **Score:** `17.0` | **Published:** 2026-11-19 12:55 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/tablets/news/logic-neo-x1-pro-tablet-india-launch-availability-specifications-features-12349669)
+### 8. India turns net overweight among Asia-Pacific fund managers after 10 months [1 source]
+- **Topic:** `Business` | **Score:** `16.08` | **Published:** 2026-11-20 00:27 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/stocks/news/india-turns-net-overweight-among-asia-pacific-fund-managers-after-10-months/articleshow/136008999.cms)
 
-### 9. Sony WH-CH730N, WH-CH530 Wireless Headphones Launched in India: Price, Specifications [1 source]
-- **Topic:** `Tech` | **Score:** `16.52` | **Published:** 2026-11-19 08:16 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/audio/news/sony-wh-ch730n-wh-ch530-price-in-india-launch-specifications-features-12348202)
+### 9. California targets Nvidia in China AI chip probe [1 source]
+- **Topic:** `Business` | **Score:** `15.94` | **Published:** 2026-11-19 23:04 UTC
+- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss)
 
-### 10. Google Gemini takes a swipe at rival AI apps with new campaign [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `16.4` | **Published:** 2026-11-19 07:08 UTC
-- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/google-gemini-takes-a-swipe-at-rival-ai-apps-with-new-campaign/135979532)
+### 10. Apple is hiring engineers to build its own AI agent [1 source]
+- **Topic:** `Tech` | **Score:** `15.88` | **Published:** 2026-11-19 22:31 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)

@@ -1,150 +1,138 @@
 {
-  "generated_at": "2026-11-19 22:29:39 UTC",
+  "generated_at": "2026-11-20 04:28:17 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "AI Startup Disseqt AI Raises $8 Mn To Scale International Operations",
-      "score": 31.87,
+      "title": "Bajaj bets big on healthcare, plans 500-bed hospital",
+      "score": 28.05,
       "source_count": 2,
-      "published_at": "2026-11-19 15:16 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/ai-startup-disseqt-ai-raises-8-mn-to-scale-international-operations/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/disseqt-ai-raises-8m-to-build-enterprise-ai-safeguards"
-        }
-      ]
-    },
-    {
-      "title": "Tata Trusts board meet on November 20; Tata Sons listing not on agenda",
-      "score": 30.69,
-      "source_count": 2,
-      "published_at": "2026-11-19 18:21 UTC",
+      "published_at": "2026-11-19 13:20 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/tata-sons-reviews-air-india-performance-amidst-financial-struggles-ahead-of-key-board-meeting/articleshow/135992406.cms"
+          "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/bajaj-group-launches-ambitious-healthcare-venture-with-rs-2500-crore-investment-in-pune-hospital/articleshow/135992570.cms"
         },
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/tata-trusts-board-meet-on-november-20-tata-sons-listing-not-on-agenda-126111901507_1.html"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/a-lot-of-healthcare-doesnt-need-a-hospital-how-nirav-bajaj-plans-to-reshape-medical-care-with-nivara-11795082021624.html"
         }
       ]
     },
     {
-      "title": "PB Fintech Cofounder Alok Bansal To Step Down From Executive Role",
-      "score": 28.83,
-      "source_count": 2,
-      "published_at": "2026-11-19 14:55 UTC",
+      "title": "Nvidia faces talent exodus risk after Huang's exit: Can the chipmaker retain the engineers behind its AI dominance?",
+      "score": 16.43,
+      "source_count": 1,
+      "published_at": "2026-11-20 03:47 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/alok-bansal-to-step-down-from-pb-fintech-who-is-the-policybazaar-co-founder-and-what-next-11795095116358.html"
-        },
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/pb-fintech-cofounder-alok-bansal-to-step-down-from-executive-role/"
+          "url": "https://www.livemint.com/companies/news/nvidia-faces-talent-exodus-risk-after-huangs-exit-can-the-chipmaker-retain-the-engineers-behind-its-ai-dominance-11795145847336.html"
         }
       ]
     },
     {
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "score": 27.99,
-      "source_count": 2,
-      "published_at": "2026-11-19 06:47 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/not-a-smart-decision-elon-musk-calls-former-nvidia-ceo-jensen-huang-irreplaceable-11795070130332.html"
-        },
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Coca-Cola pivots from divisive AI-generated ads for holiday campaign",
-      "score": 17.57,
+      "title": "Chris Wood hikes exposure to Indian equities as AI trade falters",
+      "score": 16.43,
       "source_count": 1,
-      "published_at": "2026-11-19 18:23 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "Marketing Dive",
-          "url": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/"
-        }
-      ]
-    },
-    {
-      "title": "Airtel overtakes HDFC Bank to become India's most valuable brand: Report",
-      "score": 17.56,
-      "source_count": 1,
-      "published_at": "2026-11-19 18:18 UTC",
+      "published_at": "2026-11-20 03:48 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/airtel-overtakes-hdfc-bank-to-become-india-s-most-valuable-brand-kantar-126111901500_1.html"
+          "url": "https://www.business-standard.com/markets/news/chris-wood-hikes-exposure-to-indian-equities-as-ai-trade-falters-126112000145_1.html"
         }
       ]
     },
     {
-      "title": "Anthropic IPO Rekindles Debate Over India’s AI Ambitions",
-      "score": 17.17,
+      "title": "EU confirms first AI-assisted cyberattack",
+      "score": 16.34,
       "source_count": 1,
-      "published_at": "2026-11-19 14:33 UTC",
+      "published_at": "2026-11-20 02:57 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/international/business/eu-confirms-first-ai-assisted-cyberattack-on-key-institution/articleshow/136010890.cms"
+        }
+      ]
+    },
+    {
+      "title": "India’s Anthropic Question, ShareChat’s Turnaround & More",
+      "score": 16.3,
+      "source_count": 1,
+      "published_at": "2026-11-20 02:30 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/anthropic-ipo-rekindles-debate-over-indias-ai-ambitions/"
+          "url": "https://inc42.com/buzz/indias-anthropic-question-sharechats-turnaround-more/"
         }
       ]
     },
     {
-      "title": "Logic Neo X1 Pro Tablet Launched in India With Android 17, 8,000mAh Battery",
-      "score": 17.0,
+      "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
+      "score": 16.24,
       "source_count": 1,
-      "published_at": "2026-11-19 12:55 UTC",
+      "published_at": "2026-11-20 02:00 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/meet-the-8-women-powering-indias-deeptech-future-anthropic-ipo"
+        }
+      ]
+    },
+    {
+      "title": "My dream is to make WeWork India the default choice for workspaces",
+      "score": 16.22,
+      "source_count": 1,
+      "published_at": "2026-11-20 01:45 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces"
+        }
+      ]
+    },
+    {
+      "title": "India turns net overweight among Asia-Pacific fund managers after 10 months",
+      "score": 16.08,
+      "source_count": 1,
+      "published_at": "2026-11-20 00:27 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-turns-net-overweight-among-asia-pacific-fund-managers-after-10-months/articleshow/136008999.cms"
+        }
+      ]
+    },
+    {
+      "title": "California targets Nvidia in China AI chip probe",
+      "score": 15.94,
+      "source_count": 1,
+      "published_at": "2026-11-19 23:04 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "score": 15.88,
+      "source_count": 1,
+      "published_at": "2026-11-19 22:31 UTC",
       "topic": "tech",
       "sources": [
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/tablets/news/logic-neo-x1-pro-tablet-india-launch-availability-specifications-features-12349669"
-        }
-      ]
-    },
-    {
-      "title": "Sony WH-CH730N, WH-CH530 Wireless Headphones Launched in India: Price, Specifications",
-      "score": 16.52,
-      "source_count": 1,
-      "published_at": "2026-11-19 08:16 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/audio/news/sony-wh-ch730n-wh-ch530-price-in-india-launch-specifications-features-12348202"
-        }
-      ]
-    },
-    {
-      "title": "Google Gemini takes a swipe at rival AI apps with new campaign",
-      "score": 16.4,
-      "source_count": 1,
-      "published_at": "2026-11-19 07:08 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "ET Brand Equity - Advertising",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/google-gemini-takes-a-swipe-at-rival-ai-apps-with-new-campaign/135979532"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
         }
       ]
     }
