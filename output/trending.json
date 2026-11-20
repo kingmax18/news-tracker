@@ -1,138 +1,166 @@
 {
-  "generated_at": "2026-11-20 04:28:17 UTC",
+  "generated_at": "2026-11-20 14:26:16 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Bajaj bets big on healthcare, plans 500-bed hospital",
-      "score": 28.05,
-      "source_count": 2,
-      "published_at": "2026-11-19 13:20 UTC",
+      "title": "Amazon Prime India head Abhinav Agarwal steps down after 16 years",
+      "score": 47.47,
+      "source_count": 3,
+      "published_at": "2026-11-20 07:16 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/bajaj-group-launches-ambitious-healthcare-venture-with-rs-2500-crore-investment-in-pune-hospital/articleshow/135992570.cms"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/abhinav-agarwal-quits-amazon-after-16-years-why-industry-watchers-are-calling-him-prime-indias-architect-11795155136255.html"
         },
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/a-lot-of-healthcare-doesnt-need-a-hospital-how-nirav-bajaj-plans-to-reshape-medical-care-with-nivara-11795082021624.html"
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/amazon-prime-india-head-abhinav-agarwal-quits-after-16-years-at-company/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/amazon-prime-india-head-abhinav-agarwal-steps-down-after-16-years"
         }
       ]
     },
     {
-      "title": "Nvidia faces talent exodus risk after Huang's exit: Can the chipmaker retain the engineers behind its AI dominance?",
-      "score": 16.43,
-      "source_count": 1,
-      "published_at": "2026-11-20 03:47 UTC",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "score": 30.93,
+      "source_count": 2,
+      "published_at": "2026-11-20 12:37 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/nvidia-faces-talent-exodus-risk-after-huangs-exit-can-the-chipmaker-retain-the-engineers-behind-its-ai-dominance-11795145847336.html"
-        }
-      ]
-    },
-    {
-      "title": "Chris Wood hikes exposure to Indian equities as AI trade falters",
-      "score": 16.43,
-      "source_count": 1,
-      "published_at": "2026-11-20 03:48 UTC",
-      "topic": "business",
-      "sources": [
+          "url": "https://www.livemint.com/companies/people/who-are-anthropic-s-seven-founders-who-became-multibillionaires-after-claude-ai-maker-s-historic-ipo-11795172512612.html"
+        },
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/markets/news/chris-wood-hikes-exposure-to-indian-equities-as-ai-trade-falters-126112000145_1.html"
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "EU confirms first AI-assisted cyberattack",
-      "score": 16.34,
-      "source_count": 1,
-      "published_at": "2026-11-20 02:57 UTC",
+      "title": "Core sector growth hits 10.9% in October, highest under new 2022-23 series",
+      "score": 30.91,
+      "source_count": 2,
+      "published_at": "2026-11-20 12:22 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/business/eu-confirms-first-ai-assisted-cyberattack-on-key-institution/articleshow/136010890.cms"
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/core-sector-output-growth-rises-to-10-9-percent-in-october/articleshow/136025435.cms"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/economy/news/core-sectors-growth-rises-to-10-9-in-oct-coal-iron-ore-key-drivers-126112000852_1.html"
         }
       ]
     },
     {
-      "title": "India’s Anthropic Question, ShareChat’s Turnaround & More",
-      "score": 16.3,
-      "source_count": 1,
-      "published_at": "2026-11-20 02:30 UTC",
+      "title": "Humyn Labs raises $47 mn to collect training data for physical AI",
+      "score": 30.53,
+      "source_count": 2,
+      "published_at": "2026-11-20 08:45 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/indias-anthropic-question-sharechats-turnaround-more/"
+          "url": "https://inc42.com/buzz/humyn-labs-47-mn-round-from-blinkit-to-vice-city-more/"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-humyn-labs-training-data-physical-ai/"
         }
       ]
     },
     {
-      "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
-      "score": 16.24,
-      "source_count": 1,
-      "published_at": "2026-11-20 02:00 UTC",
+      "title": "Supreme Court Upholds Karnataka HC Order Allowing Bike Taxis",
+      "score": 29.48,
+      "source_count": 2,
+      "published_at": "2026-11-20 13:04 UTC",
       "topic": "startups",
       "sources": [
         {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/supreme-court-upholds-karnataka-hc-order-allowing-bike-taxis/"
+        },
+        {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/meet-the-8-women-powering-indias-deeptech-future-anthropic-ipo"
+          "url": "https://yourstory.com/2026/11/bike-taxi-services-karnataka-supreme-court-ruling"
         }
       ]
     },
     {
-      "title": "My dream is to make WeWork India the default choice for workspaces",
-      "score": 16.22,
-      "source_count": 1,
-      "published_at": "2026-11-20 01:45 UTC",
+      "title": "Centre’s Antariksh VC Fund Leads SatSure’s ₹200 Cr Series B Round",
+      "score": 29.26,
+      "source_count": 2,
+      "published_at": "2026-11-20 10:54 UTC",
       "topic": "startups",
       "sources": [
         {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/"
+        },
+        {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces"
+          "url": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund"
         }
       ]
     },
     {
-      "title": "India turns net overweight among Asia-Pacific fund managers after 10 months",
-      "score": 16.08,
+      "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
+      "score": 29.04,
+      "source_count": 2,
+      "published_at": "2026-11-20 08:47 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/urban-company-raises-rs-2500-cr-through-qip"
+        }
+      ]
+    },
+    {
+      "title": "Anthropics IPO caps an explosive growth period for the AI startup, filled with contradictions",
+      "score": 18.52,
       "source_count": 1,
-      "published_at": "2026-11-20 00:27 UTC",
+      "published_at": "2026-11-20 05:03 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-turns-net-overweight-among-asia-pacific-fund-managers-after-10-months/articleshow/136008999.cms"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/anthropics-ipo-caps-an-explosive-growth-period-for-the-ai-startup-filled-with-contradictions-11795150984237.html"
         }
       ]
     },
     {
-      "title": "California targets Nvidia in China AI chip probe",
-      "score": 15.94,
+      "title": "Dell XPS 16 Creator Edition Laptop With Nvidia RTX Spark N1X Processor Launched in India: Price, Specifications",
+      "score": 17.75,
       "source_count": 1,
-      "published_at": "2026-11-19 23:04 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "score": 15.88,
-      "source_count": 1,
-      "published_at": "2026-11-19 22:31 UTC",
+      "published_at": "2026-11-20 12:05 UTC",
       "topic": "tech",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/laptops/news/dell-xps-16-creator-edition-price-in-india-launch-specifications-and-features-12354265"
+        }
+      ]
+    },
+    {
+      "title": "Vivo V80 FE Could Launch in India in Exclusive Red Colour Option, Tipster Claims",
+      "score": 17.75,
+      "source_count": 1,
+      "published_at": "2026-11-20 12:01 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/vivo-v80-fe-colour-options-leak-india-launch-tipster-12354564"
         }
       ]
     }

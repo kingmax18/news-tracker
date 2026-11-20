@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 20, 2026 at 04:28 UTC | **Top Stories:** 10
+> **Generated on:** November 20, 2026 at 14:26 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Bajaj bets big on healthcare, plans 500-bed hospital [2 sources]
-- **Topic:** `Business` | **Score:** `28.05` | **Published:** 2026-11-19 13:20 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/bajaj-group-launches-ambitious-healthcare-venture-with-rs-2500-crore-investment-in-pune-hospital/articleshow/135992570.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/a-lot-of-healthcare-doesnt-need-a-hospital-how-nirav-bajaj-plans-to-reshape-medical-care-with-nivara-11795082021624.html)
+### 1. Amazon Prime India head Abhinav Agarwal steps down after 16 years [3 sources]
+- **Topic:** `Business` | **Score:** `47.47` | **Published:** 2026-11-20 07:16 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/abhinav-agarwal-quits-amazon-after-16-years-why-industry-watchers-are-calling-him-prime-indias-architect-11795155136255.html) • [Inc42](https://inc42.com/buzz/amazon-prime-india-head-abhinav-agarwal-quits-after-16-years-at-company/) • [YourStory](https://yourstory.com/2026/11/amazon-prime-india-head-abhinav-agarwal-steps-down-after-16-years)
 
-### 2. Nvidia faces talent exodus risk after Huang's exit: Can the chipmaker retain the engineers behind its AI dominance? [1 source]
-- **Topic:** `Business` | **Score:** `16.43` | **Published:** 2026-11-20 03:47 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/nvidia-faces-talent-exodus-risk-after-huangs-exit-can-the-chipmaker-retain-the-engineers-behind-its-ai-dominance-11795145847336.html)
+### 2. The seven Anthropic founders who are about to become multi-billionaires [2 sources]
+- **Topic:** `Business` | **Score:** `30.93` | **Published:** 2026-11-20 12:37 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-are-anthropic-s-seven-founders-who-became-multibillionaires-after-claude-ai-maker-s-historic-ipo-11795172512612.html) • [BBC News - Business](https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss)
 
-### 3. Chris Wood hikes exposure to Indian equities as AI trade falters [1 source]
-- **Topic:** `Business` | **Score:** `16.43` | **Published:** 2026-11-20 03:48 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/markets/news/chris-wood-hikes-exposure-to-indian-equities-as-ai-trade-falters-126112000145_1.html)
+### 3. Core sector growth hits 10.9% in October, highest under new 2022-23 series [2 sources]
+- **Topic:** `Business` | **Score:** `30.91` | **Published:** 2026-11-20 12:22 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/indicators/core-sector-output-growth-rises-to-10-9-percent-in-october/articleshow/136025435.cms) • [Business Standard](https://www.business-standard.com/economy/news/core-sectors-growth-rises-to-10-9-in-oct-coal-iron-ore-key-drivers-126112000852_1.html)
 
-### 4. EU confirms first AI-assisted cyberattack [1 source]
-- **Topic:** `Business` | **Score:** `16.34` | **Published:** 2026-11-20 02:57 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/business/eu-confirms-first-ai-assisted-cyberattack-on-key-institution/articleshow/136010890.cms)
+### 4. Humyn Labs raises $47 mn to collect training data for physical AI [2 sources]
+- **Topic:** `Startups` | **Score:** `30.53` | **Published:** 2026-11-20 08:45 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/humyn-labs-47-mn-round-from-blinkit-to-vice-city-more/) • [MediaNama](https://www.medianama.com/2026/11/223-humyn-labs-training-data-physical-ai/)
 
-### 5. India’s Anthropic Question, ShareChat’s Turnaround & More [1 source]
-- **Topic:** `Startups` | **Score:** `16.3` | **Published:** 2026-11-20 02:30 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/indias-anthropic-question-sharechats-turnaround-more/)
+### 5. Supreme Court Upholds Karnataka HC Order Allowing Bike Taxis [2 sources]
+- **Topic:** `Startups` | **Score:** `29.48` | **Published:** 2026-11-20 13:04 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/supreme-court-upholds-karnataka-hc-order-allowing-bike-taxis/) • [YourStory](https://yourstory.com/2026/11/bike-taxi-services-karnataka-supreme-court-ruling)
 
-### 6. Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering [1 source]
-- **Topic:** `Startups` | **Score:** `16.24` | **Published:** 2026-11-20 02:00 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/meet-the-8-women-powering-indias-deeptech-future-anthropic-ipo)
+### 6. Centre’s Antariksh VC Fund Leads SatSure’s ₹200 Cr Series B Round [2 sources]
+- **Topic:** `Startups` | **Score:** `29.26` | **Published:** 2026-11-20 10:54 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/) • [YourStory](https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund)
 
-### 7. My dream is to make WeWork India the default choice for workspaces [1 source]
-- **Topic:** `Startups` | **Score:** `16.22` | **Published:** 2026-11-20 01:45 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/my-dream-is-to-make-wework-india-the-default-choice-for-workspaces)
+### 7. Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr [2 sources]
+- **Topic:** `Startups` | **Score:** `29.04` | **Published:** 2026-11-20 08:47 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/) • [YourStory](https://yourstory.com/2026/11/urban-company-raises-rs-2500-cr-through-qip)
 
-### 8. India turns net overweight among Asia-Pacific fund managers after 10 months [1 source]
-- **Topic:** `Business` | **Score:** `16.08` | **Published:** 2026-11-20 00:27 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/stocks/news/india-turns-net-overweight-among-asia-pacific-fund-managers-after-10-months/articleshow/136008999.cms)
+### 8. Anthropics IPO caps an explosive growth period for the AI startup, filled with contradictions [1 source]
+- **Topic:** `Business` | **Score:** `18.52` | **Published:** 2026-11-20 05:03 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/anthropics-ipo-caps-an-explosive-growth-period-for-the-ai-startup-filled-with-contradictions-11795150984237.html)
 
-### 9. California targets Nvidia in China AI chip probe [1 source]
-- **Topic:** `Business` | **Score:** `15.94` | **Published:** 2026-11-19 23:04 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss)
+### 9. Dell XPS 16 Creator Edition Laptop With Nvidia RTX Spark N1X Processor Launched in India: Price, Specifications [1 source]
+- **Topic:** `Tech` | **Score:** `17.75` | **Published:** 2026-11-20 12:05 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/laptops/news/dell-xps-16-creator-edition-price-in-india-launch-specifications-and-features-12354265)
 
-### 10. Apple is hiring engineers to build its own AI agent [1 source]
-- **Topic:** `Tech` | **Score:** `15.88` | **Published:** 2026-11-19 22:31 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)
+### 10. Vivo V80 FE Could Launch in India in Exclusive Red Colour Option, Tipster Claims [1 source]
+- **Topic:** `Tech` | **Score:** `17.75` | **Published:** 2026-11-20 12:01 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/vivo-v80-fe-colour-options-leak-india-launch-tipster-12354564)
