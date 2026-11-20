@@ -1,166 +1,142 @@
 {
-  "generated_at": "2026-11-20 14:26:16 UTC",
+  "generated_at": "2026-11-20 21:59:57 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Amazon Prime India head Abhinav Agarwal steps down after 16 years",
-      "score": 47.47,
-      "source_count": 3,
-      "published_at": "2026-11-20 07:16 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/abhinav-agarwal-quits-amazon-after-16-years-why-industry-watchers-are-calling-him-prime-indias-architect-11795155136255.html"
-        },
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/amazon-prime-india-head-abhinav-agarwal-quits-after-16-years-at-company/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/amazon-prime-india-head-abhinav-agarwal-steps-down-after-16-years"
-        }
-      ]
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "score": 30.93,
+      "title": "Paytm Lines Up ₹200 Cr Investment in Singapore’s Funding Societies",
+      "score": 30.38,
       "source_count": 2,
-      "published_at": "2026-11-20 12:37 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/who-are-anthropic-s-seven-founders-who-became-multibillionaires-after-claude-ai-maker-s-historic-ipo-11795172512612.html"
-        },
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "Core sector growth hits 10.9% in October, highest under new 2022-23 series",
-      "score": 30.91,
-      "source_count": 2,
-      "published_at": "2026-11-20 12:22 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/core-sector-output-growth-rises-to-10-9-percent-in-october/articleshow/136025435.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/economy/news/core-sectors-growth-rises-to-10-9-in-oct-coal-iron-ore-key-drivers-126112000852_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Humyn Labs raises $47 mn to collect training data for physical AI",
-      "score": 30.53,
-      "source_count": 2,
-      "published_at": "2026-11-20 08:45 UTC",
+      "published_at": "2026-11-20 14:49 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/humyn-labs-47-mn-round-from-blinkit-to-vice-city-more/"
+          "url": "https://inc42.com/buzz/paytm-lines-up-%e2%82%b9200-cr-investment-in-singapores-funding-societies/"
         },
         {
           "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-humyn-labs-training-data-physical-ai/"
+          "url": "https://www.medianama.com/2026/11/223-paytm-invest-singapore-funding-societies-cardup/"
         }
       ]
     },
     {
-      "title": "Supreme Court Upholds Karnataka HC Order Allowing Bike Taxis",
-      "score": 29.48,
+      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "score": 29.16,
       "source_count": 2,
-      "published_at": "2026-11-20 13:04 UTC",
-      "topic": "startups",
+      "published_at": "2026-11-20 17:33 UTC",
+      "topic": "tech",
       "sources": [
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/supreme-court-upholds-karnataka-hc-order-allowing-bike-taxis/"
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/apple-black-friday-deals-announced-iphone-17-16-air-macbook-pro-ipad-12352816"
         },
         {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/bike-taxi-services-karnataka-supreme-court-ruling"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026"
         }
       ]
     },
     {
-      "title": "Centre’s Antariksh VC Fund Leads SatSure’s ₹200 Cr Series B Round",
-      "score": 29.26,
-      "source_count": 2,
-      "published_at": "2026-11-20 10:54 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund"
-        }
-      ]
-    },
-    {
-      "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
-      "score": 29.04,
-      "source_count": 2,
-      "published_at": "2026-11-20 08:47 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/urban-company-raises-rs-2500-cr-through-qip"
-        }
-      ]
-    },
-    {
-      "title": "Anthropics IPO caps an explosive growth period for the AI startup, filled with contradictions",
-      "score": 18.52,
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "score": 17.78,
       "source_count": 1,
-      "published_at": "2026-11-20 05:03 UTC",
+      "published_at": "2026-11-20 19:53 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+        }
+      ]
+    },
+    {
+      "title": "Alkemi Growth Capital plans $125-150 million third fund launch in 2027",
+      "score": 17.08,
+      "source_count": 1,
+      "published_at": "2026-11-20 13:08 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/start-ups/alkemi-growth-capital-plans-125-150-million-third-fund-launch-in-2027-126112000864_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia RTX Spark AI Laptops With 128GB Unified Memory Showcased in India",
+      "score": 16.78,
+      "source_count": 1,
+      "published_at": "2026-11-20 10:15 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/laptops/news/asus-dell-hp-lenovo-nvidia-rtx-spark-laptops-showcase-india-launch-12353976"
+        }
+      ]
+    },
+    {
+      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+      "score": 16.72,
+      "source_count": 1,
+      "published_at": "2026-11-20 09:44 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Bonjour unveils new brand campaign featuring Harshaali Malhotra",
+      "score": 16.7,
+      "source_count": 1,
+      "published_at": "2026-11-20 09:30 UTC",
+      "topic": "marketing_and_branding",
+      "sources": [
+        {
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/bonjour-unveils-new-brand-campaign-featuring-harshaali-malhotra/136020830"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic's $1 trillion AI bet: Why it may need $602 billion in annual revenue to justify the investment",
+      "score": 16.64,
+      "source_count": 1,
+      "published_at": "2026-11-20 08:57 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/anthropics-ipo-caps-an-explosive-growth-period-for-the-ai-startup-filled-with-contradictions-11795150984237.html"
+          "url": "https://www.livemint.com/companies/news/anthropics-1-trillion-ai-bet-why-it-may-need-602-billion-in-annual-revenue-to-justify-the-investment-11795159243685.html"
         }
       ]
     },
     {
-      "title": "Dell XPS 16 Creator Edition Laptop With Nvidia RTX Spark N1X Processor Launched in India: Price, Specifications",
-      "score": 17.75,
+      "title": "Levista Coffee refreshes brand identity, launches ‘Taste the Joy of Coorg’ campaign",
+      "score": 16.49,
       "source_count": 1,
-      "published_at": "2026-11-20 12:05 UTC",
-      "topic": "tech",
+      "published_at": "2026-11-20 07:32 UTC",
+      "topic": "marketing_and_branding",
       "sources": [
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/laptops/news/dell-xps-16-creator-edition-price-in-india-launch-specifications-and-features-12354265"
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/levista-coffee-refreshes-brand-identity-launches-taste-the-joy-of-coorg-campaign/136017873"
         }
       ]
     },
     {
-      "title": "Vivo V80 FE Could Launch in India in Exclusive Red Colour Option, Tipster Claims",
-      "score": 17.75,
+      "title": "YourStory launches voice AI hackathon with Rs 8 lakh prize pool in collaboration with Google Cloud India",
+      "score": 16.49,
       "source_count": 1,
-      "published_at": "2026-11-20 12:01 UTC",
-      "topic": "tech",
+      "published_at": "2026-11-20 07:30 UTC",
+      "topic": "startups",
       "sources": [
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/vivo-v80-fe-colour-options-leak-india-launch-tipster-12354564"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/hack2skill-yourstory-launches-voice-ai-hackathon-with-rs-8-lakh-prize-pool-in-collaboration-with-google-cloud-india"
         }
       ]
     }
