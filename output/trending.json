@@ -1,150 +1,154 @@
 {
-  "generated_at": "2026-11-21 04:21:44 UTC",
+  "generated_at": "2026-11-21 13:45:25 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "MediaNama This Week: Top 10 Stories (14 November – 20 November 2026)",
-      "score": 31.03,
+      "title": "Noel Tata's salvo sets stage for stormy Tata Sons board meet next week",
+      "score": 46.36,
+      "source_count": 3,
+      "published_at": "2026-11-21 10:20 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-trusts-chair-noel-tata-fires-stronger-salvo-at-tata-sons-board-in-new-letter/articleshow/136038611.cms"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/noel-tata-tata-sons-board-recording-chandrasekaran-reappointment-listing-126112100507_1.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/noel-seeks-tata-sons-board-meet-recordings-objects"
+        }
+      ]
+    },
+    {
+      "title": "Xiaomi 18 Pro Could Cost Up to Rs. 1.7 Lakh in India, Tipster Claims",
+      "score": 31.04,
       "source_count": 2,
-      "published_at": "2026-11-21 03:30 UTC",
+      "published_at": "2026-11-21 13:00 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/xiaomi-18-pro-india-price-leak-tipster-launch-12353724"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review"
+        }
+      ]
+    },
+    {
+      "title": "India has shown it can break limits, unlock possibilities: PM Modi",
+      "score": 30.44,
+      "source_count": 2,
+      "published_at": "2026-11-21 07:09 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/india/nation-recognises-true-potential-when-it-breaks-limits-of-thinking-pm-modis-message-to-iit-kharagpur-students/articleshow/136047006.cms"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/india-news/india-has-shown-it-can-break-limits-unlock-possibilities-pm-modi-126112100284_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Samsung Leadership Reshuffle: New Heads Named for Mobile, Memory and Chip Units",
+      "score": 29.08,
+      "source_count": 2,
+      "published_at": "2026-11-21 08:31 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/samsung-reshuffles-top-leadership-for-2027-appoints-new-memory-and-smartphone-business-heads-11795249463352.html"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/samsung-mobiles-memory-chipset-business-management-overhaul-announced-12353700"
+        }
+      ]
+    },
+    {
+      "title": "Sarvam’s Token Factory Raises India’s AI Inference Stakes",
+      "score": 17.81,
+      "source_count": 1,
+      "published_at": "2026-11-21 11:57 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/"
+        }
+      ]
+    },
+    {
+      "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
+      "score": 17.44,
+      "source_count": 1,
+      "published_at": "2026-11-21 08:23 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/startup-news-updates-daily-roundup-november-20-2026"
-        },
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-medianama-this-week-top-10-stories-14-november-20-november-2026/"
+          "url": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research"
         }
       ]
     },
     {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "score": 30.81,
-      "source_count": 2,
-      "published_at": "2026-11-21 01:20 UTC",
-      "topic": "business",
+      "title": "India Minicorn Tracker: Mapping The Next Wave Of High-Growth Startups",
+      "score": 17.3,
+      "source_count": 1,
+      "published_at": "2026-11-21 07:00 UTC",
+      "topic": "startups",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/business/trump-threatens-a-tremendous-tax-on-us-companies-that-build-ai-data-centers-abroad/articleshow/136042559.cms"
-        },
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+          "name": "Inc42",
+          "url": "https://inc42.com/features/india-minicorn-tracker-mapping-the-next-wave-of-high-growth-startups/"
         }
       ]
     },
     {
-      "title": "IndusInd Bank invokes clawback provisions against Kathpalia from 2020",
-      "score": 29.26,
-      "source_count": 2,
-      "published_at": "2026-11-21 00:54 UTC",
-      "topic": "business",
+      "title": "Logitech MX Master 4 Creator Edition With Customisable Controls, Haptic Feedback Launched in India: Price, Features",
+      "score": 17.24,
+      "source_count": 1,
+      "published_at": "2026-11-21 06:30 UTC",
+      "topic": "tech",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indusind-bank-ends-ex-ceo-kathpalias-employment-seeks-to-recover-pay/articleshow/136042443.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/people/indusind-bank-invokes-clawback-provisions-against-kathpalia-from-2020-126112001445_1.html"
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/laptops/news/logitech-mx-master-4-creator-edition-price-india-launch-availability-features-12354878"
         }
       ]
     },
     {
-      "title": "Centre moves review plea in Supreme Court against Yes Bank AT-1 bond ruling",
-      "score": 28.64,
-      "source_count": 2,
-      "published_at": "2026-11-20 18:58 UTC",
+      "title": "India's cumin soda revolution costs  ₹10: Lahori Zeera challenges Coca-Cola and Pepsi, targets  ₹1,112 crore in revenue",
+      "score": 17.19,
+      "source_count": 1,
+      "published_at": "2026-11-21 05:57 UTC",
       "topic": "business",
       "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/finance-ministry-seeks-review-of-scs-yes-bank-at-1-bond-ruling/articleshow/136038138.cms"
-        },
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/yes-bank-at-1-bond-supreme-court-ruling-review-plea-rbi-11795178486440.html"
+          "url": "https://www.livemint.com/companies/indias-cumin-soda-revolution-costs-10-lahori-zeera-challenges-coca-cola-and-pepsi-targets-1-112-crore-in-revenue-11795240176635.html"
         }
       ]
     },
     {
-      "title": "EV Startup River Mobility’s FY26 Revenue Jumps 4.2X To ₹432 Cr",
-      "score": 17.86,
-      "source_count": 1,
-      "published_at": "2026-11-21 03:00 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/ev-startup-river-mobilitys-fy26-revenue-jumps-4-2x-to-%e2%82%b9432-cr/"
-        }
-      ]
-    },
-    {
-      "title": "Wall Street Week Ahead: 'Black Friday' brings consumer spending into focus for AI-rocked market",
-      "score": 16.44,
-      "source_count": 1,
-      "published_at": "2026-11-21 03:48 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market/articleshow/136044202.cms"
-        }
-      ]
-    },
-    {
-      "title": "India Does Not Need Richer Consumers, It Needs Braver Celebrities",
-      "score": 16.43,
-      "source_count": 1,
-      "published_at": "2026-11-21 03:38 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "ET Brand Equity - Marketing",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/india-does-not-need-richer-consumers-it-needs-braver-celebrities/136037430"
-        }
-      ]
-    },
-    {
-      "title": "From Dreamteam To Boba Bhai — Indian Startups Raised Over $291 Mn This Week",
+      "title": "How GTA VI's launch surpassed expectations",
       "score": 16.41,
       "source_count": 1,
-      "published_at": "2026-11-21 03:30 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/"
-        }
-      ]
-    },
-    {
-      "title": "India vs NZ Test: KL, Padikkal take India to 344/2 at tea",
-      "score": 16.36,
-      "source_count": 1,
-      "published_at": "2026-11-21 03:00 UTC",
+      "published_at": "2026-11-21 12:52 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-vs-new-zealand-test-ton-up-rahul-classy-devdutt-padikkal-take-india-to-344-for-2-at-tea/articleshow/136043475.cms"
-        }
-      ]
-    },
-    {
-      "title": "Fintechs Bear The Brunt As Yes Bank Upgrades AI Safeguards",
-      "score": 16.16,
-      "source_count": 1,
-      "published_at": "2026-11-21 01:04 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/fintechs-bear-the-brunt-as-yes-bank-upgrades-ai-safeguards/"
+          "url": "https://economictimes.indiatimes.com/news/international/business/how-grand-theft-auto-vis-launch-surpassed-expectations/articleshow/136053617.cms"
         }
       ]
     }

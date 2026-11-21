@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 21, 2026 at 04:21 UTC | **Top Stories:** 10
+> **Generated on:** November 21, 2026 at 13:45 UTC | **Top Stories:** 10
 
 ---
 
-### 1. MediaNama This Week: Top 10 Stories (14 November – 20 November 2026) [2 sources]
-- **Topic:** `Startups` | **Score:** `31.03` | **Published:** 2026-11-21 03:30 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/startup-news-updates-daily-roundup-november-20-2026) • [MediaNama](https://www.medianama.com/2026/11/223-medianama-this-week-top-10-stories-14-november-20-november-2026/)
+### 1. Noel Tata's salvo sets stage for stormy Tata Sons board meet next week [3 sources]
+- **Topic:** `Business` | **Score:** `46.36` | **Published:** 2026-11-21 10:20 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/company/corporate-trends/tata-trusts-chair-noel-tata-fires-stronger-salvo-at-tata-sons-board-in-new-letter/articleshow/136038611.cms) • [Business Standard](https://www.business-standard.com/companies/news/noel-tata-tata-sons-board-recording-chandrasekaran-reappointment-listing-126112100507_1.html) • [YourStory](https://yourstory.com/2026/11/noel-seeks-tata-sons-board-meet-recordings-objects)
 
-### 2. Trump threatens ban on US firms building AI data centres overseas [2 sources]
-- **Topic:** `Business` | **Score:** `30.81` | **Published:** 2026-11-21 01:20 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/business/trump-threatens-a-tremendous-tax-on-us-companies-that-build-ai-data-centers-abroad/articleshow/136042559.cms) • [BBC News - Business](https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss)
+### 2. Xiaomi 18 Pro Could Cost Up to Rs. 1.7 Lakh in India, Tipster Claims [2 sources]
+- **Topic:** `Tech` | **Score:** `31.04` | **Published:** 2026-11-21 13:00 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/xiaomi-18-pro-india-price-leak-tipster-launch-12353724) • [The Verge](https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review)
 
-### 3. IndusInd Bank invokes clawback provisions against Kathpalia from 2020 [2 sources]
-- **Topic:** `Business` | **Score:** `29.26` | **Published:** 2026-11-21 00:54 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/banking/finance/banking/indusind-bank-ends-ex-ceo-kathpalias-employment-seeks-to-recover-pay/articleshow/136042443.cms) • [Business Standard](https://www.business-standard.com/companies/people/indusind-bank-invokes-clawback-provisions-against-kathpalia-from-2020-126112001445_1.html)
+### 3. India has shown it can break limits, unlock possibilities: PM Modi [2 sources]
+- **Topic:** `Business` | **Score:** `30.44` | **Published:** 2026-11-21 07:09 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/nation-recognises-true-potential-when-it-breaks-limits-of-thinking-pm-modis-message-to-iit-kharagpur-students/articleshow/136047006.cms) • [Business Standard](https://www.business-standard.com/india-news/india-has-shown-it-can-break-limits-unlock-possibilities-pm-modi-126112100284_1.html)
 
-### 4. Centre moves review plea in Supreme Court against Yes Bank AT-1 bond ruling [2 sources]
-- **Topic:** `Business` | **Score:** `28.64` | **Published:** 2026-11-20 18:58 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/banking/finance/banking/finance-ministry-seeks-review-of-scs-yes-bank-at-1-bond-ruling/articleshow/136038138.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/yes-bank-at-1-bond-supreme-court-ruling-review-plea-rbi-11795178486440.html)
+### 4. Samsung Leadership Reshuffle: New Heads Named for Mobile, Memory and Chip Units [2 sources]
+- **Topic:** `Business` | **Score:** `29.08` | **Published:** 2026-11-21 08:31 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/samsung-reshuffles-top-leadership-for-2027-appoints-new-memory-and-smartphone-business-heads-11795249463352.html) • [Gadgets 360](https://www.gadgets360.com/mobiles/news/samsung-mobiles-memory-chipset-business-management-overhaul-announced-12353700)
 
-### 5. EV Startup River Mobility’s FY26 Revenue Jumps 4.2X To ₹432 Cr [1 source]
-- **Topic:** `Startups` | **Score:** `17.86` | **Published:** 2026-11-21 03:00 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/ev-startup-river-mobilitys-fy26-revenue-jumps-4-2x-to-%e2%82%b9432-cr/)
+### 5. Sarvam’s Token Factory Raises India’s AI Inference Stakes [1 source]
+- **Topic:** `Startups` | **Score:** `17.81` | **Published:** 2026-11-21 11:57 UTC
+- **Coverage:** [Inc42](https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/)
 
-### 6. Wall Street Week Ahead: 'Black Friday' brings consumer spending into focus for AI-rocked market [1 source]
-- **Topic:** `Business` | **Score:** `16.44` | **Published:** 2026-11-21 03:48 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market/articleshow/136044202.cms)
+### 6. Google announces $5M funding for IIT Kharagpur for advanced AI research [1 source]
+- **Topic:** `Startups` | **Score:** `17.44` | **Published:** 2026-11-21 08:23 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research)
 
-### 7. India Does Not Need Richer Consumers, It Needs Braver Celebrities [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `16.43` | **Published:** 2026-11-21 03:38 UTC
-- **Coverage:** [ET Brand Equity - Marketing](https://brandequity.economictimes.indiatimes.com/news/marketing/india-does-not-need-richer-consumers-it-needs-braver-celebrities/136037430)
+### 7. India Minicorn Tracker: Mapping The Next Wave Of High-Growth Startups [1 source]
+- **Topic:** `Startups` | **Score:** `17.3` | **Published:** 2026-11-21 07:00 UTC
+- **Coverage:** [Inc42](https://inc42.com/features/india-minicorn-tracker-mapping-the-next-wave-of-high-growth-startups/)
 
-### 8. From Dreamteam To Boba Bhai — Indian Startups Raised Over $291 Mn This Week [1 source]
-- **Topic:** `Startups` | **Score:** `16.41` | **Published:** 2026-11-21 03:30 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/)
+### 8. Logitech MX Master 4 Creator Edition With Customisable Controls, Haptic Feedback Launched in India: Price, Features [1 source]
+- **Topic:** `Tech` | **Score:** `17.24` | **Published:** 2026-11-21 06:30 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/laptops/news/logitech-mx-master-4-creator-edition-price-india-launch-availability-features-12354878)
 
-### 9. India vs NZ Test: KL, Padikkal take India to 344/2 at tea [1 source]
-- **Topic:** `Business` | **Score:** `16.36` | **Published:** 2026-11-21 03:00 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/sports/cricket/india-vs-new-zealand-test-ton-up-rahul-classy-devdutt-padikkal-take-india-to-344-for-2-at-tea/articleshow/136043475.cms)
+### 9. India's cumin soda revolution costs  ₹10: Lahori Zeera challenges Coca-Cola and Pepsi, targets  ₹1,112 crore in revenue [1 source]
+- **Topic:** `Business` | **Score:** `17.19` | **Published:** 2026-11-21 05:57 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/indias-cumin-soda-revolution-costs-10-lahori-zeera-challenges-coca-cola-and-pepsi-targets-1-112-crore-in-revenue-11795240176635.html)
 
-### 10. Fintechs Bear The Brunt As Yes Bank Upgrades AI Safeguards [1 source]
-- **Topic:** `Startups` | **Score:** `16.16` | **Published:** 2026-11-21 01:04 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/fintechs-bear-the-brunt-as-yes-bank-upgrades-ai-safeguards/)
+### 10. How GTA VI's launch surpassed expectations [1 source]
+- **Topic:** `Business` | **Score:** `16.41` | **Published:** 2026-11-21 12:52 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/business/how-grand-theft-auto-vis-launch-surpassed-expectations/articleshow/136053617.cms)
