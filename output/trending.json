@@ -1,154 +1,134 @@
 {
-  "generated_at": "2026-11-21 13:45:25 UTC",
+  "generated_at": "2026-11-21 20:41:03 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Noel Tata's salvo sets stage for stormy Tata Sons board meet next week",
-      "score": 46.36,
-      "source_count": 3,
-      "published_at": "2026-11-21 10:20 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-trusts-chair-noel-tata-fires-stronger-salvo-at-tata-sons-board-in-new-letter/articleshow/136038611.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/noel-tata-tata-sons-board-recording-chandrasekaran-reappointment-listing-126112100507_1.html"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/noel-seeks-tata-sons-board-meet-recordings-objects"
-        }
-      ]
-    },
-    {
-      "title": "Xiaomi 18 Pro Could Cost Up to Rs. 1.7 Lakh in India, Tipster Claims",
-      "score": 31.04,
-      "source_count": 2,
-      "published_at": "2026-11-21 13:00 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/xiaomi-18-pro-india-price-leak-tipster-launch-12353724"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review"
-        }
-      ]
-    },
-    {
-      "title": "India has shown it can break limits, unlock possibilities: PM Modi",
-      "score": 30.44,
-      "source_count": 2,
-      "published_at": "2026-11-21 07:09 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/india/nation-recognises-true-potential-when-it-breaks-limits-of-thinking-pm-modis-message-to-iit-kharagpur-students/articleshow/136047006.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/india-news/india-has-shown-it-can-break-limits-unlock-possibilities-pm-modi-126112100284_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Samsung Leadership Reshuffle: New Heads Named for Mobile, Memory and Chip Units",
-      "score": 29.08,
-      "source_count": 2,
-      "published_at": "2026-11-21 08:31 UTC",
+      "title": "Bloom raises $75 million from Kedaara Capital to accelerate expansion, invest in AI technology",
+      "score": 17.79,
+      "source_count": 1,
+      "published_at": "2026-11-21 18:38 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/samsung-reshuffles-top-leadership-for-2027-appoints-new-memory-and-smartphone-business-heads-11795249463352.html"
-        },
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/samsung-mobiles-memory-chipset-business-management-overhaul-announced-12353700"
+          "url": "https://www.livemint.com/companies/news/bloom-raises-75-million-from-kedaara-capital-to-accelerate-expansion-invest-in-ai-technology-11795284401832.html"
         }
       ]
     },
     {
-      "title": "Sarvam’s Token Factory Raises India’s AI Inference Stakes",
-      "score": 17.81,
+      "title": "CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation",
+      "score": 16.38,
       "source_count": 1,
-      "published_at": "2026-11-21 11:57 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/"
-        }
-      ]
-    },
-    {
-      "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
-      "score": 17.44,
-      "source_count": 1,
-      "published_at": "2026-11-21 08:23 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research"
-        }
-      ]
-    },
-    {
-      "title": "India Minicorn Tracker: Mapping The Next Wave Of High-Growth Startups",
-      "score": 17.3,
-      "source_count": 1,
-      "published_at": "2026-11-21 07:00 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/features/india-minicorn-tracker-mapping-the-next-wave-of-high-growth-startups/"
-        }
-      ]
-    },
-    {
-      "title": "Logitech MX Master 4 Creator Edition With Customisable Controls, Haptic Feedback Launched in India: Price, Features",
-      "score": 17.24,
-      "source_count": 1,
-      "published_at": "2026-11-21 06:30 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/laptops/news/logitech-mx-master-4-creator-edition-price-india-launch-availability-features-12354878"
-        }
-      ]
-    },
-    {
-      "title": "India's cumin soda revolution costs  ₹10: Lahori Zeera challenges Coca-Cola and Pepsi, targets  ₹1,112 crore in revenue",
-      "score": 17.19,
-      "source_count": 1,
-      "published_at": "2026-11-21 05:57 UTC",
+      "published_at": "2026-11-21 19:33 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/indias-cumin-soda-revolution-costs-10-lahori-zeera-challenges-coca-cola-and-pepsi-targets-1-112-crore-in-revenue-11795240176635.html"
+          "url": "https://www.livemint.com/companies/crowdstrikes-talks-with-zscaler-show-ai-led-cyber-consolidation-11795289624175.html"
         }
       ]
     },
     {
-      "title": "How GTA VI's launch surpassed expectations",
-      "score": 16.41,
+      "title": "Stalled Withdrawals, Millions Stolen: Inside India’s Crypto Exchange Troubles",
+      "score": 16.26,
       "source_count": 1,
-      "published_at": "2026-11-21 12:52 UTC",
+      "published_at": "2026-11-21 18:23 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/"
+        }
+      ]
+    },
+    {
+      "title": "Balen Shah visit signals Nepal's India policy shift",
+      "score": 16.23,
+      "source_count": 1,
+      "published_at": "2026-11-21 18:04 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/business/how-grand-theft-auto-vis-launch-surpassed-expectations/articleshow/136053617.cms"
+          "url": "https://economictimes.indiatimes.com/news/india/nepal-pm-balen-shahs-visit-marks-policy-shift-towards-india/articleshow/136060981.cms"
+        }
+      ]
+    },
+    {
+      "title": "Who is Priya Timori? Orbit8 Media appoints marketing and technology professional as growth director",
+      "score": 16.23,
+      "source_count": 1,
+      "published_at": "2026-11-21 18:03 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/who-is-priya-timori-orbit8-media-appoints-marketing-and-technology-professional-as-growth-director-11795281410760.html"
+        }
+      ]
+    },
+    {
+      "title": "Swish FY26: Revenue Surges Close To ₹50 Cr While Loss Widens To ₹91 Cr",
+      "score": 16.04,
+      "source_count": 1,
+      "published_at": "2026-11-21 16:15 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/"
+        }
+      ]
+    },
+    {
+      "title": "MoEngage cyberattack: SaaS startup confirms breach via third-party vendor – what it said and how many customers affected",
+      "score": 15.81,
+      "source_count": 1,
+      "published_at": "2026-11-21 14:01 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/moengage-cyberattack-saas-startup-confirms-breach-via-third-party-vendor-what-it-said-and-how-many-customers-affected-11795265588243.html"
+        }
+      ]
+    },
+    {
+      "title": "Exclusive: Bewakoof Cofounder Prabhkiran Singh Launches AI Shopping Assistant Save8",
+      "score": 15.79,
+      "source_count": 1,
+      "published_at": "2026-11-21 13:53 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/bewakoof-cofounder-prabhkiran-singh-launches-ai-shopping-assistant-save8/"
+        }
+      ]
+    },
+    {
+      "title": "IIT Delhi Alumnus’ Startup Sues Apple For ₹1,500 Cr Over NameDrop Patent Infringement",
+      "score": 15.78,
+      "source_count": 1,
+      "published_at": "2026-11-21 13:43 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/iit-delhi-alumnus-startup-sues-apple-for-%e2%82%b91500-cr-over-namedrop-patent-infringement/"
+        }
+      ]
+    },
+    {
+      "title": "OnePlus 16 vs iQOO 16: Which Gaming Flagship Should You Buy in India?",
+      "score": 15.54,
+      "source_count": 1,
+      "published_at": "2026-11-21 11:30 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/features/oneplus-16-versus-iqoo-16-gaming-flagships-compared-12334536"
         }
       ]
     }

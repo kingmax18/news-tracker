@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 21, 2026 at 13:45 UTC | **Top Stories:** 10
+> **Generated on:** November 21, 2026 at 20:41 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Noel Tata's salvo sets stage for stormy Tata Sons board meet next week [3 sources]
-- **Topic:** `Business` | **Score:** `46.36` | **Published:** 2026-11-21 10:20 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/company/corporate-trends/tata-trusts-chair-noel-tata-fires-stronger-salvo-at-tata-sons-board-in-new-letter/articleshow/136038611.cms) • [Business Standard](https://www.business-standard.com/companies/news/noel-tata-tata-sons-board-recording-chandrasekaran-reappointment-listing-126112100507_1.html) • [YourStory](https://yourstory.com/2026/11/noel-seeks-tata-sons-board-meet-recordings-objects)
+### 1. Bloom raises $75 million from Kedaara Capital to accelerate expansion, invest in AI technology [1 source]
+- **Topic:** `Business` | **Score:** `17.79` | **Published:** 2026-11-21 18:38 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/bloom-raises-75-million-from-kedaara-capital-to-accelerate-expansion-invest-in-ai-technology-11795284401832.html)
 
-### 2. Xiaomi 18 Pro Could Cost Up to Rs. 1.7 Lakh in India, Tipster Claims [2 sources]
-- **Topic:** `Tech` | **Score:** `31.04` | **Published:** 2026-11-21 13:00 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/xiaomi-18-pro-india-price-leak-tipster-launch-12353724) • [The Verge](https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review)
+### 2. CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation [1 source]
+- **Topic:** `Business` | **Score:** `16.38` | **Published:** 2026-11-21 19:33 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/crowdstrikes-talks-with-zscaler-show-ai-led-cyber-consolidation-11795289624175.html)
 
-### 3. India has shown it can break limits, unlock possibilities: PM Modi [2 sources]
-- **Topic:** `Business` | **Score:** `30.44` | **Published:** 2026-11-21 07:09 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/nation-recognises-true-potential-when-it-breaks-limits-of-thinking-pm-modis-message-to-iit-kharagpur-students/articleshow/136047006.cms) • [Business Standard](https://www.business-standard.com/india-news/india-has-shown-it-can-break-limits-unlock-possibilities-pm-modi-126112100284_1.html)
+### 3. Stalled Withdrawals, Millions Stolen: Inside India’s Crypto Exchange Troubles [1 source]
+- **Topic:** `Startups` | **Score:** `16.26` | **Published:** 2026-11-21 18:23 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/)
 
-### 4. Samsung Leadership Reshuffle: New Heads Named for Mobile, Memory and Chip Units [2 sources]
-- **Topic:** `Business` | **Score:** `29.08` | **Published:** 2026-11-21 08:31 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/samsung-reshuffles-top-leadership-for-2027-appoints-new-memory-and-smartphone-business-heads-11795249463352.html) • [Gadgets 360](https://www.gadgets360.com/mobiles/news/samsung-mobiles-memory-chipset-business-management-overhaul-announced-12353700)
+### 4. Balen Shah visit signals Nepal's India policy shift [1 source]
+- **Topic:** `Business` | **Score:** `16.23` | **Published:** 2026-11-21 18:04 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/nepal-pm-balen-shahs-visit-marks-policy-shift-towards-india/articleshow/136060981.cms)
 
-### 5. Sarvam’s Token Factory Raises India’s AI Inference Stakes [1 source]
-- **Topic:** `Startups` | **Score:** `17.81` | **Published:** 2026-11-21 11:57 UTC
-- **Coverage:** [Inc42](https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/)
+### 5. Who is Priya Timori? Orbit8 Media appoints marketing and technology professional as growth director [1 source]
+- **Topic:** `Business` | **Score:** `16.23` | **Published:** 2026-11-21 18:03 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-priya-timori-orbit8-media-appoints-marketing-and-technology-professional-as-growth-director-11795281410760.html)
 
-### 6. Google announces $5M funding for IIT Kharagpur for advanced AI research [1 source]
-- **Topic:** `Startups` | **Score:** `17.44` | **Published:** 2026-11-21 08:23 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research)
+### 6. Swish FY26: Revenue Surges Close To ₹50 Cr While Loss Widens To ₹91 Cr [1 source]
+- **Topic:** `Startups` | **Score:** `16.04` | **Published:** 2026-11-21 16:15 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/)
 
-### 7. India Minicorn Tracker: Mapping The Next Wave Of High-Growth Startups [1 source]
-- **Topic:** `Startups` | **Score:** `17.3` | **Published:** 2026-11-21 07:00 UTC
-- **Coverage:** [Inc42](https://inc42.com/features/india-minicorn-tracker-mapping-the-next-wave-of-high-growth-startups/)
+### 7. MoEngage cyberattack: SaaS startup confirms breach via third-party vendor – what it said and how many customers affected [1 source]
+- **Topic:** `Business` | **Score:** `15.81` | **Published:** 2026-11-21 14:01 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/moengage-cyberattack-saas-startup-confirms-breach-via-third-party-vendor-what-it-said-and-how-many-customers-affected-11795265588243.html)
 
-### 8. Logitech MX Master 4 Creator Edition With Customisable Controls, Haptic Feedback Launched in India: Price, Features [1 source]
-- **Topic:** `Tech` | **Score:** `17.24` | **Published:** 2026-11-21 06:30 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/laptops/news/logitech-mx-master-4-creator-edition-price-india-launch-availability-features-12354878)
+### 8. Exclusive: Bewakoof Cofounder Prabhkiran Singh Launches AI Shopping Assistant Save8 [1 source]
+- **Topic:** `Startups` | **Score:** `15.79` | **Published:** 2026-11-21 13:53 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/bewakoof-cofounder-prabhkiran-singh-launches-ai-shopping-assistant-save8/)
 
-### 9. India's cumin soda revolution costs  ₹10: Lahori Zeera challenges Coca-Cola and Pepsi, targets  ₹1,112 crore in revenue [1 source]
-- **Topic:** `Business` | **Score:** `17.19` | **Published:** 2026-11-21 05:57 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/indias-cumin-soda-revolution-costs-10-lahori-zeera-challenges-coca-cola-and-pepsi-targets-1-112-crore-in-revenue-11795240176635.html)
+### 9. IIT Delhi Alumnus’ Startup Sues Apple For ₹1,500 Cr Over NameDrop Patent Infringement [1 source]
+- **Topic:** `Startups` | **Score:** `15.78` | **Published:** 2026-11-21 13:43 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/iit-delhi-alumnus-startup-sues-apple-for-%e2%82%b91500-cr-over-namedrop-patent-infringement/)
 
-### 10. How GTA VI's launch surpassed expectations [1 source]
-- **Topic:** `Business` | **Score:** `16.41` | **Published:** 2026-11-21 12:52 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/business/how-grand-theft-auto-vis-launch-surpassed-expectations/articleshow/136053617.cms)
+### 10. OnePlus 16 vs iQOO 16: Which Gaming Flagship Should You Buy in India? [1 source]
+- **Topic:** `Tech` | **Score:** `15.54` | **Published:** 2026-11-21 11:30 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/features/oneplus-16-versus-iqoo-16-gaming-flagships-compared-12334536)
