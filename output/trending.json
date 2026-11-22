@@ -1,134 +1,134 @@
 {
-  "generated_at": "2026-11-21 20:41:03 UTC",
+  "generated_at": "2026-11-22 00:44:01 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Bloom raises $75 million from Kedaara Capital to accelerate expansion, invest in AI technology",
-      "score": 17.79,
+      "title": "India's men are getting serious about skincare",
+      "score": 16.42,
       "source_count": 1,
-      "published_at": "2026-11-21 18:38 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/bloom-raises-75-million-from-kedaara-capital-to-accelerate-expansion-invest-in-ai-technology-11795284401832.html"
-        }
-      ]
-    },
-    {
-      "title": "CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation",
-      "score": 16.38,
-      "source_count": 1,
-      "published_at": "2026-11-21 19:33 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/crowdstrikes-talks-with-zscaler-show-ai-led-cyber-consolidation-11795289624175.html"
-        }
-      ]
-    },
-    {
-      "title": "Stalled Withdrawals, Millions Stolen: Inside India’s Crypto Exchange Troubles",
-      "score": 16.26,
-      "source_count": 1,
-      "published_at": "2026-11-21 18:23 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/"
-        }
-      ]
-    },
-    {
-      "title": "Balen Shah visit signals Nepal's India policy shift",
-      "score": 16.23,
-      "source_count": 1,
-      "published_at": "2026-11-21 18:04 UTC",
+      "published_at": "2026-11-22 00:00 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/india/nepal-pm-balen-shahs-visit-marks-policy-shift-towards-india/articleshow/136060981.cms"
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/dark-circles-serums-and-sunscreens-indias-men-are-getting-serious-about-skincare/articleshow/136062324.cms"
         }
       ]
     },
     {
-      "title": "Who is Priya Timori? Orbit8 Media appoints marketing and technology professional as growth director",
-      "score": 16.23,
+      "title": "Paolo Bulgari, the Italian jeweler who turned a family business into global luxury brand, dies at 89",
+      "score": 16.38,
       "source_count": 1,
-      "published_at": "2026-11-21 18:03 UTC",
+      "published_at": "2026-11-21 23:34 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/who-is-priya-timori-orbit8-media-appoints-marketing-and-technology-professional-as-growth-director-11795281410760.html"
+          "url": "https://www.livemint.com/companies/paolo-bulgari-the-italian-jeweler-who-turned-a-family-business-into-global-luxury-brand-dies-at-89-11795304075645.html"
         }
       ]
     },
     {
-      "title": "Swish FY26: Revenue Surges Close To ₹50 Cr While Loss Widens To ₹91 Cr",
-      "score": 16.04,
+      "title": "Indian Startup IPO Tracker 2026",
+      "score": 16.37,
       "source_count": 1,
-      "published_at": "2026-11-21 16:15 UTC",
+      "published_at": "2026-11-21 23:31 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/"
+          "url": "https://inc42.com/features/indian-startup-ipo-tracker-2026/"
         }
       ]
     },
     {
-      "title": "MoEngage cyberattack: SaaS startup confirms breach via third-party vendor – what it said and how many customers affected",
-      "score": 15.81,
+      "title": "Momentum by Google and YourStory to bring India’s founders, investors, and policymakers into one room in New Delhi",
+      "score": 15.09,
       "source_count": 1,
-      "published_at": "2026-11-21 14:01 UTC",
+      "published_at": "2026-11-21 11:10 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/momentum-by-google--yourstory-uniting-indias-startup-ecos"
+        }
+      ]
+    },
+    {
+      "title": "Fi Money Manages To Cut FY26 Loss By 25%To ₹153.3 Cr, Revenue Sinks 21%",
+      "score": 15.0,
+      "source_count": 1,
+      "published_at": "2026-11-21 10:18 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/fi-money-manages-to-cut-fy26-loss-by-25to-%e2%82%b9153-3-cr-revenue-sinks-21/"
+        }
+      ]
+    },
+    {
+      "title": "India, US arrest 6 under drug trafficking network",
+      "score": 14.99,
+      "source_count": 1,
+      "published_at": "2026-11-21 10:13 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/india/india-us-authorities-bust-transnational-drug-trafficking-network-under-operation-monsoon-thunder-6-arrested/articleshow/136050897.cms"
+        }
+      ]
+    },
+    {
+      "title": "Traya’s FY26 Revenue Jumps 73% YoY To ₹585 Cr, Loss Up 23%",
+      "score": 14.99,
+      "source_count": 1,
+      "published_at": "2026-11-21 10:12 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/trayas-fy26-revenue-jumps-73-yoy-to-%e2%82%b9585-cr-loss-up-23/"
+        }
+      ]
+    },
+    {
+      "title": "Scaler Cofounder Anshuman Singh Unveils AI Training Data Venture Arcfront",
+      "score": 14.91,
+      "source_count": 1,
+      "published_at": "2026-11-21 09:27 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/scaler-cofounder-anshuman-singh-unveils-ai-training-data-venture-arcfront/"
+        }
+      ]
+    },
+    {
+      "title": "Cricket: Congress MP questions India's selection policy",
+      "score": 14.86,
+      "source_count": 1,
+      "published_at": "2026-11-21 08:58 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/mohammed-shami-sarfaraz-and-many-others-congress-mp-imran-masood-questions-indias-selection-policy-after-sirajs-omission/articleshow/136049513.cms"
+        }
+      ]
+    },
+    {
+      "title": "The dark files of Jensen Huang's terror at Nvidia: How threats and humiliation shaped CEO's management style at AI giant",
+      "score": 14.76,
+      "source_count": 1,
+      "published_at": "2026-11-21 07:59 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/moengage-cyberattack-saas-startup-confirms-breach-via-third-party-vendor-what-it-said-and-how-many-customers-affected-11795265588243.html"
-        }
-      ]
-    },
-    {
-      "title": "Exclusive: Bewakoof Cofounder Prabhkiran Singh Launches AI Shopping Assistant Save8",
-      "score": 15.79,
-      "source_count": 1,
-      "published_at": "2026-11-21 13:53 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/bewakoof-cofounder-prabhkiran-singh-launches-ai-shopping-assistant-save8/"
-        }
-      ]
-    },
-    {
-      "title": "IIT Delhi Alumnus’ Startup Sues Apple For ₹1,500 Cr Over NameDrop Patent Infringement",
-      "score": 15.78,
-      "source_count": 1,
-      "published_at": "2026-11-21 13:43 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/iit-delhi-alumnus-startup-sues-apple-for-%e2%82%b91500-cr-over-namedrop-patent-infringement/"
-        }
-      ]
-    },
-    {
-      "title": "OnePlus 16 vs iQOO 16: Which Gaming Flagship Should You Buy in India?",
-      "score": 15.54,
-      "source_count": 1,
-      "published_at": "2026-11-21 11:30 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/features/oneplus-16-versus-iqoo-16-gaming-flagships-compared-12334536"
+          "url": "https://www.livemint.com/companies/people/the-dark-files-of-jensen-huangs-terror-at-nvidia-how-threats-and-humiliation-shaped-ceos-management-style-at-ai-giant-11795246175892.html"
         }
       ]
     }

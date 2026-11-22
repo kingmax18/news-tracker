@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 21, 2026 at 20:41 UTC | **Top Stories:** 10
+> **Generated on:** November 22, 2026 at 00:44 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Bloom raises $75 million from Kedaara Capital to accelerate expansion, invest in AI technology [1 source]
-- **Topic:** `Business` | **Score:** `17.79` | **Published:** 2026-11-21 18:38 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/bloom-raises-75-million-from-kedaara-capital-to-accelerate-expansion-invest-in-ai-technology-11795284401832.html)
+### 1. India's men are getting serious about skincare [1 source]
+- **Topic:** `Business` | **Score:** `16.42` | **Published:** 2026-11-22 00:00 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/dark-circles-serums-and-sunscreens-indias-men-are-getting-serious-about-skincare/articleshow/136062324.cms)
 
-### 2. CrowdStrike’s Talks with Zscaler Show AI-Led Cyber Consolidation [1 source]
-- **Topic:** `Business` | **Score:** `16.38` | **Published:** 2026-11-21 19:33 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/crowdstrikes-talks-with-zscaler-show-ai-led-cyber-consolidation-11795289624175.html)
+### 2. Paolo Bulgari, the Italian jeweler who turned a family business into global luxury brand, dies at 89 [1 source]
+- **Topic:** `Business` | **Score:** `16.38` | **Published:** 2026-11-21 23:34 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/paolo-bulgari-the-italian-jeweler-who-turned-a-family-business-into-global-luxury-brand-dies-at-89-11795304075645.html)
 
-### 3. Stalled Withdrawals, Millions Stolen: Inside India’s Crypto Exchange Troubles [1 source]
-- **Topic:** `Startups` | **Score:** `16.26` | **Published:** 2026-11-21 18:23 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/)
+### 3. Indian Startup IPO Tracker 2026 [1 source]
+- **Topic:** `Startups` | **Score:** `16.37` | **Published:** 2026-11-21 23:31 UTC
+- **Coverage:** [Inc42](https://inc42.com/features/indian-startup-ipo-tracker-2026/)
 
-### 4. Balen Shah visit signals Nepal's India policy shift [1 source]
-- **Topic:** `Business` | **Score:** `16.23` | **Published:** 2026-11-21 18:04 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/nepal-pm-balen-shahs-visit-marks-policy-shift-towards-india/articleshow/136060981.cms)
+### 4. Momentum by Google and YourStory to bring India’s founders, investors, and policymakers into one room in New Delhi [1 source]
+- **Topic:** `Startups` | **Score:** `15.09` | **Published:** 2026-11-21 11:10 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/momentum-by-google--yourstory-uniting-indias-startup-ecos)
 
-### 5. Who is Priya Timori? Orbit8 Media appoints marketing and technology professional as growth director [1 source]
-- **Topic:** `Business` | **Score:** `16.23` | **Published:** 2026-11-21 18:03 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-priya-timori-orbit8-media-appoints-marketing-and-technology-professional-as-growth-director-11795281410760.html)
+### 5. Fi Money Manages To Cut FY26 Loss By 25%To ₹153.3 Cr, Revenue Sinks 21% [1 source]
+- **Topic:** `Startups` | **Score:** `15.0` | **Published:** 2026-11-21 10:18 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/fi-money-manages-to-cut-fy26-loss-by-25to-%e2%82%b9153-3-cr-revenue-sinks-21/)
 
-### 6. Swish FY26: Revenue Surges Close To ₹50 Cr While Loss Widens To ₹91 Cr [1 source]
-- **Topic:** `Startups` | **Score:** `16.04` | **Published:** 2026-11-21 16:15 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/)
+### 6. India, US arrest 6 under drug trafficking network [1 source]
+- **Topic:** `Business` | **Score:** `14.99` | **Published:** 2026-11-21 10:13 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/india-us-authorities-bust-transnational-drug-trafficking-network-under-operation-monsoon-thunder-6-arrested/articleshow/136050897.cms)
 
-### 7. MoEngage cyberattack: SaaS startup confirms breach via third-party vendor – what it said and how many customers affected [1 source]
-- **Topic:** `Business` | **Score:** `15.81` | **Published:** 2026-11-21 14:01 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/moengage-cyberattack-saas-startup-confirms-breach-via-third-party-vendor-what-it-said-and-how-many-customers-affected-11795265588243.html)
+### 7. Traya’s FY26 Revenue Jumps 73% YoY To ₹585 Cr, Loss Up 23% [1 source]
+- **Topic:** `Startups` | **Score:** `14.99` | **Published:** 2026-11-21 10:12 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/trayas-fy26-revenue-jumps-73-yoy-to-%e2%82%b9585-cr-loss-up-23/)
 
-### 8. Exclusive: Bewakoof Cofounder Prabhkiran Singh Launches AI Shopping Assistant Save8 [1 source]
-- **Topic:** `Startups` | **Score:** `15.79` | **Published:** 2026-11-21 13:53 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/bewakoof-cofounder-prabhkiran-singh-launches-ai-shopping-assistant-save8/)
+### 8. Scaler Cofounder Anshuman Singh Unveils AI Training Data Venture Arcfront [1 source]
+- **Topic:** `Startups` | **Score:** `14.91` | **Published:** 2026-11-21 09:27 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/scaler-cofounder-anshuman-singh-unveils-ai-training-data-venture-arcfront/)
 
-### 9. IIT Delhi Alumnus’ Startup Sues Apple For ₹1,500 Cr Over NameDrop Patent Infringement [1 source]
-- **Topic:** `Startups` | **Score:** `15.78` | **Published:** 2026-11-21 13:43 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/iit-delhi-alumnus-startup-sues-apple-for-%e2%82%b91500-cr-over-namedrop-patent-infringement/)
+### 9. Cricket: Congress MP questions India's selection policy [1 source]
+- **Topic:** `Business` | **Score:** `14.86` | **Published:** 2026-11-21 08:58 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/politics-and-nation/mohammed-shami-sarfaraz-and-many-others-congress-mp-imran-masood-questions-indias-selection-policy-after-sirajs-omission/articleshow/136049513.cms)
 
-### 10. OnePlus 16 vs iQOO 16: Which Gaming Flagship Should You Buy in India? [1 source]
-- **Topic:** `Tech` | **Score:** `15.54` | **Published:** 2026-11-21 11:30 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/features/oneplus-16-versus-iqoo-16-gaming-flagships-compared-12334536)
+### 10. The dark files of Jensen Huang's terror at Nvidia: How threats and humiliation shaped CEO's management style at AI giant [1 source]
+- **Topic:** `Business` | **Score:** `14.76` | **Published:** 2026-11-21 07:59 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/the-dark-files-of-jensen-huangs-terror-at-nvidia-how-threats-and-humiliation-shaped-ceos-management-style-at-ai-giant-11795246175892.html)
