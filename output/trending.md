@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 22, 2026 at 10:24 UTC | **Top Stories:** 10
+> **Generated on:** November 22, 2026 at 18:43 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Italian jeweller and businessman Paolo Bulgari dies aged 89 [2 sources]
-- **Topic:** `Business` | **Score:** `30.79` | **Published:** 2026-11-22 07:12 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-was-paolo-bulgari-third-generation-businessman-who-spearheaded-the-italian-jewellery-business-passed-away-at-89-11795310103594.html) • [BBC News - Business](https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss)
+### 1. Tata Steel announces ₹28,000 cr deal with APL Apollo Tubes for two units [3 sources]
+- **Topic:** `Business` | **Score:** `46.63` | **Published:** 2026-11-22 17:58 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-to-sell-tubes-pipes-business-and-tata-steel-colors-to-apl-apollo-for-rs-28000-crore/articleshow/136078094.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/tata-steel-s-28-000-crore-deal-with-apl-apollo-is-part-of-a-two-stage-transaction-11795360468769.html) • [Business Standard](https://www.business-standard.com/companies/news/tata-steel-board-clears-28k-cr-sale-of-two-businesses-to-apl-apollo-tubes-126112200721_1.html)
 
-### 2. How Illumine cracked the US SaaS market from India: AI, GTM, Growth playbook [1 source]
-- **Topic:** `Startups` | **Score:** `18.66` | **Published:** 2026-11-22 02:20 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/how-illumine-cracked-the-us-saas-market-india-ai-gtm-growth-playbook)
+### 2. Delta flights in and out of Atlanta delayed due to system outage [2 sources]
+- **Topic:** `Business` | **Score:** `29.52` | **Published:** 2026-11-22 17:46 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/delta-flights-alert-after-microsoft-outage-and-faa-ground-stops-1000-flights-delayed-at-atlanta-newark-new-york-and-other-us-airports-as-new-automation-glitch-disrupts-thanksgiving-travel/articleshow/136080047.cms) • [The Verge](https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage)
 
-### 3. Chinese spies set sights on AI chips yrs before Nvidia [1 source]
-- **Topic:** `Business` | **Score:** `16.45` | **Published:** 2026-11-22 09:53 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/chinas-spies-set-sights-on-ai-chips-years-before-nvidia-scandal-report/articleshow/136071430.cms)
+### 3. Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers [2 sources]
+- **Topic:** `Business` | **Score:** `28.93` | **Published:** 2026-11-22 12:02 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/business/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers/articleshow/136073810.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-11795345268760.html)
 
-### 4. Restaurants rethink expansion beyond casual dining [1 source]
-- **Topic:** `Business` | **Score:** `16.44` | **Published:** 2026-11-22 09:51 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/restaurant-groups-step-up-new-format-launches-to-chase-growth-11795168715594.html)
+### 4. M1xchange in talks with banks in Russia, Brazil for overseas expansion of India’s TReDS model [1 source]
+- **Topic:** `Business` | **Score:** `17.43` | **Published:** 2026-11-22 13:13 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/m1xchange-in-talks-with-banks-in-russia-brazil-for-overseas-expansion-of-india-s-treds-model-11795325157574.html)
 
-### 5. VinFast to enter India's electric 2W market in 2027 [1 source]
-- **Topic:** `Business` | **Score:** `16.41` | **Published:** 2026-11-22 09:31 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/renewables/vinfast-to-enter-indias-electric-two-wheeler-market-in-2027-plans-local-manufacturing/articleshow/136071040.cms)
+### 5. Binding of Isaac developer removes AI music from Repentance Plus [1 source]
+- **Topic:** `Tech` | **Score:** `16.36` | **Published:** 2026-11-22 17:25 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music)
 
-### 6. Shree Cement to cross 100 MT capacity in 3-4 yrs, targets 9-10% growth [1 source]
-- **Topic:** `Business` | **Score:** `16.33` | **Published:** 2026-11-22 08:43 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/shree-cement-to-cross-100-mt-capacity-in-3-4-yrs-targets-9-10-growth-126112200281_1.html)
+### 6. Putin praises India's ancient civilisation [1 source]
+- **Topic:** `Business` | **Score:** `16.31` | **Published:** 2026-11-22 16:54 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/putin-praises-indias-ancient-civilisation-marvels-at-linguistic-diversity-in-interview-with-serbian-filmmaker/articleshow/136079502.cms)
 
-### 7. Smirnoff-maker becomes India's largest alco-bev firm [1 source]
-- **Topic:** `Business` | **Score:** `16.32` | **Published:** 2026-11-22 08:42 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/cons-products/liquor/johnnie-walker-maker-overtakes-pernod-ricard-to-become-indias-largest-alco-bev-firm-radico-khaitan-in-3rd-place/articleshow/136070542.cms)
+### 7. COP31's climate deal hits a wall; India flags equity gap [1 source]
+- **Topic:** `Business` | **Score:** `16.23` | **Published:** 2026-11-22 16:10 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/india-flags-equity-concerns-at-cop31-says-climate-pact-dilutes-developed-nations-responsibility/articleshow/136078678.cms)
 
-### 8. Best Clip-On Earbuds to Buy in India Across Different Price Segments [1 source]
-- **Topic:** `Tech` | **Score:** `16.2` | **Published:** 2026-11-22 07:30 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/audio/features/best-clip-on-earbuds-in-india-sony-realme-moto-noise-boat-12340588)
+### 8. Protesters storm Meta offices in India [1 source]
+- **Topic:** `Tech` | **Score:** `16.14` | **Published:** 2026-11-22 15:15 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india)
 
-### 9. India's oilfield lifeline comes with strings attached [1 source]
-- **Topic:** `Business` | **Score:** `16.1` | **Published:** 2026-11-22 06:35 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/energy/oil-gas/govt-tightens-rules-for-oil-gas-block-extensions-seeks-bigger-profit-share/articleshow/136068902.cms)
+### 9. Petrol, diesel prices rose 7% in India vs 70% globally [1 source]
+- **Topic:** `Business` | **Score:** `15.94` | **Published:** 2026-11-22 13:22 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesel-prices-rose-7-in-india-vs-50-70-globally-over-four-years-hardeep-puri/articleshow/136075385.cms)
 
-### 10. Mahindra Last Mile Mobility eyes IPO in 18 months to fund next growth phase [1 source]
-- **Topic:** `Business` | **Score:** `16.02` | **Published:** 2026-11-22 05:46 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/mahindra-last-mile-mobility-eyes-ipo-in-18-months-to-fund-next-growth-phase-126112200170_1.html)
+### 10. Going to be nuts! Elon Musk warns of massive AI cash crunch in 2027, asks ‘Where will that money come from? [1 source]
+- **Topic:** `Business` | **Score:** `15.88` | **Published:** 2026-11-22 12:47 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/elon-musk-warns-of-massive-ai-cash-crunch-in-2027-going-to-be-nuts-where-will-that-money-come-from-11795349235036.html)
