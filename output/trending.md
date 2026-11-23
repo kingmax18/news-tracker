@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 23, 2026 at 01:10 UTC | **Top Stories:** 10
+> **Generated on:** November 23, 2026 at 11:23 UTC | **Top Stories:** 10
 
 ---
 
-### 1. What Anthropic listing means for AI startups in India [1 source]
-- **Topic:** `Business` | **Score:** `17.93` | **Published:** 2026-11-23 00:31 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/start-ups/anthropic-ipo-impact-india-ai-startups-sarvam-gnani-11795162629316.html)
+### 1. Enterprise data security startup Matters.AI raises Rs 115 Cr in pre-Series A round [2 sources]
+- **Topic:** `Startups` | **Score:** `32.6` | **Published:** 2026-11-23 11:11 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/) • [YourStory](https://yourstory.com/2026/11/enterprise-data-security-startup-matters-ai-raises-rs-115-cr-pre-series-a-round)
 
-### 2. Sensex surges 20% in dollar terms as foreign money chases India [1 source]
-- **Topic:** `Business` | **Score:** `16.43` | **Published:** 2026-11-23 00:31 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-20-in-dollar-terms-as-foreign-money-chases-india/articleshow/136086023.cms)
+### 2. Kalyani family dispute: SC suggests arbitration after mediation fails [2 sources]
+- **Topic:** `Business` | **Score:** `29.42` | **Published:** 2026-11-23 09:29 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/company/corporate-trends/mediation-fails-in-kalyani-familys-rs-1-lakh-crore-inheritance-dispute-sc-told/articleshow/136093113.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/baba-kalyani-sugandha-hiremath-family-dispute-supreme-court-arbitration-11795422643554.html)
 
-### 3. Defence tech funding cools after Operation Sindoor gold rush [1 source]
-- **Topic:** `Business` | **Score:** `16.43` | **Published:** 2026-11-23 00:30 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/start-ups/defence-tech-funding-cools-after-operation-sindoor-gold-rush-11795089406864.html)
+### 3. Samsung Galaxy S27 Pro Gets BIS Certification, India Launch Expected Soon [1 source]
+- **Topic:** `Tech` | **Score:** `17.82` | **Published:** 2026-11-23 09:42 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-pro-bis-website-listing-specifications-leak-12365242)
 
-### 4. Perfetti Van Melle to close 2026 at  ₹4,000 crore revenue; tough year ahead, says MD [1 source]
-- **Topic:** `Business` | **Score:** `16.43` | **Published:** 2026-11-23 00:30 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/perfetti-van-melle-to-close-2026-with-4-000-crore-revenue-tough-year-ahead-md-fmcg-chocolate-cocoa-confectionery-11795337168596.html)
+### 4. Sarvam AI Defends Token Factory, Says Homegrown Models Remain Core Focus [1 source]
+- **Topic:** `Startups` | **Score:** `17.79` | **Published:** 2026-11-23 09:22 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/sarvam-ai-defends-token-factory-says-homegrown-models-remain-core-focus/)
 
-### 5. San Francisco is enjoying an AI boom, but worries about a crash are growing [1 source]
-- **Topic:** `Business` | **Score:** `16.39` | **Published:** 2026-11-23 00:08 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss)
+### 5. India to be one of APAC champions with 7% growth [1 source]
+- **Topic:** `Business` | **Score:** `17.77` | **Published:** 2026-11-23 09:11 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/indicators/india-to-be-one-of-apac-champions-with-7-gdp-forecast-for-fy27-but-el-nino-will-prove-costly-sp/articleshow/136095806.cms)
 
-### 6. Mastercard eyes bigger play in India [1 source]
-- **Topic:** `Business` | **Score:** `15.9` | **Published:** 2026-11-22 19:28 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/banking/finance/mastercard-eyes-bigger-play-in-indias-fast-growing-b2b-payments-market-anouska-ladds-executive-vp-asia-pacific/articleshow/136082700.cms)
+### 6. iQOO 16 Reportedly Appears on Amazon, Confirming India Launch: Expected Specifications [1 source]
+- **Topic:** `Tech` | **Score:** `17.72` | **Published:** 2026-11-23 08:40 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/iqoo-16-india-launch-confirmed-amazon-microsite-specifications-features-12365076)
 
-### 7. Cricket: A midas India touch in Kiwiland [1 source]
-- **Topic:** `Business` | **Score:** `15.88` | **Published:** 2026-11-22 19:11 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/sports/cricket/cricket-test-match-a-midas-india-touch-in-kiwiland/articleshow/136082601.cms)
+### 7. India’s Inference Test, Scaler Founder’s New AI Bet & More [1 source]
+- **Topic:** `Startups` | **Score:** `17.07` | **Published:** 2026-11-23 02:30 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/indias-inference-test-scaler-founders-new-ai-bet-more/)
 
-### 8. The decade India turned the tide on poverty [1 source]
-- **Topic:** `Business` | **Score:** `15.86` | **Published:** 2026-11-22 19:00 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/policy/the-decade-india-turned-the-tide-on-poverty/articleshow/136082449.cms)
+### 8. Philadelphia whips up bigger holiday marketing spend amid brand revamp [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `16.47` | **Published:** 2026-11-23 11:05 UTC
+- **Coverage:** [Marketing Dive](https://www.marketingdive.com/news/philadelphia-whips-up-bigger-holiday-marketing-spend-amid-brand-revamp/875325/)
 
-### 9. Pernod Ricard weighs India IPO [1 source]
-- **Topic:** `Business` | **Score:** `15.79` | **Published:** 2026-11-22 18:21 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/cons-products/liquor/pernod-ricard-weighs-india-ipo-as-market-closes-in-on-us-in-global-sales/articleshow/136081688.cms)
+### 9. Gold imports into India plunge 40% in April-Oct [1 source]
+- **Topic:** `Business` | **Score:** `16.37` | **Published:** 2026-11-23 10:09 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-imports-into-india-decline-40-in-april-october-cti/articleshow/136097529.cms)
 
-### 10. Zero chinks in the signal as Telcos pass AI stress test [1 source]
-- **Topic:** `Business` | **Score:** `15.77` | **Published:** 2026-11-22 18:13 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/telecom/telecom-news/zero-chinks-in-the-signal-as-telcos-pass-ai-stress-test/articleshow/136081297.cms)
+### 10. Myntra launches new campaign to spotlight sneaker authenticity [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `16.37` | **Published:** 2026-11-23 10:10 UTC
+- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/myntra-launches-new-campaign-to-spotlight-sneaker-authenticity/136097224)

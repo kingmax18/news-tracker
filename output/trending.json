@@ -1,134 +1,142 @@
 {
-  "generated_at": "2026-11-23 01:10:59 UTC",
+  "generated_at": "2026-11-23 11:23:36 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "What Anthropic listing means for AI startups in India",
-      "score": 17.93,
-      "source_count": 1,
-      "published_at": "2026-11-23 00:31 UTC",
+      "title": "Enterprise data security startup Matters.AI raises Rs 115 Cr in pre-Series A round",
+      "score": 32.6,
+      "source_count": 2,
+      "published_at": "2026-11-23 11:11 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/enterprise-data-security-startup-matters-ai-raises-rs-115-cr-pre-series-a-round"
+        }
+      ]
+    },
+    {
+      "title": "Kalyani family dispute: SC suggests arbitration after mediation fails",
+      "score": 29.42,
+      "source_count": 2,
+      "published_at": "2026-11-23 09:29 UTC",
       "topic": "business",
       "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/mediation-fails-in-kalyani-familys-rs-1-lakh-crore-inheritance-dispute-sc-told/articleshow/136093113.cms"
+        },
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/start-ups/anthropic-ipo-impact-india-ai-startups-sarvam-gnani-11795162629316.html"
+          "url": "https://www.livemint.com/companies/people/baba-kalyani-sugandha-hiremath-family-dispute-supreme-court-arbitration-11795422643554.html"
         }
       ]
     },
     {
-      "title": "Sensex surges 20% in dollar terms as foreign money chases India",
-      "score": 16.43,
+      "title": "Samsung Galaxy S27 Pro Gets BIS Certification, India Launch Expected Soon",
+      "score": 17.82,
       "source_count": 1,
-      "published_at": "2026-11-23 00:31 UTC",
+      "published_at": "2026-11-23 09:42 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-pro-bis-website-listing-specifications-leak-12365242"
+        }
+      ]
+    },
+    {
+      "title": "Sarvam AI Defends Token Factory, Says Homegrown Models Remain Core Focus",
+      "score": 17.79,
+      "source_count": 1,
+      "published_at": "2026-11-23 09:22 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/sarvam-ai-defends-token-factory-says-homegrown-models-remain-core-focus/"
+        }
+      ]
+    },
+    {
+      "title": "India to be one of APAC champions with 7% growth",
+      "score": 17.77,
+      "source_count": 1,
+      "published_at": "2026-11-23 09:11 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-20-in-dollar-terms-as-foreign-money-chases-india/articleshow/136086023.cms"
+          "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-to-be-one-of-apac-champions-with-7-gdp-forecast-for-fy27-but-el-nino-will-prove-costly-sp/articleshow/136095806.cms"
         }
       ]
     },
     {
-      "title": "Defence tech funding cools after Operation Sindoor gold rush",
-      "score": 16.43,
+      "title": "iQOO 16 Reportedly Appears on Amazon, Confirming India Launch: Expected Specifications",
+      "score": 17.72,
       "source_count": 1,
-      "published_at": "2026-11-23 00:30 UTC",
-      "topic": "business",
+      "published_at": "2026-11-23 08:40 UTC",
+      "topic": "tech",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/start-ups/defence-tech-funding-cools-after-operation-sindoor-gold-rush-11795089406864.html"
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/iqoo-16-india-launch-confirmed-amazon-microsite-specifications-features-12365076"
         }
       ]
     },
     {
-      "title": "Perfetti Van Melle to close 2026 at  ₹4,000 crore revenue; tough year ahead, says MD",
-      "score": 16.43,
+      "title": "India’s Inference Test, Scaler Founder’s New AI Bet & More",
+      "score": 17.07,
       "source_count": 1,
-      "published_at": "2026-11-23 00:30 UTC",
-      "topic": "business",
+      "published_at": "2026-11-23 02:30 UTC",
+      "topic": "startups",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/perfetti-van-melle-to-close-2026-with-4-000-crore-revenue-tough-year-ahead-md-fmcg-chocolate-cocoa-confectionery-11795337168596.html"
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/indias-inference-test-scaler-founders-new-ai-bet-more/"
         }
       ]
     },
     {
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "score": 16.39,
+      "title": "Philadelphia whips up bigger holiday marketing spend amid brand revamp",
+      "score": 16.47,
       "source_count": 1,
-      "published_at": "2026-11-23 00:08 UTC",
-      "topic": "business",
+      "published_at": "2026-11-23 11:05 UTC",
+      "topic": "marketing_and_branding",
       "sources": [
         {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+          "name": "Marketing Dive",
+          "url": "https://www.marketingdive.com/news/philadelphia-whips-up-bigger-holiday-marketing-spend-amid-brand-revamp/875325/"
         }
       ]
     },
     {
-      "title": "Mastercard eyes bigger play in India",
-      "score": 15.9,
+      "title": "Gold imports into India plunge 40% in April-Oct",
+      "score": 16.37,
       "source_count": 1,
-      "published_at": "2026-11-22 19:28 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/mastercard-eyes-bigger-play-in-indias-fast-growing-b2b-payments-market-anouska-ladds-executive-vp-asia-pacific/articleshow/136082700.cms"
-        }
-      ]
-    },
-    {
-      "title": "Cricket: A midas India touch in Kiwiland",
-      "score": 15.88,
-      "source_count": 1,
-      "published_at": "2026-11-22 19:11 UTC",
+      "published_at": "2026-11-23 10:09 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/sports/cricket/cricket-test-match-a-midas-india-touch-in-kiwiland/articleshow/136082601.cms"
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-imports-into-india-decline-40-in-april-october-cti/articleshow/136097529.cms"
         }
       ]
     },
     {
-      "title": "The decade India turned the tide on poverty",
-      "score": 15.86,
+      "title": "Myntra launches new campaign to spotlight sneaker authenticity",
+      "score": 16.37,
       "source_count": 1,
-      "published_at": "2026-11-22 19:00 UTC",
-      "topic": "business",
+      "published_at": "2026-11-23 10:10 UTC",
+      "topic": "marketing_and_branding",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/the-decade-india-turned-the-tide-on-poverty/articleshow/136082449.cms"
-        }
-      ]
-    },
-    {
-      "title": "Pernod Ricard weighs India IPO",
-      "score": 15.79,
-      "source_count": 1,
-      "published_at": "2026-11-22 18:21 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/pernod-ricard-weighs-india-ipo-as-market-closes-in-on-us-in-global-sales/articleshow/136081688.cms"
-        }
-      ]
-    },
-    {
-      "title": "Zero chinks in the signal as Telcos pass AI stress test",
-      "score": 15.77,
-      "source_count": 1,
-      "published_at": "2026-11-22 18:13 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/zero-chinks-in-the-signal-as-telcos-pass-ai-stress-test/articleshow/136081297.cms"
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/myntra-launches-new-campaign-to-spotlight-sneaker-authenticity/136097224"
         }
       ]
     }
