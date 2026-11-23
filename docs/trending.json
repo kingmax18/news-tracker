@@ -1,142 +1,162 @@
 {
-  "generated_at": "2026-11-23 11:23:36 UTC",
+  "generated_at": "2026-11-23 22:57:07 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Enterprise data security startup Matters.AI raises Rs 115 Cr in pre-Series A round",
-      "score": 32.6,
-      "source_count": 2,
-      "published_at": "2026-11-23 11:11 UTC",
-      "topic": "startups",
+      "title": "MHA issues advisory on WhatsApp Web sessions to prevent ‘unauthorized access",
+      "score": 45.65,
+      "source_count": 3,
+      "published_at": "2026-11-23 12:47 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/india/using-whatsapp-at-work-mha-warns-that-someone-could-misuse-your-account-to-send-messages-in-your-name/articleshow/136100844.cms"
         },
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/enterprise-data-security-startup-matters-ai-raises-rs-115-cr-pre-series-a-round"
+          "url": "https://yourstory.com/2026/11/mha-warns-whatsapp-web-users-of-account-hijacking-advises-logging-out-after-every-session"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-mha-advisory-whatsapp-web-unauthorized-access/"
         }
       ]
     },
     {
-      "title": "Kalyani family dispute: SC suggests arbitration after mediation fails",
-      "score": 29.42,
+      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "score": 29.57,
       "source_count": 2,
-      "published_at": "2026-11-23 09:29 UTC",
+      "published_at": "2026-11-23 22:25 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+        }
+      ]
+    },
+    {
+      "title": "Why Bezos once said Amazon could go bankrupt",
+      "score": 29.12,
+      "source_count": 2,
+      "published_at": "2026-11-23 18:05 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/mediation-fails-in-kalyani-familys-rs-1-lakh-crore-inheritance-dispute-sc-told/articleshow/136093113.cms"
+          "url": "https://economictimes.indiatimes.com/world/business/amazon-is-the-worlds-largest-online-retailer-but-jeff-bezos-once-predicted-it-would-go-bankrupt-what-his-30-year-rule-means-today/articleshow/136102529.cms"
         },
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/baba-kalyani-sugandha-hiremath-family-dispute-supreme-court-arbitration-11795422643554.html"
+          "url": "https://www.livemint.com/companies/people/amazon-is-32-but-jeff-bezos-once-predicted-it-would-go-bankrupt-what-his-30-year-rule-means-for-businesses-today-11795455334196.html"
         }
       ]
     },
     {
-      "title": "Samsung Galaxy S27 Pro Gets BIS Certification, India Launch Expected Soon",
-      "score": 17.82,
-      "source_count": 1,
-      "published_at": "2026-11-23 09:42 UTC",
-      "topic": "tech",
+      "title": "Noel Tata's objection pushes Tata Sons board meeting to 30 November",
+      "score": 29.09,
+      "source_count": 2,
+      "published_at": "2026-11-23 17:51 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/samsung-galaxy-s27-pro-bis-website-listing-specifications-leak-12365242"
-        }
-      ]
-    },
-    {
-      "title": "Sarvam AI Defends Token Factory, Says Homegrown Models Remain Core Focus",
-      "score": 17.79,
-      "source_count": 1,
-      "published_at": "2026-11-23 09:22 UTC",
-      "topic": "startups",
-      "sources": [
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/noel-tatas-objection-pushes-tata-sons-board-meeting-to-30-november-11795440715458.html"
+        },
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/sarvam-ai-defends-token-factory-says-homegrown-models-remain-core-focus/"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/tata-sons-board-meeting-november-26-deferred-noel-tata-listing-dispute-126112300080_1.html"
         }
       ]
     },
     {
-      "title": "India to be one of APAC champions with 7% growth",
-      "score": 17.77,
-      "source_count": 1,
-      "published_at": "2026-11-23 09:11 UTC",
+      "title": "Jay Chaudhry’s cyber net catches a $43.9 billion deal",
+      "score": 29.08,
+      "source_count": 2,
+      "published_at": "2026-11-23 17:42 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-to-be-one-of-apac-champions-with-7-gdp-forecast-for-fy27-but-el-nino-will-prove-costly-sp/articleshow/136095806.cms"
-        }
-      ]
-    },
-    {
-      "title": "iQOO 16 Reportedly Appears on Amazon, Confirming India Launch: Expected Specifications",
-      "score": 17.72,
-      "source_count": 1,
-      "published_at": "2026-11-23 08:40 UTC",
-      "topic": "tech",
-      "sources": [
+          "url": "https://economictimes.indiatimes.com/tech/technology/crowdstrike-bets-on-network-security-with-43-9-billion-zscaler-deal/articleshow/136100535.cms"
+        },
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/iqoo-16-india-launch-confirmed-amazon-microsite-specifications-features-12365076"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/who-is-jay-chaudhry-indian-origin-entrepreneur-behind-zscalers-43-9-bn-deal-as-crowdstrike-moves-to-acquire-firm-11795451246658.html"
         }
       ]
     },
     {
-      "title": "India’s Inference Test, Scaler Founder’s New AI Bet & More",
-      "score": 17.07,
-      "source_count": 1,
-      "published_at": "2026-11-23 02:30 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/indias-inference-test-scaler-founders-new-ai-bet-more/"
-        }
-      ]
-    },
-    {
-      "title": "Philadelphia whips up bigger holiday marketing spend amid brand revamp",
-      "score": 16.47,
-      "source_count": 1,
-      "published_at": "2026-11-23 11:05 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "Marketing Dive",
-          "url": "https://www.marketingdive.com/news/philadelphia-whips-up-bigger-holiday-marketing-spend-amid-brand-revamp/875325/"
-        }
-      ]
-    },
-    {
-      "title": "Gold imports into India plunge 40% in April-Oct",
-      "score": 16.37,
-      "source_count": 1,
-      "published_at": "2026-11-23 10:09 UTC",
+      "title": "Coca-Cola to revive Gold Spot after 26 years",
+      "score": 28.78,
+      "source_count": 2,
+      "published_at": "2026-11-23 14:50 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-imports-into-india-decline-40-in-april-october-cti/articleshow/136097529.cms"
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/food/after-26-years-coca-cola-to-revive-orange-fizzy-drink-gold-spot-moment/articleshow/136082690.cms"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/missed-gold-spot-coca-cola-plans-to-bring-back-the-iconic-orange-drink-after-26-years-with-a-twist-11795441371718.html"
         }
       ]
     },
     {
-      "title": "Myntra launches new campaign to spotlight sneaker authenticity",
-      "score": 16.37,
+      "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
+      "score": 18.49,
       "source_count": 1,
-      "published_at": "2026-11-23 10:10 UTC",
-      "topic": "marketing_and_branding",
+      "published_at": "2026-11-23 13:16 UTC",
+      "topic": "startups",
       "sources": [
         {
-          "name": "ET Brand Equity - Advertising",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/myntra-launches-new-campaign-to-spotlight-sneaker-authenticity/136097224"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn"
+        }
+      ]
+    },
+    {
+      "title": "Who is Ankur Singla? Meet Brew TV Founder - Firm launched to fix India’s indie film distribution with 80% filmmaker pay",
+      "score": 17.53,
+      "source_count": 1,
+      "published_at": "2026-11-23 18:24 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/people/who-is-ankur-singla-meet-brew-tv-founder-firm-launched-to-fix-india-s-indie-film-distribution-with-80-filmmaker-pay-11795453434266.html"
+        }
+      ]
+    },
+    {
+      "title": "TRIGGR Striker Wireless Gaming Controller Launched in India With Hall Effect Joysticks: Price, Specifications",
+      "score": 16.74,
+      "source_count": 1,
+      "published_at": "2026-11-23 10:49 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/games/news/triggr-striker-wireless-gaming-controller-price-in-india-launch-sale-features-specifications-12365555"
+        }
+      ]
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "score": 16.4,
+      "source_count": 1,
+      "published_at": "2026-11-23 22:02 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
         }
       ]
     }
