@@ -1,150 +1,134 @@
 {
-  "generated_at": "2026-11-22 18:43:20 UTC",
+  "generated_at": "2026-11-23 01:10:59 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Tata Steel announces ₹28,000 cr deal with APL Apollo Tubes for two units",
-      "score": 46.63,
-      "source_count": 3,
-      "published_at": "2026-11-22 17:58 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-to-sell-tubes-pipes-business-and-tata-steel-colors-to-apl-apollo-for-rs-28000-crore/articleshow/136078094.cms"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/tata-steel-s-28-000-crore-deal-with-apl-apollo-is-part-of-a-two-stage-transaction-11795360468769.html"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/tata-steel-board-clears-28k-cr-sale-of-two-businesses-to-apl-apollo-tubes-126112200721_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Delta flights in and out of Atlanta delayed due to system outage",
-      "score": 29.52,
-      "source_count": 2,
-      "published_at": "2026-11-22 17:46 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/delta-flights-alert-after-microsoft-outage-and-faa-ground-stops-1000-flights-delayed-at-atlanta-newark-new-york-and-other-us-airports-as-new-automation-glitch-disrupts-thanksgiving-travel/articleshow/136080047.cms"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
-        }
-      ]
-    },
-    {
-      "title": "Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
-      "score": 28.93,
-      "source_count": 2,
-      "published_at": "2026-11-22 12:02 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/business/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers/articleshow/136073810.cms"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-11795345268760.html"
-        }
-      ]
-    },
-    {
-      "title": "M1xchange in talks with banks in Russia, Brazil for overseas expansion of India’s TReDS model",
-      "score": 17.43,
+      "title": "What Anthropic listing means for AI startups in India",
+      "score": 17.93,
       "source_count": 1,
-      "published_at": "2026-11-22 13:13 UTC",
+      "published_at": "2026-11-23 00:31 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/m1xchange-in-talks-with-banks-in-russia-brazil-for-overseas-expansion-of-india-s-treds-model-11795325157574.html"
+          "url": "https://www.livemint.com/companies/start-ups/anthropic-ipo-impact-india-ai-startups-sarvam-gnani-11795162629316.html"
         }
       ]
     },
     {
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "score": 16.36,
+      "title": "Sensex surges 20% in dollar terms as foreign money chases India",
+      "score": 16.43,
       "source_count": 1,
-      "published_at": "2026-11-22 17:25 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
-        }
-      ]
-    },
-    {
-      "title": "Putin praises India's ancient civilisation",
-      "score": 16.31,
-      "source_count": 1,
-      "published_at": "2026-11-22 16:54 UTC",
+      "published_at": "2026-11-23 00:31 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/india/putin-praises-indias-ancient-civilisation-marvels-at-linguistic-diversity-in-interview-with-serbian-filmmaker/articleshow/136079502.cms"
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-20-in-dollar-terms-as-foreign-money-chases-india/articleshow/136086023.cms"
         }
       ]
     },
     {
-      "title": "COP31's climate deal hits a wall; India flags equity gap",
-      "score": 16.23,
+      "title": "Defence tech funding cools after Operation Sindoor gold rush",
+      "score": 16.43,
       "source_count": 1,
-      "published_at": "2026-11-22 16:10 UTC",
+      "published_at": "2026-11-23 00:30 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/start-ups/defence-tech-funding-cools-after-operation-sindoor-gold-rush-11795089406864.html"
+        }
+      ]
+    },
+    {
+      "title": "Perfetti Van Melle to close 2026 at  ₹4,000 crore revenue; tough year ahead, says MD",
+      "score": 16.43,
+      "source_count": 1,
+      "published_at": "2026-11-23 00:30 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/perfetti-van-melle-to-close-2026-with-4-000-crore-revenue-tough-year-ahead-md-fmcg-chocolate-cocoa-confectionery-11795337168596.html"
+        }
+      ]
+    },
+    {
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "score": 16.39,
+      "source_count": 1,
+      "published_at": "2026-11-23 00:08 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "Mastercard eyes bigger play in India",
+      "score": 15.9,
+      "source_count": 1,
+      "published_at": "2026-11-22 19:28 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/india/india-flags-equity-concerns-at-cop31-says-climate-pact-dilutes-developed-nations-responsibility/articleshow/136078678.cms"
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/mastercard-eyes-bigger-play-in-indias-fast-growing-b2b-payments-market-anouska-ladds-executive-vp-asia-pacific/articleshow/136082700.cms"
         }
       ]
     },
     {
-      "title": "Protesters storm Meta offices in India",
-      "score": 16.14,
-      "source_count": 1,
-      "published_at": "2026-11-22 15:15 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india"
-        }
-      ]
-    },
-    {
-      "title": "Petrol, diesel prices rose 7% in India vs 70% globally",
-      "score": 15.94,
-      "source_count": 1,
-      "published_at": "2026-11-22 13:22 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesel-prices-rose-7-in-india-vs-50-70-globally-over-four-years-hardeep-puri/articleshow/136075385.cms"
-        }
-      ]
-    },
-    {
-      "title": "Going to be nuts! Elon Musk warns of massive AI cash crunch in 2027, asks ‘Where will that money come from?",
+      "title": "Cricket: A midas India touch in Kiwiland",
       "score": 15.88,
       "source_count": 1,
-      "published_at": "2026-11-22 12:47 UTC",
+      "published_at": "2026-11-22 19:11 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/elon-musk-warns-of-massive-ai-cash-crunch-in-2027-going-to-be-nuts-where-will-that-money-come-from-11795349235036.html"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/sports/cricket/cricket-test-match-a-midas-india-touch-in-kiwiland/articleshow/136082601.cms"
+        }
+      ]
+    },
+    {
+      "title": "The decade India turned the tide on poverty",
+      "score": 15.86,
+      "source_count": 1,
+      "published_at": "2026-11-22 19:00 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/the-decade-india-turned-the-tide-on-poverty/articleshow/136082449.cms"
+        }
+      ]
+    },
+    {
+      "title": "Pernod Ricard weighs India IPO",
+      "score": 15.79,
+      "source_count": 1,
+      "published_at": "2026-11-22 18:21 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/pernod-ricard-weighs-india-ipo-as-market-closes-in-on-us-in-global-sales/articleshow/136081688.cms"
+        }
+      ]
+    },
+    {
+      "title": "Zero chinks in the signal as Telcos pass AI stress test",
+      "score": 15.77,
+      "source_count": 1,
+      "published_at": "2026-11-22 18:13 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/zero-chinks-in-the-signal-as-telcos-pass-ai-stress-test/articleshow/136081297.cms"
         }
       ]
     }
