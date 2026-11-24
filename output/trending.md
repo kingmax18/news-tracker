@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 23, 2026 at 22:57 UTC | **Top Stories:** 10
+> **Generated on:** November 24, 2026 at 07:10 UTC | **Top Stories:** 10
 
 ---
 
-### 1. MHA issues advisory on WhatsApp Web sessions to prevent ‘unauthorized access [3 sources]
-- **Topic:** `Business` | **Score:** `45.65` | **Published:** 2026-11-23 12:47 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/using-whatsapp-at-work-mha-warns-that-someone-could-misuse-your-account-to-send-messages-in-your-name/articleshow/136100844.cms) • [YourStory](https://yourstory.com/2026/11/mha-warns-whatsapp-web-users-of-account-hijacking-advises-logging-out-after-every-session) • [MediaNama](https://www.medianama.com/2026/11/223-mha-advisory-whatsapp-web-unauthorized-access/)
+### 1. Google Cloud confirms 30 role cuts in India, rejects claims of wider layoffs [2 sources]
+- **Topic:** `Business` | **Score:** `31.03` | **Published:** 2026-11-24 06:18 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/totally-inaccurate-google-india-rejects-reports-of-layoffs-in-cloud-division-says-30-roles-cut-as-part-of-changes-11795500392874.html) • [YourStory](https://yourstory.com/2026/11/google-cloud-confirms-30-role-cuts-in-india-rejects-claims-of-wider-layoffs)
 
-### 2. A comeback for the ages: Trump's influence on Huang's return to Nvidia [2 sources]
-- **Topic:** `Business` | **Score:** `29.57` | **Published:** 2026-11-23 22:25 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss) • [The Verge](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)
+### 2. GAP kicks off holiday campaign with ‘Give Your Gift [2 sources]
+- **Topic:** `Marketing And Branding` | **Score:** `30.3` | **Published:** 2026-11-23 23:14 UTC
+- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/gap-kicks-off-holiday-campaign-with-give-your-gift/136092749) • [The Verge](https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026)
 
-### 3. Why Bezos once said Amazon could go bankrupt [2 sources]
-- **Topic:** `Business` | **Score:** `29.12` | **Published:** 2026-11-23 18:05 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/world/business/amazon-is-the-worlds-largest-online-retailer-but-jeff-bezos-once-predicted-it-would-go-bankrupt-what-his-30-year-rule-means-today/articleshow/136102529.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/amazon-is-32-but-jeff-bezos-once-predicted-it-would-go-bankrupt-what-his-30-year-rule-means-for-businesses-today-11795455334196.html)
+### 3. CortexSpark Ventures launches Rs 1,000 Cr deeptech fund [2 sources]
+- **Topic:** `Startups` | **Score:** `29.58` | **Published:** 2026-11-24 06:46 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/ex-infosys-executives-cortexspark-ventures-launches-%e2%82%b91000-cr-deeptech-fund/) • [YourStory](https://yourstory.com/2026/11/cortexspark-ventures-launches-rs-1000-cr-deeptech-fund)
 
-### 4. Noel Tata's objection pushes Tata Sons board meeting to 30 November [2 sources]
-- **Topic:** `Business` | **Score:** `29.09` | **Published:** 2026-11-23 17:51 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/noel-tatas-objection-pushes-tata-sons-board-meeting-to-30-november-11795440715458.html) • [Business Standard](https://www.business-standard.com/companies/news/tata-sons-board-meeting-november-26-deferred-noel-tata-listing-dispute-126112300080_1.html)
+### 4. Zscaler’s Chaudhrys to Reap $14.5 Billion From CrowdStrike Deal [2 sources]
+- **Topic:** `Business` | **Score:** `29.54` | **Published:** 2026-11-24 06:24 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/crowdstrike-snaps-up-zscaler-in-44-billion-deal-as-cyber-threats-mount-11795458732828.html) • [MediaNama](https://www.medianama.com/2026/11/223-crowdstrike-acquire-cloud-zscaler/)
 
-### 5. Jay Chaudhry’s cyber net catches a $43.9 billion deal [2 sources]
-- **Topic:** `Business` | **Score:** `29.08` | **Published:** 2026-11-23 17:42 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/technology/crowdstrike-bets-on-network-security-with-43-9-billion-zscaler-deal/articleshow/136100535.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-jay-chaudhry-indian-origin-entrepreneur-behind-zscalers-43-9-bn-deal-as-crowdstrike-moves-to-acquire-firm-11795451246658.html)
+### 5. Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang [2 sources]
+- **Topic:** `Business` | **Score:** `29.36` | **Published:** 2026-11-24 04:36 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/jensen-huang-is-back-at-nvidia-as-ceo-how-donald-trump-helped-engineer-the-return-of-a-national-treasure-11795482252245.html) • [BBC News - Business](https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss)
 
-### 6. Coca-Cola to revive Gold Spot after 26 years [2 sources]
-- **Topic:** `Business` | **Score:** `28.78` | **Published:** 2026-11-23 14:50 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/cons-products/food/after-26-years-coca-cola-to-revive-orange-fizzy-drink-gold-spot-moment/articleshow/136082690.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/missed-gold-spot-coca-cola-plans-to-bring-back-the-iconic-orange-drink-after-26-years-with-a-twist-11795441371718.html)
+### 6. RBI looks to arm customers with a 'stop switch' for digital payments [2 sources]
+- **Topic:** `Business` | **Score:** `28.18` | **Published:** 2026-11-23 17:21 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/finance/news/rbi-proposes-greater-customer-control-over-digital-payments-to-curb-fraud-126112301054_1.html) • [Inc42](https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/)
 
-### 7. India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn [1 source]
-- **Topic:** `Startups` | **Score:** `18.49` | **Published:** 2026-11-23 13:16 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn)
+### 7. Motorola Signature 27 First Impressions [1 source]
+- **Topic:** `Tech` | **Score:** `17.79` | **Published:** 2026-11-24 05:10 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/motorola-signature-27-india-launch-date-availability-official-announced-12369124)
 
-### 8. Who is Ankur Singla? Meet Brew TV Founder - Firm launched to fix India’s indie film distribution with 80% filmmaker pay [1 source]
-- **Topic:** `Business` | **Score:** `17.53` | **Published:** 2026-11-23 18:24 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-ankur-singla-meet-brew-tv-founder-firm-launched-to-fix-india-s-indie-film-distribution-with-80-filmmaker-pay-11795453434266.html)
+### 8. Ex-Infy veteran’s AI startup Aiden raises $32 million [1 source]
+- **Topic:** `Business` | **Score:** `17.31` | **Published:** 2026-11-24 00:30 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/startups/ex-infosys-veterans-enterprise-ai-startup-aiden-raises-32-million-from-a91-partners/articleshow/136110343.cms)
 
-### 9. TRIGGR Striker Wireless Gaming Controller Launched in India With Hall Effect Joysticks: Price, Specifications [1 source]
-- **Topic:** `Tech` | **Score:** `16.74` | **Published:** 2026-11-23 10:49 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/games/news/triggr-striker-wireless-gaming-controller-price-in-india-launch-sale-features-specifications-12365555)
+### 9. Trump shares bizarre AI image of Nvidia boss [1 source]
+- **Topic:** `Business` | **Score:** `16.42` | **Published:** 2026-11-24 06:25 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/national-treasure-trump-puts-nvidia-boss-jensen-huang-in-bizarre-ai-recreation-of-his-2024-assassination-attempt-photograph-after-hailing-him-as-great-patriot/articleshow/136121520.cms)
 
-### 10. Supertake raises $20M to let AI agents turn your market predictions into stock portfolios [1 source]
-- **Topic:** `Startups` | **Score:** `16.4` | **Published:** 2026-11-23 22:02 UTC
-- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/)
+### 10. Former envoy on India's relief package for Nepal [1 source]
+- **Topic:** `Business` | **Score:** `16.41` | **Published:** 2026-11-24 06:18 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/india-stepped-up-to-the-plate-with-rs-15000-crore-relief-package-for-nepal-former-envoy-manjeev-singh-puri/articleshow/136121747.cms)

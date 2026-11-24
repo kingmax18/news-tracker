@@ -1,162 +1,158 @@
 {
-  "generated_at": "2026-11-23 22:57:07 UTC",
+  "generated_at": "2026-11-24 07:10:15 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "MHA issues advisory on WhatsApp Web sessions to prevent ‘unauthorized access",
-      "score": 45.65,
-      "source_count": 3,
-      "published_at": "2026-11-23 12:47 UTC",
+      "title": "Google Cloud confirms 30 role cuts in India, rejects claims of wider layoffs",
+      "score": 31.03,
+      "source_count": 2,
+      "published_at": "2026-11-24 06:18 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/india/using-whatsapp-at-work-mha-warns-that-someone-could-misuse-your-account-to-send-messages-in-your-name/articleshow/136100844.cms"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/totally-inaccurate-google-india-rejects-reports-of-layoffs-in-cloud-division-says-30-roles-cut-as-part-of-changes-11795500392874.html"
         },
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/mha-warns-whatsapp-web-users-of-account-hijacking-advises-logging-out-after-every-session"
-        },
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-mha-advisory-whatsapp-web-unauthorized-access/"
+          "url": "https://yourstory.com/2026/11/google-cloud-confirms-30-role-cuts-in-india-rejects-claims-of-wider-layoffs"
         }
       ]
     },
     {
-      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-      "score": 29.57,
+      "title": "GAP kicks off holiday campaign with ‘Give Your Gift",
+      "score": 30.3,
       "source_count": 2,
-      "published_at": "2026-11-23 22:25 UTC",
-      "topic": "business",
+      "published_at": "2026-11-23 23:14 UTC",
+      "topic": "marketing_and_branding",
       "sources": [
         {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss"
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/gap-kicks-off-holiday-campaign-with-give-your-gift/136092749"
         },
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+          "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026"
         }
       ]
     },
     {
-      "title": "Why Bezos once said Amazon could go bankrupt",
-      "score": 29.12,
+      "title": "CortexSpark Ventures launches Rs 1,000 Cr deeptech fund",
+      "score": 29.58,
       "source_count": 2,
-      "published_at": "2026-11-23 18:05 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/world/business/amazon-is-the-worlds-largest-online-retailer-but-jeff-bezos-once-predicted-it-would-go-bankrupt-what-his-30-year-rule-means-today/articleshow/136102529.cms"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/amazon-is-32-but-jeff-bezos-once-predicted-it-would-go-bankrupt-what-his-30-year-rule-means-for-businesses-today-11795455334196.html"
-        }
-      ]
-    },
-    {
-      "title": "Noel Tata's objection pushes Tata Sons board meeting to 30 November",
-      "score": 29.09,
-      "source_count": 2,
-      "published_at": "2026-11-23 17:51 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/noel-tatas-objection-pushes-tata-sons-board-meeting-to-30-november-11795440715458.html"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/tata-sons-board-meeting-november-26-deferred-noel-tata-listing-dispute-126112300080_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Jay Chaudhry’s cyber net catches a $43.9 billion deal",
-      "score": 29.08,
-      "source_count": 2,
-      "published_at": "2026-11-23 17:42 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/tech/technology/crowdstrike-bets-on-network-security-with-43-9-billion-zscaler-deal/articleshow/136100535.cms"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/who-is-jay-chaudhry-indian-origin-entrepreneur-behind-zscalers-43-9-bn-deal-as-crowdstrike-moves-to-acquire-firm-11795451246658.html"
-        }
-      ]
-    },
-    {
-      "title": "Coca-Cola to revive Gold Spot after 26 years",
-      "score": 28.78,
-      "source_count": 2,
-      "published_at": "2026-11-23 14:50 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/cons-products/food/after-26-years-coca-cola-to-revive-orange-fizzy-drink-gold-spot-moment/articleshow/136082690.cms"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/missed-gold-spot-coca-cola-plans-to-bring-back-the-iconic-orange-drink-after-26-years-with-a-twist-11795441371718.html"
-        }
-      ]
-    },
-    {
-      "title": "India AI funding nearly doubles to $1.6B in Jan-Sept 2026: Tracxn",
-      "score": 18.49,
-      "source_count": 1,
-      "published_at": "2026-11-23 13:16 UTC",
+      "published_at": "2026-11-24 06:46 UTC",
       "topic": "startups",
       "sources": [
         {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/ex-infosys-executives-cortexspark-ventures-launches-%e2%82%b91000-cr-deeptech-fund/"
+        },
+        {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/india-ai-funding-nearly-doubles-jan-sept-2026-tracxn"
+          "url": "https://yourstory.com/2026/11/cortexspark-ventures-launches-rs-1000-cr-deeptech-fund"
         }
       ]
     },
     {
-      "title": "Who is Ankur Singla? Meet Brew TV Founder - Firm launched to fix India’s indie film distribution with 80% filmmaker pay",
-      "score": 17.53,
-      "source_count": 1,
-      "published_at": "2026-11-23 18:24 UTC",
+      "title": "Zscaler’s Chaudhrys to Reap $14.5 Billion From CrowdStrike Deal",
+      "score": 29.54,
+      "source_count": 2,
+      "published_at": "2026-11-24 06:24 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/who-is-ankur-singla-meet-brew-tv-founder-firm-launched-to-fix-india-s-indie-film-distribution-with-80-filmmaker-pay-11795453434266.html"
+          "url": "https://www.livemint.com/companies/crowdstrike-snaps-up-zscaler-in-44-billion-deal-as-cyber-threats-mount-11795458732828.html"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-crowdstrike-acquire-cloud-zscaler/"
         }
       ]
     },
     {
-      "title": "TRIGGR Striker Wireless Gaming Controller Launched in India With Hall Effect Joysticks: Price, Specifications",
-      "score": 16.74,
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "score": 29.36,
+      "source_count": 2,
+      "published_at": "2026-11-24 04:36 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/jensen-huang-is-back-at-nvidia-as-ceo-how-donald-trump-helped-engineer-the-return-of-a-national-treasure-11795482252245.html"
+        },
+        {
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "title": "RBI looks to arm customers with a 'stop switch' for digital payments",
+      "score": 28.18,
+      "source_count": 2,
+      "published_at": "2026-11-23 17:21 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/finance/news/rbi-proposes-greater-customer-control-over-digital-payments-to-curb-fraud-126112301054_1.html"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/"
+        }
+      ]
+    },
+    {
+      "title": "Motorola Signature 27 First Impressions",
+      "score": 17.79,
       "source_count": 1,
-      "published_at": "2026-11-23 10:49 UTC",
+      "published_at": "2026-11-24 05:10 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/games/news/triggr-striker-wireless-gaming-controller-price-in-india-launch-sale-features-specifications-12365555"
+          "url": "https://www.gadgets360.com/mobiles/news/motorola-signature-27-india-launch-date-availability-official-announced-12369124"
         }
       ]
     },
     {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "score": 16.4,
+      "title": "Ex-Infy veteran’s AI startup Aiden raises $32 million",
+      "score": 17.31,
       "source_count": 1,
-      "published_at": "2026-11-23 22:02 UTC",
-      "topic": "startups",
+      "published_at": "2026-11-24 00:30 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "TechCrunch - Startups",
-          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/tech/startups/ex-infosys-veterans-enterprise-ai-startup-aiden-raises-32-million-from-a91-partners/articleshow/136110343.cms"
+        }
+      ]
+    },
+    {
+      "title": "Trump shares bizarre AI image of Nvidia boss",
+      "score": 16.42,
+      "source_count": 1,
+      "published_at": "2026-11-24 06:25 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/national-treasure-trump-puts-nvidia-boss-jensen-huang-in-bizarre-ai-recreation-of-his-2024-assassination-attempt-photograph-after-hailing-him-as-great-patriot/articleshow/136121520.cms"
+        }
+      ]
+    },
+    {
+      "title": "Former envoy on India's relief package for Nepal",
+      "score": 16.41,
+      "source_count": 1,
+      "published_at": "2026-11-24 06:18 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/india/india-stepped-up-to-the-plate-with-rs-15000-crore-relief-package-for-nepal-former-envoy-manjeev-singh-puri/articleshow/136121747.cms"
         }
       ]
     }
