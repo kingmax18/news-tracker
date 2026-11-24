@@ -1,158 +1,162 @@
 {
-  "generated_at": "2026-11-24 07:10:15 UTC",
+  "generated_at": "2026-11-24 19:45:08 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Google Cloud confirms 30 role cuts in India, rejects claims of wider layoffs",
-      "score": 31.03,
+      "title": "Tidal will start banning AI-generated music next month",
+      "score": 30.9,
       "source_count": 2,
-      "published_at": "2026-11-24 06:18 UTC",
-      "topic": "business",
+      "published_at": "2026-11-24 17:34 UTC",
+      "topic": "tech",
       "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/totally-inaccurate-google-india-rejects-reports-of-layoffs-in-cloud-division-says-30-roles-cut-as-part-of-changes-11795500392874.html"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/google-cloud-confirms-30-role-cuts-in-india-rejects-claims-of-wider-layoffs"
-        }
-      ]
-    },
-    {
-      "title": "GAP kicks off holiday campaign with ‘Give Your Gift",
-      "score": 30.3,
-      "source_count": 2,
-      "published_at": "2026-11-23 23:14 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "ET Brand Equity - Advertising",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/gap-kicks-off-holiday-campaign-with-give-your-gift/136092749"
-        },
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026"
+          "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
         }
       ]
     },
     {
-      "title": "CortexSpark Ventures launches Rs 1,000 Cr deeptech fund",
-      "score": 29.58,
+      "title": "Sarvam AI Launches Dictation API For English, 22 Indian Languages",
+      "score": 30.37,
       "source_count": 2,
-      "published_at": "2026-11-24 06:46 UTC",
+      "published_at": "2026-11-24 12:29 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/ex-infosys-executives-cortexspark-ventures-launches-%e2%82%b91000-cr-deeptech-fund/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/cortexspark-ventures-launches-rs-1000-cr-deeptech-fund"
-        }
-      ]
-    },
-    {
-      "title": "Zscaler’s Chaudhrys to Reap $14.5 Billion From CrowdStrike Deal",
-      "score": 29.54,
-      "source_count": 2,
-      "published_at": "2026-11-24 06:24 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/crowdstrike-snaps-up-zscaler-in-44-billion-deal-as-cyber-threats-mount-11795458732828.html"
+          "url": "https://inc42.com/buzz/sarvam-ai-launches-dictation-api-for-english-22-indian-languages/"
         },
         {
           "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-crowdstrike-acquire-cloud-zscaler/"
+          "url": "https://www.medianama.com/2026/11/223-sarvam-dictation-api-challenges-voice-ai/"
         }
       ]
     },
     {
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "score": 29.36,
+      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+      "score": 29.52,
       "source_count": 2,
-      "published_at": "2026-11-24 04:36 UTC",
+      "published_at": "2026-11-24 18:47 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/jensen-huang-is-back-at-nvidia-as-ceo-how-donald-trump-helped-engineer-the-return-of-a-national-treasure-11795482252245.html"
+          "url": "https://www.livemint.com/companies/news/faa-launches-probe-after-amazon-delivery-drone-strikes-michigan-home-garage-fiber-optic-cable-11795490301460.html"
         },
         {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/"
         }
       ]
     },
     {
-      "title": "RBI looks to arm customers with a 'stop switch' for digital payments",
-      "score": 28.18,
+      "title": "Spotify back online after brief outage affects thousands of users in US",
+      "score": 29.28,
       "source_count": 2,
-      "published_at": "2026-11-23 17:21 UTC",
+      "published_at": "2026-11-24 16:25 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/spotify-outage-thousands-of-users-report-problems-music-streaming-platform-acknowledges-service-disruption-11795524675418.html"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/spotify-back-online-after-brief-outage-affects-thousands-of-users-in-us-126112401135_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Shadowfax buys WeFast for  ₹23 crore to enter intra-city logistics",
+      "score": 29.26,
+      "source_count": 2,
+      "published_at": "2026-11-24 16:17 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/shadowfax-buys-wefast-enters-intracity-logistics-incrin-borzo-parcel-hyperlocal-deliveries-redseer-peakxv-11795534209210.html"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/shadowfax-to-acquire-wefast-to-expand-into-intra-city-deliveries/"
+        }
+      ]
+    },
+    {
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "score": 29.12,
+      "source_count": 2,
+      "published_at": "2026-11-24 14:56 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/not-just-donald-trump-jd-vance-used-his-silicon-valley-connections-to-get-jensen-huang-back-as-nvidia-s-ceo-11795511693649.html"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
+        }
+      ]
+    },
+    {
+      "title": "Maharashtra GST Department conducts search at Turtlemint subsidiary",
+      "score": 29.03,
+      "source_count": 2,
+      "published_at": "2026-11-24 14:02 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/maharashtra-gst-authorities-search-turtlemints-insurance-broking-arm/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/maharashtra-gst-department-conducts-search-at-turtlemint-subsidiary"
+        }
+      ]
+    },
+    {
+      "title": "GSK India enters blood cancer space with Blenrep launch, bets on new drugs for growth",
+      "score": 18.76,
+      "source_count": 1,
+      "published_at": "2026-11-24 12:38 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/gsk-india-enters-blood-cancer-space-with-blenrep-launch-bets-on-new-drugs-for-growth-11795519487348.html"
+        }
+      ]
+    },
+    {
+      "title": "India tops APAC in AI use at work; 96% employees turn to it regularly",
+      "score": 17.67,
+      "source_count": 1,
+      "published_at": "2026-11-24 16:35 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Business Standard",
-          "url": "https://www.business-standard.com/finance/news/rbi-proposes-greater-customer-control-over-digital-payments-to-curb-fraud-126112301054_1.html"
-        },
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/"
+          "url": "https://www.business-standard.com/companies/news/india-tops-apac-in-ai-use-at-work-96-employees-turn-to-it-regularly-126112401150_1.html"
         }
       ]
     },
     {
-      "title": "Motorola Signature 27 First Impressions",
-      "score": 17.79,
+      "title": "Fintech startup Vegapay to raise Rs 38.4 Cr in Series A funding round led by Prosus",
+      "score": 17.21,
       "source_count": 1,
-      "published_at": "2026-11-24 05:10 UTC",
-      "topic": "tech",
+      "published_at": "2026-11-24 12:07 UTC",
+      "topic": "startups",
       "sources": [
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/motorola-signature-27-india-launch-date-availability-official-announced-12369124"
-        }
-      ]
-    },
-    {
-      "title": "Ex-Infy veteran’s AI startup Aiden raises $32 million",
-      "score": 17.31,
-      "source_count": 1,
-      "published_at": "2026-11-24 00:30 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/tech/startups/ex-infosys-veterans-enterprise-ai-startup-aiden-raises-32-million-from-a91-partners/articleshow/136110343.cms"
-        }
-      ]
-    },
-    {
-      "title": "Trump shares bizarre AI image of Nvidia boss",
-      "score": 16.42,
-      "source_count": 1,
-      "published_at": "2026-11-24 06:25 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/national-treasure-trump-puts-nvidia-boss-jensen-huang-in-bizarre-ai-recreation-of-his-2024-assassination-attempt-photograph-after-hailing-him-as-great-patriot/articleshow/136121520.cms"
-        }
-      ]
-    },
-    {
-      "title": "Former envoy on India's relief package for Nepal",
-      "score": 16.41,
-      "source_count": 1,
-      "published_at": "2026-11-24 06:18 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/india/india-stepped-up-to-the-plate-with-rs-15000-crore-relief-package-for-nepal-former-envoy-manjeev-singh-puri/articleshow/136121747.cms"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/vegapay-to-raise-rs-384-cr-series-a-funding-led-by-prosus"
         }
       ]
     }

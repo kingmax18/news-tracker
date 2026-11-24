@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 24, 2026 at 07:10 UTC | **Top Stories:** 10
+> **Generated on:** November 24, 2026 at 19:45 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Google Cloud confirms 30 role cuts in India, rejects claims of wider layoffs [2 sources]
-- **Topic:** `Business` | **Score:** `31.03` | **Published:** 2026-11-24 06:18 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/totally-inaccurate-google-india-rejects-reports-of-layoffs-in-cloud-division-says-30-roles-cut-as-part-of-changes-11795500392874.html) • [YourStory](https://yourstory.com/2026/11/google-cloud-confirms-30-role-cuts-in-india-rejects-claims-of-wider-layoffs)
+### 1. Tidal will start banning AI-generated music next month [2 sources]
+- **Topic:** `Tech` | **Score:** `30.9` | **Published:** 2026-11-24 17:34 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban) • [Ars Technica](https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/)
 
-### 2. GAP kicks off holiday campaign with ‘Give Your Gift [2 sources]
-- **Topic:** `Marketing And Branding` | **Score:** `30.3` | **Published:** 2026-11-23 23:14 UTC
-- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/gap-kicks-off-holiday-campaign-with-give-your-gift/136092749) • [The Verge](https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026)
+### 2. Sarvam AI Launches Dictation API For English, 22 Indian Languages [2 sources]
+- **Topic:** `Startups` | **Score:** `30.37` | **Published:** 2026-11-24 12:29 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/sarvam-ai-launches-dictation-api-for-english-22-indian-languages/) • [MediaNama](https://www.medianama.com/2026/11/223-sarvam-dictation-api-challenges-voice-ai/)
 
-### 3. CortexSpark Ventures launches Rs 1,000 Cr deeptech fund [2 sources]
-- **Topic:** `Startups` | **Score:** `29.58` | **Published:** 2026-11-24 06:46 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/ex-infosys-executives-cortexspark-ventures-launches-%e2%82%b91000-cr-deeptech-fund/) • [YourStory](https://yourstory.com/2026/11/cortexspark-ventures-launches-rs-1000-cr-deeptech-fund)
+### 3. Amazon drone crashes on garage after delivering shampoo, draws FAA probe [2 sources]
+- **Topic:** `Business` | **Score:** `29.52` | **Published:** 2026-11-24 18:47 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/faa-launches-probe-after-amazon-delivery-drone-strikes-michigan-home-garage-fiber-optic-cable-11795490301460.html) • [Ars Technica](https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/)
 
-### 4. Zscaler’s Chaudhrys to Reap $14.5 Billion From CrowdStrike Deal [2 sources]
-- **Topic:** `Business` | **Score:** `29.54` | **Published:** 2026-11-24 06:24 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/crowdstrike-snaps-up-zscaler-in-44-billion-deal-as-cyber-threats-mount-11795458732828.html) • [MediaNama](https://www.medianama.com/2026/11/223-crowdstrike-acquire-cloud-zscaler/)
+### 4. Spotify back online after brief outage affects thousands of users in US [2 sources]
+- **Topic:** `Business` | **Score:** `29.28` | **Published:** 2026-11-24 16:25 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/spotify-outage-thousands-of-users-report-problems-music-streaming-platform-acknowledges-service-disruption-11795524675418.html) • [Business Standard](https://www.business-standard.com/companies/news/spotify-back-online-after-brief-outage-affects-thousands-of-users-in-us-126112401135_1.html)
 
-### 5. Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang [2 sources]
-- **Topic:** `Business` | **Score:** `29.36` | **Published:** 2026-11-24 04:36 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/jensen-huang-is-back-at-nvidia-as-ceo-how-donald-trump-helped-engineer-the-return-of-a-national-treasure-11795482252245.html) • [BBC News - Business](https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss)
+### 5. Shadowfax buys WeFast for  ₹23 crore to enter intra-city logistics [2 sources]
+- **Topic:** `Business` | **Score:** `29.26` | **Published:** 2026-11-24 16:17 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/shadowfax-buys-wefast-enters-intracity-logistics-incrin-borzo-parcel-hyperlocal-deliveries-redseer-peakxv-11795534209210.html) • [Inc42](https://inc42.com/buzz/shadowfax-to-acquire-wefast-to-expand-into-intra-city-deliveries/)
 
-### 6. RBI looks to arm customers with a 'stop switch' for digital payments [2 sources]
-- **Topic:** `Business` | **Score:** `28.18` | **Published:** 2026-11-23 17:21 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/finance/news/rbi-proposes-greater-customer-control-over-digital-payments-to-curb-fraud-126112301054_1.html) • [Inc42](https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/)
+### 6. How Trump and Silicon Valley forced Nvidia to take Jensen Huang back [2 sources]
+- **Topic:** `Business` | **Score:** `29.12` | **Published:** 2026-11-24 14:56 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/not-just-donald-trump-jd-vance-used-his-silicon-valley-connections-to-get-jensen-huang-back-as-nvidia-s-ceo-11795511693649.html) • [Ars Technica](https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/)
 
-### 7. Motorola Signature 27 First Impressions [1 source]
-- **Topic:** `Tech` | **Score:** `17.79` | **Published:** 2026-11-24 05:10 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/motorola-signature-27-india-launch-date-availability-official-announced-12369124)
+### 7. Maharashtra GST Department conducts search at Turtlemint subsidiary [2 sources]
+- **Topic:** `Startups` | **Score:** `29.03` | **Published:** 2026-11-24 14:02 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/maharashtra-gst-authorities-search-turtlemints-insurance-broking-arm/) • [YourStory](https://yourstory.com/2026/11/maharashtra-gst-department-conducts-search-at-turtlemint-subsidiary)
 
-### 8. Ex-Infy veteran’s AI startup Aiden raises $32 million [1 source]
-- **Topic:** `Business` | **Score:** `17.31` | **Published:** 2026-11-24 00:30 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/startups/ex-infosys-veterans-enterprise-ai-startup-aiden-raises-32-million-from-a91-partners/articleshow/136110343.cms)
+### 8. GSK India enters blood cancer space with Blenrep launch, bets on new drugs for growth [1 source]
+- **Topic:** `Business` | **Score:** `18.76` | **Published:** 2026-11-24 12:38 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/gsk-india-enters-blood-cancer-space-with-blenrep-launch-bets-on-new-drugs-for-growth-11795519487348.html)
 
-### 9. Trump shares bizarre AI image of Nvidia boss [1 source]
-- **Topic:** `Business` | **Score:** `16.42` | **Published:** 2026-11-24 06:25 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/national-treasure-trump-puts-nvidia-boss-jensen-huang-in-bizarre-ai-recreation-of-his-2024-assassination-attempt-photograph-after-hailing-him-as-great-patriot/articleshow/136121520.cms)
+### 9. India tops APAC in AI use at work; 96% employees turn to it regularly [1 source]
+- **Topic:** `Business` | **Score:** `17.67` | **Published:** 2026-11-24 16:35 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/india-tops-apac-in-ai-use-at-work-96-employees-turn-to-it-regularly-126112401150_1.html)
 
-### 10. Former envoy on India's relief package for Nepal [1 source]
-- **Topic:** `Business` | **Score:** `16.41` | **Published:** 2026-11-24 06:18 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/india/india-stepped-up-to-the-plate-with-rs-15000-crore-relief-package-for-nepal-former-envoy-manjeev-singh-puri/articleshow/136121747.cms)
+### 10. Fintech startup Vegapay to raise Rs 38.4 Cr in Series A funding round led by Prosus [1 source]
+- **Topic:** `Startups` | **Score:** `17.21` | **Published:** 2026-11-24 12:07 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/vegapay-to-raise-rs-384-cr-series-a-funding-led-by-prosus)
