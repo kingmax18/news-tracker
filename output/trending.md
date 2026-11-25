@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 24, 2026 at 19:45 UTC | **Top Stories:** 10
+> **Generated on:** November 25, 2026 at 03:50 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Tidal will start banning AI-generated music next month [2 sources]
-- **Topic:** `Tech` | **Score:** `30.9` | **Published:** 2026-11-24 17:34 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban) • [Ars Technica](https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/)
+### 1. Tata Electronics begins hunt for partner [2 sources]
+- **Topic:** `Business` | **Score:** `30.78` | **Published:** 2026-11-25 00:30 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/technology/tata-electronics-begins-discussions-to-find-partner-for-phase-2-buildout-at-osat/articleshow/136139522.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/tata-sons-reviews-air-india-tata-digital-and-tata-electronics-after-noel-tata-flags-losses-of-nearly-29-000-crore-11795527586758.html)
 
-### 2. Sarvam AI Launches Dictation API For English, 22 Indian Languages [2 sources]
-- **Topic:** `Startups` | **Score:** `30.37` | **Published:** 2026-11-24 12:29 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/sarvam-ai-launches-dictation-api-for-english-22-indian-languages/) • [MediaNama](https://www.medianama.com/2026/11/223-sarvam-dictation-api-challenges-voice-ai/)
+### 2. Huawei found guilty of stealing trade secrets but acquitted of racketeering [2 sources]
+- **Topic:** `Business` | **Score:** `29.53` | **Published:** 2026-11-25 02:59 UTC
+- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss) • [The Verge](https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial)
 
-### 3. Amazon drone crashes on garage after delivering shampoo, draws FAA probe [2 sources]
-- **Topic:** `Business` | **Score:** `29.52` | **Published:** 2026-11-24 18:47 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/faa-launches-probe-after-amazon-delivery-drone-strikes-michigan-home-garage-fiber-optic-cable-11795490301460.html) • [Ars Technica](https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/)
+### 3. iPhone assembler Foxconn faces pressure to settle payments in India; BCD Emprasa seeks  ₹143 cr in insolvency proceedings [1 source]
+- **Topic:** `Business` | **Score:** `16.49` | **Published:** 2026-11-25 03:47 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/iphone-assembler-foxconn-faces-pressure-to-settle-payments-in-india-bcd-emprasa-seeks-143-cr-in-insolvency-proceedings-11795577685824.html)
 
-### 4. Spotify back online after brief outage affects thousands of users in US [2 sources]
-- **Topic:** `Business` | **Score:** `29.28` | **Published:** 2026-11-24 16:25 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/spotify-outage-thousands-of-users-report-problems-music-streaming-platform-acknowledges-service-disruption-11795524675418.html) • [Business Standard](https://www.business-standard.com/companies/news/spotify-back-online-after-brief-outage-affects-thousands-of-users-in-us-126112401135_1.html)
+### 4. Bain Capital's search for India yield leads it far beyond Bollywood [1 source]
+- **Topic:** `Business` | **Score:** `16.42` | **Published:** 2026-11-25 03:03 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/bain-capital-s-search-for-india-yield-leads-it-far-beyond-bollywood-126112500092_1.html)
 
-### 5. Shadowfax buys WeFast for  ₹23 crore to enter intra-city logistics [2 sources]
-- **Topic:** `Business` | **Score:** `29.26` | **Published:** 2026-11-24 16:17 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/shadowfax-buys-wefast-enters-intracity-logistics-incrin-borzo-parcel-hyperlocal-deliveries-redseer-peakxv-11795534209210.html) • [Inc42](https://inc42.com/buzz/shadowfax-to-acquire-wefast-to-expand-into-intra-city-deliveries/)
+### 5. Foxconn India unit faces $15 mn insolvency suit over unpaid vendor dues [1 source]
+- **Topic:** `Business` | **Score:** `16.38` | **Published:** 2026-11-25 02:38 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/industry/news/foxconn-india-unit-faces-15-mn-insolvency-suit-over-unpaid-vendor-dues-126112500079_1.html)
 
-### 6. How Trump and Silicon Valley forced Nvidia to take Jensen Huang back [2 sources]
-- **Topic:** `Business` | **Score:** `29.12` | **Published:** 2026-11-24 14:56 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/not-just-donald-trump-jd-vance-used-his-silicon-valley-connections-to-get-jensen-huang-back-as-nvidia-s-ceo-11795511693649.html) • [Ars Technica](https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/)
+### 6. Stock Market LIVE: GIFT Nifty jumps 200 pts; Kospi down 5% as AI-trade unwind [1 source]
+- **Topic:** `Business` | **Score:** `16.34` | **Published:** 2026-11-25 02:17 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/markets/news/stock-market-live-november-25-gift-nifty-bse-sensex-today-nifty50-crude-oil-prices-ipo-today-126112500069_1.html)
 
-### 7. Maharashtra GST Department conducts search at Turtlemint subsidiary [2 sources]
-- **Topic:** `Startups` | **Score:** `29.03` | **Published:** 2026-11-24 14:02 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/maharashtra-gst-authorities-search-turtlemints-insurance-broking-arm/) • [YourStory](https://yourstory.com/2026/11/maharashtra-gst-department-conducts-search-at-turtlemint-subsidiary)
+### 7. 94% of India's most-used online platforms still use dark patterns: LocalCircles [1 source]
+- **Topic:** `Startups` | **Score:** `16.31` | **Published:** 2026-11-25 02:00 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/dark-patterns-in-indian-online-platforms-making-mobility-safer-and-more-accessible-for-women)
 
-### 8. GSK India enters blood cancer space with Blenrep launch, bets on new drugs for growth [1 source]
-- **Topic:** `Business` | **Score:** `18.76` | **Published:** 2026-11-24 12:38 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/gsk-india-enters-blood-cancer-space-with-blenrep-launch-bets-on-new-drugs-for-growth-11795519487348.html)
+### 8. Top tech and startup stories to start your day with [1 source]
+- **Topic:** `Business` | **Score:** `16.29` | **Published:** 2026-11-25 01:46 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/vcs-bet-on-defence-tech-consumer-firms-protect-margins/articleshow/136145428.cms)
 
-### 9. India tops APAC in AI use at work; 96% employees turn to it regularly [1 source]
-- **Topic:** `Business` | **Score:** `17.67` | **Published:** 2026-11-24 16:35 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/india-tops-apac-in-ai-use-at-work-96-employees-turn-to-it-regularly-126112401150_1.html)
+### 9. Home service provider Pronto to be acquired by physical AI firm Provision Labs [1 source]
+- **Topic:** `Tech` | **Score:** `16.22` | **Published:** 2026-11-24 10:45 UTC
+- **Coverage:** [MediaNama](https://www.medianama.com/2026/11/223-pronto-acquired-provision-labs/)
 
-### 10. Fintech startup Vegapay to raise Rs 38.4 Cr in Series A funding round led by Prosus [1 source]
-- **Topic:** `Startups` | **Score:** `17.21` | **Published:** 2026-11-24 12:07 UTC
-- **Coverage:** [YourStory](https://yourstory.com/2026/11/vegapay-to-raise-rs-384-cr-series-a-funding-led-by-prosus)
+### 10. The rising cost of putting food on the table in India [1 source]
+- **Topic:** `Business` | **Score:** `16.21` | **Published:** 2026-11-25 01:02 UTC
+- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss)
