@@ -1,182 +1,154 @@
 {
-  "generated_at": "2026-11-26 11:35:00 UTC",
+  "generated_at": "2026-11-26 20:35:37 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "[Update] MIB Reiterates Pakistani Content Ban To Netflix",
-      "score": 48.14,
-      "source_count": 3,
-      "published_at": "2026-11-26 10:51 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/media/entertainment/centre-asks-netflix-to-ensure-that-content-originating-in-pakistan-is-not-streamed-in-india-jo-bachay-hain-sang-samait-lo/articleshow/136182184.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/india-news/india-pakistan-film-ott-ban-netflix-movies-actors-uri-pahalgam-terror-attack-126112600851_1.html"
-        },
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/film-body-seeks-ban-on-pakistani-shows-netflix-release-in-india/"
-        }
-      ]
-    },
-    {
-      "title": "Uber Appoints Former Zomato Food Delivery CEO Rakesh Ranjan As India President",
-      "score": 47.48,
-      "source_count": 3,
-      "published_at": "2026-11-26 04:32 UTC",
+      "title": "Raymond partners with Jaideep Ahlawat for new campaign",
+      "score": 32.03,
+      "source_count": 2,
+      "published_at": "2026-11-26 14:53 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/who-is-rakesh-ranjan-uber-appoints-ex-zomato-food-delivery-ceo-to-lead-india-and-south-asia-11795663512666.html"
+          "url": "https://www.livemint.com/companies/people/raymond-taps-jaideep-ahlawat-as-friend-of-the-brand-to-revive-retro-bollywood-fashion-all-you-need-to-know-11795703077416.html"
         },
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/uber-appoints-former-zomato-food-delivery-ceo-rakesh-ranjan-as-india-president/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/uber-former-zomato-food-delivery-ceo-rakesh-ranjan-india-south-asia-president"
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/raymond-partners-with-jaideep-ahlawat-for-new-campaign/136161142"
         }
       ]
     },
     {
-      "title": "XEBO.ai Bags $10.5 Mn To Expand Its Customer Experience Platform",
-      "score": 33.47,
+      "title": "CERT-In flags high-severity vulnerability in eGov’s DIGIT platforms",
+      "score": 29.44,
       "source_count": 2,
-      "published_at": "2026-11-26 05:19 UTC",
+      "published_at": "2026-11-26 18:50 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/xebo-ai-bags-10-5-mn-to-strengthen-ai-solutions-stack/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/xeboai-bags-10-million-funding-from-emirates-growth-fund"
-        }
-      ]
-    },
-    {
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "score": 30.95,
-      "source_count": 2,
-      "published_at": "2026-11-26 09:54 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "TechCrunch - Startups",
-          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
-        }
-      ]
-    },
-    {
-      "title": "Apple to Open Seventh Retail Store in India in Hyderabad on December 10",
-      "score": 30.93,
-      "source_count": 2,
-      "published_at": "2026-11-26 09:43 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-to-expand-india-retail-footprint-with-first-hyderabad-store-on-december-10/articleshow/136181037.cms"
-        },
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/apple-kukatpally-hyderabad-store-opening-date-products-services-12379845"
-        }
-      ]
-    },
-    {
-      "title": "Meta officials met Congress amid its Youth wing’s campaign against online censorship",
-      "score": 30.79,
-      "source_count": 2,
-      "published_at": "2026-11-26 08:23 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/bound-by-local-laws-meta-tells-congress-amid-content-moderation-row/"
+          "url": "https://inc42.com/buzz/cert-in-flags-high-severity-vulnerability-in-e-governance-platform-digit/"
         },
         {
           "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-meta-congress-youth-wing-online-censorship-campaign/"
+          "url": "https://www.medianama.com/2026/11/223-cert-in-high-severity-vulnerability-egov-digit-platform/"
         }
       ]
     },
     {
-      "title": "Green Aero raises $14M as India pushes for indigenous jet propulsion",
-      "score": 30.52,
+      "title": "Govt picks BSNL, MTNL assets worth ₹1,300 crore for monetisation",
+      "score": 29.24,
       "source_count": 2,
-      "published_at": "2026-11-26 05:45 UTC",
-      "topic": "startups",
+      "published_at": "2026-11-26 16:54 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/green-aero-raises-14-mn-to-build-jet-engines-combat-drones/"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/nlmc-eyes-rs-1300-crore-fresh-asset-monetisation-from-bsnl-mtnl/articleshow/136198619.cms"
         },
         {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/green-aero-raises-usd-14m-as-india-pushes-for-indigenous-jet-propulsion"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/economy/news/govt-picks-bsnl-mtnl-assets-worth-1-300-crore-for-monetisation-126112601034_1.html"
         }
       ]
     },
     {
-      "title": "HC to hear Tata Trusts' plea against Chandra's reappointment on Friday",
-      "score": 29.57,
+      "title": "Flipkart CEO Kalyan Krishnamurthy to step down; Lakshmi Venu moves court over family dispute",
+      "score": 28.86,
       "source_count": 2,
-      "published_at": "2026-11-26 11:02 UTC",
+      "published_at": "2026-11-26 13:19 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/bombay-hc-to-hear-tata-trusts-lawsuits-against-chandrasekaran-s-reappointment-on-friday-ahead-of-nov-30-board-meeting-11795689108826.html"
+          "url": "https://www.livemint.com/companies/news/tvs-family-dispute-reaches-madras-court-is-lakshmi-venu-seeking-a-one-third-share-what-we-know-11795696560871.html"
         },
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/hc-to-hear-tata-trusts-plea-against-chandrasekaran-s-reappointment-friday-126112600676_1.html"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/flipkart-ceo-kalyan-krishnamurthy-to-step-down-lakshmi-venu-moves-court"
         }
       ]
     },
     {
-      "title": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending",
-      "score": 29.27,
+      "title": "IndiaMART Settles Legal Dispute With OpenAI",
+      "score": 28.86,
       "source_count": 2,
-      "published_at": "2026-11-26 08:09 UTC",
+      "published_at": "2026-11-26 13:18 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/"
+          "url": "https://inc42.com/buzz/indiamart-settles-legal-dispute-with-openai/"
         },
         {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending"
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt/"
         }
       ]
     },
     {
-      "title": "High sugar, salt or fat? Supreme Court orders warning labels on food packs",
-      "score": 29.12,
-      "source_count": 2,
-      "published_at": "2026-11-26 06:45 UTC",
-      "topic": "business",
+      "title": "Haier Civic AI Maxx Robot Vacuum Cleaner With 8,000Pa Suction Launched in India: Price, Features",
+      "score": 18.62,
+      "source_count": 1,
+      "published_at": "2026-11-26 12:08 UTC",
+      "topic": "tech",
       "sources": [
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/industry/news/sc-mandates-separate-warning-labels-for-salt-sugar-and-fat-on-food-packs-126112600449_1.html"
-        },
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/smart-home/news/haier-civic-ai-maxx-robot-vacuum-cleaner-price-in-india-launch-specifications-features-12380636"
+        }
+      ]
+    },
+    {
+      "title": "Founder Salaries Tracker FY26: How Much Did India’s Startup Founders Earn?",
+      "score": 17.15,
+      "source_count": 1,
+      "published_at": "2026-11-26 12:25 UTC",
+      "topic": "startups",
+      "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/sc-orders-separate-warning-labels-for-high-fat-sugar-and-salt-in-packaged-foods/"
+          "url": "https://inc42.com/features/founder-salaries-tracker-fy26-how-much-did-indias-startup-founders-earn/"
+        }
+      ]
+    },
+    {
+      "title": "HMD Rise Launched in India With 5,000mAh Battery, 13-Megapixel Rear Camera: Price, Features",
+      "score": 17.03,
+      "source_count": 1,
+      "published_at": "2026-11-26 11:17 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/hmd-rise-price-in-india-launch-specifications-features-12380218"
+        }
+      ]
+    },
+    {
+      "title": "HP OmniBook Ultra 16 With NVIDIA RTX Spark N1X Launched in India: Price, Specifications",
+      "score": 17.03,
+      "source_count": 1,
+      "published_at": "2026-11-26 11:16 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/laptops/news/hp-omnibook-ultra-16-with-nvidia-rtx-spark-n1x-price-india-launch-availability-specifications-features-12380191"
+        }
+      ]
+    },
+    {
+      "title": "Claude Duet AI Assistant Now Available in India in Research Preview; Standalone App Now Listed on Marketplaces",
+      "score": 16.95,
+      "source_count": 1,
+      "published_at": "2026-11-26 10:33 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/ai/news/claude-duet-ai-assistant-india-app-available-research-preview-12380234"
         }
       ]
     }

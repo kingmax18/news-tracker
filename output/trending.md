@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 26, 2026 at 11:35 UTC | **Top Stories:** 10
+> **Generated on:** November 26, 2026 at 20:35 UTC | **Top Stories:** 10
 
 ---
 
-### 1. [Update] MIB Reiterates Pakistani Content Ban To Netflix [3 sources]
-- **Topic:** `Business` | **Score:** `48.14` | **Published:** 2026-11-26 10:51 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/media/entertainment/centre-asks-netflix-to-ensure-that-content-originating-in-pakistan-is-not-streamed-in-india-jo-bachay-hain-sang-samait-lo/articleshow/136182184.cms) • [Business Standard](https://www.business-standard.com/india-news/india-pakistan-film-ott-ban-netflix-movies-actors-uri-pahalgam-terror-attack-126112600851_1.html) • [Inc42](https://inc42.com/buzz/film-body-seeks-ban-on-pakistani-shows-netflix-release-in-india/)
+### 1. Raymond partners with Jaideep Ahlawat for new campaign [2 sources]
+- **Topic:** `Business` | **Score:** `32.03` | **Published:** 2026-11-26 14:53 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/raymond-taps-jaideep-ahlawat-as-friend-of-the-brand-to-revive-retro-bollywood-fashion-all-you-need-to-know-11795703077416.html) • [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/raymond-partners-with-jaideep-ahlawat-for-new-campaign/136161142)
 
-### 2. Uber Appoints Former Zomato Food Delivery CEO Rakesh Ranjan As India President [3 sources]
-- **Topic:** `Business` | **Score:** `47.48` | **Published:** 2026-11-26 04:32 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-rakesh-ranjan-uber-appoints-ex-zomato-food-delivery-ceo-to-lead-india-and-south-asia-11795663512666.html) • [Inc42](https://inc42.com/buzz/uber-appoints-former-zomato-food-delivery-ceo-rakesh-ranjan-as-india-president/) • [YourStory](https://yourstory.com/2026/11/uber-former-zomato-food-delivery-ceo-rakesh-ranjan-india-south-asia-president)
+### 2. CERT-In flags high-severity vulnerability in eGov’s DIGIT platforms [2 sources]
+- **Topic:** `Startups` | **Score:** `29.44` | **Published:** 2026-11-26 18:50 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/cert-in-flags-high-severity-vulnerability-in-e-governance-platform-digit/) • [MediaNama](https://www.medianama.com/2026/11/223-cert-in-high-severity-vulnerability-egov-digit-platform/)
 
-### 3. XEBO.ai Bags $10.5 Mn To Expand Its Customer Experience Platform [2 sources]
-- **Topic:** `Startups` | **Score:** `33.47` | **Published:** 2026-11-26 05:19 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/xebo-ai-bags-10-5-mn-to-strengthen-ai-solutions-stack/) • [YourStory](https://yourstory.com/2026/11/xeboai-bags-10-million-funding-from-emirates-growth-fund)
+### 3. Govt picks BSNL, MTNL assets worth ₹1,300 crore for monetisation [2 sources]
+- **Topic:** `Business` | **Score:** `29.24` | **Published:** 2026-11-26 16:54 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/telecom/telecom-news/nlmc-eyes-rs-1300-crore-fresh-asset-monetisation-from-bsnl-mtnl/articleshow/136198619.cms) • [Business Standard](https://www.business-standard.com/economy/news/govt-picks-bsnl-mtnl-assets-worth-1-300-crore-for-monetisation-126112601034_1.html)
 
-### 4. 42 state AGs are trying to stop Character.AI from selling users’ chats [2 sources]
-- **Topic:** `Startups` | **Score:** `30.95` | **Published:** 2026-11-26 09:54 UTC
-- **Coverage:** [TechCrunch - Startups](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) • [The Verge](https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats)
+### 4. Flipkart CEO Kalyan Krishnamurthy to step down; Lakshmi Venu moves court over family dispute [2 sources]
+- **Topic:** `Business` | **Score:** `28.86` | **Published:** 2026-11-26 13:19 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/tvs-family-dispute-reaches-madras-court-is-lakshmi-venu-seeking-a-one-third-share-what-we-know-11795696560871.html) • [YourStory](https://yourstory.com/2026/11/flipkart-ceo-kalyan-krishnamurthy-to-step-down-lakshmi-venu-moves-court)
 
-### 5. Apple to Open Seventh Retail Store in India in Hyderabad on December 10 [2 sources]
-- **Topic:** `Business` | **Score:** `30.93` | **Published:** 2026-11-26 09:43 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-to-expand-india-retail-footprint-with-first-hyderabad-store-on-december-10/articleshow/136181037.cms) • [Gadgets 360](https://www.gadgets360.com/mobiles/news/apple-kukatpally-hyderabad-store-opening-date-products-services-12379845)
+### 5. IndiaMART Settles Legal Dispute With OpenAI [2 sources]
+- **Topic:** `Startups` | **Score:** `28.86` | **Published:** 2026-11-26 13:18 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/indiamart-settles-legal-dispute-with-openai/) • [MediaNama](https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt/)
 
-### 6. Meta officials met Congress amid its Youth wing’s campaign against online censorship [2 sources]
-- **Topic:** `Startups` | **Score:** `30.79` | **Published:** 2026-11-26 08:23 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/bound-by-local-laws-meta-tells-congress-amid-content-moderation-row/) • [MediaNama](https://www.medianama.com/2026/11/223-meta-congress-youth-wing-online-censorship-campaign/)
+### 6. Haier Civic AI Maxx Robot Vacuum Cleaner With 8,000Pa Suction Launched in India: Price, Features [1 source]
+- **Topic:** `Tech` | **Score:** `18.62` | **Published:** 2026-11-26 12:08 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/smart-home/news/haier-civic-ai-maxx-robot-vacuum-cleaner-price-in-india-launch-specifications-features-12380636)
 
-### 7. Green Aero raises $14M as India pushes for indigenous jet propulsion [2 sources]
-- **Topic:** `Startups` | **Score:** `30.52` | **Published:** 2026-11-26 05:45 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/green-aero-raises-14-mn-to-build-jet-engines-combat-drones/) • [YourStory](https://yourstory.com/2026/11/green-aero-raises-usd-14m-as-india-pushes-for-indigenous-jet-propulsion)
+### 7. Founder Salaries Tracker FY26: How Much Did India’s Startup Founders Earn? [1 source]
+- **Topic:** `Startups` | **Score:** `17.15` | **Published:** 2026-11-26 12:25 UTC
+- **Coverage:** [Inc42](https://inc42.com/features/founder-salaries-tracker-fy26-how-much-did-indias-startup-founders-earn/)
 
-### 8. HC to hear Tata Trusts' plea against Chandra's reappointment on Friday [2 sources]
-- **Topic:** `Business` | **Score:** `29.57` | **Published:** 2026-11-26 11:02 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/bombay-hc-to-hear-tata-trusts-lawsuits-against-chandrasekaran-s-reappointment-on-friday-ahead-of-nov-30-board-meeting-11795689108826.html) • [Business Standard](https://www.business-standard.com/companies/news/hc-to-hear-tata-trusts-plea-against-chandrasekaran-s-reappointment-friday-126112600676_1.html)
+### 8. HMD Rise Launched in India With 5,000mAh Battery, 13-Megapixel Rear Camera: Price, Features [1 source]
+- **Topic:** `Tech` | **Score:** `17.03` | **Published:** 2026-11-26 11:17 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/hmd-rise-price-in-india-launch-specifications-features-12380218)
 
-### 9. Finnable raises Rs 405 Cr in Series C to expand multi-product lending [2 sources]
-- **Topic:** `Startups` | **Score:** `29.27` | **Published:** 2026-11-26 08:09 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/) • [YourStory](https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending)
+### 9. HP OmniBook Ultra 16 With NVIDIA RTX Spark N1X Launched in India: Price, Specifications [1 source]
+- **Topic:** `Tech` | **Score:** `17.03` | **Published:** 2026-11-26 11:16 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/laptops/news/hp-omnibook-ultra-16-with-nvidia-rtx-spark-n1x-price-india-launch-availability-specifications-features-12380191)
 
-### 10. High sugar, salt or fat? Supreme Court orders warning labels on food packs [2 sources]
-- **Topic:** `Business` | **Score:** `29.12` | **Published:** 2026-11-26 06:45 UTC
-- **Coverage:** [Business Standard](https://www.business-standard.com/industry/news/sc-mandates-separate-warning-labels-for-salt-sugar-and-fat-on-food-packs-126112600449_1.html) • [Inc42](https://inc42.com/buzz/sc-orders-separate-warning-labels-for-high-fat-sugar-and-salt-in-packaged-foods/)
+### 10. Claude Duet AI Assistant Now Available in India in Research Preview; Standalone App Now Listed on Marketplaces [1 source]
+- **Topic:** `Tech` | **Score:** `16.95` | **Published:** 2026-11-26 10:33 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/ai/news/claude-duet-ai-assistant-india-app-available-research-preview-12380234)
