@@ -1,158 +1,182 @@
 {
-  "generated_at": "2026-11-26 01:12:01 UTC",
+  "generated_at": "2026-11-26 11:35:00 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "US approves SpaceX plan to send a million data satellites to space",
-      "score": 46.6,
+      "title": "[Update] MIB Reiterates Pakistani Content Ban To Netflix",
+      "score": 48.14,
       "source_count": 3,
-      "published_at": "2026-11-26 00:07 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
-        },
-        {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
-        }
-      ]
-    },
-    {
-      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
-      "score": 29.06,
-      "source_count": 2,
-      "published_at": "2026-11-25 19:45 UTC",
+      "published_at": "2026-11-26 10:51 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/iowa-lead-detonation-us-army-to-blast-68-barrels-of-volatile-explosive-material-a-day-before-thanksgiving-as-fema-issues-emergency-alert-urges-residents-to-evacuate/articleshow/136160374.cms"
+          "url": "https://economictimes.indiatimes.com/industry/media/entertainment/centre-asks-netflix-to-ensure-that-content-originating-in-pakistan-is-not-streamed-in-india-jo-bachay-hain-sang-samait-lo/articleshow/136182184.cms"
         },
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/india-news/india-pakistan-film-ott-ban-netflix-movies-actors-uri-pahalgam-terror-attack-126112600851_1.html"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/film-body-seeks-ban-on-pakistani-shows-netflix-release-in-india/"
         }
       ]
     },
     {
-      "title": "Now, Noel wants revision of Tata Sons board agenda, pushes restructuring",
-      "score": 28.95,
-      "source_count": 2,
-      "published_at": "2026-11-25 18:42 UTC",
+      "title": "Uber Appoints Former Zomato Food Delivery CEO Rakesh Ranjan As India President",
+      "score": 47.48,
+      "source_count": 3,
+      "published_at": "2026-11-26 04:32 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/tata-sons-listing-board-meeting-agenda-noel-tata-trusts-11795623321841.html"
+          "url": "https://www.livemint.com/companies/people/who-is-rakesh-ranjan-uber-appoints-ex-zomato-food-delivery-ceo-to-lead-india-and-south-asia-11795663512666.html"
         },
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/now-noel-wants-revision-of-tata-sons-board-agenda-pushes-restructuring-126112600003_1.html"
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/uber-appoints-former-zomato-food-delivery-ceo-rakesh-ranjan-as-india-president/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/uber-former-zomato-food-delivery-ceo-rakesh-ranjan-india-south-asia-president"
         }
       ]
     },
     {
-      "title": "Cognizant in talks to take over parts of S&P Global's Capital IQ ops",
-      "score": 28.95,
+      "title": "XEBO.ai Bags $10.5 Mn To Expand Its Customer Experience Platform",
+      "score": 33.47,
       "source_count": 2,
-      "published_at": "2026-11-25 18:43 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/cognizant-in-talks-to-take-over-parts-of-s-p-globals-capital-iq-ops-11795608689504.html"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/cognizant-in-talks-to-take-over-parts-of-s-p-global-s-capital-iq-operations-126112501155_1.html"
-        }
-      ]
-    },
-    {
-      "title": "US finds no evidence China directed Alice Huang to spy on Nvidia CEO",
-      "score": 28.79,
-      "source_count": 2,
-      "published_at": "2026-11-25 17:09 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/no-evidence-chinese-intelligence-directed-alice-huang-to-spy-on-nvidia-ceo-wsj-reports/articleshow/136168250.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/us-finds-no-evidence-china-directed-alice-huang-to-spy-on-nvidia-ceo-126112501267_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Air India seeks new revenue beyond passenger seats",
-      "score": 16.76,
-      "source_count": 1,
-      "published_at": "2026-11-25 13:16 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-mulls-dedicated-freighter-business-to-tap-cargo-market-opportunities/articleshow/136163094.cms"
-        }
-      ]
-    },
-    {
-      "title": "[Update] Anthropic Rolls Out Claude Duet In India After US Launch",
-      "score": 16.76,
-      "source_count": 1,
-      "published_at": "2026-11-25 13:20 UTC",
+      "published_at": "2026-11-26 05:19 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/"
+          "url": "https://inc42.com/buzz/xebo-ai-bags-10-5-mn-to-strengthen-ai-solutions-stack/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/xeboai-bags-10-million-funding-from-emirates-growth-fund"
         }
       ]
     },
     {
-      "title": "HMD Rise 4G Tipped to Launch in India Soon; Could Arrive as the Rebranded HMD Arc 2",
-      "score": 16.64,
-      "source_count": 1,
-      "published_at": "2026-11-25 12:08 UTC",
-      "topic": "tech",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "score": 30.95,
+      "source_count": 2,
+      "published_at": "2026-11-26 09:54 UTC",
+      "topic": "startups",
       "sources": [
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/hmd-rise-4g-india-launch-tipped-arc-2-rebranded-design-specifications-features-12375709"
-        }
-      ]
-    },
-    {
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "score": 16.38,
-      "source_count": 1,
-      "published_at": "2026-11-26 00:04 UTC",
-      "topic": "tech",
-      "sources": [
+          "name": "TechCrunch - Startups",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+        },
         {
           "name": "The Verge",
-          "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras"
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
         }
       ]
     },
     {
-      "title": "PLI, Make in India under US scanner",
-      "score": 16.37,
-      "source_count": 1,
-      "published_at": "2026-11-26 00:00 UTC",
+      "title": "Apple to Open Seventh Retail Store in India in Hyderabad on December 10",
+      "score": 30.93,
+      "source_count": 2,
+      "published_at": "2026-11-26 09:43 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/pli-make-in-india-under-us-scanner-as-washington-proposes-25-tariffs-on-indian-goods/articleshow/136172050.cms"
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-to-expand-india-retail-footprint-with-first-hyderabad-store-on-december-10/articleshow/136181037.cms"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/apple-kukatpally-hyderabad-store-opening-date-products-services-12379845"
+        }
+      ]
+    },
+    {
+      "title": "Meta officials met Congress amid its Youth wing’s campaign against online censorship",
+      "score": 30.79,
+      "source_count": 2,
+      "published_at": "2026-11-26 08:23 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/bound-by-local-laws-meta-tells-congress-amid-content-moderation-row/"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-meta-congress-youth-wing-online-censorship-campaign/"
+        }
+      ]
+    },
+    {
+      "title": "Green Aero raises $14M as India pushes for indigenous jet propulsion",
+      "score": 30.52,
+      "source_count": 2,
+      "published_at": "2026-11-26 05:45 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/green-aero-raises-14-mn-to-build-jet-engines-combat-drones/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/green-aero-raises-usd-14m-as-india-pushes-for-indigenous-jet-propulsion"
+        }
+      ]
+    },
+    {
+      "title": "HC to hear Tata Trusts' plea against Chandra's reappointment on Friday",
+      "score": 29.57,
+      "source_count": 2,
+      "published_at": "2026-11-26 11:02 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/bombay-hc-to-hear-tata-trusts-lawsuits-against-chandrasekaran-s-reappointment-on-friday-ahead-of-nov-30-board-meeting-11795689108826.html"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/hc-to-hear-tata-trusts-plea-against-chandrasekaran-s-reappointment-friday-126112600676_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending",
+      "score": 29.27,
+      "source_count": 2,
+      "published_at": "2026-11-26 08:09 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending"
+        }
+      ]
+    },
+    {
+      "title": "High sugar, salt or fat? Supreme Court orders warning labels on food packs",
+      "score": 29.12,
+      "source_count": 2,
+      "published_at": "2026-11-26 06:45 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/industry/news/sc-mandates-separate-warning-labels-for-salt-sugar-and-fat-on-food-packs-126112600449_1.html"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/sc-orders-separate-warning-labels-for-high-fat-sugar-and-salt-in-packaged-foods/"
         }
       ]
     }
