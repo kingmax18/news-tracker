@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 25, 2026 at 16:13 UTC | **Top Stories:** 10
+> **Generated on:** November 26, 2026 at 01:12 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Flipkart CEO Kalyan Krishnamurthy to exit after over 11 years [4 sources]
-- **Topic:** `Business` | **Score:** `65.48` | **Published:** 2026-11-25 14:48 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/who-is-balaji-thiagarajan-meet-flipkart-s-new-interim-ceo-as-kalyan-krishnamurthy-exits-e-commerce-giant-11795547837555.html) • [Inc42](https://inc42.com/buzz/kalyan-krishnamurthy-to-exit-flipkart-after-nearly-a-decade-at-the-helm/) • [MediaNama](https://www.medianama.com/2026/11/223-flipkart-kalyan-krishnamurthy-step-down/) • [YourStory](https://yourstory.com/2026/11/flipkart-ceo-kalyan-krishnamurthy-to-exit-after-over-11-years)
+### 1. US approves SpaceX plan to send a million data satellites to space [3 sources]
+- **Topic:** `Business` | **Score:** `46.6` | **Published:** 2026-11-26 00:07 UTC
+- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss) • [The Verge](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers) • [Ars Technica](https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/)
 
-### 2. What Jensen Huang’s NVIDIA Return Means For India’s AI Players [3 sources]
-- **Topic:** `Business` | **Score:** `49.46` | **Published:** 2026-11-25 13:47 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/nvidia-all-hands-meeting-jensen-huang-tells-employees-he-is-in-therapy-still-doesn-t-believe-in-a-succession-plan-11795568676430.html) • [Gadgets 360](https://www.gadgets360.com/ai/news/jensen-huang-apologises-meeting-nvidia-ceo-reinstatement-12373704) • [Inc42](https://inc42.com/buzz/what-jensen-huangs-nvidia-return-means-for-indias-ai-players/)
+### 2. EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa [2 sources]
+- **Topic:** `Business` | **Score:** `29.06` | **Published:** 2026-11-25 19:45 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/iowa-lead-detonation-us-army-to-blast-68-barrels-of-volatile-explosive-material-a-day-before-thanksgiving-as-fema-issues-emergency-alert-urges-residents-to-evacuate/articleshow/136160374.cms) • [The Verge](https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant)
 
-### 3. Microsoft Declares 'Code Red' After Historic Outage, Internal Memos Show [3 sources]
-- **Topic:** `Business` | **Score:** `46.19` | **Published:** 2026-11-25 11:12 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/what-is-code-red-declared-microsoft-after-historic-outlook-teams-outage-on-november-explained-11795577119032.html) • [Gadgets 360](https://www.gadgets360.com/internet/news/microsoft-code-red-after-outlook-outage-internal-memo-12374487) • [The Verge](https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage)
+### 3. Now, Noel wants revision of Tata Sons board agenda, pushes restructuring [2 sources]
+- **Topic:** `Business` | **Score:** `28.95` | **Published:** 2026-11-25 18:42 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/tata-sons-listing-board-meeting-agenda-noel-tata-trusts-11795623321841.html) • [Business Standard](https://www.business-standard.com/companies/news/now-noel-wants-revision-of-tata-sons-board-agenda-pushes-restructuring-126112600003_1.html)
 
-### 4. Air India plans closer ties with Air India Express to tackle cost pressures [2 sources]
-- **Topic:** `Business` | **Score:** `30.99` | **Published:** 2026-11-25 14:56 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/air-india-ceo-tewolde-targets-6-000-crore-in-savings-under-one-group-push-11795615847512.html) • [Business Standard](https://www.business-standard.com/industry/aviation/air-india-plans-closer-ties-with-air-india-express-to-tackle-cost-pressures-126112500970_1.html)
+### 4. Cognizant in talks to take over parts of S&P Global's Capital IQ ops [2 sources]
+- **Topic:** `Business` | **Score:** `28.95` | **Published:** 2026-11-25 18:43 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/cognizant-in-talks-to-take-over-parts-of-s-p-globals-capital-iq-ops-11795608689504.html) • [Business Standard](https://www.business-standard.com/companies/news/cognizant-in-talks-to-take-over-parts-of-s-p-global-s-capital-iq-operations-126112501155_1.html)
 
-### 5. US announces new tariffs on host of countries including China [2 sources]
-- **Topic:** `Business` | **Score:** `30.98` | **Published:** 2026-11-25 14:52 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/foreign-trade/donald-trumps-new-tariff-tantrum-for-india-china-can-run-into-a-legal-and-political-minefield-can-us-president-put-tariffs-can-democrats-change-trump-tariffs-section-301/articleshow/136152392.cms) • [BBC News - Business](https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss)
+### 5. US finds no evidence China directed Alice Huang to spy on Nvidia CEO [2 sources]
+- **Topic:** `Business` | **Score:** `28.79` | **Published:** 2026-11-25 17:09 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/no-evidence-chinese-intelligence-directed-alice-huang-to-spy-on-nvidia-ceo-wsj-reports/articleshow/136168250.cms) • [Business Standard](https://www.business-standard.com/world-news/us-finds-no-evidence-china-directed-alice-huang-to-spy-on-nvidia-ceo-126112501267_1.html)
 
-### 6. Foxconn India Unit Faces Insolvency Plea Over ₹143 Cr In Alleged Dues [2 sources]
-- **Topic:** `Business` | **Score:** `30.32` | **Published:** 2026-11-25 08:30 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/foxconn-india-insolvency-case-bcd-emprasa-llp-11795580916661.html) • [Inc42](https://inc42.com/buzz/foxconn-india-unit-faces-insolvency-plea-over-%e2%82%b9143-cr-in-alleged-dues/)
+### 6. Air India seeks new revenue beyond passenger seats [1 source]
+- **Topic:** `Business` | **Score:** `16.76` | **Published:** 2026-11-25 13:16 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-mulls-dedicated-freighter-business-to-tap-cargo-market-opportunities/articleshow/136163094.cms)
 
-### 7. What's going on with the Riemann hypothesis? [2 sources]
-- **Topic:** `Business` | **Score:** `29.33` | **Published:** 2026-11-25 13:24 UTC
-- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss) • [Ars Technica](https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/)
+### 7. [Update] Anthropic Rolls Out Claude Duet In India After US Launch [1 source]
+- **Topic:** `Startups` | **Score:** `16.76` | **Published:** 2026-11-25 13:20 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/)
 
-### 8. PhonePe Revives IPO Plans, Eyes March 2027 Listing At Up To $15 Bn Valuation [2 sources]
-- **Topic:** `Startups` | **Score:** `29.31` | **Published:** 2026-11-25 13:12 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/phonepe-revives-ipo-plans-eyes-march-2027-listing-at-up-to-15-bn-valuation/) • [YourStory](https://yourstory.com/2026/11/phonepe-resumes-ipo-process-targets-listing-in-feb-march-12-15b-valuation)
+### 8. HMD Rise 4G Tipped to Launch in India Soon; Could Arrive as the Rebranded HMD Arc 2 [1 source]
+- **Topic:** `Tech` | **Score:** `16.64` | **Published:** 2026-11-25 12:08 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/hmd-rise-4g-india-launch-tipped-arc-2-rebranded-design-specifications-features-12375709)
 
-### 9. 6 Brands Going Big at the 2026 Macy’s Thanksgiving Day Parade: Planters, Levi’s and More [2 sources]
-- **Topic:** `Business` | **Score:** `29.12` | **Published:** 2026-11-25 11:26 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/is-macys-thanksgiving-parade-cancelled-where-to-watch-macys-thanksgiving-day-parade-2026-as-100th-edition-brings-megan-moroney-queen-latifah-devo-and-more/articleshow/136159334.cms) • [Adweek](https://www.adweek.com/brand-marketing/6-brands-going-big-at-the-2026-macys-thanksgiving-day-parade-planters-levis-and-more/)
+### 9. Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too [1 source]
+- **Topic:** `Tech` | **Score:** `16.38` | **Published:** 2026-11-26 00:04 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras)
 
-### 10. Equal heir? Lakshmi Venu takes TVS partition fight to Madras HC [2 sources]
-- **Topic:** `Business` | **Score:** `28.81` | **Published:** 2026-11-25 08:27 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/lakshmi-venu-moves-madras-high-court-for-equal-share-in-tvs-group-assets-11795589056917.html) • [YourStory](https://yourstory.com/2026/11/lakshmi-venu-files-suit-partition-venu-srinivasan-family-assets)
+### 10. PLI, Make in India under US scanner [1 source]
+- **Topic:** `Business` | **Score:** `16.37` | **Published:** 2026-11-26 00:00 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/foreign-trade/pli-make-in-india-under-us-scanner-as-washington-proposes-25-tariffs-on-indian-goods/articleshow/136172050.cms)
