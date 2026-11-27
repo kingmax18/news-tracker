@@ -1,142 +1,178 @@
 {
-  "generated_at": "2026-11-27 03:19:25 UTC",
+  "generated_at": "2026-11-27 15:40:03 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-      "score": 29.39,
-      "source_count": 2,
-      "published_at": "2026-11-27 01:07 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-uses-thanksgiving-message-to-lash-out-at-political-foes-immigrants-federal-government/articleshow/136206364.cms"
-        },
-        {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "title": "SC directs tightening of front-of-package nutrition labelling",
-      "score": 28.24,
-      "source_count": 2,
-      "published_at": "2026-11-26 14:00 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/industry/news/sc-directs-fssai-to-revise-front-of-pack-labelling-norms-within-10-weeks-126112601261_1.html"
-        },
-        {
-          "name": "ET Brand Equity - Advertising",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/sc-directs-tightening-of-front-of-package-nutrition-labelling/136188092"
-        }
-      ]
-    },
-    {
-      "title": "WhatsApp To Partner Jio To Launch Int’l Data eSIM Feature In India",
-      "score": 17.32,
-      "source_count": 1,
-      "published_at": "2026-11-26 20:49 UTC",
+      "title": "CERT-In Flags High-Severity Vulnerability In e-Governance Platform DIGIT",
+      "score": 46.67,
+      "source_count": 3,
+      "published_at": "2026-11-27 15:16 UTC",
       "topic": "startups",
       "sources": [
         {
           "name": "Inc42",
-          "url": "https://inc42.com/buzz/whatsapp-to-partner-jio-to-launch-intl-data-esim-feature-in-india/"
+          "url": "https://inc42.com/buzz/cert-in-flags-five-cybersecurity-vulnerabilities-in-whatsapp-warns-of-data-exposure/"
+        },
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/apps/news/cert-in-whatsapp-high-severity-vulnerabilities-android-ios-desktop-12385153"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-cert-in-vulnerabilities-whatsapp/"
         }
       ]
     },
     {
-      "title": "When will Agnikul start earning operating revenue?; \nHow neighbourhood medical stores are becoming e-clinics",
-      "score": 16.36,
-      "source_count": 1,
-      "published_at": "2026-11-27 02:00 UTC",
+      "title": "No stay for Tata Trusts: HC lets Tata Sons board meet, casting vote intact",
+      "score": 46.59,
+      "source_count": 3,
+      "published_at": "2026-11-27 14:30 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/tata-trusts-vs-tata-sons-bombay-high-court-11795785693009.html"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/bombay-hc-refuses-to-halt-tata-sons-board-meet-amid-tata-trusts-challenge-126112701216_1.html"
+        },
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/hc-tata-trusts-pleas-against-chandrasekaran-reappointment"
+        }
+      ]
+    },
+    {
+      "title": "Swiggy's Instamart to lay off 340 employees amid AI-led restructuring",
+      "score": 30.56,
+      "source_count": 2,
+      "published_at": "2026-11-27 10:17 UTC",
       "topic": "startups",
       "sources": [
         {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/swiggy-instamart-lays-off-340-employees-amid-organisational-restructuring/"
+        },
+        {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/agnikul-start-earning-operating-revenue-neighbourhood-medical-stores-becoming-e-clinics"
+          "url": "https://yourstory.com/2026/11/swiggy-instamart-let-go-over-300-employees-ai-led-restructuring-move"
         }
       ]
     },
     {
-      "title": "Kaynes Semicon plans fourfold capacity expansion",
-      "score": 16.21,
-      "source_count": 1,
-      "published_at": "2026-11-27 00:30 UTC",
+      "title": "Britannia Industries CMO Puneet Das quits within 10 months of joining",
+      "score": 29.48,
+      "source_count": 2,
+      "published_at": "2026-11-27 14:17 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/tech/technology/kaynes-semicon-plans-fourfold-expansion-in-osat-capacity-with-vishay-jv/articleshow/136195603.cms"
+          "url": "https://economictimes.indiatimes.com/industry/cons-products/food/britannia-cmo-puneet-das-steps-down-after-10-months/articleshow/136224842.cms"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/people/britannia-industries-cmo-puneet-das-quits-within-10-months-of-joining-126112700699_1.html"
         }
       ]
     },
     {
-      "title": "Nearly 65% of new GCC fresher jobs require AI skills",
-      "score": 16.21,
-      "source_count": 1,
-      "published_at": "2026-11-27 00:30 UTC",
+      "title": "Samay Raina crosses 1M YouTube channel members",
+      "score": 29.38,
+      "source_count": 2,
+      "published_at": "2026-11-27 13:20 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nearly-65-of-new-gcc-fresher-jobs-require-ai-skills/articleshow/136198661.cms"
+          "url": "https://economictimes.indiatimes.com/industry/media/entertainment/samay-raina-becomes-first-creator-globally-to-cross-1-million-youtube-channel-members-after-indias-got-latent-comeback/articleshow/136214181.cms"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/samay-raina-becomes-first-youtube-creator-globally-to-cross-10-lakh-paid-channel-members/"
         }
       ]
     },
     {
-      "title": "Piramal Pharma raises FY27 growth guidance; analysts see 15-23% upside",
-      "score": 16.19,
-      "source_count": 1,
-      "published_at": "2026-11-27 00:19 UTC",
-      "topic": "business",
+      "title": "What’s next for Kalyan Krishnamurthy after Flipkart? 5 possible paths",
+      "score": 29.3,
+      "source_count": 2,
+      "published_at": "2026-11-27 12:36 UTC",
+      "topic": "startups",
       "sources": [
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/piramal-pharma-raises-fy27-growth-guidance-analysts-see-15-23-upside/articleshow/136205521.cms"
-        }
-      ]
-    },
-    {
-      "title": "ET India Ascends: Experts to share views on Dec 1",
-      "score": 16.15,
-      "source_count": 1,
-      "published_at": "2026-11-27 00:00 UTC",
-      "topic": "business",
-      "sources": [
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/walmart-international-ceo-to-meet-flipkart-staff-after-kalyan-krishnamurthys-exit-report/"
+        },
         {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/et-india-ascends-summit-nitin-gadkari-shaktikanta-das-and-other-top-policy-names-to-chalk-out-roadmap-for-2047/articleshow/136202642.cms"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/whats-next-for-kalyan-krishnamurthy-after-flipkart-5-possible-paths"
         }
       ]
     },
     {
-      "title": "Hisense E7S Hi-QLED MiniLED TV Series Launched in India With VRR and Dolby Atmos Support: Price, Specifications",
-      "score": 16.09,
-      "source_count": 1,
-      "published_at": "2026-11-26 08:58 UTC",
+      "title": "Meta to sell international travel data eSIMs inside WhatsApp",
+      "score": 29.1,
+      "source_count": 2,
+      "published_at": "2026-11-27 10:38 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/tv/news/hisense-e7s-hi-qled-miniled-tv-series-price-in-india-launch-sale-features-specifications-12379891"
+          "url": "https://www.gadgets360.com/apps/news/whatsapp-esim-feature-for-international-travellers-jio-telecom-partners-12383985"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-meta-sell-travel-esims-via-whatsapp/"
         }
       ]
     },
     {
-      "title": "Asia made a big AI bet on Nvidia. What happens now?",
-      "score": 16.06,
-      "source_count": 1,
-      "published_at": "2026-11-26 23:08 UTC",
+      "title": "SAP layoffs: 10,000 jobs under threat; check reason",
+      "score": 28.74,
+      "source_count": 2,
+      "published_at": "2026-11-27 07:13 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "BBC News - Business",
-          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/sap-layoffs-2026-at-least-10000-jobs-under-threat-as-company-reshapes-business-for-ai-check-affected-departments-and-key-details/articleshow/136208796.cms"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/sap-layoffs-german-software-major-considering-10-000-job-cuts-9-of-global-workforce-could-be-hit-check-which-depts-11795762014958.html"
+        }
+      ]
+    },
+    {
+      "title": "US-based GEF Capital prepares to ramp up India climate-tech investments",
+      "score": 28.74,
+      "source_count": 2,
+      "published_at": "2026-11-26 16:47 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/usbased-gef-capital-prepares-to-ramp-up-india-climate-tech-investments-pe-firm-11795687202336.html"
+        },
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/gef-capital-partners-announces-first-close-of-india-climate-fund-iv-at-615-mn/"
+        }
+      ]
+    },
+    {
+      "title": "Manish Chokhani lauds IIT Madras as India’s startup factory: Here are some of the top companies founded by its alumni",
+      "score": 17.87,
+      "source_count": 1,
+      "published_at": "2026-11-27 14:26 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/start-ups/manish-chokhani-lauds-iit-madras-as-india-s-startup-factory-here-are-some-of-the-top-companies-founded-by-its-alumni-11795785348413.html"
         }
       ]
     }
