@@ -1,44 +1,45 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 26, 2026 at 20:35 UTC | **Top Stories:** 10
+> **Generated on:** November 27, 2026 at 03:19 UTC | **Top Stories:** 10
 
 ---
 
-### 1. Raymond partners with Jaideep Ahlawat for new campaign [2 sources]
-- **Topic:** `Business` | **Score:** `32.03` | **Published:** 2026-11-26 14:53 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/people/raymond-taps-jaideep-ahlawat-as-friend-of-the-brand-to-revive-retro-bollywood-fashion-all-you-need-to-know-11795703077416.html) • [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/raymond-partners-with-jaideep-ahlawat-for-new-campaign/136161142)
+### 1. Faisal Islam: Why Trump's new tariffs are less of a threat [2 sources]
+- **Topic:** `Business` | **Score:** `29.39` | **Published:** 2026-11-27 01:07 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/international/world-news/trump-uses-thanksgiving-message-to-lash-out-at-political-foes-immigrants-federal-government/articleshow/136206364.cms) • [BBC News - Business](https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss)
 
-### 2. CERT-In flags high-severity vulnerability in eGov’s DIGIT platforms [2 sources]
-- **Topic:** `Startups` | **Score:** `29.44` | **Published:** 2026-11-26 18:50 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/cert-in-flags-high-severity-vulnerability-in-e-governance-platform-digit/) • [MediaNama](https://www.medianama.com/2026/11/223-cert-in-high-severity-vulnerability-egov-digit-platform/)
+### 2. SC directs tightening of front-of-package nutrition labelling [2 sources]
+- **Topic:** `Business` | **Score:** `28.24` | **Published:** 2026-11-26 14:00 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/industry/news/sc-directs-fssai-to-revise-front-of-pack-labelling-norms-within-10-weeks-126112601261_1.html) • [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/sc-directs-tightening-of-front-of-package-nutrition-labelling/136188092)
 
-### 3. Govt picks BSNL, MTNL assets worth ₹1,300 crore for monetisation [2 sources]
-- **Topic:** `Business` | **Score:** `29.24` | **Published:** 2026-11-26 16:54 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/telecom/telecom-news/nlmc-eyes-rs-1300-crore-fresh-asset-monetisation-from-bsnl-mtnl/articleshow/136198619.cms) • [Business Standard](https://www.business-standard.com/economy/news/govt-picks-bsnl-mtnl-assets-worth-1-300-crore-for-monetisation-126112601034_1.html)
+### 3. WhatsApp To Partner Jio To Launch Int’l Data eSIM Feature In India [1 source]
+- **Topic:** `Startups` | **Score:** `17.32` | **Published:** 2026-11-26 20:49 UTC
+- **Coverage:** [Inc42](https://inc42.com/buzz/whatsapp-to-partner-jio-to-launch-intl-data-esim-feature-in-india/)
 
-### 4. Flipkart CEO Kalyan Krishnamurthy to step down; Lakshmi Venu moves court over family dispute [2 sources]
-- **Topic:** `Business` | **Score:** `28.86` | **Published:** 2026-11-26 13:19 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/tvs-family-dispute-reaches-madras-court-is-lakshmi-venu-seeking-a-one-third-share-what-we-know-11795696560871.html) • [YourStory](https://yourstory.com/2026/11/flipkart-ceo-kalyan-krishnamurthy-to-step-down-lakshmi-venu-moves-court)
+### 4. When will Agnikul start earning operating revenue?; 
+How neighbourhood medical stores are becoming e-clinics [1 source]
+- **Topic:** `Startups` | **Score:** `16.36` | **Published:** 2026-11-27 02:00 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/agnikul-start-earning-operating-revenue-neighbourhood-medical-stores-becoming-e-clinics)
 
-### 5. IndiaMART Settles Legal Dispute With OpenAI [2 sources]
-- **Topic:** `Startups` | **Score:** `28.86` | **Published:** 2026-11-26 13:18 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/indiamart-settles-legal-dispute-with-openai/) • [MediaNama](https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt/)
+### 5. Kaynes Semicon plans fourfold capacity expansion [1 source]
+- **Topic:** `Business` | **Score:** `16.21` | **Published:** 2026-11-27 00:30 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/technology/kaynes-semicon-plans-fourfold-expansion-in-osat-capacity-with-vishay-jv/articleshow/136195603.cms)
 
-### 6. Haier Civic AI Maxx Robot Vacuum Cleaner With 8,000Pa Suction Launched in India: Price, Features [1 source]
-- **Topic:** `Tech` | **Score:** `18.62` | **Published:** 2026-11-26 12:08 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/smart-home/news/haier-civic-ai-maxx-robot-vacuum-cleaner-price-in-india-launch-specifications-features-12380636)
+### 6. Nearly 65% of new GCC fresher jobs require AI skills [1 source]
+- **Topic:** `Business` | **Score:** `16.21` | **Published:** 2026-11-27 00:30 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/tech/artificial-intelligence/nearly-65-of-new-gcc-fresher-jobs-require-ai-skills/articleshow/136198661.cms)
 
-### 7. Founder Salaries Tracker FY26: How Much Did India’s Startup Founders Earn? [1 source]
-- **Topic:** `Startups` | **Score:** `17.15` | **Published:** 2026-11-26 12:25 UTC
-- **Coverage:** [Inc42](https://inc42.com/features/founder-salaries-tracker-fy26-how-much-did-indias-startup-founders-earn/)
+### 7. Piramal Pharma raises FY27 growth guidance; analysts see 15-23% upside [1 source]
+- **Topic:** `Business` | **Score:** `16.19` | **Published:** 2026-11-27 00:19 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/markets/stocks/earnings/piramal-pharma-raises-fy27-growth-guidance-analysts-see-15-23-upside/articleshow/136205521.cms)
 
-### 8. HMD Rise Launched in India With 5,000mAh Battery, 13-Megapixel Rear Camera: Price, Features [1 source]
-- **Topic:** `Tech` | **Score:** `17.03` | **Published:** 2026-11-26 11:17 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/hmd-rise-price-in-india-launch-specifications-features-12380218)
+### 8. ET India Ascends: Experts to share views on Dec 1 [1 source]
+- **Topic:** `Business` | **Score:** `16.15` | **Published:** 2026-11-27 00:00 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/policy/et-india-ascends-summit-nitin-gadkari-shaktikanta-das-and-other-top-policy-names-to-chalk-out-roadmap-for-2047/articleshow/136202642.cms)
 
-### 9. HP OmniBook Ultra 16 With NVIDIA RTX Spark N1X Launched in India: Price, Specifications [1 source]
-- **Topic:** `Tech` | **Score:** `17.03` | **Published:** 2026-11-26 11:16 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/laptops/news/hp-omnibook-ultra-16-with-nvidia-rtx-spark-n1x-price-india-launch-availability-specifications-features-12380191)
+### 9. Hisense E7S Hi-QLED MiniLED TV Series Launched in India With VRR and Dolby Atmos Support: Price, Specifications [1 source]
+- **Topic:** `Tech` | **Score:** `16.09` | **Published:** 2026-11-26 08:58 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/tv/news/hisense-e7s-hi-qled-miniled-tv-series-price-in-india-launch-sale-features-specifications-12379891)
 
-### 10. Claude Duet AI Assistant Now Available in India in Research Preview; Standalone App Now Listed on Marketplaces [1 source]
-- **Topic:** `Tech` | **Score:** `16.95` | **Published:** 2026-11-26 10:33 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/ai/news/claude-duet-ai-assistant-india-app-available-research-preview-12380234)
+### 10. Asia made a big AI bet on Nvidia. What happens now? [1 source]
+- **Topic:** `Business` | **Score:** `16.06` | **Published:** 2026-11-26 23:08 UTC
+- **Coverage:** [BBC News - Business](https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss)

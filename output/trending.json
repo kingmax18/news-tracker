@@ -1,154 +1,142 @@
 {
-  "generated_at": "2026-11-26 20:35:37 UTC",
+  "generated_at": "2026-11-27 03:19:25 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "Raymond partners with Jaideep Ahlawat for new campaign",
-      "score": 32.03,
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "score": 29.39,
       "source_count": 2,
-      "published_at": "2026-11-26 14:53 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/people/raymond-taps-jaideep-ahlawat-as-friend-of-the-brand-to-revive-retro-bollywood-fashion-all-you-need-to-know-11795703077416.html"
-        },
-        {
-          "name": "ET Brand Equity - Advertising",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/raymond-partners-with-jaideep-ahlawat-for-new-campaign/136161142"
-        }
-      ]
-    },
-    {
-      "title": "CERT-In flags high-severity vulnerability in eGov’s DIGIT platforms",
-      "score": 29.44,
-      "source_count": 2,
-      "published_at": "2026-11-26 18:50 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/cert-in-flags-high-severity-vulnerability-in-e-governance-platform-digit/"
-        },
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-cert-in-high-severity-vulnerability-egov-digit-platform/"
-        }
-      ]
-    },
-    {
-      "title": "Govt picks BSNL, MTNL assets worth ₹1,300 crore for monetisation",
-      "score": 29.24,
-      "source_count": 2,
-      "published_at": "2026-11-26 16:54 UTC",
+      "published_at": "2026-11-27 01:07 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/nlmc-eyes-rs-1300-crore-fresh-asset-monetisation-from-bsnl-mtnl/articleshow/136198619.cms"
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-uses-thanksgiving-message-to-lash-out-at-political-foes-immigrants-federal-government/articleshow/136206364.cms"
         },
         {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/economy/news/govt-picks-bsnl-mtnl-assets-worth-1-300-crore-for-monetisation-126112601034_1.html"
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "title": "Flipkart CEO Kalyan Krishnamurthy to step down; Lakshmi Venu moves court over family dispute",
-      "score": 28.86,
+      "title": "SC directs tightening of front-of-package nutrition labelling",
+      "score": 28.24,
       "source_count": 2,
-      "published_at": "2026-11-26 13:19 UTC",
+      "published_at": "2026-11-26 14:00 UTC",
       "topic": "business",
       "sources": [
         {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/tvs-family-dispute-reaches-madras-court-is-lakshmi-venu-seeking-a-one-third-share-what-we-know-11795696560871.html"
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/industry/news/sc-directs-fssai-to-revise-front-of-pack-labelling-norms-within-10-weeks-126112601261_1.html"
         },
+        {
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/sc-directs-tightening-of-front-of-package-nutrition-labelling/136188092"
+        }
+      ]
+    },
+    {
+      "title": "WhatsApp To Partner Jio To Launch Int’l Data eSIM Feature In India",
+      "score": 17.32,
+      "source_count": 1,
+      "published_at": "2026-11-26 20:49 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/buzz/whatsapp-to-partner-jio-to-launch-intl-data-esim-feature-in-india/"
+        }
+      ]
+    },
+    {
+      "title": "When will Agnikul start earning operating revenue?; \nHow neighbourhood medical stores are becoming e-clinics",
+      "score": 16.36,
+      "source_count": 1,
+      "published_at": "2026-11-27 02:00 UTC",
+      "topic": "startups",
+      "sources": [
         {
           "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/flipkart-ceo-kalyan-krishnamurthy-to-step-down-lakshmi-venu-moves-court"
+          "url": "https://yourstory.com/2026/11/agnikul-start-earning-operating-revenue-neighbourhood-medical-stores-becoming-e-clinics"
         }
       ]
     },
     {
-      "title": "IndiaMART Settles Legal Dispute With OpenAI",
-      "score": 28.86,
-      "source_count": 2,
-      "published_at": "2026-11-26 13:18 UTC",
-      "topic": "startups",
+      "title": "Kaynes Semicon plans fourfold capacity expansion",
+      "score": 16.21,
+      "source_count": 1,
+      "published_at": "2026-11-27 00:30 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/indiamart-settles-legal-dispute-with-openai/"
-        },
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt/"
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/tech/technology/kaynes-semicon-plans-fourfold-expansion-in-osat-capacity-with-vishay-jv/articleshow/136195603.cms"
         }
       ]
     },
     {
-      "title": "Haier Civic AI Maxx Robot Vacuum Cleaner With 8,000Pa Suction Launched in India: Price, Features",
-      "score": 18.62,
+      "title": "Nearly 65% of new GCC fresher jobs require AI skills",
+      "score": 16.21,
       "source_count": 1,
-      "published_at": "2026-11-26 12:08 UTC",
+      "published_at": "2026-11-27 00:30 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nearly-65-of-new-gcc-fresher-jobs-require-ai-skills/articleshow/136198661.cms"
+        }
+      ]
+    },
+    {
+      "title": "Piramal Pharma raises FY27 growth guidance; analysts see 15-23% upside",
+      "score": 16.19,
+      "source_count": 1,
+      "published_at": "2026-11-27 00:19 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/piramal-pharma-raises-fy27-growth-guidance-analysts-see-15-23-upside/articleshow/136205521.cms"
+        }
+      ]
+    },
+    {
+      "title": "ET India Ascends: Experts to share views on Dec 1",
+      "score": 16.15,
+      "source_count": 1,
+      "published_at": "2026-11-27 00:00 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/et-india-ascends-summit-nitin-gadkari-shaktikanta-das-and-other-top-policy-names-to-chalk-out-roadmap-for-2047/articleshow/136202642.cms"
+        }
+      ]
+    },
+    {
+      "title": "Hisense E7S Hi-QLED MiniLED TV Series Launched in India With VRR and Dolby Atmos Support: Price, Specifications",
+      "score": 16.09,
+      "source_count": 1,
+      "published_at": "2026-11-26 08:58 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/smart-home/news/haier-civic-ai-maxx-robot-vacuum-cleaner-price-in-india-launch-specifications-features-12380636"
+          "url": "https://www.gadgets360.com/tv/news/hisense-e7s-hi-qled-miniled-tv-series-price-in-india-launch-sale-features-specifications-12379891"
         }
       ]
     },
     {
-      "title": "Founder Salaries Tracker FY26: How Much Did India’s Startup Founders Earn?",
-      "score": 17.15,
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "score": 16.06,
       "source_count": 1,
-      "published_at": "2026-11-26 12:25 UTC",
-      "topic": "startups",
+      "published_at": "2026-11-26 23:08 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/features/founder-salaries-tracker-fy26-how-much-did-indias-startup-founders-earn/"
-        }
-      ]
-    },
-    {
-      "title": "HMD Rise Launched in India With 5,000mAh Battery, 13-Megapixel Rear Camera: Price, Features",
-      "score": 17.03,
-      "source_count": 1,
-      "published_at": "2026-11-26 11:17 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/hmd-rise-price-in-india-launch-specifications-features-12380218"
-        }
-      ]
-    },
-    {
-      "title": "HP OmniBook Ultra 16 With NVIDIA RTX Spark N1X Launched in India: Price, Specifications",
-      "score": 17.03,
-      "source_count": 1,
-      "published_at": "2026-11-26 11:16 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/laptops/news/hp-omnibook-ultra-16-with-nvidia-rtx-spark-n1x-price-india-launch-availability-specifications-features-12380191"
-        }
-      ]
-    },
-    {
-      "title": "Claude Duet AI Assistant Now Available in India in Research Preview; Standalone App Now Listed on Marketplaces",
-      "score": 16.95,
-      "source_count": 1,
-      "published_at": "2026-11-26 10:33 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/ai/news/claude-duet-ai-assistant-india-app-available-research-preview-12380234"
+          "name": "BBC News - Business",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
