@@ -1,178 +1,138 @@
 {
-  "generated_at": "2026-11-27 15:40:03 UTC",
+  "generated_at": "2026-11-28 00:44:13 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "CERT-In Flags High-Severity Vulnerability In e-Governance Platform DIGIT",
-      "score": 46.67,
-      "source_count": 3,
-      "published_at": "2026-11-27 15:16 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/cert-in-flags-five-cybersecurity-vulnerabilities-in-whatsapp-warns-of-data-exposure/"
-        },
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/apps/news/cert-in-whatsapp-high-severity-vulnerabilities-android-ios-desktop-12385153"
-        },
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-cert-in-vulnerabilities-whatsapp/"
-        }
-      ]
-    },
-    {
-      "title": "No stay for Tata Trusts: HC lets Tata Sons board meet, casting vote intact",
-      "score": 46.59,
-      "source_count": 3,
-      "published_at": "2026-11-27 14:30 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/tata-trusts-vs-tata-sons-bombay-high-court-11795785693009.html"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/news/bombay-hc-refuses-to-halt-tata-sons-board-meet-amid-tata-trusts-challenge-126112701216_1.html"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/hc-tata-trusts-pleas-against-chandrasekaran-reappointment"
-        }
-      ]
-    },
-    {
-      "title": "Swiggy's Instamart to lay off 340 employees amid AI-led restructuring",
-      "score": 30.56,
+      "title": "The 25 best gaming deals we’ve found so far for Black Friday",
+      "score": 29.62,
       "source_count": 2,
-      "published_at": "2026-11-27 10:17 UTC",
-      "topic": "startups",
+      "published_at": "2026-11-28 00:44 UTC",
+      "topic": "tech",
       "sources": [
         {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/swiggy-instamart-lays-off-340-employees-amid-organisational-restructuring/"
+          "name": "The Verge",
+          "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
         },
         {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/swiggy-instamart-let-go-over-300-employees-ai-led-restructuring-move"
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
         }
       ]
     },
     {
-      "title": "Britannia Industries CMO Puneet Das quits within 10 months of joining",
-      "score": 29.48,
-      "source_count": 2,
-      "published_at": "2026-11-27 14:17 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/cons-products/food/britannia-cmo-puneet-das-steps-down-after-10-months/articleshow/136224842.cms"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/companies/people/britannia-industries-cmo-puneet-das-quits-within-10-months-of-joining-126112700699_1.html"
-        }
-      ]
-    },
-    {
-      "title": "Samay Raina crosses 1M YouTube channel members",
-      "score": 29.38,
-      "source_count": 2,
-      "published_at": "2026-11-27 13:20 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/industry/media/entertainment/samay-raina-becomes-first-creator-globally-to-cross-1-million-youtube-channel-members-after-indias-got-latent-comeback/articleshow/136214181.cms"
-        },
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/samay-raina-becomes-first-youtube-creator-globally-to-cross-10-lakh-paid-channel-members/"
-        }
-      ]
-    },
-    {
-      "title": "What’s next for Kalyan Krishnamurthy after Flipkart? 5 possible paths",
-      "score": 29.3,
-      "source_count": 2,
-      "published_at": "2026-11-27 12:36 UTC",
-      "topic": "startups",
-      "sources": [
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/walmart-international-ceo-to-meet-flipkart-staff-after-kalyan-krishnamurthys-exit-report/"
-        },
-        {
-          "name": "YourStory",
-          "url": "https://yourstory.com/2026/11/whats-next-for-kalyan-krishnamurthy-after-flipkart-5-possible-paths"
-        }
-      ]
-    },
-    {
-      "title": "Meta to sell international travel data eSIMs inside WhatsApp",
-      "score": 29.1,
-      "source_count": 2,
-      "published_at": "2026-11-27 10:38 UTC",
+      "title": "OnePlus Pad Go 2r India Launch Date Tipped Nearly a Year After OnePlus Pad Go 2 Debut",
+      "score": 16.93,
+      "source_count": 1,
+      "published_at": "2026-11-27 14:25 UTC",
       "topic": "tech",
       "sources": [
         {
           "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/apps/news/whatsapp-esim-feature-for-international-travellers-jio-telecom-partners-12383985"
-        },
-        {
-          "name": "MediaNama",
-          "url": "https://www.medianama.com/2026/11/223-meta-sell-travel-esims-via-whatsapp/"
+          "url": "https://www.gadgets360.com/tablets/news/oneplus-pad-go-2r-india-launch-date-leak-12385289"
         }
       ]
     },
     {
-      "title": "SAP layoffs: 10,000 jobs under threat; check reason",
-      "score": 28.74,
-      "source_count": 2,
-      "published_at": "2026-11-27 07:13 UTC",
+      "title": "Realme 17 Pro Design, Specifications Leaked; Tipped to Feature a 10,000mAh Battery",
+      "score": 16.63,
+      "source_count": 1,
+      "published_at": "2026-11-27 11:36 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/realme-17-ultra-colour-options-expected-ram-storage-variants-leak-india-launch-12384977"
+        }
+      ]
+    },
+    {
+      "title": "How Kotak took on Wall Street giants to dominate India's equity capital markets",
+      "score": 16.46,
+      "source_count": 1,
+      "published_at": "2026-11-28 00:20 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/kotak-investment-banking-carves-out-ecm-top-spot-as-ipo-underwriting-competition-intensifies-11795609285380.html"
+        }
+      ]
+    },
+    {
+      "title": "​CSB Bank unveils debut brand campaign ‘#BankingKiBoli",
+      "score": 16.42,
+      "source_count": 1,
+      "published_at": "2026-11-27 09:33 UTC",
+      "topic": "marketing_and_branding",
+      "sources": [
+        {
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/csb-bank-unveils-debut-brand-campaign-bankingkiboli/136216510"
+        }
+      ]
+    },
+    {
+      "title": "Urban Company forays into AC market, announces the launch of two new air conditioners under 'Native' brand: Here's why",
+      "score": 16.21,
+      "source_count": 1,
+      "published_at": "2026-11-27 07:30 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/urban-company-forays-into-ac-market-announces-the-launch-of-two-new-air-conditioners-under-native-brand-heres-why-11795764096385.html"
+        }
+      ]
+    },
+    {
+      "title": "Vivo X500s Leak Reveals Custom Flagship 2nm Dimensity 9600 Pro Chip",
+      "score": 16.04,
+      "source_count": 1,
+      "published_at": "2026-11-27 05:55 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/vivo-x500s-chipset-specifications-features-leak-weibo-12383281"
+        }
+      ]
+    },
+    {
+      "title": "OnePlus Nord N7 Pro India Launch Timeline, Design, Specifications and More Surface Online",
+      "score": 16.04,
+      "source_count": 1,
+      "published_at": "2026-11-27 05:55 UTC",
+      "topic": "tech",
+      "sources": [
+        {
+          "name": "Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/news/oneplus-nord-n7-pro-india-launch-timeline-design-battery-chipset-leaked-specifications-features-12383218"
+        }
+      ]
+    },
+    {
+      "title": "Licious launches ‘Choosy Logon Ki Choice’ campaign for India’s fussiest meat lovers",
+      "score": 15.99,
+      "source_count": 1,
+      "published_at": "2026-11-27 05:28 UTC",
+      "topic": "marketing_and_branding",
+      "sources": [
+        {
+          "name": "ET Brand Equity - Advertising",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/licious-launches-choosy-logon-ki-choice-campaign-for-indias-fussiest-meat-lovers/136209675"
+        }
+      ]
+    },
+    {
+      "title": "India's textile exporters race the tariff clock",
+      "score": 15.97,
+      "source_count": 1,
+      "published_at": "2026-11-27 19:36 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/sap-layoffs-2026-at-least-10000-jobs-under-threat-as-company-reshapes-business-for-ai-check-affected-departments-and-key-details/articleshow/136208796.cms"
-        },
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/sap-layoffs-german-software-major-considering-10-000-job-cuts-9-of-global-workforce-could-be-hit-check-which-depts-11795762014958.html"
-        }
-      ]
-    },
-    {
-      "title": "US-based GEF Capital prepares to ramp up India climate-tech investments",
-      "score": 28.74,
-      "source_count": 2,
-      "published_at": "2026-11-26 16:47 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/usbased-gef-capital-prepares-to-ramp-up-india-climate-tech-investments-pe-firm-11795687202336.html"
-        },
-        {
-          "name": "Inc42",
-          "url": "https://inc42.com/buzz/gef-capital-partners-announces-first-close-of-india-climate-fund-iv-at-615-mn/"
-        }
-      ]
-    },
-    {
-      "title": "Manish Chokhani lauds IIT Madras as India’s startup factory: Here are some of the top companies founded by its alumni",
-      "score": 17.87,
-      "source_count": 1,
-      "published_at": "2026-11-27 14:26 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/start-ups/manish-chokhani-lauds-iit-madras-as-india-s-startup-factory-here-are-some-of-the-top-companies-founded-by-its-alumni-11795785348413.html"
+          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-textile-exporters-rush-us-shipments-to-beat-proposed-25-tariff/articleshow/136232544.cms"
         }
       ]
     }

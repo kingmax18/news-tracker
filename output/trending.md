@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 27, 2026 at 15:40 UTC | **Top Stories:** 10
+> **Generated on:** November 28, 2026 at 00:44 UTC | **Top Stories:** 10
 
 ---
 
-### 1. CERT-In Flags High-Severity Vulnerability In e-Governance Platform DIGIT [3 sources]
-- **Topic:** `Startups` | **Score:** `46.67` | **Published:** 2026-11-27 15:16 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/cert-in-flags-five-cybersecurity-vulnerabilities-in-whatsapp-warns-of-data-exposure/) • [Gadgets 360](https://www.gadgets360.com/apps/news/cert-in-whatsapp-high-severity-vulnerabilities-android-ios-desktop-12385153) • [MediaNama](https://www.medianama.com/2026/11/223-cert-in-vulnerabilities-whatsapp/)
+### 1. The 25 best gaming deals we’ve found so far for Black Friday [2 sources]
+- **Topic:** `Tech` | **Score:** `29.62` | **Published:** 2026-11-28 00:44 UTC
+- **Coverage:** [The Verge](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas) • [Ars Technica](https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/)
 
-### 2. No stay for Tata Trusts: HC lets Tata Sons board meet, casting vote intact [3 sources]
-- **Topic:** `Business` | **Score:** `46.59` | **Published:** 2026-11-27 14:30 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/tata-trusts-vs-tata-sons-bombay-high-court-11795785693009.html) • [Business Standard](https://www.business-standard.com/companies/news/bombay-hc-refuses-to-halt-tata-sons-board-meet-amid-tata-trusts-challenge-126112701216_1.html) • [YourStory](https://yourstory.com/2026/11/hc-tata-trusts-pleas-against-chandrasekaran-reappointment)
+### 2. OnePlus Pad Go 2r India Launch Date Tipped Nearly a Year After OnePlus Pad Go 2 Debut [1 source]
+- **Topic:** `Tech` | **Score:** `16.93` | **Published:** 2026-11-27 14:25 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/tablets/news/oneplus-pad-go-2r-india-launch-date-leak-12385289)
 
-### 3. Swiggy's Instamart to lay off 340 employees amid AI-led restructuring [2 sources]
-- **Topic:** `Startups` | **Score:** `30.56` | **Published:** 2026-11-27 10:17 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/swiggy-instamart-lays-off-340-employees-amid-organisational-restructuring/) • [YourStory](https://yourstory.com/2026/11/swiggy-instamart-let-go-over-300-employees-ai-led-restructuring-move)
+### 3. Realme 17 Pro Design, Specifications Leaked; Tipped to Feature a 10,000mAh Battery [1 source]
+- **Topic:** `Tech` | **Score:** `16.63` | **Published:** 2026-11-27 11:36 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/realme-17-ultra-colour-options-expected-ram-storage-variants-leak-india-launch-12384977)
 
-### 4. Britannia Industries CMO Puneet Das quits within 10 months of joining [2 sources]
-- **Topic:** `Business` | **Score:** `29.48` | **Published:** 2026-11-27 14:17 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/cons-products/food/britannia-cmo-puneet-das-steps-down-after-10-months/articleshow/136224842.cms) • [Business Standard](https://www.business-standard.com/companies/people/britannia-industries-cmo-puneet-das-quits-within-10-months-of-joining-126112700699_1.html)
+### 4. How Kotak took on Wall Street giants to dominate India's equity capital markets [1 source]
+- **Topic:** `Business` | **Score:** `16.46` | **Published:** 2026-11-28 00:20 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/kotak-investment-banking-carves-out-ecm-top-spot-as-ipo-underwriting-competition-intensifies-11795609285380.html)
 
-### 5. Samay Raina crosses 1M YouTube channel members [2 sources]
-- **Topic:** `Business` | **Score:** `29.38` | **Published:** 2026-11-27 13:20 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/industry/media/entertainment/samay-raina-becomes-first-creator-globally-to-cross-1-million-youtube-channel-members-after-indias-got-latent-comeback/articleshow/136214181.cms) • [Inc42](https://inc42.com/buzz/samay-raina-becomes-first-youtube-creator-globally-to-cross-10-lakh-paid-channel-members/)
+### 5. ​CSB Bank unveils debut brand campaign ‘#BankingKiBoli [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `16.42` | **Published:** 2026-11-27 09:33 UTC
+- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/csb-bank-unveils-debut-brand-campaign-bankingkiboli/136216510)
 
-### 6. What’s next for Kalyan Krishnamurthy after Flipkart? 5 possible paths [2 sources]
-- **Topic:** `Startups` | **Score:** `29.3` | **Published:** 2026-11-27 12:36 UTC
-- **Coverage:** [Inc42](https://inc42.com/buzz/walmart-international-ceo-to-meet-flipkart-staff-after-kalyan-krishnamurthys-exit-report/) • [YourStory](https://yourstory.com/2026/11/whats-next-for-kalyan-krishnamurthy-after-flipkart-5-possible-paths)
+### 6. Urban Company forays into AC market, announces the launch of two new air conditioners under 'Native' brand: Here's why [1 source]
+- **Topic:** `Business` | **Score:** `16.21` | **Published:** 2026-11-27 07:30 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/urban-company-forays-into-ac-market-announces-the-launch-of-two-new-air-conditioners-under-native-brand-heres-why-11795764096385.html)
 
-### 7. Meta to sell international travel data eSIMs inside WhatsApp [2 sources]
-- **Topic:** `Tech` | **Score:** `29.1` | **Published:** 2026-11-27 10:38 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/apps/news/whatsapp-esim-feature-for-international-travellers-jio-telecom-partners-12383985) • [MediaNama](https://www.medianama.com/2026/11/223-meta-sell-travel-esims-via-whatsapp/)
+### 7. Vivo X500s Leak Reveals Custom Flagship 2nm Dimensity 9600 Pro Chip [1 source]
+- **Topic:** `Tech` | **Score:** `16.04` | **Published:** 2026-11-27 05:55 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/vivo-x500s-chipset-specifications-features-leak-weibo-12383281)
 
-### 8. SAP layoffs: 10,000 jobs under threat; check reason [2 sources]
-- **Topic:** `Business` | **Score:** `28.74` | **Published:** 2026-11-27 07:13 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/new-updates/sap-layoffs-2026-at-least-10000-jobs-under-threat-as-company-reshapes-business-for-ai-check-affected-departments-and-key-details/articleshow/136208796.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/sap-layoffs-german-software-major-considering-10-000-job-cuts-9-of-global-workforce-could-be-hit-check-which-depts-11795762014958.html)
+### 8. OnePlus Nord N7 Pro India Launch Timeline, Design, Specifications and More Surface Online [1 source]
+- **Topic:** `Tech` | **Score:** `16.04` | **Published:** 2026-11-27 05:55 UTC
+- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/oneplus-nord-n7-pro-india-launch-timeline-design-battery-chipset-leaked-specifications-features-12383218)
 
-### 9. US-based GEF Capital prepares to ramp up India climate-tech investments [2 sources]
-- **Topic:** `Business` | **Score:** `28.74` | **Published:** 2026-11-26 16:47 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/usbased-gef-capital-prepares-to-ramp-up-india-climate-tech-investments-pe-firm-11795687202336.html) • [Inc42](https://inc42.com/buzz/gef-capital-partners-announces-first-close-of-india-climate-fund-iv-at-615-mn/)
+### 9. Licious launches ‘Choosy Logon Ki Choice’ campaign for India’s fussiest meat lovers [1 source]
+- **Topic:** `Marketing And Branding` | **Score:** `15.99` | **Published:** 2026-11-27 05:28 UTC
+- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/licious-launches-choosy-logon-ki-choice-campaign-for-indias-fussiest-meat-lovers/136209675)
 
-### 10. Manish Chokhani lauds IIT Madras as India’s startup factory: Here are some of the top companies founded by its alumni [1 source]
-- **Topic:** `Business` | **Score:** `17.87` | **Published:** 2026-11-27 14:26 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/start-ups/manish-chokhani-lauds-iit-madras-as-india-s-startup-factory-here-are-some-of-the-top-companies-founded-by-its-alumni-11795785348413.html)
+### 10. India's textile exporters race the tariff clock [1 source]
+- **Topic:** `Business` | **Score:** `15.97` | **Published:** 2026-11-27 19:36 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-textile-exporters-rush-us-shipments-to-beat-proposed-25-tariff/articleshow/136232544.cms)
