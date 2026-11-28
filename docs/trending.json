@@ -1,138 +1,158 @@
 {
-  "generated_at": "2026-11-28 00:44:13 UTC",
+  "generated_at": "2026-11-28 10:57:57 UTC",
   "total_stories": 10,
   "stories": [
     {
-      "title": "The 25 best gaming deals we’ve found so far for Black Friday",
-      "score": 29.62,
-      "source_count": 2,
-      "published_at": "2026-11-28 00:44 UTC",
-      "topic": "tech",
+      "title": "Tata Sons files caveats in Bombay HC, SC ahead of November 30 board meet",
+      "score": 46.29,
+      "source_count": 3,
+      "published_at": "2026-11-28 06:55 UTC",
+      "topic": "business",
       "sources": [
         {
-          "name": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/tata-sons-files-caveats-in-bombay-hc-sc-ahead-of-possible-tata-trusts-appeal-over-board-meeting-all-about-the-row-11795846285289.html"
         },
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
-        }
-      ]
-    },
-    {
-      "title": "OnePlus Pad Go 2r India Launch Date Tipped Nearly a Year After OnePlus Pad Go 2 Debut",
-      "score": 16.93,
-      "source_count": 1,
-      "published_at": "2026-11-27 14:25 UTC",
-      "topic": "tech",
-      "sources": [
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/tata-sons-caveat-bombay-high-court-supreme-court-tata-trusts-board-meeting-126112800254_1.html"
+        },
         {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/tablets/news/oneplus-pad-go-2r-india-launch-date-leak-12385289"
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/no-hc-relief-to-tata-trusts-on-plea-against-chandrasekaran-reappointment-nov-30-board-meet-on-"
         }
       ]
     },
     {
-      "title": "Realme 17 Pro Design, Specifications Leaked; Tipped to Feature a 10,000mAh Battery",
-      "score": 16.63,
-      "source_count": 1,
-      "published_at": "2026-11-27 11:36 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/realme-17-ultra-colour-options-expected-ram-storage-variants-leak-india-launch-12384977"
-        }
-      ]
-    },
-    {
-      "title": "How Kotak took on Wall Street giants to dominate India's equity capital markets",
-      "score": 16.46,
-      "source_count": 1,
-      "published_at": "2026-11-28 00:20 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/kotak-investment-banking-carves-out-ecm-top-spot-as-ipo-underwriting-competition-intensifies-11795609285380.html"
-        }
-      ]
-    },
-    {
-      "title": "​CSB Bank unveils debut brand campaign ‘#BankingKiBoli",
-      "score": 16.42,
-      "source_count": 1,
-      "published_at": "2026-11-27 09:33 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "ET Brand Equity - Advertising",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/csb-bank-unveils-debut-brand-campaign-bankingkiboli/136216510"
-        }
-      ]
-    },
-    {
-      "title": "Urban Company forays into AC market, announces the launch of two new air conditioners under 'Native' brand: Here's why",
-      "score": 16.21,
-      "source_count": 1,
-      "published_at": "2026-11-27 07:30 UTC",
-      "topic": "business",
-      "sources": [
-        {
-          "name": "Livemint - Companies & Markets",
-          "url": "https://www.livemint.com/companies/news/urban-company-forays-into-ac-market-announces-the-launch-of-two-new-air-conditioners-under-native-brand-heres-why-11795764096385.html"
-        }
-      ]
-    },
-    {
-      "title": "Vivo X500s Leak Reveals Custom Flagship 2nm Dimensity 9600 Pro Chip",
-      "score": 16.04,
-      "source_count": 1,
-      "published_at": "2026-11-27 05:55 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/vivo-x500s-chipset-specifications-features-leak-weibo-12383281"
-        }
-      ]
-    },
-    {
-      "title": "OnePlus Nord N7 Pro India Launch Timeline, Design, Specifications and More Surface Online",
-      "score": 16.04,
-      "source_count": 1,
-      "published_at": "2026-11-27 05:55 UTC",
-      "topic": "tech",
-      "sources": [
-        {
-          "name": "Gadgets 360",
-          "url": "https://www.gadgets360.com/mobiles/news/oneplus-nord-n7-pro-india-launch-timeline-design-battery-chipset-leaked-specifications-features-12383218"
-        }
-      ]
-    },
-    {
-      "title": "Licious launches ‘Choosy Logon Ki Choice’ campaign for India’s fussiest meat lovers",
-      "score": 15.99,
-      "source_count": 1,
-      "published_at": "2026-11-27 05:28 UTC",
-      "topic": "marketing_and_branding",
-      "sources": [
-        {
-          "name": "ET Brand Equity - Advertising",
-          "url": "https://brandequity.economictimes.indiatimes.com/news/research/advertising/licious-launches-choosy-logon-ki-choice-campaign-for-indias-fussiest-meat-lovers/136209675"
-        }
-      ]
-    },
-    {
-      "title": "India's textile exporters race the tariff clock",
-      "score": 15.97,
-      "source_count": 1,
-      "published_at": "2026-11-27 19:36 UTC",
+      "title": "Adani may take stake in existing airline or back startup, says group CFO",
+      "score": 30.87,
+      "source_count": 2,
+      "published_at": "2026-11-28 08:30 UTC",
       "topic": "business",
       "sources": [
         {
           "name": "The Economic Times - Top Stories",
-          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-textile-exporters-rush-us-shipments-to-beat-proposed-25-tariff/articleshow/136232544.cms"
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/we-wish-them-well-adani-group-cfo-on-tata-groups-ongoing-leadership-and-listing-row/articleshow/136225611.cms"
+        },
+        {
+          "name": "ET Brand Equity - Marketing",
+          "url": "https://brandequity.economictimes.indiatimes.com/news/marketing/adani-may-take-stake-in-existing-airline-or-back-startup-says-group-cfo/136242272"
+        }
+      ]
+    },
+    {
+      "title": "MediaNama This Week: Top 10 Stories (21 November – 27 November 2026)",
+      "score": 30.35,
+      "source_count": 2,
+      "published_at": "2026-11-28 03:30 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "YourStory",
+          "url": "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-26-2026"
+        },
+        {
+          "name": "MediaNama",
+          "url": "https://www.medianama.com/2026/11/223-medianama-this-week-top-10-stories-21-november-27-november-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Bisleri seeks FSSAI review over conflicting test results for Bengal batch",
+      "score": 29.61,
+      "source_count": 2,
+      "published_at": "2026-11-28 10:52 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/bisleri-contradicts-coliform-bacteria-findings-in-west-bengal-water-sample-seeks-fssai-review-what-did-company-say-11795858958639.html"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/bisleri-fssai-review-coliform-bacteria-west-bengal-water-batch-126112800322_1.html"
+        }
+      ]
+    },
+    {
+      "title": "HDFC Bank UPI SMS alerts changing from January 1",
+      "score": 29.08,
+      "source_count": 2,
+      "published_at": "2026-11-28 05:47 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "The Economic Times - Top Stories",
+          "url": "https://economictimes.indiatimes.com/wealth/save/hdfc-bank-upi-sms-alert-changes-from-january-1-2027-bank-wont-send-alerts-for-these-upi-transactions/articleshow/136239659.cms"
+        },
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/no-hdfc-bank-sms-alerts-for-upi-payments-up-to-500-from-1st-january-2027-heres-why-what-customers-should-know-11795787590342.html"
+        }
+      ]
+    },
+    {
+      "title": "How Kapiva Is Gearing Up On Its Growth Strategy As It Targets ₹1,000 Cr In Revenue",
+      "score": 17.54,
+      "source_count": 1,
+      "published_at": "2026-11-28 06:30 UTC",
+      "topic": "startups",
+      "sources": [
+        {
+          "name": "Inc42",
+          "url": "https://inc42.com/startups/how-kapiva-is-gearing-up-on-its-growth-strategy-as-it-targets-%e2%82%b91000-cr-in-revenue/"
+        }
+      ]
+    },
+    {
+      "title": "Groww's AI assistant can now place trades in more than 20 Indian languages",
+      "score": 16.45,
+      "source_count": 1,
+      "published_at": "2026-11-28 10:28 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/companies/news/groww-gr1-ai-assistant-family-accounts-daily-sips-bond-trading-126112800514_1.html"
+        }
+      ]
+    },
+    {
+      "title": "Growth to remain resilient in Q3FY27, inflation faces upside risks: FinMin",
+      "score": 16.44,
+      "source_count": 1,
+      "published_at": "2026-11-28 10:24 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://www.business-standard.com/economy/news/finance-ministry-monthly-economic-review-november-2026-q3-growth-inflation-risks-126112800506_1.html"
+        }
+      ]
+    },
+    {
+      "title": "FanCode wins FICCI’s Sports Broadcaster of the Year 2026, named India's Best App for Sports fans by Google Play",
+      "score": 16.36,
+      "source_count": 1,
+      "published_at": "2026-11-28 09:34 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/fancode-wins-ficci-s-sports-broadcaster-of-the-year-2026-named-indias-best-app-for-sports-fans-by-google-play-11795856880824.html"
+        }
+      ]
+    },
+    {
+      "title": "IndiGo drops 10 international destinations in 2026: India's largest airline is cutting overseas flights; here’s why",
+      "score": 16.3,
+      "source_count": 1,
+      "published_at": "2026-11-28 09:00 UTC",
+      "topic": "business",
+      "sources": [
+        {
+          "name": "Livemint - Companies & Markets",
+          "url": "https://www.livemint.com/companies/news/indigo-drops-10-international-destinations-in-2026-indias-largest-airline-is-cutting-overseas-flights-here-s-why-11795856134529.html"
         }
       ]
     }

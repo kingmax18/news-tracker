@@ -1,44 +1,44 @@
 # Daily Trending News Shortlist
-> **Generated on:** November 28, 2026 at 00:44 UTC | **Top Stories:** 10
+> **Generated on:** November 28, 2026 at 10:57 UTC | **Top Stories:** 10
 
 ---
 
-### 1. The 25 best gaming deals we’ve found so far for Black Friday [2 sources]
-- **Topic:** `Tech` | **Score:** `29.62` | **Published:** 2026-11-28 00:44 UTC
-- **Coverage:** [The Verge](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas) • [Ars Technica](https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/)
+### 1. Tata Sons files caveats in Bombay HC, SC ahead of November 30 board meet [3 sources]
+- **Topic:** `Business` | **Score:** `46.29` | **Published:** 2026-11-28 06:55 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/tata-sons-files-caveats-in-bombay-hc-sc-ahead-of-possible-tata-trusts-appeal-over-board-meeting-all-about-the-row-11795846285289.html) • [Business Standard](https://www.business-standard.com/companies/news/tata-sons-caveat-bombay-high-court-supreme-court-tata-trusts-board-meeting-126112800254_1.html) • [YourStory](https://yourstory.com/2026/11/no-hc-relief-to-tata-trusts-on-plea-against-chandrasekaran-reappointment-nov-30-board-meet-on-)
 
-### 2. OnePlus Pad Go 2r India Launch Date Tipped Nearly a Year After OnePlus Pad Go 2 Debut [1 source]
-- **Topic:** `Tech` | **Score:** `16.93` | **Published:** 2026-11-27 14:25 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/tablets/news/oneplus-pad-go-2r-india-launch-date-leak-12385289)
+### 2. Adani may take stake in existing airline or back startup, says group CFO [2 sources]
+- **Topic:** `Business` | **Score:** `30.87` | **Published:** 2026-11-28 08:30 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/company/corporate-trends/we-wish-them-well-adani-group-cfo-on-tata-groups-ongoing-leadership-and-listing-row/articleshow/136225611.cms) • [ET Brand Equity - Marketing](https://brandequity.economictimes.indiatimes.com/news/marketing/adani-may-take-stake-in-existing-airline-or-back-startup-says-group-cfo/136242272)
 
-### 3. Realme 17 Pro Design, Specifications Leaked; Tipped to Feature a 10,000mAh Battery [1 source]
-- **Topic:** `Tech` | **Score:** `16.63` | **Published:** 2026-11-27 11:36 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/realme-17-ultra-colour-options-expected-ram-storage-variants-leak-india-launch-12384977)
+### 3. MediaNama This Week: Top 10 Stories (21 November – 27 November 2026) [2 sources]
+- **Topic:** `Startups` | **Score:** `30.35` | **Published:** 2026-11-28 03:30 UTC
+- **Coverage:** [YourStory](https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-26-2026) • [MediaNama](https://www.medianama.com/2026/11/223-medianama-this-week-top-10-stories-21-november-27-november-2026/)
 
-### 4. How Kotak took on Wall Street giants to dominate India's equity capital markets [1 source]
-- **Topic:** `Business` | **Score:** `16.46` | **Published:** 2026-11-28 00:20 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/kotak-investment-banking-carves-out-ecm-top-spot-as-ipo-underwriting-competition-intensifies-11795609285380.html)
+### 4. Bisleri seeks FSSAI review over conflicting test results for Bengal batch [2 sources]
+- **Topic:** `Business` | **Score:** `29.61` | **Published:** 2026-11-28 10:52 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/bisleri-contradicts-coliform-bacteria-findings-in-west-bengal-water-sample-seeks-fssai-review-what-did-company-say-11795858958639.html) • [Business Standard](https://www.business-standard.com/companies/news/bisleri-fssai-review-coliform-bacteria-west-bengal-water-batch-126112800322_1.html)
 
-### 5. ​CSB Bank unveils debut brand campaign ‘#BankingKiBoli [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `16.42` | **Published:** 2026-11-27 09:33 UTC
-- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/csb-bank-unveils-debut-brand-campaign-bankingkiboli/136216510)
+### 5. HDFC Bank UPI SMS alerts changing from January 1 [2 sources]
+- **Topic:** `Business` | **Score:** `29.08` | **Published:** 2026-11-28 05:47 UTC
+- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/wealth/save/hdfc-bank-upi-sms-alert-changes-from-january-1-2027-bank-wont-send-alerts-for-these-upi-transactions/articleshow/136239659.cms) • [Livemint - Companies & Markets](https://www.livemint.com/companies/news/no-hdfc-bank-sms-alerts-for-upi-payments-up-to-500-from-1st-january-2027-heres-why-what-customers-should-know-11795787590342.html)
 
-### 6. Urban Company forays into AC market, announces the launch of two new air conditioners under 'Native' brand: Here's why [1 source]
-- **Topic:** `Business` | **Score:** `16.21` | **Published:** 2026-11-27 07:30 UTC
-- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/urban-company-forays-into-ac-market-announces-the-launch-of-two-new-air-conditioners-under-native-brand-heres-why-11795764096385.html)
+### 6. How Kapiva Is Gearing Up On Its Growth Strategy As It Targets ₹1,000 Cr In Revenue [1 source]
+- **Topic:** `Startups` | **Score:** `17.54` | **Published:** 2026-11-28 06:30 UTC
+- **Coverage:** [Inc42](https://inc42.com/startups/how-kapiva-is-gearing-up-on-its-growth-strategy-as-it-targets-%e2%82%b91000-cr-in-revenue/)
 
-### 7. Vivo X500s Leak Reveals Custom Flagship 2nm Dimensity 9600 Pro Chip [1 source]
-- **Topic:** `Tech` | **Score:** `16.04` | **Published:** 2026-11-27 05:55 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/vivo-x500s-chipset-specifications-features-leak-weibo-12383281)
+### 7. Groww's AI assistant can now place trades in more than 20 Indian languages [1 source]
+- **Topic:** `Business` | **Score:** `16.45` | **Published:** 2026-11-28 10:28 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/companies/news/groww-gr1-ai-assistant-family-accounts-daily-sips-bond-trading-126112800514_1.html)
 
-### 8. OnePlus Nord N7 Pro India Launch Timeline, Design, Specifications and More Surface Online [1 source]
-- **Topic:** `Tech` | **Score:** `16.04` | **Published:** 2026-11-27 05:55 UTC
-- **Coverage:** [Gadgets 360](https://www.gadgets360.com/mobiles/news/oneplus-nord-n7-pro-india-launch-timeline-design-battery-chipset-leaked-specifications-features-12383218)
+### 8. Growth to remain resilient in Q3FY27, inflation faces upside risks: FinMin [1 source]
+- **Topic:** `Business` | **Score:** `16.44` | **Published:** 2026-11-28 10:24 UTC
+- **Coverage:** [Business Standard](https://www.business-standard.com/economy/news/finance-ministry-monthly-economic-review-november-2026-q3-growth-inflation-risks-126112800506_1.html)
 
-### 9. Licious launches ‘Choosy Logon Ki Choice’ campaign for India’s fussiest meat lovers [1 source]
-- **Topic:** `Marketing And Branding` | **Score:** `15.99` | **Published:** 2026-11-27 05:28 UTC
-- **Coverage:** [ET Brand Equity - Advertising](https://brandequity.economictimes.indiatimes.com/news/research/advertising/licious-launches-choosy-logon-ki-choice-campaign-for-indias-fussiest-meat-lovers/136209675)
+### 9. FanCode wins FICCI’s Sports Broadcaster of the Year 2026, named India's Best App for Sports fans by Google Play [1 source]
+- **Topic:** `Business` | **Score:** `16.36` | **Published:** 2026-11-28 09:34 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/fancode-wins-ficci-s-sports-broadcaster-of-the-year-2026-named-indias-best-app-for-sports-fans-by-google-play-11795856880824.html)
 
-### 10. India's textile exporters race the tariff clock [1 source]
-- **Topic:** `Business` | **Score:** `15.97` | **Published:** 2026-11-27 19:36 UTC
-- **Coverage:** [The Economic Times - Top Stories](https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-textile-exporters-rush-us-shipments-to-beat-proposed-25-tariff/articleshow/136232544.cms)
+### 10. IndiGo drops 10 international destinations in 2026: India's largest airline is cutting overseas flights; here’s why [1 source]
+- **Topic:** `Business` | **Score:** `16.3` | **Published:** 2026-11-28 09:00 UTC
+- **Coverage:** [Livemint - Companies & Markets](https://www.livemint.com/companies/news/indigo-drops-10-international-destinations-in-2026-indias-largest-airline-is-cutting-overseas-flights-here-s-why-11795856134529.html)
